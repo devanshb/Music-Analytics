@@ -2,6 +2,7 @@ import requests
 import pprint
 import dotenv
 import os
+import json
 
 
 dotenv.load_dotenv()
@@ -27,26 +28,29 @@ access_token = token_data.get("access_token")
 if not access_token:
     raise RuntimeError(f"Failed to get access token: {token_data}")
 
+playlist_id = "1ZJpJahEFst7u8njXeGFyv"
+
 response = requests.get(
-    "https://api.spotify.com/v1/search",
+    f"https://api.spotify.com/v1/playlists/{playlist_id}/items",
     headers={"Authorization": f"Bearer {access_token}"},
-    params={"q": "The Beatles", "type": "artist"}
+    #params={"limit":5}
 )
 
 response_json = response.json()
 if "error" in response_json:
     raise RuntimeError(f"Search API error: {response_json['error']}")
 
-# drill down step by step
-artists = response_json["artists"]
-items = artists["items"]
-first_artist = items[0]
+pprint.pprint(response_json)
 
-# now pull out specific fields
-print(first_artist["name"])
-print(first_artist["id"])
+data = response.json()
 
-# loop through all results
-for artist in items:
-    print(artist["name"])
+#Probe the shape, one level at a time
+print("Top-level keys:", list(data.keys()))
+print("Number of items:", len(data["items"]))
+print("Keys of one item:", list(data["items"][0].keys()))
+print("Keys of item['track']:", list(data["items"][0]["track"].keys()))
+
+
+
+
 
