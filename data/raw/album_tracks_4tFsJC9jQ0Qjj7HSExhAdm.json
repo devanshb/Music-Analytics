@@ -1,0 +1,145 @@
+{
+  "href": "https://api.spotify.com/v1/albums/4tFsJC9jQ0Qjj7HSExhAdm/tracks?offset=0&limit=5",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 4947,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0yZPIEgco572UWiwoQtcYF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0yZPIEgco572UWiwoQtcYF",
+      "id": "0yZPIEgco572UWiwoQtcYF",
+      "name": "The Life of a Showgirl Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0yZPIEgco572UWiwoQtcYF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 41648,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5k9RjjuYyOMCLL81U8FaHT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5k9RjjuYyOMCLL81U8FaHT",
+      "id": "5k9RjjuYyOMCLL81U8FaHT",
+      "name": "The Fate of Ophelia - Track by Track",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5k9RjjuYyOMCLL81U8FaHT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226073,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1dosSsKwYF7hoQA2kuu6wI",
+      "id": "1dosSsKwYF7hoQA2kuu6wI",
+      "name": "The Fate of Ophelia",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1dosSsKwYF7hoQA2kuu6wI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 35910,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3r9fAceWmaDFvbNiTnFiLr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3r9fAceWmaDFvbNiTnFiLr",
+      "id": "3r9fAceWmaDFvbNiTnFiLr",
+      "name": "Elizabeth Taylor - Track by Track",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3r9fAceWmaDFvbNiTnFiLr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208291,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1A2vZKJZovt4828jwLgiB3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1A2vZKJZovt4828jwLgiB3",
+      "id": "1A2vZKJZovt4828jwLgiB3",
+      "name": "Elizabeth Taylor",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1A2vZKJZovt4828jwLgiB3",
+      "is_local": false
+    }
+  ],
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/albums/4tFsJC9jQ0Qjj7HSExhAdm/tracks?offset=5&limit=5",
+  "offset": 0,
+  "previous": null,
+  "total": 26
+}

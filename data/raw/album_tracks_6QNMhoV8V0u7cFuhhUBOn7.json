@@ -1,0 +1,145 @@
+{
+  "href": "https://api.spotify.com/v1/albums/6QNMhoV8V0u7cFuhhUBOn7/tracks?offset=0&limit=5",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226073,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UQ3JrA9kEh7rfwhUS1h0z",
+      "id": "5UQ3JrA9kEh7rfwhUS1h0z",
+      "name": "The Fate of Ophelia",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5UQ3JrA9kEh7rfwhUS1h0z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208291,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6virCtlwc98cKYVyeZYXqq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6virCtlwc98cKYVyeZYXqq",
+      "id": "6virCtlwc98cKYVyeZYXqq",
+      "name": "Elizabeth Taylor",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6virCtlwc98cKYVyeZYXqq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235356,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0WUwHkIXQY55MLOrw8EM6m"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0WUwHkIXQY55MLOrw8EM6m",
+      "id": "0WUwHkIXQY55MLOrw8EM6m",
+      "name": "Opalite",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0WUwHkIXQY55MLOrw8EM6m",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212777,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6H0nEKqkTRxa30Pru1h7SD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6H0nEKqkTRxa30Pru1h7SD",
+      "id": "6H0nEKqkTRxa30Pru1h7SD",
+      "name": "Father Figure",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6H0nEKqkTRxa30Pru1h7SD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246356,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6nhsv9Jeluz5gXt592KN3m"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6nhsv9Jeluz5gXt592KN3m",
+      "id": "6nhsv9Jeluz5gXt592KN3m",
+      "name": "Eldest Daughter",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6nhsv9Jeluz5gXt592KN3m",
+      "is_local": false
+    }
+  ],
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/albums/6QNMhoV8V0u7cFuhhUBOn7/tracks?offset=5&limit=5",
+  "offset": 0,
+  "previous": null,
+  "total": 19
+}

@@ -1,0 +1,155 @@
+{
+  "href": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt/tracks?offset=0&limit=5",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          },
+          "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone",
+          "type": "artist",
+          "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228965,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2OzhQlSqBEmt7hmkYxfT6m",
+      "id": "2OzhQlSqBEmt7hmkYxfT6m",
+      "name": "Fortnight (feat. Post Malone)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 293048,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3NMrVbIVWT3fPXBj0rNDKG",
+      "id": "3NMrVbIVWT3fPXBj0rNDKG",
+      "name": "The Tortured Poets Department",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3NMrVbIVWT3fPXBj0rNDKG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203801,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2XXwLdtuAcE0HSCu61ijAb",
+      "id": "2XXwLdtuAcE0HSCu61ijAb",
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2XXwLdtuAcE0HSCu61ijAb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261228,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2F3N9tdombb64aW6VtZOdo",
+      "id": "2F3N9tdombb64aW6VtZOdo",
+      "name": "Down Bad",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2F3N9tdombb64aW6VtZOdo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262974,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Vevii7qKqrmW8CcyzBHDl",
+      "id": "3Vevii7qKqrmW8CcyzBHDl",
+      "name": "So Long, London",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3Vevii7qKqrmW8CcyzBHDl",
+      "is_local": false
+    }
+  ],
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt/tracks?offset=5&limit=5",
+  "offset": 0,
+  "previous": null,
+  "total": 16
+}
