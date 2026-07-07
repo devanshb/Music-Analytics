@@ -1,0 +1,670 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 261920,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0UMXQFGl9BWwXjoaNVvlyd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0UMXQFGl9BWwXjoaNVvlyd",
+    "id": "0UMXQFGl9BWwXjoaNVvlyd",
+    "name": "august",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0UMXQFGl9BWwXjoaNVvlyd",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        },
+        "href": "https://api.spotify.com/v1/artists/5schNIzWdI9gJ1QRK8SBnc",
+        "id": "5schNIzWdI9gJ1QRK8SBnc",
+        "name": "Ben Howard",
+        "type": "artist",
+        "uri": "spotify:artist:5schNIzWdI9gJ1QRK8SBnc"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 249173,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0wpcVi3koUCIRDH8HLADVZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0wpcVi3koUCIRDH8HLADVZ",
+    "id": "0wpcVi3koUCIRDH8HLADVZ",
+    "name": "Only Love",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0wpcVi3koUCIRDH8HLADVZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200386,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/53dUlLtIFRwnP4mKPVMTRQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/53dUlLtIFRwnP4mKPVMTRQ",
+    "id": "53dUlLtIFRwnP4mKPVMTRQ",
+    "name": "ocean eyes",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:53dUlLtIFRwnP4mKPVMTRQ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        },
+        "href": "https://api.spotify.com/v1/artists/5TvdGhdmRObqOkU6eGfXb5",
+        "id": "5TvdGhdmRObqOkU6eGfXb5",
+        "name": "Preston Pablo",
+        "type": "artist",
+        "uri": "spotify:artist:5TvdGhdmRObqOkU6eGfXb5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        "href": "https://api.spotify.com/v1/artists/2uFC1dAj5b0YU7vulKNZ0p",
+        "id": "2uFC1dAj5b0YU7vulKNZ0p",
+        "name": "Banx & Ranx",
+        "type": "artist",
+        "uri": "spotify:artist:2uFC1dAj5b0YU7vulKNZ0p"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 225899,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Erpbn3Sv6iRnqcoMtEVhK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Erpbn3Sv6iRnqcoMtEVhK",
+    "id": "4Erpbn3Sv6iRnqcoMtEVhK",
+    "name": "Flowers Need Rain - Acoustic",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4Erpbn3Sv6iRnqcoMtEVhK",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        },
+        "href": "https://api.spotify.com/v1/artists/6DdbeAeBlrYj8bNToZv4TY",
+        "id": "6DdbeAeBlrYj8bNToZv4TY",
+        "name": "JESSIA",
+        "type": "artist",
+        "uri": "spotify:artist:6DdbeAeBlrYj8bNToZv4TY"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 141396,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5GDUDJLYkxdXpuRemwoKVZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5GDUDJLYkxdXpuRemwoKVZ",
+    "id": "5GDUDJLYkxdXpuRemwoKVZ",
+    "name": "First Call",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5GDUDJLYkxdXpuRemwoKVZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+        "id": "2RQXRUsr4IW1f3mKyKsy4B",
+        "name": "Noah Kahan",
+        "type": "artist",
+        "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rrTqtOUOwva4sgTx9C9F9",
+        "id": "7rrTqtOUOwva4sgTx9C9F9",
+        "name": "Joy Oladokun",
+        "type": "artist",
+        "uri": "spotify:artist:7rrTqtOUOwva4sgTx9C9F9"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 186552,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4pmfu4vXsdCphjla5ZPb7H"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4pmfu4vXsdCphjla5ZPb7H",
+    "id": "4pmfu4vXsdCphjla5ZPb7H",
+    "name": "Someone Like You",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:4pmfu4vXsdCphjla5ZPb7H",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235766,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/66WrhKGJ2nUu7wWzistGy2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/66WrhKGJ2nUu7wWzistGy2",
+    "id": "66WrhKGJ2nUu7wWzistGy2",
+    "name": "Love Story (Taylor’s Version)",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:66WrhKGJ2nUu7wWzistGy2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        "href": "https://api.spotify.com/v1/artists/3QSQFmccmX81fWCUSPTS7y",
+        "id": "3QSQFmccmX81fWCUSPTS7y",
+        "name": "Dean Lewis",
+        "type": "artist",
+        "uri": "spotify:artist:3QSQFmccmX81fWCUSPTS7y"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 185400,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6LhimJSGwjLTMD8feixCDU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6LhimJSGwjLTMD8feixCDU",
+    "id": "6LhimJSGwjLTMD8feixCDU",
+    "name": "Stay Awake",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:6LhimJSGwjLTMD8feixCDU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/49tQo2QULno7gxHutgccqF",
+        "id": "49tQo2QULno7gxHutgccqF",
+        "name": "LANY",
+        "type": "artist",
+        "uri": "spotify:artist:49tQo2QULno7gxHutgccqF"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 197480,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4sOFbmF3OECx9OGw1NNw77"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4sOFbmF3OECx9OGw1NNw77",
+    "id": "4sOFbmF3OECx9OGw1NNw77",
+    "name": "nobody else",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:4sOFbmF3OECx9OGw1NNw77",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        },
+        "href": "https://api.spotify.com/v1/artists/5cIc3SBFuBLVxJz58W2tU9",
+        "id": "5cIc3SBFuBLVxJz58W2tU9",
+        "name": "Oh Wonder",
+        "type": "artist",
+        "uri": "spotify:artist:5cIc3SBFuBLVxJz58W2tU9"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 224740,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4qtdU9h7Ds8kdqOwEupRFI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4qtdU9h7Ds8kdqOwEupRFI",
+    "id": "4qtdU9h7Ds8kdqOwEupRFI",
+    "name": "Without You",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:4qtdU9h7Ds8kdqOwEupRFI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        "href": "https://api.spotify.com/v1/artists/5XKFrudbV4IiuE5WuTPRmT",
+        "id": "5XKFrudbV4IiuE5WuTPRmT",
+        "name": "Stephen Sanchez",
+        "type": "artist",
+        "uri": "spotify:artist:5XKFrudbV4IiuE5WuTPRmT"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 177720,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/517xtQ3WnpKSANW5Tj2UCr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/517xtQ3WnpKSANW5Tj2UCr",
+    "id": "517xtQ3WnpKSANW5Tj2UCr",
+    "name": "Until I Found You",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:517xtQ3WnpKSANW5Tj2UCr",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        },
+        "href": "https://api.spotify.com/v1/artists/5vBrKGOjN10BMwB0cJADj4",
+        "id": "5vBrKGOjN10BMwB0cJADj4",
+        "name": "bülow",
+        "type": "artist",
+        "uri": "spotify:artist:5vBrKGOjN10BMwB0cJADj4"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195346,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6isYqUc1QMf5RFgM3IpeMe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6isYqUc1QMf5RFgM3IpeMe",
+    "id": "6isYqUc1QMf5RFgM3IpeMe",
+    "name": "Two Punks In Love",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:6isYqUc1QMf5RFgM3IpeMe",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        },
+        "href": "https://api.spotify.com/v1/artists/7blXVKBSxdFZsIqlhdViKc",
+        "id": "7blXVKBSxdFZsIqlhdViKc",
+        "name": "Valley",
+        "type": "artist",
+        "uri": "spotify:artist:7blXVKBSxdFZsIqlhdViKc"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 237230,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4o5XcFlnzCYd9u50O9VsN4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4o5XcFlnzCYd9u50O9VsN4",
+    "id": "4o5XcFlnzCYd9u50O9VsN4",
+    "name": "Last Birthday",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:4o5XcFlnzCYd9u50O9VsN4",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "type": "artist",
+        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 177750,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6qcIXB47rMtoxCuwnweJQn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6qcIXB47rMtoxCuwnweJQn",
+    "id": "6qcIXB47rMtoxCuwnweJQn",
+    "name": "skinny dipping",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:6qcIXB47rMtoxCuwnweJQn",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFHvCyqklnJpXC9Nh1aag",
+        "id": "6sFHvCyqklnJpXC9Nh1aag",
+        "name": "Alexander 23",
+        "type": "artist",
+        "uri": "spotify:artist:6sFHvCyqklnJpXC9Nh1aag"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 184638,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0UpDrirk8ocatDV6q6wGRm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0UpDrirk8ocatDV6q6wGRm",
+    "id": "0UpDrirk8ocatDV6q6wGRm",
+    "name": "IDK You Yet",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:0UpDrirk8ocatDV6q6wGRm",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 214706,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7mjEEpsrYwupbqSYXSpQqx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mjEEpsrYwupbqSYXSpQqx",
+    "id": "7mjEEpsrYwupbqSYXSpQqx",
+    "name": "willow",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:7mjEEpsrYwupbqSYXSpQqx",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+        },
+        "href": "https://api.spotify.com/v1/artists/4uwJ3NRArTb8VlKbuAFyFG",
+        "id": "4uwJ3NRArTb8VlKbuAFyFG",
+        "name": "Jamie Fine",
+        "type": "artist",
+        "uri": "spotify:artist:4uwJ3NRArTb8VlKbuAFyFG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 179076,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0a40iyDgMKePZvFZnBzFiC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0a40iyDgMKePZvFZnBzFiC",
+    "id": "0a40iyDgMKePZvFZnBzFiC",
+    "name": "Confessions",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:0a40iyDgMKePZvFZnBzFiC",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        },
+        "href": "https://api.spotify.com/v1/artists/33NVpKoXjItPwUJTMZIOiY",
+        "id": "33NVpKoXjItPwUJTMZIOiY",
+        "name": "David Kushner",
+        "type": "artist",
+        "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 231386,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6ntGWwCUCpUjRk3XBA54p6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6ntGWwCUCpUjRk3XBA54p6",
+    "id": "6ntGWwCUCpUjRk3XBA54p6",
+    "name": "Miserable Man",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:6ntGWwCUCpUjRk3XBA54p6",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5RTpt7F1M8N8w1JlnDBeH8",
+        "id": "5RTpt7F1M8N8w1JlnDBeH8",
+        "name": "Azure Ryder",
+        "type": "artist",
+        "uri": "spotify:artist:5RTpt7F1M8N8w1JlnDBeH8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 163821,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5XWuBdl3NxJ8lp1kRv8Dhe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5XWuBdl3NxJ8lp1kRv8Dhe",
+    "id": "5XWuBdl3NxJ8lp1kRv8Dhe",
+    "name": "Wolves",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:5XWuBdl3NxJ8lp1kRv8Dhe",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ShGiAyhxI6Rq3TknZ3gfk",
+        "id": "3ShGiAyhxI6Rq3TknZ3gfk",
+        "name": "Arkells",
+        "type": "artist",
+        "uri": "spotify:artist:3ShGiAyhxI6Rq3TknZ3gfk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 252346,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4x11z8wGzoIG5z6M8EPVnG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4x11z8wGzoIG5z6M8EPVnG",
+    "id": "4x11z8wGzoIG5z6M8EPVnG",
+    "name": "Quitting You",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:4x11z8wGzoIG5z6M8EPVnG",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+        "id": "6xrCU6zdcSTsG2hLrojpmI",
+        "name": "José González",
+        "type": "artist",
+        "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 266906,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4RTONYLN4IPqtlNHvTC5Ya"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4RTONYLN4IPqtlNHvTC5Ya",
+    "id": "4RTONYLN4IPqtlNHvTC5Ya",
+    "name": "Stay Alive - From \"The Secret Life of Walter Mitty\" Soundtrack",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:4RTONYLN4IPqtlNHvTC5Ya",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        },
+        "href": "https://api.spotify.com/v1/artists/5vBrKGOjN10BMwB0cJADj4",
+        "id": "5vBrKGOjN10BMwB0cJADj4",
+        "name": "bülow",
+        "type": "artist",
+        "uri": "spotify:artist:5vBrKGOjN10BMwB0cJADj4"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 237876,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6zCmFDAN4wXELQRfFojIP5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6zCmFDAN4wXELQRfFojIP5",
+    "id": "6zCmFDAN4wXELQRfFojIP5",
+    "name": "Lost",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:6zCmFDAN4wXELQRfFojIP5",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+        "id": "163tK9Wjr9P9DmM0AVK7lm",
+        "name": "Lorde",
+        "type": "artist",
+        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 258969,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/03viEwJXJQyCzsayzahJ9o"
+    },
+    "href": "https://api.spotify.com/v1/tracks/03viEwJXJQyCzsayzahJ9o",
+    "id": "03viEwJXJQyCzsayzahJ9o",
+    "name": "Ribs",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:03viEwJXJQyCzsayzahJ9o",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        },
+        "href": "https://api.spotify.com/v1/artists/3QGKsAfhZdldQCLuLjk6zl",
+        "id": "3QGKsAfhZdldQCLuLjk6zl",
+        "name": "Us The Duo",
+        "type": "artist",
+        "uri": "spotify:artist:3QGKsAfhZdldQCLuLjk6zl"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200706,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7ojDFsgotBxXxLSnyJOQgl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7ojDFsgotBxXxLSnyJOQgl",
+    "id": "7ojDFsgotBxXxLSnyJOQgl",
+    "name": "Better Together",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:7ojDFsgotBxXxLSnyJOQgl",
+    "is_local": false
+  }
+]

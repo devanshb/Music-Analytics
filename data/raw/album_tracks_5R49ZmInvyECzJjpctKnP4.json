@@ -1,0 +1,260 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        "href": "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+        "id": "31TPClRtHm23RisEBtV3X7",
+        "name": "Justin Timberlake",
+        "type": "artist",
+        "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7miu6rJh61QGfyKY9yLFHl"
+        },
+        "href": "https://api.spotify.com/v1/artists/7miu6rJh61QGfyKY9yLFHl",
+        "id": "7miu6rJh61QGfyKY9yLFHl",
+        "name": "Tim Mosley",
+        "type": "artist",
+        "uri": "spotify:artist:7miu6rJh61QGfyKY9yLFHl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        },
+        "href": "https://api.spotify.com/v1/artists/4hadtPX6kKntrnA87Zdy01",
+        "id": "4hadtPX6kKntrnA87Zdy01",
+        "name": "Scott Storch",
+        "type": "artist",
+        "uri": "spotify:artist:4hadtPX6kKntrnA87Zdy01"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6rmhOMczIXsZp6F6wdC0wV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6rmhOMczIXsZp6F6wdC0wV",
+        "id": "6rmhOMczIXsZp6F6wdC0wV",
+        "name": "Nicole Russin-McFarland",
+        "type": "artist",
+        "uri": "spotify:artist:6rmhOMczIXsZp6F6wdC0wV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 206561,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3deGeckEXqnGUlhq1USNgV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3deGeckEXqnGUlhq1USNgV",
+    "id": "3deGeckEXqnGUlhq1USNgV",
+    "name": "Cry Me a River - Orchestral Instrumental",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3deGeckEXqnGUlhq1USNgV",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        "href": "https://api.spotify.com/v1/artists/0wsdUS0EJ7zHgti2nxTVWR",
+        "id": "0wsdUS0EJ7zHgti2nxTVWR",
+        "name": "Patrick Stump",
+        "type": "artist",
+        "uri": "spotify:artist:0wsdUS0EJ7zHgti2nxTVWR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eNCYcluBDxyf0kkn4j7rD",
+        "id": "6eNCYcluBDxyf0kkn4j7rD",
+        "name": "Pete Wentz",
+        "type": "artist",
+        "uri": "spotify:artist:6eNCYcluBDxyf0kkn4j7rD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7qPBvFAhOlXZXWLVM1MM9Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/7qPBvFAhOlXZXWLVM1MM9Z",
+        "id": "7qPBvFAhOlXZXWLVM1MM9Z",
+        "name": "Joseph Trohman",
+        "type": "artist",
+        "uri": "spotify:artist:7qPBvFAhOlXZXWLVM1MM9Z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rvHTe7xUPq66TW7l8rqEb"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rvHTe7xUPq66TW7l8rqEb",
+        "id": "1rvHTe7xUPq66TW7l8rqEb",
+        "name": "Andy Hurley",
+        "type": "artist",
+        "uri": "spotify:artist:1rvHTe7xUPq66TW7l8rqEb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4"
+        },
+        "href": "https://api.spotify.com/v1/artists/7qKoy46vPnmIxKCN6ewBG4",
+        "id": "7qKoy46vPnmIxKCN6ewBG4",
+        "name": "Butch Walker",
+        "type": "artist",
+        "uri": "spotify:artist:7qKoy46vPnmIxKCN6ewBG4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7FFISpih28BCUClBnvGgIs"
+        },
+        "href": "https://api.spotify.com/v1/artists/7FFISpih28BCUClBnvGgIs",
+        "id": "7FFISpih28BCUClBnvGgIs",
+        "name": "John Hill",
+        "type": "artist",
+        "uri": "spotify:artist:7FFISpih28BCUClBnvGgIs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6rmhOMczIXsZp6F6wdC0wV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6rmhOMczIXsZp6F6wdC0wV",
+        "id": "6rmhOMczIXsZp6F6wdC0wV",
+        "name": "Nicole Russin-McFarland",
+        "type": "artist",
+        "uri": "spotify:artist:6rmhOMczIXsZp6F6wdC0wV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 138202,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/29rdEDOOfvQWnoB5vQIabf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/29rdEDOOfvQWnoB5vQIabf",
+    "id": "29rdEDOOfvQWnoB5vQIabf",
+    "name": "My Songs Know What You Did in the Dark (Light Em Up) - Orchestral Instrumental",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:29rdEDOOfvQWnoB5vQIabf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hZukwFOrF1XaKSdMARqHi"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hZukwFOrF1XaKSdMARqHi",
+        "id": "2hZukwFOrF1XaKSdMARqHi",
+        "name": "David Jost",
+        "type": "artist",
+        "uri": "spotify:artist:2hZukwFOrF1XaKSdMARqHi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0CLs04yi5LYa7nQyxG9y7O"
+        },
+        "href": "https://api.spotify.com/v1/artists/0CLs04yi5LYa7nQyxG9y7O",
+        "id": "0CLs04yi5LYa7nQyxG9y7O",
+        "name": "Tim James",
+        "type": "artist",
+        "uri": "spotify:artist:0CLs04yi5LYa7nQyxG9y7O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4JwSOmcpD2lJBZ5189KUJW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4JwSOmcpD2lJBZ5189KUJW",
+        "id": "4JwSOmcpD2lJBZ5189KUJW",
+        "name": "Antonina Armato",
+        "type": "artist",
+        "uri": "spotify:artist:4JwSOmcpD2lJBZ5189KUJW"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6rmhOMczIXsZp6F6wdC0wV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6rmhOMczIXsZp6F6wdC0wV",
+        "id": "6rmhOMczIXsZp6F6wdC0wV",
+        "name": "Nicole Russin-McFarland",
+        "type": "artist",
+        "uri": "spotify:artist:6rmhOMczIXsZp6F6wdC0wV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 150090,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5DGIXWKnruseayebDju997"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5DGIXWKnruseayebDju997",
+    "id": "5DGIXWKnruseayebDju997",
+    "name": "The Heart Wants What It Wants - Orchestral Instrumental",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5DGIXWKnruseayebDju997",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/414TS3VqZf1XPCBixdmX9n"
+        },
+        "href": "https://api.spotify.com/v1/artists/414TS3VqZf1XPCBixdmX9n",
+        "id": "414TS3VqZf1XPCBixdmX9n",
+        "name": "Jack Antonoff",
+        "type": "artist",
+        "uri": "spotify:artist:414TS3VqZf1XPCBixdmX9n"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        },
+        "href": "https://api.spotify.com/v1/artists/1SIw8nXWjvAKeb6Dhh85cz",
+        "id": "1SIw8nXWjvAKeb6Dhh85cz",
+        "name": "Sam Dew",
+        "type": "artist",
+        "uri": "spotify:artist:1SIw8nXWjvAKeb6Dhh85cz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6rmhOMczIXsZp6F6wdC0wV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6rmhOMczIXsZp6F6wdC0wV",
+        "id": "6rmhOMczIXsZp6F6wdC0wV",
+        "name": "Nicole Russin-McFarland",
+        "type": "artist",
+        "uri": "spotify:artist:6rmhOMczIXsZp6F6wdC0wV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182784,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6fZGI44cPfpjW6YMXrxuFJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6fZGI44cPfpjW6YMXrxuFJ",
+    "id": "6fZGI44cPfpjW6YMXrxuFJ",
+    "name": "I Don't Wanna Live Forever - Orchestral Instrumental",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:6fZGI44cPfpjW6YMXrxuFJ",
+    "is_local": false
+  }
+]

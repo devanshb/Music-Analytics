@@ -1,0 +1,433 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+        "id": "2wY79sveU1sp5g7SokKOiI",
+        "name": "Sam Smith",
+        "type": "artist",
+        "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Xt3RrJMFv5SZkCfUE8C1J",
+        "id": "3Xt3RrJMFv5SZkCfUE8C1J",
+        "name": "Kim Petras",
+        "type": "artist",
+        "uri": "spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 156943,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5N3LIIEuIqzxEAmVOdhkxK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5N3LIIEuIqzxEAmVOdhkxK",
+    "id": "5N3LIIEuIqzxEAmVOdhkxK",
+    "name": "Unholy",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5N3LIIEuIqzxEAmVOdhkxK",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+        "id": "53XhwfbYqKCa1cC15pYq2q",
+        "name": "Imagine Dragons",
+        "type": "artist",
+        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        "href": "https://api.spotify.com/v1/artists/6U3ybJ9UHNKEdsH7ktGBZ7",
+        "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+        "name": "JID",
+        "type": "artist",
+        "uri": "spotify:artist:6U3ybJ9UHNKEdsH7ktGBZ7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        "href": "https://api.spotify.com/v1/artists/57nPqD7z62gDdq37US9XJR",
+        "id": "57nPqD7z62gDdq37US9XJR",
+        "name": "Arcane",
+        "type": "artist",
+        "uri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        "href": "https://api.spotify.com/v1/artists/47mIJdHORyRerp4os813jD",
+        "id": "47mIJdHORyRerp4os813jD",
+        "name": "League of Legends",
+        "type": "artist",
+        "uri": "spotify:artist:47mIJdHORyRerp4os813jD"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 173381,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5ZGsrJpp5mgoWReOjq5mXS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5ZGsrJpp5mgoWReOjq5mXS",
+    "id": "5ZGsrJpp5mgoWReOjq5mXS",
+    "name": "Enemy - from the series Arcane League of Legends",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5ZGsrJpp5mgoWReOjq5mXS",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Cd373x8qzC7SNUg5IToqp",
+        "id": "1Cd373x8qzC7SNUg5IToqp",
+        "name": "BoyWithUke",
+        "type": "artist",
+        "uri": "spotify:artist:1Cd373x8qzC7SNUg5IToqp"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6rAL4AabINLwqUTAClb6M1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6rAL4AabINLwqUTAClb6M1",
+    "id": "6rAL4AabINLwqUTAClb6M1",
+    "name": "Toxic",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6rAL4AabINLwqUTAClb6M1",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1adGvsK8A0XG2D18ufk7fZ",
+        "id": "1adGvsK8A0XG2D18ufk7fZ",
+        "name": "Hayd",
+        "type": "artist",
+        "uri": "spotify:artist:1adGvsK8A0XG2D18ufk7fZ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 184559,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4vB3kSodXeWr8CEXNiOLMr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4vB3kSodXeWr8CEXNiOLMr",
+    "id": "4vB3kSodXeWr8CEXNiOLMr",
+    "name": "Head In The Clouds",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4vB3kSodXeWr8CEXNiOLMr",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jHp7gQArCQrlMvdrIVFCg",
+        "id": "2jHp7gQArCQrlMvdrIVFCg",
+        "name": "Anson Seabra",
+        "type": "artist",
+        "uri": "spotify:artist:2jHp7gQArCQrlMvdrIVFCg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 192497,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6REOTiBg4TMyGUSXfY2tsY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6REOTiBg4TMyGUSXfY2tsY",
+    "id": "6REOTiBg4TMyGUSXfY2tsY",
+    "name": "Peter Pan Was Right",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:6REOTiBg4TMyGUSXfY2tsY",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+        "id": "3WGpXCj9YhhfX11TToZcXP",
+        "name": "Troye Sivan",
+        "type": "artist",
+        "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220779,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0YW98p479UB4VklkTXByQ9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0YW98p479UB4VklkTXByQ9",
+    "id": "0YW98p479UB4VklkTXByQ9",
+    "name": "Angel Baby",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0YW98p479UB4VklkTXByQ9",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0u6GtibW46tFX7koQ6uNJZ",
+        "id": "0u6GtibW46tFX7koQ6uNJZ",
+        "name": "Topic",
+        "type": "artist",
+        "uri": "spotify:artist:0u6GtibW46tFX7koQ6uNJZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+        "id": "3t5xRXzsuZmMDkQzgOX35S",
+        "name": "Robin Schulz",
+        "type": "artist",
+        "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        "href": "https://api.spotify.com/v1/artists/3A9B6c1CrSPauiOblw7pWz",
+        "id": "3A9B6c1CrSPauiOblw7pWz",
+        "name": "Nico Santos",
+        "type": "artist",
+        "uri": "spotify:artist:3A9B6c1CrSPauiOblw7pWz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wU1naftD3lNq7rNsiDvOR",
+        "id": "7wU1naftD3lNq7rNsiDvOR",
+        "name": "Paul van Dyk",
+        "type": "artist",
+        "uri": "spotify:artist:7wU1naftD3lNq7rNsiDvOR"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 150476,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6rBLNVLUM0ZuxG70E7SCGS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6rBLNVLUM0ZuxG70E7SCGS",
+    "id": "6rBLNVLUM0ZuxG70E7SCGS",
+    "name": "In Your Arms (For An Angel)",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6rBLNVLUM0ZuxG70E7SCGS",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "type": "artist",
+        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        "href": "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+        "id": "6USv9qhCn6zfxlBQIYJ9qs",
+        "name": "Dominic Fike",
+        "type": "artist",
+        "uri": "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198425,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/25E8IXqCwHmWVksibej73E"
+    },
+    "href": "https://api.spotify.com/v1/tracks/25E8IXqCwHmWVksibej73E",
+    "id": "25E8IXqCwHmWVksibej73E",
+    "name": "Die For You",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:25E8IXqCwHmWVksibej73E",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        },
+        "href": "https://api.spotify.com/v1/artists/4qwGe91Bz9K2T8jXTZ815W",
+        "id": "4qwGe91Bz9K2T8jXTZ815W",
+        "name": "Janet Jackson",
+        "type": "artist",
+        "uri": "spotify:artist:4qwGe91Bz9K2T8jXTZ815W"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 301200,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5oFcJ8e9gxQiwfBrHU0BB2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5oFcJ8e9gxQiwfBrHU0BB2",
+    "id": "5oFcJ8e9gxQiwfBrHU0BB2",
+    "name": "Together Again",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5oFcJ8e9gxQiwfBrHU0BB2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+        "id": "0fA0VVWsXO9YnASrzqfmYu",
+        "name": "Kid Cudi",
+        "type": "artist",
+        "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 146666,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/18nZsTbFTBl6PVIeWQsKbL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/18nZsTbFTBl6PVIeWQsKbL",
+    "id": "18nZsTbFTBl6PVIeWQsKbL",
+    "name": "Angel",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:18nZsTbFTBl6PVIeWQsKbL",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200690,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/36YhdaJ9OhOX1GDiqnUMEi"
+    },
+    "href": "https://api.spotify.com/v1/tracks/36YhdaJ9OhOX1GDiqnUMEi",
+    "id": "36YhdaJ9OhOX1GDiqnUMEi",
+    "name": "Anti-Hero",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:36YhdaJ9OhOX1GDiqnUMEi",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1adGvsK8A0XG2D18ufk7fZ",
+        "id": "1adGvsK8A0XG2D18ufk7fZ",
+        "name": "Hayd",
+        "type": "artist",
+        "uri": "spotify:artist:1adGvsK8A0XG2D18ufk7fZ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 214814,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3XDeG12hYt9GV3SzONZBLA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3XDeG12hYt9GV3SzONZBLA",
+    "id": "3XDeG12hYt9GV3SzONZBLA",
+    "name": "Changes",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3XDeG12hYt9GV3SzONZBLA",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href": "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "name": "Shawn Mendes",
+        "type": "artist",
+        "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 208733,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0aIMQdrLLdV8AxZdoTsefv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0aIMQdrLLdV8AxZdoTsefv",
+    "id": "0aIMQdrLLdV8AxZdoTsefv",
+    "name": "Mercy",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:0aIMQdrLLdV8AxZdoTsefv",
+    "is_local": false
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 229566,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6EXHGKZ79AUTzCe9BMZjhT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6EXHGKZ79AUTzCe9BMZjhT",
+    "id": "6EXHGKZ79AUTzCe9BMZjhT",
+    "name": "Cruel Summer - Live from TS | The Eras Tour",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6EXHGKZ79AUTzCe9BMZjhT",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href": "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id": "3oKnyRhYWzNsTiss5n4Z1J",
+        "name": "LP Giobbi",
+        "type": "artist",
+        "uri": "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 192900,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/37jfioVu3Bd2Du9bteXNDU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/37jfioVu3Bd2Du9bteXNDU",
+    "id": "37jfioVu3Bd2Du9bteXNDU",
+    "name": "Cruel Summer - LP Giobbi Remix",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:37jfioVu3Bd2Du9bteXNDU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href": "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id": "3oKnyRhYWzNsTiss5n4Z1J",
+        "name": "LP Giobbi",
+        "type": "artist",
+        "uri": "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 253544,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ISHfeb30gj4CSWUZYuesj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ISHfeb30gj4CSWUZYuesj",
+    "id": "0ISHfeb30gj4CSWUZYuesj",
+    "name": "Cruel Summer - LP Giobbi Remix - Extended Version",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0ISHfeb30gj4CSWUZYuesj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178425,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1kHVme7OVyPqhtdiLj2SI4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1kHVme7OVyPqhtdiLj2SI4",
+    "id": "1kHVme7OVyPqhtdiLj2SI4",
+    "name": "Cruel Summer",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1kHVme7OVyPqhtdiLj2SI4",
+    "is_local": false
+  }
+]

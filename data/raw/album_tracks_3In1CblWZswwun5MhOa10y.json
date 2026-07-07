@@ -1,0 +1,56 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 250100,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4d1CG5ei1E2vGbvmgf5KKv",
+    "id": "4d1CG5ei1E2vGbvmgf5KKv",
+    "name": "This Love (Taylor’s Version)",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4d1CG5ei1E2vGbvmgf5KKv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220433,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1IxeJLsubGTboNN9K5XNfL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1IxeJLsubGTboNN9K5XNfL",
+    "id": "1IxeJLsubGTboNN9K5XNfL",
+    "name": "Wildest Dreams (Taylor's Version)",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1IxeJLsubGTboNN9K5XNfL",
+    "is_local": false
+  }
+]

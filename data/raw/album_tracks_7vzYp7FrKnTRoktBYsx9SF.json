@@ -1,0 +1,164 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 208253,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2IprIjGNRlj3TfqUWCAo0C"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2IprIjGNRlj3TfqUWCAo0C",
+    "id": "2IprIjGNRlj3TfqUWCAo0C",
+    "name": "Last Christmas",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2IprIjGNRlj3TfqUWCAo0C",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 184253,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1g09DZjQ7yBommCT6POY2n"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1g09DZjQ7yBommCT6POY2n",
+    "id": "1g09DZjQ7yBommCT6POY2n",
+    "name": "Christmases When You Were Mine",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1g09DZjQ7yBommCT6POY2n",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 158600,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/71IScwIe7bcIlpnlkbKVQw",
+    "id": "71IScwIe7bcIlpnlkbKVQw",
+    "name": "Santa Baby",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:71IScwIe7bcIlpnlkbKVQw",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209893,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1cJkUN5LAotktryx2nPCr7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1cJkUN5LAotktryx2nPCr7",
+    "id": "1cJkUN5LAotktryx2nPCr7",
+    "name": "Silent Night",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1cJkUN5LAotktryx2nPCr7",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 232146,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/31JVjy3XWnh6C2zf4kLCXN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/31JVjy3XWnh6C2zf4kLCXN",
+    "id": "31JVjy3XWnh6C2zf4kLCXN",
+    "name": "Christmas Must Be Something More",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:31JVjy3XWnh6C2zf4kLCXN",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 154000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7GZ3KDorsc1yWndEtzGTjf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7GZ3KDorsc1yWndEtzGTjf",
+    "id": "7GZ3KDorsc1yWndEtzGTjf",
+    "name": "White Christmas",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:7GZ3KDorsc1yWndEtzGTjf",
+    "is_local": false
+  }
+]

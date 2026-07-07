@@ -1,0 +1,339 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        "href": "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+        "id": "4MXUO7sVCaFgFjoTI5ox5c",
+        "name": "Sufjan Stevens",
+        "type": "artist",
+        "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216426,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4xAHN13Q8MgKXO18rSyvzU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4xAHN13Q8MgKXO18rSyvzU",
+    "id": "4xAHN13Q8MgKXO18rSyvzU",
+    "name": "Once Upon A Poolside (feat. Sufjan Stevens)",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4xAHN13Q8MgKXO18rSyvzU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 264960,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7mUbWcWPImNVcLcNewe2Dy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mUbWcWPImNVcLcNewe2Dy",
+    "id": "7mUbWcWPImNVcLcNewe2Dy",
+    "name": "Eucalyptus",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7mUbWcWPImNVcLcNewe2Dy",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 296000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0o9AwotmTahKoEOHZTtgIk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0o9AwotmTahKoEOHZTtgIk",
+    "id": "0o9AwotmTahKoEOHZTtgIk",
+    "name": "New Order T-Shirt",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0o9AwotmTahKoEOHZTtgIk",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id": "1r1uxoy19fzMxunt3ONAkG",
+        "name": "Phoebe Bridgers",
+        "type": "artist",
+        "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 244960,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F"
+    },
+    "href": "https://api.spotify.com/v1/tracks/56QXS0Hk7mKpuLaFJQ3x8F",
+    "id": "56QXS0Hk7mKpuLaFJQ3x8F",
+    "name": "This Isn't Helping (feat. Phoebe Bridgers)",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:56QXS0Hk7mKpuLaFJQ3x8F",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 309400,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6oYXnC1pi6S8GJF32jvdmx",
+    "id": "6oYXnC1pi6S8GJF32jvdmx",
+    "name": "Tropic Morning News",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:6oYXnC1pi6S8GJF32jvdmx",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 247253,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0qombVfkoyakHvmYg65IUa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0qombVfkoyakHvmYg65IUa",
+    "id": "0qombVfkoyakHvmYg65IUa",
+    "name": "Alien",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0qombVfkoyakHvmYg65IUa",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 267773,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6INztpNwOTlfSKTuPo0HOP",
+    "id": "6INztpNwOTlfSKTuPo0HOP",
+    "name": "The Alcott (feat. Taylor Swift)",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6INztpNwOTlfSKTuPo0HOP",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 237920,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5umWFm8z7wv3tPYc8Vw321"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5umWFm8z7wv3tPYc8Vw321",
+    "id": "5umWFm8z7wv3tPYc8Vw321",
+    "name": "Grease In Your Hair",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:5umWFm8z7wv3tPYc8Vw321",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 256866,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5HjovA5JOU4SrNxotF3i1d"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5HjovA5JOU4SrNxotF3i1d",
+    "id": "5HjovA5JOU4SrNxotF3i1d",
+    "name": "Ice Machines",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5HjovA5JOU4SrNxotF3i1d",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id": "1r1uxoy19fzMxunt3ONAkG",
+        "name": "Phoebe Bridgers",
+        "type": "artist",
+        "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 264320,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0hMqlU7TLbX2HaYmwHPquP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0hMqlU7TLbX2HaYmwHPquP",
+    "id": "0hMqlU7TLbX2HaYmwHPquP",
+    "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:0hMqlU7TLbX2HaYmwHPquP",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "name": "The National",
+        "type": "artist",
+        "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 254546,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Eu8A8slqHySKSh10wgR49"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Eu8A8slqHySKSh10wgR49",
+    "id": "4Eu8A8slqHySKSh10wgR49",
+    "name": "Send For Me",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4Eu8A8slqHySKSh10wgR49",
+    "is_local": false
+  }
+]

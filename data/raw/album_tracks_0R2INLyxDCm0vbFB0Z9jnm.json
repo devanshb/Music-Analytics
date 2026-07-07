@@ -1,0 +1,952 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 153000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6RIRVMOFvA7pAdjwf0iHK6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6RIRVMOFvA7pAdjwf0iHK6",
+    "id": "6RIRVMOFvA7pAdjwf0iHK6",
+    "name": "It’s The Most Wonderful Time Of The Year",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6RIRVMOFvA7pAdjwf0iHK6",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        },
+        "href": "https://api.spotify.com/v1/artists/2iE18Oxc8YSumAU232n4rW",
+        "id": "2iE18Oxc8YSumAU232n4rW",
+        "name": "The Jackson 5",
+        "type": "artist",
+        "uri": "spotify:artist:2iE18Oxc8YSumAU232n4rW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 159413,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0l10qVEZJ3VCGXWCYCKho3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0l10qVEZJ3VCGXWCYCKho3",
+    "id": "0l10qVEZJ3VCGXWCYCKho3",
+    "name": "Frosty The Snowman",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0l10qVEZJ3VCGXWCYCKho3",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "type": "artist",
+        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216386,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0XsIrgTCZiXZHLTPqoK1Wy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0XsIrgTCZiXZHLTPqoK1Wy",
+    "id": "0XsIrgTCZiXZHLTPqoK1Wy",
+    "name": "All I Want Is You",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0XsIrgTCZiXZHLTPqoK1Wy",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7qAoXV4U0qDxQAUqhszjAA",
+        "id": "7qAoXV4U0qDxQAUqhszjAA",
+        "name": "Manuel Carrasco",
+        "type": "artist",
+        "uri": "spotify:artist:7qAoXV4U0qDxQAUqhszjAA"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 196800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4QR9IFTY1WPdmgKd9BK0Zr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4QR9IFTY1WPdmgKd9BK0Zr",
+    "id": "4QR9IFTY1WPdmgKd9BK0Zr",
+    "name": "Llegó Navidad",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4QR9IFTY1WPdmgKd9BK0Zr",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name": "Frank Sinatra",
+        "type": "artist",
+        "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 150760,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5bS4B0bmlW7xFymjHRNWqj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5bS4B0bmlW7xFymjHRNWqj",
+    "id": "5bS4B0bmlW7xFymjHRNWqj",
+    "name": "Silent Night",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5bS4B0bmlW7xFymjHRNWqj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id": "4QKx7KohkWZAOkO4sI3GRx",
+        "name": "VeggieTales",
+        "type": "artist",
+        "uri": "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3Jjb4fKNeufbfuTm3IUp43"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3Jjb4fKNeufbfuTm3IUp43",
+    "id": "3Jjb4fKNeufbfuTm3IUp43",
+    "name": "O Christmas Tree",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:3Jjb4fKNeufbfuTm3IUp43",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 179126,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2luz7Tu7y8N0ieNBL0chVo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2luz7Tu7y8N0ieNBL0chVo",
+    "id": "2luz7Tu7y8N0ieNBL0chVo",
+    "name": "Santa Tell Me",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:2luz7Tu7y8N0ieNBL0chVo",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        "href": "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+        "id": "378dH6EszOLFShpRzAQkVM",
+        "name": "Lindsey Stirling",
+        "type": "artist",
+        "uri": "spotify:artist:378dH6EszOLFShpRzAQkVM"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 166106,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3j8oWS02ms6oV1qKaqurer"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3j8oWS02ms6oV1qKaqurer",
+    "id": "3j8oWS02ms6oV1qKaqurer",
+    "name": "Carol Of The Bells",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3j8oWS02ms6oV1qKaqurer",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1SCWcYnoEh1978ycTDhZoW",
+        "id": "1SCWcYnoEh1978ycTDhZoW",
+        "name": "Alvin & The Chipmunks",
+        "type": "artist",
+        "uri": "spotify:artist:1SCWcYnoEh1978ycTDhZoW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 141026,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/109qz85LpLG3rxmmIJnX1X"
+    },
+    "href": "https://api.spotify.com/v1/tracks/109qz85LpLG3rxmmIJnX1X",
+    "id": "109qz85LpLG3rxmmIJnX1X",
+    "name": "The Chipmunk Song (Christmas Don't Be Late) - Remastered 1999",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:109qz85LpLG3rxmmIJnX1X",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        "href": "https://api.spotify.com/v1/artists/5C4PDR4LnhZTbVnKWXuDKD",
+        "id": "5C4PDR4LnhZTbVnKWXuDKD",
+        "name": "Morat",
+        "type": "artist",
+        "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Lk8ifX8dLKXls1ZCZAHgc",
+        "id": "3Lk8ifX8dLKXls1ZCZAHgc",
+        "name": "DANNA",
+        "type": "artist",
+        "uri": "spotify:artist:3Lk8ifX8dLKXls1ZCZAHgc"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182546,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4kJDrSO6IvnXU9TB1T4mMZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4kJDrSO6IvnXU9TB1T4mMZ",
+    "id": "4kJDrSO6IvnXU9TB1T4mMZ",
+    "name": "Dulce Navidad",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:4kJDrSO6IvnXU9TB1T4mMZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        "href": "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+        "id": "19eLuQmk9aCobbVDHc6eek",
+        "name": "Louis Armstrong",
+        "type": "artist",
+        "uri": "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU"
+        },
+        "href": "https://api.spotify.com/v1/artists/2zxOdG2ascAD3oLdP03mYU",
+        "id": "2zxOdG2ascAD3oLdP03mYU",
+        "name": "Gordon Jenkins & His Orchestra",
+        "type": "artist",
+        "uri": "spotify:artist:2zxOdG2ascAD3oLdP03mYU"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 181446,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4adMZAKv1Wj4Yk7W7igrEL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4adMZAKv1Wj4Yk7W7igrEL",
+    "id": "4adMZAKv1Wj4Yk7W7igrEL",
+    "name": "Winter Wonderland - Single Version",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4adMZAKv1Wj4Yk7W7igrEL",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        },
+        "href": "https://api.spotify.com/v1/artists/6T2pk5T8c4Wi61x1v84sUa",
+        "id": "6T2pk5T8c4Wi61x1v84sUa",
+        "name": "The Laurie Berkner Band",
+        "type": "artist",
+        "uri": "spotify:artist:6T2pk5T8c4Wi61x1v84sUa"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 63040,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1XBaICAhKr9GWh6XYnIghN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1XBaICAhKr9GWh6XYnIghN",
+    "id": "1XBaICAhKr9GWh6XYnIghN",
+    "name": "We Wish You A Merry Christmas",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:1XBaICAhKr9GWh6XYnIghN",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        },
+        "href": "https://api.spotify.com/v1/artists/4cPHsZM98sKzmV26wlwD2W",
+        "id": "4cPHsZM98sKzmV26wlwD2W",
+        "name": "Brenda Lee",
+        "type": "artist",
+        "uri": "spotify:artist:4cPHsZM98sKzmV26wlwD2W"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 123453,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2MfzgAnLceBN8mHwUQhwUa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2MfzgAnLceBN8mHwUQhwUa",
+    "id": "2MfzgAnLceBN8mHwUQhwUa",
+    "name": "Rockin' Around The Christmas Tree",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:2MfzgAnLceBN8mHwUQhwUa",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        "href": "https://api.spotify.com/v1/artists/7oWSqrgMuIEyH9qp5nu2e5",
+        "id": "7oWSqrgMuIEyH9qp5nu2e5",
+        "name": "Raffi",
+        "type": "artist",
+        "uri": "spotify:artist:7oWSqrgMuIEyH9qp5nu2e5"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 118893,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6UidUqmzI3r2Kmyu0wsToc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6UidUqmzI3r2Kmyu0wsToc",
+    "id": "6UidUqmzI3r2Kmyu0wsToc",
+    "name": "Up On the House-Top",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:6UidUqmzI3r2Kmyu0wsToc",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Lk8ifX8dLKXls1ZCZAHgc",
+        "id": "3Lk8ifX8dLKXls1ZCZAHgc",
+        "name": "DANNA",
+        "type": "artist",
+        "uri": "spotify:artist:3Lk8ifX8dLKXls1ZCZAHgc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        "href": "https://api.spotify.com/v1/artists/7afXSXOa8dE3c2C5XIguAv",
+        "id": "7afXSXOa8dE3c2C5XIguAv",
+        "name": "Edith Márquez",
+        "type": "artist",
+        "uri": "spotify:artist:7afXSXOa8dE3c2C5XIguAv"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Db5GsIoVWYktPoD2nnPZZ",
+        "id": "1Db5GsIoVWYktPoD2nnPZZ",
+        "name": "Gloria Trevi",
+        "type": "artist",
+        "uri": "spotify:artist:1Db5GsIoVWYktPoD2nnPZZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        },
+        "href": "https://api.spotify.com/v1/artists/4RjamFQJNT8nVbTKXJDJgv",
+        "id": "4RjamFQJNT8nVbTKXJDJgv",
+        "name": "Kalimba",
+        "type": "artist",
+        "uri": "spotify:artist:4RjamFQJNT8nVbTKXJDJgv"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        "href": "https://api.spotify.com/v1/artists/4kcnsS1aAB40FMcLD01gmI",
+        "id": "4kcnsS1aAB40FMcLD01gmI",
+        "name": "KURT",
+        "type": "artist",
+        "uri": "spotify:artist:4kcnsS1aAB40FMcLD01gmI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        "href": "https://api.spotify.com/v1/artists/49EE6lVLgU8sp7dFgPshgM",
+        "id": "49EE6lVLgU8sp7dFgPshgM",
+        "name": "La Adictiva",
+        "type": "artist",
+        "uri": "spotify:artist:49EE6lVLgU8sp7dFgPshgM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        "href": "https://api.spotify.com/v1/artists/7K9rdoOJSiKXoVXPlSkGKT",
+        "id": "7K9rdoOJSiKXoVXPlSkGKT",
+        "name": "Paty Cantú",
+        "type": "artist",
+        "uri": "spotify:artist:7K9rdoOJSiKXoVXPlSkGKT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        "href": "https://api.spotify.com/v1/artists/6CxqJ4K3JEBR1fz2lQJNN1",
+        "id": "6CxqJ4K3JEBR1fz2lQJNN1",
+        "name": "Nicole Favre",
+        "type": "artist",
+        "uri": "spotify:artist:6CxqJ4K3JEBR1fz2lQJNN1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ZtIhDSOuRkpDyqjx53X1R",
+        "id": "3ZtIhDSOuRkpDyqjx53X1R",
+        "name": "Esteman",
+        "type": "artist",
+        "uri": "spotify:artist:3ZtIhDSOuRkpDyqjx53X1R"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 250506,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0VbQtXhgiklIPofHaUYLXu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0VbQtXhgiklIPofHaUYLXu",
+    "id": "0VbQtXhgiklIPofHaUYLXu",
+    "name": "Ven A Cantar",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:0VbQtXhgiklIPofHaUYLXu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        "href": "https://api.spotify.com/v1/artists/60alJNnwGVBdNXrx4kOfW0",
+        "id": "60alJNnwGVBdNXrx4kOfW0",
+        "name": "Tatiana",
+        "type": "artist",
+        "uri": "spotify:artist:60alJNnwGVBdNXrx4kOfW0"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204746,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/08TPu36aawPRcNJgfJGyqc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/08TPu36aawPRcNJgfJGyqc",
+    "id": "08TPu36aawPRcNJgfJGyqc",
+    "name": "Ding, Dong, Dang",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:08TPu36aawPRcNJgfJGyqc",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+        "id": "4yiQZ8tQPux8cPriYMWUFP",
+        "name": "Gwen Stefani",
+        "type": "artist",
+        "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        "href": "https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw",
+        "id": "1UTPBmNbXNTittyMJrNkvw",
+        "name": "Blake Shelton",
+        "type": "artist",
+        "uri": "spotify:artist:1UTPBmNbXNTittyMJrNkvw"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 157800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/181gOVIVGXtMdoLLoshiGF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/181gOVIVGXtMdoLLoshiGF",
+    "id": "181gOVIVGXtMdoLLoshiGF",
+    "name": "You Make It Feel Like Christmas",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:181gOVIVGXtMdoLLoshiGF",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 228026,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3OTdtKkXYcF8MPFhjK5JGI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3OTdtKkXYcF8MPFhjK5JGI",
+    "id": "3OTdtKkXYcF8MPFhjK5JGI",
+    "name": "Christmas Tree Farm",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:3OTdtKkXYcF8MPFhjK5JGI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "type": "artist",
+        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 183666,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1xNOBaPbPDFo168LnuJibu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1xNOBaPbPDFo168LnuJibu",
+    "id": "1xNOBaPbPDFo168LnuJibu",
+    "name": "Mistletoe",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:1xNOBaPbPDFo168LnuJibu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href": "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "name": "Shawn Mendes",
+        "type": "artist",
+        "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "type": "artist",
+        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 196254,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5COvuTdCKrQufABc4vHAlr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5COvuTdCKrQufABc4vHAlr",
+    "id": "5COvuTdCKrQufABc4vHAlr",
+    "name": "The Christmas Song",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:5COvuTdCKrQufABc4vHAlr",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+        "id": "4yiQZ8tQPux8cPriYMWUFP",
+        "name": "Gwen Stefani",
+        "type": "artist",
+        "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 278965,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1klo1h04rEsD9EfG4WGz35"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1klo1h04rEsD9EfG4WGz35",
+    "id": "1klo1h04rEsD9EfG4WGz35",
+    "name": "Last Christmas",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:1klo1h04rEsD9EfG4WGz35",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        "href": "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+        "id": "378dH6EszOLFShpRzAQkVM",
+        "name": "Lindsey Stirling",
+        "type": "artist",
+        "uri": "spotify:artist:378dH6EszOLFShpRzAQkVM"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187166,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0uwnE0XoV0tIn5ZYlhWsiT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0uwnE0XoV0tIn5ZYlhWsiT",
+    "id": "0uwnE0XoV0tIn5ZYlhWsiT",
+    "name": "Ice Storm",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:0uwnE0XoV0tIn5ZYlhWsiT",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Cx0MO39eG4ElGaD1juoZQ",
+        "id": "5Cx0MO39eG4ElGaD1juoZQ",
+        "name": "Cooltime",
+        "type": "artist",
+        "uri": "spotify:artist:5Cx0MO39eG4ElGaD1juoZQ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 141066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6o18i6LDkNXNZzyMTEetlS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6o18i6LDkNXNZzyMTEetlS",
+    "id": "6o18i6LDkNXNZzyMTEetlS",
+    "name": "It's Beginning To Look A Lot Like Christmas",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:6o18i6LDkNXNZzyMTEetlS",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5HUGPIHRwh79LbffYIUJeJ",
+        "id": "5HUGPIHRwh79LbffYIUJeJ",
+        "name": "The Mamas",
+        "type": "artist",
+        "uri": "spotify:artist:5HUGPIHRwh79LbffYIUJeJ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168685,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3HIpuaASXW9AboH0AwcNuz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3HIpuaASXW9AboH0AwcNuz",
+    "id": "3HIpuaASXW9AboH0AwcNuz",
+    "name": "A Christmas Night To Remember",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:3HIpuaASXW9AboH0AwcNuz",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id": "4QKx7KohkWZAOkO4sI3GRx",
+        "name": "VeggieTales",
+        "type": "artist",
+        "uri": "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 179408,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ofXViMwcvfVj3AC7dh2x7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ofXViMwcvfVj3AC7dh2x7",
+    "id": "4ofXViMwcvfVj3AC7dh2x7",
+    "name": "Christmas Food",
+    "track_number": 25,
+    "type": "track",
+    "uri": "spotify:track:4ofXViMwcvfVj3AC7dh2x7",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 139209,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7Jgxh2OTcFtbL5NozYjqou"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7Jgxh2OTcFtbL5NozYjqou",
+    "id": "7Jgxh2OTcFtbL5NozYjqou",
+    "name": "Have A Holly Jolly Christmas",
+    "track_number": 26,
+    "type": "track",
+    "uri": "spotify:track:7Jgxh2OTcFtbL5NozYjqou",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+        "id": "2wY79sveU1sp5g7SokKOiI",
+        "name": "Sam Smith",
+        "type": "artist",
+        "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 170964,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4dmzaQMwx6QM1QwmgCduVa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4dmzaQMwx6QM1QwmgCduVa",
+    "id": "4dmzaQMwx6QM1QwmgCduVa",
+    "name": "Have Yourself A Merry Little Christmas",
+    "track_number": 27,
+    "type": "track",
+    "uri": "spotify:track:4dmzaQMwx6QM1QwmgCduVa",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4suvHg3CU31VyYkBVcu40N"
+        },
+        "href": "https://api.spotify.com/v1/artists/4suvHg3CU31VyYkBVcu40N",
+        "id": "4suvHg3CU31VyYkBVcu40N",
+        "name": "Songtime Kids",
+        "type": "artist",
+        "uri": "spotify:artist:4suvHg3CU31VyYkBVcu40N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 225613,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7m610MARShrGQcQE3Mr9c7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7m610MARShrGQcQE3Mr9c7",
+    "id": "7m610MARShrGQcQE3Mr9c7",
+    "name": "The Twelve Days Of Christmas",
+    "track_number": 28,
+    "type": "track",
+    "uri": "spotify:track:7m610MARShrGQcQE3Mr9c7",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        "href": "https://api.spotify.com/v1/artists/7oWSqrgMuIEyH9qp5nu2e5",
+        "id": "7oWSqrgMuIEyH9qp5nu2e5",
+        "name": "Raffi",
+        "type": "artist",
+        "uri": "spotify:artist:7oWSqrgMuIEyH9qp5nu2e5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM"
+        },
+        "href": "https://api.spotify.com/v1/artists/1FVbng9WjrAw3kLWaLLFhM",
+        "id": "1FVbng9WjrAw3kLWaLLFhM",
+        "name": "Lindsay Munroe",
+        "type": "artist",
+        "uri": "spotify:artist:1FVbng9WjrAw3kLWaLLFhM"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226950,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7m6sW3nFMlLuxmcJliyrMn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7m6sW3nFMlLuxmcJliyrMn",
+    "id": "7m6sW3nFMlLuxmcJliyrMn",
+    "name": "Silver Bells",
+    "track_number": 29,
+    "type": "track",
+    "uri": "spotify:track:7m6sW3nFMlLuxmcJliyrMn",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        "href": "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+        "id": "378dH6EszOLFShpRzAQkVM",
+        "name": "Lindsey Stirling",
+        "type": "artist",
+        "uri": "spotify:artist:378dH6EszOLFShpRzAQkVM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        "href": "https://api.spotify.com/v1/artists/4obzFoKoKRHIphyHzJ35G3",
+        "id": "4obzFoKoKRHIphyHzJ35G3",
+        "name": "Becky G",
+        "type": "artist",
+        "uri": "spotify:artist:4obzFoKoKRHIphyHzJ35G3"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 229160,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7deJnZxvkoFewvo7BuggaM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7deJnZxvkoFewvo7BuggaM",
+    "id": "7deJnZxvkoFewvo7BuggaM",
+    "name": "Christmas C’mon",
+    "track_number": 30,
+    "type": "track",
+    "uri": "spotify:track:7deJnZxvkoFewvo7BuggaM",
+    "is_local": false
+  }
+]

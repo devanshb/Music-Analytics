@@ -1,0 +1,66 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4FJvChnzwDxBkD1jzSjNPq",
+        "id": "4FJvChnzwDxBkD1jzSjNPq",
+        "name": "Fat Max Gsus",
+        "type": "artist",
+        "uri": "spotify:artist:4FJvChnzwDxBkD1jzSjNPq"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 224649,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3tGq7hWDCtrnL83y5OGual",
+    "id": "3tGq7hWDCtrnL83y5OGual",
+    "name": "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3tGq7hWDCtrnL83y5OGual",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 225963,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1zIzd27gmbNrWWkMCEWmgC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1zIzd27gmbNrWWkMCEWmgC",
+    "id": "1zIzd27gmbNrWWkMCEWmgC",
+    "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1zIzd27gmbNrWWkMCEWmgC",
+    "is_local": false
+  }
+]

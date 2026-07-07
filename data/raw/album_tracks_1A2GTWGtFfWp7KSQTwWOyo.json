@@ -1,280 +1,272 @@
-{
-  "href": "https://api.spotify.com/v1/albums/1A2GTWGtFfWp7KSQTwWOyo/tracks?offset=0&limit=50",
-  "items": [
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 319879,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3aByRUC2BVL6Fs1zI723sd"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3aByRUC2BVL6Fs1zI723sd",
-      "id": "3aByRUC2BVL6Fs1zI723sd",
-      "name": "Human After All",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3aByRUC2BVL6Fs1zI723sd",
-      "is_local": false
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 319879,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3aByRUC2BVL6Fs1zI723sd"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 263240,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2ABpuao3ZbTjP2cSiX9KZc"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2ABpuao3ZbTjP2cSiX9KZc",
-      "id": "2ABpuao3ZbTjP2cSiX9KZc",
-      "name": "The Prime Time of Your Life",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:2ABpuao3ZbTjP2cSiX9KZc",
-      "is_local": false
+    "href": "https://api.spotify.com/v1/tracks/3aByRUC2BVL6Fs1zI723sd",
+    "id": "3aByRUC2BVL6Fs1zI723sd",
+    "name": "Human After All",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3aByRUC2BVL6Fs1zI723sd",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 263240,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2ABpuao3ZbTjP2cSiX9KZc"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 287720,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4zu9wo2FXoBSsKjO6tRB3R"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4zu9wo2FXoBSsKjO6tRB3R",
-      "id": "4zu9wo2FXoBSsKjO6tRB3R",
-      "name": "Robot Rock",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:4zu9wo2FXoBSsKjO6tRB3R",
-      "is_local": false
+    "href": "https://api.spotify.com/v1/tracks/2ABpuao3ZbTjP2cSiX9KZc",
+    "id": "2ABpuao3ZbTjP2cSiX9KZc",
+    "name": "The Prime Time of Your Life",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2ABpuao3ZbTjP2cSiX9KZc",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 287720,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4zu9wo2FXoBSsKjO6tRB3R"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 321186,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/07KtTNn0wZndtN5NOYdBWR"
-      },
-      "href": "https://api.spotify.com/v1/tracks/07KtTNn0wZndtN5NOYdBWR",
-      "id": "07KtTNn0wZndtN5NOYdBWR",
-      "name": "Steam Machine",
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:07KtTNn0wZndtN5NOYdBWR",
-      "is_local": false
+    "href": "https://api.spotify.com/v1/tracks/4zu9wo2FXoBSsKjO6tRB3R",
+    "id": "4zu9wo2FXoBSsKjO6tRB3R",
+    "name": "Robot Rock",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4zu9wo2FXoBSsKjO6tRB3R",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 321186,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/07KtTNn0wZndtN5NOYdBWR"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 289680,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1WnXCfO6oIxG0TbJj29MqR"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1WnXCfO6oIxG0TbJj29MqR",
-      "id": "1WnXCfO6oIxG0TbJj29MqR",
-      "name": "Make Love",
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:1WnXCfO6oIxG0TbJj29MqR",
-      "is_local": false
+    "href": "https://api.spotify.com/v1/tracks/07KtTNn0wZndtN5NOYdBWR",
+    "id": "07KtTNn0wZndtN5NOYdBWR",
+    "name": "Steam Machine",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:07KtTNn0wZndtN5NOYdBWR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 289680,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1WnXCfO6oIxG0TbJj29MqR"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 248400,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/61qwHnU8dyMqPemGzopDcp"
-      },
-      "href": "https://api.spotify.com/v1/tracks/61qwHnU8dyMqPemGzopDcp",
-      "id": "61qwHnU8dyMqPemGzopDcp",
-      "name": "The Brainwasher",
-      "track_number": 6,
-      "type": "track",
-      "uri": "spotify:track:61qwHnU8dyMqPemGzopDcp",
-      "is_local": false
+    "href": "https://api.spotify.com/v1/tracks/1WnXCfO6oIxG0TbJj29MqR",
+    "id": "1WnXCfO6oIxG0TbJj29MqR",
+    "name": "Make Love",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1WnXCfO6oIxG0TbJj29MqR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 248400,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/61qwHnU8dyMqPemGzopDcp"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 19200,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0cV1dl2k19YoGbxTKDb0rH"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0cV1dl2k19YoGbxTKDb0rH",
-      "id": "0cV1dl2k19YoGbxTKDb0rH",
-      "name": "On / Off",
-      "track_number": 7,
-      "type": "track",
-      "uri": "spotify:track:0cV1dl2k19YoGbxTKDb0rH",
-      "is_local": false
+    "href": "https://api.spotify.com/v1/tracks/61qwHnU8dyMqPemGzopDcp",
+    "id": "61qwHnU8dyMqPemGzopDcp",
+    "name": "The Brainwasher",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:61qwHnU8dyMqPemGzopDcp",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 19200,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0cV1dl2k19YoGbxTKDb0rH"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 287840,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/73mTIDCNKGfUF4MiFfR3b5"
-      },
-      "href": "https://api.spotify.com/v1/tracks/73mTIDCNKGfUF4MiFfR3b5",
-      "id": "73mTIDCNKGfUF4MiFfR3b5",
-      "name": "Television Rules the Nation",
-      "track_number": 8,
-      "type": "track",
-      "uri": "spotify:track:73mTIDCNKGfUF4MiFfR3b5",
-      "is_local": false
+    "href": "https://api.spotify.com/v1/tracks/0cV1dl2k19YoGbxTKDb0rH",
+    "id": "0cV1dl2k19YoGbxTKDb0rH",
+    "name": "On / Off",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0cV1dl2k19YoGbxTKDb0rH",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 287840,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/73mTIDCNKGfUF4MiFfR3b5"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 284280,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0LSLM0zuWRkEYemF7JcfEE",
-      "id": "0LSLM0zuWRkEYemF7JcfEE",
-      "name": "Technologic",
-      "track_number": 9,
-      "type": "track",
-      "uri": "spotify:track:0LSLM0zuWRkEYemF7JcfEE",
-      "is_local": false
+    "href": "https://api.spotify.com/v1/tracks/73mTIDCNKGfUF4MiFfR3b5",
+    "id": "73mTIDCNKGfUF4MiFfR3b5",
+    "name": "Television Rules the Nation",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:73mTIDCNKGfUF4MiFfR3b5",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 284280,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE"
     },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-          "id": "4tZwfgrHOc3mvqYlEYSvVi",
-          "name": "Daft Punk",
-          "type": "artist",
-          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 417320,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3PsJ6zisndTa3F9eOjBfCc"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3PsJ6zisndTa3F9eOjBfCc",
-      "id": "3PsJ6zisndTa3F9eOjBfCc",
-      "name": "Emotion",
-      "track_number": 10,
-      "type": "track",
-      "uri": "spotify:track:3PsJ6zisndTa3F9eOjBfCc",
-      "is_local": false
-    }
-  ],
-  "limit": 50,
-  "next": null,
-  "offset": 0,
-  "previous": null,
-  "total": 10
-}
+    "href": "https://api.spotify.com/v1/tracks/0LSLM0zuWRkEYemF7JcfEE",
+    "id": "0LSLM0zuWRkEYemF7JcfEE",
+    "name": "Technologic",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0LSLM0zuWRkEYemF7JcfEE",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 417320,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3PsJ6zisndTa3F9eOjBfCc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3PsJ6zisndTa3F9eOjBfCc",
+    "id": "3PsJ6zisndTa3F9eOjBfCc",
+    "name": "Emotion",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:3PsJ6zisndTa3F9eOjBfCc",
+    "is_local": false
+  }
+]

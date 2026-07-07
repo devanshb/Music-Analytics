@@ -1,0 +1,282 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180200,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4RWkMTgPqdwlWc3nX5Ucpd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4RWkMTgPqdwlWc3nX5Ucpd",
+    "id": "4RWkMTgPqdwlWc3nX5Ucpd",
+    "name": "Measure Of A Man - Live",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4RWkMTgPqdwlWc3nX5Ucpd",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 194493,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7pX3snavRY6tklgLjHT98V"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7pX3snavRY6tklgLjHT98V",
+    "id": "7pX3snavRY6tklgLjHT98V",
+    "name": "Wherever You Are - Live",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7pX3snavRY6tklgLjHT98V",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 265453,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Sm2tvGKGvat0BrtPvrjMj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Sm2tvGKGvat0BrtPvrjMj",
+    "id": "5Sm2tvGKGvat0BrtPvrjMj",
+    "name": "Make A Wish (Coming Home Again) - Live",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5Sm2tvGKGvat0BrtPvrjMj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168493,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4KNfuSvmDhPXsKjvcULRdp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4KNfuSvmDhPXsKjvcULRdp",
+    "id": "4KNfuSvmDhPXsKjvcULRdp",
+    "name": "Ava Adele - Live",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4KNfuSvmDhPXsKjvcULRdp",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 228400,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2K9YhWKWpo9T4GgwWhoHCG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2K9YhWKWpo9T4GgwWhoHCG",
+    "id": "2K9YhWKWpo9T4GgwWhoHCG",
+    "name": "Hold On - Live",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:2K9YhWKWpo9T4GgwWhoHCG",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 274360,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/407tvbI4Eankm24U7oOWWi"
+    },
+    "href": "https://api.spotify.com/v1/tracks/407tvbI4Eankm24U7oOWWi",
+    "id": "407tvbI4Eankm24U7oOWWi",
+    "name": "That's A Man - Live",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:407tvbI4Eankm24U7oOWWi",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 442760,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5jI5Tn6Hh0EZQM9oTTtgbf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5jI5Tn6Hh0EZQM9oTTtgbf",
+    "id": "5jI5Tn6Hh0EZQM9oTTtgbf",
+    "name": "Barefoot And Crazy - Live",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:5jI5Tn6Hh0EZQM9oTTtgbf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 475266,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5tlfl7WD16TQl2p5GjLAtc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5tlfl7WD16TQl2p5GjLAtc",
+    "id": "5tlfl7WD16TQl2p5GjLAtc",
+    "name": "Barbie Doll - Live",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:5tlfl7WD16TQl2p5GjLAtc",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 285786,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6AsYDFo6j3AGiBvHZngBrd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6AsYDFo6j3AGiBvHZngBrd",
+    "id": "6AsYDFo6j3AGiBvHZngBrd",
+    "name": "Seeing Stars - Live",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:6AsYDFo6j3AGiBvHZngBrd",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HNEfHmDlFofG6YnMt8G7N",
+        "id": "7HNEfHmDlFofG6YnMt8G7N",
+        "name": "Jack Ingram",
+        "type": "artist",
+        "uri": "spotify:artist:7HNEfHmDlFofG6YnMt8G7N"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 279066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4WBWrLdu1oDNIAw7hB7nq5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4WBWrLdu1oDNIAw7hB7nq5",
+    "id": "4WBWrLdu1oDNIAw7hB7nq5",
+    "name": "Love You - Live",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:4WBWrLdu1oDNIAw7hB7nq5",
+    "is_local": false
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200106,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6xsEAm6w9oMQYYg3jkEkMT",
+    "id": "6xsEAm6w9oMQYYg3jkEkMT",
+    "name": "Bad Blood",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6xsEAm6w9oMQYYg3jkEkMT",
+    "is_local": false
+  }
+]

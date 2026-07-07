@@ -1,0 +1,427 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 266880,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5wlScFmhUxGosjbow6N4Ec"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5wlScFmhUxGosjbow6N4Ec",
+    "id": "5wlScFmhUxGosjbow6N4Ec",
+    "name": "Two Lanes Of Freedom",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5wlScFmhUxGosjbow6N4Ec",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236520,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ZHjQSfJ46zjFbt79MAqD2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ZHjQSfJ46zjFbt79MAqD2",
+    "id": "3ZHjQSfJ46zjFbt79MAqD2",
+    "name": "One Of Those Nights",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3ZHjQSfJ46zjFbt79MAqD2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 313160,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/33jIy7e0Efhpm7l3TnhBUc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/33jIy7e0Efhpm7l3TnhBUc",
+    "id": "33jIy7e0Efhpm7l3TnhBUc",
+    "name": "Friend Of A Friend",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:33jIy7e0Efhpm7l3TnhBUc",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255480,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/29AR5X5yKPd4DBIAiqUMDy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/29AR5X5yKPd4DBIAiqUMDy",
+    "id": "29AR5X5yKPd4DBIAiqUMDy",
+    "name": "Southern Girl",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:29AR5X5yKPd4DBIAiqUMDy",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209013,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3vsKVgsF2Ax03wXt3J5EqU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3vsKVgsF2Ax03wXt3J5EqU",
+    "id": "3vsKVgsF2Ax03wXt3J5EqU",
+    "name": "Truck Yeah",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:3vsKVgsF2Ax03wXt3J5EqU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 217933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5bsePSEQIobPxaQIVwRZKf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5bsePSEQIobPxaQIVwRZKf",
+    "id": "5bsePSEQIobPxaQIVwRZKf",
+    "name": "Nashville Without You",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5bsePSEQIobPxaQIVwRZKf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 208000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/68DhM2sVyl5nHvONQD1pgI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/68DhM2sVyl5nHvONQD1pgI",
+    "id": "68DhM2sVyl5nHvONQD1pgI",
+    "name": "Book Of John",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:68DhM2sVyl5nHvONQD1pgI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 224880,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1IPXJil3wHXAnTJAkfxnD1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1IPXJil3wHXAnTJAkfxnD1",
+    "id": "1IPXJil3wHXAnTJAkfxnD1",
+    "name": "Annie I Owe You A Dance",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:1IPXJil3wHXAnTJAkfxnD1",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 213533,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5q7DIfRfQTTCmfcMiiSb2g"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5q7DIfRfQTTCmfcMiiSb2g",
+    "id": "5q7DIfRfQTTCmfcMiiSb2g",
+    "name": "Mexicoma",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5q7DIfRfQTTCmfcMiiSb2g",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 285386,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1q5KvzDyGurl95wrFj9Mxy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1q5KvzDyGurl95wrFj9Mxy",
+    "id": "1q5KvzDyGurl95wrFj9Mxy",
+    "name": "Number 37405",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:1q5KvzDyGurl95wrFj9Mxy",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 269146,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5p2Ikm0TbgCGTHnti2uuPa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5p2Ikm0TbgCGTHnti2uuPa",
+    "id": "5p2Ikm0TbgCGTHnti2uuPa",
+    "name": "It's Your World",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:5p2Ikm0TbgCGTHnti2uuPa",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 253066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3PpuDIckfLrzVRnFrY6JRP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3PpuDIckfLrzVRnFrY6JRP",
+    "id": "3PpuDIckfLrzVRnFrY6JRP",
+    "name": "Tinted Windows",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3PpuDIckfLrzVRnFrY6JRP",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        "href": "https://api.spotify.com/v1/artists/0u2FHSq3ln94y5Q57xazwf",
+        "id": "0u2FHSq3ln94y5Q57xazwf",
+        "name": "Keith Urban",
+        "type": "artist",
+        "uri": "spotify:artist:0u2FHSq3ln94y5Q57xazwf"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 278453,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6Bb5aUjzUT5ozbbr0VpnZ8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Bb5aUjzUT5ozbbr0VpnZ8",
+    "id": "6Bb5aUjzUT5ozbbr0VpnZ8",
+    "name": "Highway Don't Care",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:6Bb5aUjzUT5ozbbr0VpnZ8",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 256746,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/00UdE8NSz5ZL4ZqUoiFvmz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/00UdE8NSz5ZL4ZqUoiFvmz",
+    "id": "00UdE8NSz5ZL4ZqUoiFvmz",
+    "name": "Truck Yeah - Live",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:00UdE8NSz5ZL4ZqUoiFvmz",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 334973,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6BxljNYeBfXNcWQcdt1KVu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6BxljNYeBfXNcWQcdt1KVu",
+    "id": "6BxljNYeBfXNcWQcdt1KVu",
+    "name": "Let Me Love It Out Of You",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:6BxljNYeBfXNcWQcdt1KVu",
+    "is_local": false
+  }
+]

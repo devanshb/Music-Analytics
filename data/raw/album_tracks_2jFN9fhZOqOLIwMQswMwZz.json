@@ -1,0 +1,1092 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        },
+        "href": "https://api.spotify.com/v1/artists/72nLe76yBFSlP6VBzME358",
+        "id": "72nLe76yBFSlP6VBzME358",
+        "name": "SHAUN",
+        "type": "artist",
+        "uri": "spotify:artist:72nLe76yBFSlP6VBzME358"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180006,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4pbRywC7DmR5fZbxLCTIvd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4pbRywC7DmR5fZbxLCTIvd",
+    "id": "4pbRywC7DmR5fZbxLCTIvd",
+    "name": "Way Back Home - Sam Feldt Festival Mix",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4pbRywC7DmR5fZbxLCTIvd",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ghlgldX5Dd6720Q3qFyQB",
+        "id": "0ghlgldX5Dd6720Q3qFyQB",
+        "name": "TOMORROW X TOGETHER",
+        "type": "artist",
+        "uri": "spotify:artist:0ghlgldX5Dd6720Q3qFyQB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 203986,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0GBQDvKWFlXvJ2Uw54sxTD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0GBQDvKWFlXvJ2Uw54sxTD",
+    "id": "0GBQDvKWFlXvJ2Uw54sxTD",
+    "name": "0X1=LOVESONG - Cover",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0GBQDvKWFlXvJ2Uw54sxTD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/41LPFeYghNxupRqQ6nnfaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/41LPFeYghNxupRqQ6nnfaB",
+        "id": "41LPFeYghNxupRqQ6nnfaB",
+        "name": "BEK",
+        "type": "artist",
+        "uri": "spotify:artist:41LPFeYghNxupRqQ6nnfaB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175425,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6KRk55is3MPOsRtG2tmcbZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6KRk55is3MPOsRtG2tmcbZ",
+    "id": "6KRk55is3MPOsRtG2tmcbZ",
+    "name": "Kick Six 2019 - Cover",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6KRk55is3MPOsRtG2tmcbZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1lel1kMN3SUvXOtrO2tmfr"
+        },
+        "href": "https://api.spotify.com/v1/artists/1lel1kMN3SUvXOtrO2tmfr",
+        "id": "1lel1kMN3SUvXOtrO2tmfr",
+        "name": "Meland x Hauken",
+        "type": "artist",
+        "uri": "spotify:artist:1lel1kMN3SUvXOtrO2tmfr"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 196535,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4qUpay6uKDZ8COTBLisen7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4qUpay6uKDZ8COTBLisen7",
+    "id": "4qUpay6uKDZ8COTBLisen7",
+    "name": "CHERNOBYL 2017 - Cover",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4qUpay6uKDZ8COTBLisen7",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ehwJyEkR6nuqz9PbrbIuk"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ehwJyEkR6nuqz9PbrbIuk",
+        "id": "0ehwJyEkR6nuqz9PbrbIuk",
+        "name": "Bek and Wallin",
+        "type": "artist",
+        "uri": "spotify:artist:0ehwJyEkR6nuqz9PbrbIuk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 211392,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7k8Ns9mANPcjhCXZgZl4i3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7k8Ns9mANPcjhCXZgZl4i3",
+    "id": "7k8Ns9mANPcjhCXZgZl4i3",
+    "name": "Mad Mickey 2017 - Cover",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7k8Ns9mANPcjhCXZgZl4i3",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/25p1uAURmIM9Fvf8sBeZ7z"
+        },
+        "href": "https://api.spotify.com/v1/artists/25p1uAURmIM9Fvf8sBeZ7z",
+        "id": "25p1uAURmIM9Fvf8sBeZ7z",
+        "name": "DJ Red Core",
+        "type": "artist",
+        "uri": "spotify:artist:25p1uAURmIM9Fvf8sBeZ7z"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226285,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/16f9qVKBDFC4uvjri741MM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/16f9qVKBDFC4uvjri741MM",
+    "id": "16f9qVKBDFC4uvjri741MM",
+    "name": "Kiat Jud Day - Cover",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:16f9qVKBDFC4uvjri741MM",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 181138,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4B21Li2uI7BQ83x4ASB7RR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4B21Li2uI7BQ83x4ASB7RR",
+    "id": "4B21Li2uI7BQ83x4ASB7RR",
+    "name": "Nightcore",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:4B21Li2uI7BQ83x4ASB7RR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+        "id": "329e4yvIujISKGKz1BZZbO",
+        "name": "Farruko",
+        "type": "artist",
+        "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 286254,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/29DfayfhoaXB55NUjAkhHn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/29DfayfhoaXB55NUjAkhHn",
+    "id": "29DfayfhoaXB55NUjAkhHn",
+    "name": "Pepas - Cover",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:29DfayfhoaXB55NUjAkhHn",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2N7xrdZ10zV0pdSw1DcNWY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2N7xrdZ10zV0pdSw1DcNWY",
+        "id": "2N7xrdZ10zV0pdSw1DcNWY",
+        "name": "LOVE BGM JPN",
+        "type": "artist",
+        "uri": "spotify:artist:2N7xrdZ10zV0pdSw1DcNWY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0V0DZZPBAG5HlhMnbpl5ko"
+        },
+        "href": "https://api.spotify.com/v1/artists/0V0DZZPBAG5HlhMnbpl5ko",
+        "id": "0V0DZZPBAG5HlhMnbpl5ko",
+        "name": "Project X",
+        "type": "artist",
+        "uri": "spotify:artist:0V0DZZPBAG5HlhMnbpl5ko"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 166546,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5iR90jSQVaWRiAAne0tBbD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5iR90jSQVaWRiAAne0tBbD",
+    "id": "5iR90jSQVaWRiAAne0tBbD",
+    "name": "Toca Toca - Cover",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5iR90jSQVaWRiAAne0tBbD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1AAzMBKPHs7pUGSLNb1GQa"
+        },
+        "href": "https://api.spotify.com/v1/artists/1AAzMBKPHs7pUGSLNb1GQa",
+        "id": "1AAzMBKPHs7pUGSLNb1GQa",
+        "name": "WEEKS & Birrk",
+        "type": "artist",
+        "uri": "spotify:artist:1AAzMBKPHs7pUGSLNb1GQa"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 173952,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/74rRR52cHe8jS16tm5ClcI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74rRR52cHe8jS16tm5ClcI",
+    "id": "74rRR52cHe8jS16tm5ClcI",
+    "name": "Storeulv 2016 - Cover",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:74rRR52cHe8jS16tm5ClcI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5v8dxQFCr0cOK7rIIBB6lT"
+        },
+        "href": "https://api.spotify.com/v1/artists/5v8dxQFCr0cOK7rIIBB6lT",
+        "id": "5v8dxQFCr0cOK7rIIBB6lT",
+        "name": "Don Omar & Lucenzo",
+        "type": "artist",
+        "uri": "spotify:artist:5v8dxQFCr0cOK7rIIBB6lT"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5FEXX6g9kaffCZeChds1Nw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5FEXX6g9kaffCZeChds1Nw",
+    "id": "5FEXX6g9kaffCZeChds1Nw",
+    "name": "Danza Kuduro - Cover",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:5FEXX6g9kaffCZeChds1Nw",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        "href": "https://api.spotify.com/v1/artists/7pFeBzX627ff0VnN6bxPR4",
+        "id": "7pFeBzX627ff0VnN6bxPR4",
+        "name": "Desiigner",
+        "type": "artist",
+        "uri": "spotify:artist:7pFeBzX627ff0VnN6bxPR4"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 247622,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7hlG6tfkY2JeuqQzsqRtKk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7hlG6tfkY2JeuqQzsqRtKk",
+    "id": "7hlG6tfkY2JeuqQzsqRtKk",
+    "name": "Panda - Cover",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:7hlG6tfkY2JeuqQzsqRtKk",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TkcvTenIzfcD7zYh32jWf"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TkcvTenIzfcD7zYh32jWf",
+        "id": "4TkcvTenIzfcD7zYh32jWf",
+        "name": "SILENTO'",
+        "type": "artist",
+        "uri": "spotify:artist:4TkcvTenIzfcD7zYh32jWf"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 185386,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0IPEmmvRGeYv5oTgMvRc83"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0IPEmmvRGeYv5oTgMvRc83",
+    "id": "0IPEmmvRGeYv5oTgMvRc83",
+    "name": "Watch Me - Cover",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:0IPEmmvRGeYv5oTgMvRc83",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 218000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7AhRosL9cRUb5ymk2rYH0l"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7AhRosL9cRUb5ymk2rYH0l",
+    "id": "7AhRosL9cRUb5ymk2rYH0l",
+    "name": "Shake It Off - Cover",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:7AhRosL9cRUb5ymk2rYH0l",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7lIjxVYm4XcFotlFEuSXS4"
+        },
+        "href": "https://api.spotify.com/v1/artists/7lIjxVYm4XcFotlFEuSXS4",
+        "id": "7lIjxVYm4XcFotlFEuSXS4",
+        "name": "Hoàng Read",
+        "type": "artist",
+        "uri": "spotify:artist:7lIjxVYm4XcFotlFEuSXS4"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 248529,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1hmLFmXJNYvnwgWiLRuBtz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1hmLFmXJNYvnwgWiLRuBtz",
+    "id": "1hmLFmXJNYvnwgWiLRuBtz",
+    "name": "The Magic Bomb 2021 - Cover",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:1hmLFmXJNYvnwgWiLRuBtz",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 193282,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2U2qpWeIRIvhnY8bU6IkMU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2U2qpWeIRIvhnY8bU6IkMU",
+    "id": "2U2qpWeIRIvhnY8bU6IkMU",
+    "name": "Kill This Love - Cover",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:2U2qpWeIRIvhnY8bU6IkMU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3s4jsCvr9Ebb5CpKAsitwg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3s4jsCvr9Ebb5CpKAsitwg",
+        "id": "3s4jsCvr9Ebb5CpKAsitwg",
+        "name": "BEK & Wallin & Moberg",
+        "type": "artist",
+        "uri": "spotify:artist:3s4jsCvr9Ebb5CpKAsitwg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 165935,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3IfwAgn9mtobnjmnKDDGDy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3IfwAgn9mtobnjmnKDDGDy",
+    "id": "3IfwAgn9mtobnjmnKDDGDy",
+    "name": "Valiant 2017 - Cover",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:3IfwAgn9mtobnjmnKDDGDy",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+        "id": "26dSoYclwsYLMAKD3tpOr4",
+        "name": "Britney Spears",
+        "type": "artist",
+        "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 199500,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2Z6OJmKIfow9vo1MtERjR1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2Z6OJmKIfow9vo1MtERjR1",
+    "id": "2Z6OJmKIfow9vo1MtERjR1",
+    "name": "Toxic - Cover",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:2Z6OJmKIfow9vo1MtERjR1",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+        "id": "3hv9jJF3adDNsBSIQDqcjp",
+        "name": "Mark Ronson",
+        "type": "artist",
+        "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 270000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5N4GYty1Q3LjBclPZhQDlf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5N4GYty1Q3LjBclPZhQDlf",
+    "id": "5N4GYty1Q3LjBclPZhQDlf",
+    "name": "Uptown Funk! - Cover",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:5N4GYty1Q3LjBclPZhQDlf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DuekygdvG6Rq2gxoHZS1E"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DuekygdvG6Rq2gxoHZS1E",
+        "id": "2DuekygdvG6Rq2gxoHZS1E",
+        "name": "Bek & Wallin ft. Moberg",
+        "type": "artist",
+        "uri": "spotify:artist:2DuekygdvG6Rq2gxoHZS1E"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 164140,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4HpdhSKcYqUDlqi6KlTYH1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4HpdhSKcYqUDlqi6KlTYH1",
+    "id": "4HpdhSKcYqUDlqi6KlTYH1",
+    "name": "Dreamville 2017 - Cover",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:4HpdhSKcYqUDlqi6KlTYH1",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY",
+        "id": "0jnsk9HBra6NMjO2oANoPY",
+        "name": "Flo Rida",
+        "type": "artist",
+        "uri": "spotify:artist:0jnsk9HBra6NMjO2oANoPY"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 189874,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7mVodVbxO403adiiZrJHnh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mVodVbxO403adiiZrJHnh",
+    "id": "7mVodVbxO403adiiZrJHnh",
+    "name": "G.D.F.R. - Cover",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:7mVodVbxO403adiiZrJHnh",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        "href": "https://api.spotify.com/v1/artists/2gsggkzM5R49q6jpPvazou",
+        "id": "2gsggkzM5R49q6jpPvazou",
+        "name": "Jessie J",
+        "type": "artist",
+        "uri": "spotify:artist:2gsggkzM5R49q6jpPvazou"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3VHROgqBJWUx9mBrQHuqDy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3VHROgqBJWUx9mBrQHuqDy",
+    "id": "3VHROgqBJWUx9mBrQHuqDy",
+    "name": "Bang Bang - Cover",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:3VHROgqBJWUx9mBrQHuqDy",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5stlUKcmH0lOM4J6uivyNY"
+        },
+        "href": "https://api.spotify.com/v1/artists/5stlUKcmH0lOM4J6uivyNY",
+        "id": "5stlUKcmH0lOM4J6uivyNY",
+        "name": "DESROULEAUX JASON JOEL",
+        "type": "artist",
+        "uri": "spotify:artist:5stlUKcmH0lOM4J6uivyNY"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 207000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6LZ8xZXTjzl2qoSNdTTYK7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6LZ8xZXTjzl2qoSNdTTYK7",
+    "id": "6LZ8xZXTjzl2qoSNdTTYK7",
+    "name": "Want To Want Me - Cover",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:6LZ8xZXTjzl2qoSNdTTYK7",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        },
+        "href": "https://api.spotify.com/v1/artists/6T5tfhQCknKG4UnH90qGnz",
+        "id": "6T5tfhQCknKG4UnH90qGnz",
+        "name": "DNCE",
+        "type": "artist",
+        "uri": "spotify:artist:6T5tfhQCknKG4UnH90qGnz"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220035,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0DdBTv29FJPaQLv4iYjUCh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0DdBTv29FJPaQLv4iYjUCh",
+    "id": "0DdBTv29FJPaQLv4iYjUCh",
+    "name": "Cake By The Ocean - Cover",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:0DdBTv29FJPaQLv4iYjUCh",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        },
+        "href": "https://api.spotify.com/v1/artists/3whuHq0yGx60atvA2RCVRW",
+        "id": "3whuHq0yGx60atvA2RCVRW",
+        "name": "Olly Murs",
+        "type": "artist",
+        "uri": "spotify:artist:3whuHq0yGx60atvA2RCVRW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 224000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6ZepzzU0pdecpeaVPCZrOx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6ZepzzU0pdecpeaVPCZrOx",
+    "id": "6ZepzzU0pdecpeaVPCZrOx",
+    "name": "Up - Cover",
+    "track_number": 25,
+    "type": "track",
+    "uri": "spotify:track:6ZepzzU0pdecpeaVPCZrOx",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "type": "artist",
+        "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1zgsQTgnYfxPowtvxyERFL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1zgsQTgnYfxPowtvxyERFL",
+    "id": "1zgsQTgnYfxPowtvxyERFL",
+    "name": "Sugar - Cover",
+    "track_number": 26,
+    "type": "track",
+    "uri": "spotify:track:1zgsQTgnYfxPowtvxyERFL",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        "href": "https://api.spotify.com/v1/artists/1SupJlEpv7RS2tPNRaHViT",
+        "id": "1SupJlEpv7RS2tPNRaHViT",
+        "name": "Nicky Jam",
+        "type": "artist",
+        "uri": "spotify:artist:1SupJlEpv7RS2tPNRaHViT"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 172547,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/27OJ9BDA4NrIqco8yeXJyg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/27OJ9BDA4NrIqco8yeXJyg",
+    "id": "27OJ9BDA4NrIqco8yeXJyg",
+    "name": "X - Cover",
+    "track_number": 27,
+    "type": "track",
+    "uri": "spotify:track:27OJ9BDA4NrIqco8yeXJyg",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ",
+        "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+        "name": "Mariah Carey",
+        "type": "artist",
+        "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7oyVHhkDvyx4JXZ6JXLSIa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7oyVHhkDvyx4JXZ6JXLSIa",
+    "id": "7oyVHhkDvyx4JXZ6JXLSIa",
+    "name": "Touch My Body - Cover",
+    "track_number": 28,
+    "type": "track",
+    "uri": "spotify:track:7oyVHhkDvyx4JXZ6JXLSIa",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/20blHDkaU1mEilCduVU2hS"
+        },
+        "href": "https://api.spotify.com/v1/artists/20blHDkaU1mEilCduVU2hS",
+        "id": "20blHDkaU1mEilCduVU2hS",
+        "name": "Magic!",
+        "type": "artist",
+        "uri": "spotify:artist:20blHDkaU1mEilCduVU2hS"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 224000,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/08nEbN9vPuVWCbYLSYo8GO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/08nEbN9vPuVWCbYLSYo8GO",
+    "id": "08nEbN9vPuVWCbYLSYo8GO",
+    "name": "Rude - Cover",
+    "track_number": 29,
+    "type": "track",
+    "uri": "spotify:track:08nEbN9vPuVWCbYLSYo8GO",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I"
+        },
+        "href": "https://api.spotify.com/v1/artists/61ifFEOS4km183fkC64e8I",
+        "id": "61ifFEOS4km183fkC64e8I",
+        "name": "MUSIC LAB JPN",
+        "type": "artist",
+        "uri": "spotify:artist:61ifFEOS4km183fkC64e8I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+        "id": "2RdwBSPQiwcmiDo9kixcl8",
+        "name": "Pharrell Williams",
+        "type": "artist",
+        "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 232879,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4qyii7yyiO22rChckaWwXv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4qyii7yyiO22rChckaWwXv",
+    "id": "4qyii7yyiO22rChckaWwXv",
+    "name": "Happy - Cover",
+    "track_number": 30,
+    "type": "track",
+    "uri": "spotify:track:4qyii7yyiO22rChckaWwXv",
+    "is_local": false
+  }
+]

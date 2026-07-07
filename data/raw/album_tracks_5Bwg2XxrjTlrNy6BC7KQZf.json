@@ -1,0 +1,56 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 264438,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4axSuOg3BqsowKjRpj59RU",
+    "id": "4axSuOg3BqsowKjRpj59RU",
+    "name": "Carolina - From The Motion Picture “Where The Crawdads Sing”",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4axSuOg3BqsowKjRpj59RU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 163944,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/12xIjI9A9UlB6zEc7kyZ06"
+    },
+    "href": "https://api.spotify.com/v1/tracks/12xIjI9A9UlB6zEc7kyZ06",
+    "id": "12xIjI9A9UlB6zEc7kyZ06",
+    "name": "Carolina - \"Where The Crawdads Sing\" - Video Edition",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:12xIjI9A9UlB6zEc7kyZ06",
+    "is_local": false
+  }
+]

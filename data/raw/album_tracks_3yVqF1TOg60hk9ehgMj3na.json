@@ -1,0 +1,56 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 218004,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4n93SK7dQsQVu9BM5QzvAx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4n93SK7dQsQVu9BM5QzvAx",
+    "id": "4n93SK7dQsQVu9BM5QzvAx",
+    "name": "I Can Do It With a Broken Heart",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4n93SK7dQsQVu9BM5QzvAx",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 218004,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0Z8YQJNXTCZqflWehjoJqJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0Z8YQJNXTCZqflWehjoJqJ",
+    "id": "0Z8YQJNXTCZqflWehjoJqJ",
+    "name": "I Can Do It With a Broken Heart - Instrumental",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0Z8YQJNXTCZqflWehjoJqJ",
+    "is_local": false
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235766,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6pOAKwmxefR6EhoEX8SwQD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6pOAKwmxefR6EhoEX8SwQD",
+    "id": "6pOAKwmxefR6EhoEX8SwQD",
+    "name": "Love Story (Taylor’s Version)",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6pOAKwmxefR6EhoEX8SwQD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 170228,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0wGRHGTTktUEfnguYlaHYm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0wGRHGTTktUEfnguYlaHYm",
+    "id": "0wGRHGTTktUEfnguYlaHYm",
+    "name": "Savage Love",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0wGRHGTTktUEfnguYlaHYm",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        },
+        "href": "https://api.spotify.com/v1/artists/6dJeKm76NjfXBNTpHmOhfO",
+        "id": "6dJeKm76NjfXBNTpHmOhfO",
+        "name": "Selena Gomez & The Scene",
+        "type": "artist",
+        "uri": "spotify:artist:6dJeKm76NjfXBNTpHmOhfO"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188453,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4sm9ONW393viIe6Ad2DgFt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4sm9ONW393viIe6Ad2DgFt",
+    "id": "4sm9ONW393viIe6Ad2DgFt",
+    "name": "Love You Like A Love Song",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4sm9ONW393viIe6Ad2DgFt",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id": "4QKx7KohkWZAOkO4sI3GRx",
+        "name": "VeggieTales",
+        "type": "artist",
+        "uri": "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216040,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1zpsXxPogSHJdp41ltYQQN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1zpsXxPogSHJdp41ltYQQN",
+    "id": "1zpsXxPogSHJdp41ltYQQN",
+    "name": "Pizza Angel",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1zpsXxPogSHJdp41ltYQQN",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "type": "artist",
+        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 232626,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3Ixusfruf2aT8GzZJLua9C"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3Ixusfruf2aT8GzZJLua9C",
+    "id": "3Ixusfruf2aT8GzZJLua9C",
+    "name": "Love Yourself",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:3Ixusfruf2aT8GzZJLua9C",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 231124,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3VrNmKJk0S8pQp4Ea8euuK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3VrNmKJk0S8pQp4Ea8euuK",
+    "id": "3VrNmKJk0S8pQp4Ea8euuK",
+    "name": "You Belong With Me (Taylor’s Version)",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:3VrNmKJk0S8pQp4Ea8euuK",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id": "4QKx7KohkWZAOkO4sI3GRx",
+        "name": "VeggieTales",
+        "type": "artist",
+        "uri": "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 196880,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2qhmI9jdGxJ9sQ4xfQxi9c"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2qhmI9jdGxJ9sQ4xfQxi9c",
+    "id": "2qhmI9jdGxJ9sQ4xfQxi9c",
+    "name": "The Pirates Who Don't Do Anything",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:2qhmI9jdGxJ9sQ4xfQxi9c",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 222666,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3eWNYshv9epMJFonQ3qREV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3eWNYshv9epMJFonQ3qREV",
+    "id": "3eWNYshv9epMJFonQ3qREV",
+    "name": "Roar",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3eWNYshv9epMJFonQ3qREV",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 179199,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7oURmgEjRxwDol4dI533Po"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7oURmgEjRxwDol4dI533Po",
+    "id": "7oURmgEjRxwDol4dI533Po",
+    "name": "Blinding Lights",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:7oURmgEjRxwDol4dI533Po",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+        "id": "70kkdajctXSbqSMJbQO424",
+        "name": "Kacey Musgraves",
+        "type": "artist",
+        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 214293,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4CNvtgncSTRlHDSknYm41B"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4CNvtgncSTRlHDSknYm41B",
+    "id": "4CNvtgncSTRlHDSknYm41B",
+    "name": "Rainbow",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:4CNvtgncSTRlHDSknYm41B",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id": "4QKx7KohkWZAOkO4sI3GRx",
+        "name": "VeggieTales",
+        "type": "artist",
+        "uri": "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 199546,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0fRhLNJFv3s1gVPmcaFDox"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0fRhLNJFv3s1gVPmcaFDox",
+    "id": "0fRhLNJFv3s1gVPmcaFDox",
+    "name": "Belly Button",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:0fRhLNJFv3s1gVPmcaFDox",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 229066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1yYYny7kfh6kqYfI7SwSmh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1yYYny7kfh6kqYfI7SwSmh",
+    "id": "1yYYny7kfh6kqYfI7SwSmh",
+    "name": "Firework",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:1yYYny7kfh6kqYfI7SwSmh",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 166453,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2hDsClAXITomcSJt0jbzRD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2hDsClAXITomcSJt0jbzRD",
+    "id": "2hDsClAXITomcSJt0jbzRD",
+    "name": "Good 4 U",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:2hDsClAXITomcSJt0jbzRD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        "href": "https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx",
+        "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "name": "Selena Gomez",
+        "type": "artist",
+        "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220589,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3fr9W5zZEUbj8VS7a4Jpdl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3fr9W5zZEUbj8VS7a4Jpdl",
+    "id": "3fr9W5zZEUbj8VS7a4Jpdl",
+    "name": "Rare",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:3fr9W5zZEUbj8VS7a4Jpdl",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id": "4QKx7KohkWZAOkO4sI3GRx",
+        "name": "VeggieTales",
+        "type": "artist",
+        "uri": "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 244306,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0DGcbQUHIW3mZ5KuoR5hHG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0DGcbQUHIW3mZ5KuoR5hHG",
+    "id": "0DGcbQUHIW3mZ5KuoR5hHG",
+    "name": "Second Chances - From \"Jonah: A VeggieTales Movie\" Soundtrack",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:0DGcbQUHIW3mZ5KuoR5hHG",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "type": "artist",
+        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi",
+        "id": "3ipn9JLAPI5GUEo4y4jcoi",
+        "name": "Ludacris",
+        "type": "artist",
+        "uri": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216613,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6GY0IxU8aiOqZmX76TZUd2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6GY0IxU8aiOqZmX76TZUd2",
+    "id": "6GY0IxU8aiOqZmX76TZUd2",
+    "name": "Baby",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:6GY0IxU8aiOqZmX76TZUd2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200386,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5sffIJ5fSf5C9zEk4vTXCv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sffIJ5fSf5C9zEk4vTXCv",
+    "id": "5sffIJ5fSf5C9zEk4vTXCv",
+    "name": "ocean eyes",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:5sffIJ5fSf5C9zEk4vTXCv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "type": "artist",
+        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178147,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5BRaUh1JUnJ6AmI0R3bUdU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5BRaUh1JUnJ6AmI0R3bUdU",
+    "id": "5BRaUh1JUnJ6AmI0R3bUdU",
+    "name": "good 4 u",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:5BRaUh1JUnJ6AmI0R3bUdU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220226,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0HO8syHtJn5cq7fmUTGlQR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0HO8syHtJn5cq7fmUTGlQR",
+    "id": "0HO8syHtJn5cq7fmUTGlQR",
+    "name": "Hot N Cold",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:0HO8syHtJn5cq7fmUTGlQR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id": "4QKx7KohkWZAOkO4sI3GRx",
+        "name": "VeggieTales",
+        "type": "artist",
+        "uri": "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198666,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/60TnnVL9vjE48Dxj0r80If"
+    },
+    "href": "https://api.spotify.com/v1/tracks/60TnnVL9vjE48Dxj0r80If",
+    "id": "60TnnVL9vjE48Dxj0r80If",
+    "name": "The Dance Of The Cucumber",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:60TnnVL9vjE48Dxj0r80If",
+    "is_local": false
+  }
+]

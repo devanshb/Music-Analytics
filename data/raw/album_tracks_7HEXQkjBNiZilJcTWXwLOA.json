@@ -1,0 +1,49 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0IvBGOcv9xzgOrgGQGMMgp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0IvBGOcv9xzgOrgGQGMMgp",
+        "id": "0IvBGOcv9xzgOrgGQGMMgp",
+        "name": "Sawyr",
+        "type": "artist",
+        "uri": "spotify:artist:0IvBGOcv9xzgOrgGQGMMgp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        },
+        "href": "https://api.spotify.com/v1/artists/4we5S2VLjgY9KzIzApL1KI",
+        "id": "4we5S2VLjgY9KzIzApL1KI",
+        "name": "Ryan Tedder",
+        "type": "artist",
+        "uri": "spotify:artist:4we5S2VLjgY9KzIzApL1KI"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 184281,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6SYwJcqaltK2WFRmD1unUV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6SYwJcqaltK2WFRmD1unUV",
+    "id": "6SYwJcqaltK2WFRmD1unUV",
+    "name": "Delicate - Sawyr And Ryan Tedder Mix",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6SYwJcqaltK2WFRmD1unUV",
+    "is_local": false
+  }
+]

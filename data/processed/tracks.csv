@@ -1,186 +1,132 @@
 name,duration_ms,explicit,track_number,album_name,release_date
-Wake Me Up (feat. Justice),308575,False,1,Hurry Up Tomorrow,2025-01-31
-Cry For Me,224136,True,2,Hurry Up Tomorrow,2025-01-31
-I Can't Fucking Sing,12288,True,3,Hurry Up Tomorrow,2025-01-31
-São Paulo (feat. Anitta),301623,True,4,Hurry Up Tomorrow,2025-01-31
-Until We're Skin & Bones,22033,False,5,Hurry Up Tomorrow,2025-01-31
-Baptized In Fear,232176,False,6,Hurry Up Tomorrow,2025-01-31
-Open Hearts,234923,False,7,Hurry Up Tomorrow,2025-01-31
-Opening Night,96024,False,8,Hurry Up Tomorrow,2025-01-31
-"Reflections Laughing (feat. Travis Scott, Florence + The Machine)",291192,True,9,Hurry Up Tomorrow,2025-01-31
-Enjoy The Show (feat. Future),301428,True,10,Hurry Up Tomorrow,2025-01-31
-Given Up On Me,354781,False,11,Hurry Up Tomorrow,2025-01-31
-I Can't Wait To Get There,188921,True,12,Hurry Up Tomorrow,2025-01-31
-Timeless (feat Playboi Carti),256000,True,13,Hurry Up Tomorrow,2025-01-31
-Niagara Falls,277274,True,14,Hurry Up Tomorrow,2025-01-31
-Take Me Back To LA,253734,False,15,Hurry Up Tomorrow,2025-01-31
-Big Sleep (feat. Giorgio Moroder),225312,False,16,Hurry Up Tomorrow,2025-01-31
-Give Me Mercy,216431,False,17,Hurry Up Tomorrow,2025-01-31
-Drive,188645,False,18,Hurry Up Tomorrow,2025-01-31
-The Abyss (feat. Lana Del Rey),282873,False,19,Hurry Up Tomorrow,2025-01-31
-Red Terror,231860,False,20,Hurry Up Tomorrow,2025-01-31
-Without a Warning,297525,False,21,Hurry Up Tomorrow,2025-01-31
-Hurry Up Tomorrow,291486,False,22,Hurry Up Tomorrow,2025-01-31
-Starboy (feat. Daft Punk),230461,True,1,Starboy (Deluxe),2023-03-14
-Party Monster,249207,True,2,Starboy (Deluxe),2023-03-14
-False Alarm,220308,False,3,Starboy (Deluxe),2023-03-14
-Reminder,218879,True,4,Starboy (Deluxe),2023-03-14
-Rockin’,232881,True,5,Starboy (Deluxe),2023-03-14
-Secrets,265607,False,6,Starboy (Deluxe),2023-03-14
-True Colors,206034,False,7,Starboy (Deluxe),2023-03-14
-Stargirl Interlude (feat. Lana Del Rey),111611,False,8,Starboy (Deluxe),2023-03-14
-Sidewalks (feat. Kendrick Lamar),231357,True,9,Starboy (Deluxe),2023-03-14
-Six Feet Under,237576,True,10,Starboy (Deluxe),2023-03-14
-Love To Lay,223301,False,11,Starboy (Deluxe),2023-03-14
-A Lonely Night,220170,False,12,Starboy (Deluxe),2023-03-14
-Attention,197649,True,13,Starboy (Deluxe),2023-03-14
-Ordinary Life,221913,False,14,Starboy (Deluxe),2023-03-14
-Nothing Without You,198654,False,15,Starboy (Deluxe),2023-03-14
-All I Know (feat. Future),321031,True,16,Starboy (Deluxe),2023-03-14
-Die For You,260255,False,17,Starboy (Deluxe),2023-03-14
-I Feel It Coming (feat. Daft Punk),269176,False,18,Starboy (Deluxe),2023-03-14
-Die For You (with Ariana Grande) - Remix,232857,False,19,Starboy (Deluxe),2023-03-14
-Starboy (feat. Daft Punk) - Kygo Remix,244720,True,20,Starboy (Deluxe),2023-03-14
-Reminder (feat. A$AP Rocky & Young Thug) - Remix,221968,True,21,Starboy (Deluxe),2023-03-14
-Intro - Live,95813,False,1,Live At SoFi Stadium,2023-03-03
-Alone Again - Live,167253,True,2,Live At SoFi Stadium,2023-03-03
-Gasoline - Live,195635,False,3,Live At SoFi Stadium,2023-03-03
-Sacrifice - Live,263240,True,4,Live At SoFi Stadium,2023-03-03
-How Do I Make You Love Me? - Live,209040,False,5,Live At SoFi Stadium,2023-03-03
-Can't Feel My Face - Live,183888,False,6,Live At SoFi Stadium,2023-03-03
-Take My Breath - Live,235966,False,7,Live At SoFi Stadium,2023-03-03
-Hurricane - Live,127527,False,8,Live At SoFi Stadium,2023-03-03
-The Hills - Live,185361,True,9,Live At SoFi Stadium,2023-03-03
-Often - Live,148878,True,10,Live At SoFi Stadium,2023-03-03
-Crew Love - Live,113460,True,11,Live At SoFi Stadium,2023-03-03
-Starboy - Live,245818,True,12,Live At SoFi Stadium,2023-03-03
-Heartless - Live,124255,True,13,Live At SoFi Stadium,2023-03-03
-Low Life - Live,107256,True,14,Live At SoFi Stadium,2023-03-03
-Or Nah - Live,101450,True,15,Live At SoFi Stadium,2023-03-03
-Kiss Land - Live,110315,True,16,Live At SoFi Stadium,2023-03-03
-Party Monster - Live,189883,True,17,Live At SoFi Stadium,2023-03-03
-Faith - Live,185016,True,18,Live At SoFi Stadium,2023-03-03
-After Hours - Live,267912,False,19,Live At SoFi Stadium,2023-03-03
-Out of Time - Live,200934,False,20,Live At SoFi Stadium,2023-03-03
-I Feel It Coming - Live,234114,False,21,Live At SoFi Stadium,2023-03-03
-Die For You - Live,193394,True,22,Live At SoFi Stadium,2023-03-03
-Is There Someone Else? - Live,237904,False,23,Live At SoFi Stadium,2023-03-03
-I Was Never There - Live,137149,False,24,Live At SoFi Stadium,2023-03-03
-Wicked Games - Live,143082,True,25,Live At SoFi Stadium,2023-03-03
-Call Out My Name - Live,242899,False,26,Live At SoFi Stadium,2023-03-03
-The Morning - Live,199802,True,27,Live At SoFi Stadium,2023-03-03
-Save Your Tears - Live,178187,True,28,Live At SoFi Stadium,2023-03-03
-Less Than Zero - Live,244479,True,29,Live At SoFi Stadium,2023-03-03
-Blinding Lights - Live,253365,True,30,Live At SoFi Stadium,2023-03-03
-Outro - Live,199781,True,31,Live At SoFi Stadium,2023-03-03
-Dawn FM,96240,False,1,Dawn FM (Alternate World),2022-01-07
-Gasoline,212165,False,2,Dawn FM (Alternate World),2022-01-07
-How Do I Make You Love Me?,214214,False,3,Dawn FM (Alternate World),2022-01-07
-Take My Breath,339023,False,4,Dawn FM (Alternate World),2022-01-07
-Sacrifice,188918,True,5,Dawn FM (Alternate World),2022-01-07
-A Tale By Quincy,96214,True,6,Dawn FM (Alternate World),2022-01-07
-Out of Time,214190,False,7,Dawn FM (Alternate World),2022-01-07
-"Here We Go… Again (feat. Tyler, the Creator)",209777,True,8,Dawn FM (Alternate World),2022-01-07
-Best Friends,163504,False,9,Dawn FM (Alternate World),2022-01-07
-Is There Someone Else?,199111,False,10,Dawn FM (Alternate World),2022-01-07
-Starry Eyes,148000,False,11,Dawn FM (Alternate World),2022-01-07
-Every Angel is Terrifying,167255,False,12,Dawn FM (Alternate World),2022-01-07
-Don’t Break My Heart,205469,False,13,Dawn FM (Alternate World),2022-01-07
-I Heard You're Married (feat. Lil Wayne),263641,True,14,Dawn FM (Alternate World),2022-01-07
-Less Than Zero,211814,False,15,Dawn FM (Alternate World),2022-01-07
-Phantom Regret by Jim,179580,False,16,Dawn FM (Alternate World),2022-01-07
-Moth To A Flame (with The Weeknd),234000,False,17,Dawn FM (Alternate World),2022-01-07
-Dawn FM - OPN Remix,183827,False,18,Dawn FM (Alternate World),2022-01-07
-How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix,217766,False,19,Dawn FM (Alternate World),2022-01-07
-Sacrifice (Remix) (feat. Swedish House Mafia),238032,True,20,Dawn FM (Alternate World),2022-01-07
-Out of Time - KAYTRANADA Remix,275555,False,21,Dawn FM (Alternate World),2022-01-07
-Best Friends - Remix,175071,False,22,Dawn FM (Alternate World),2022-01-07
-Starry Eyes - MIKE DEAN Remix,198222,False,23,Dawn FM (Alternate World),2022-01-07
-Take My Breath - Single Version,220196,False,24,Dawn FM (Alternate World),2022-01-07
-Dawn FM,96240,False,1,Dawn FM,2022-01-06
-Gasoline,212165,False,2,Dawn FM,2022-01-06
-How Do I Make You Love Me?,214214,False,3,Dawn FM,2022-01-06
-Take My Breath,339023,False,4,Dawn FM,2022-01-06
-Sacrifice,188918,True,5,Dawn FM,2022-01-06
-A Tale By Quincy,96232,True,6,Dawn FM,2022-01-06
-Out of Time,214193,False,7,Dawn FM,2022-01-06
-"Here We Go… Again (feat. Tyler, the Creator)",209777,True,8,Dawn FM,2022-01-06
-Best Friends,163504,False,9,Dawn FM,2022-01-06
-Is There Someone Else?,199111,False,10,Dawn FM,2022-01-06
-Starry Eyes,148000,False,11,Dawn FM,2022-01-06
-Every Angel is Terrifying,167255,False,12,Dawn FM,2022-01-06
-Don’t Break My Heart,205469,False,13,Dawn FM,2022-01-06
-I Heard You’re Married (feat. Lil Wayne),263641,True,14,Dawn FM,2022-01-06
-Less Than Zero,211814,False,15,Dawn FM,2022-01-06
-Phantom Regret by Jim,179580,False,16,Dawn FM,2022-01-06
-Alone Again,250057,True,1,After Hours (Deluxe),2020-03-20
-Too Late,239980,True,2,After Hours (Deluxe),2020-03-20
-Hardest To Love,211402,True,3,After Hours (Deluxe),2020-03-20
-Scared To Live,191298,True,4,After Hours (Deluxe),2020-03-20
-Snowchild,247192,True,5,After Hours (Deluxe),2020-03-20
-Escape From LA,355960,True,6,After Hours (Deluxe),2020-03-20
-Heartless,198267,True,7,After Hours (Deluxe),2020-03-20
-Faith,283216,True,8,After Hours (Deluxe),2020-03-20
-Blinding Lights,200045,False,9,After Hours (Deluxe),2020-03-20
-In Your Eyes,237522,True,10,After Hours (Deluxe),2020-03-20
-Save Your Tears,215627,True,11,After Hours (Deluxe),2020-03-20
-Repeat After Me (Interlude),195815,True,12,After Hours (Deluxe),2020-03-20
-After Hours,361024,False,13,After Hours (Deluxe),2020-03-20
-Until I Bleed Out,192363,True,14,After Hours (Deluxe),2020-03-20
-Nothing Compares - Bonus Track,222306,True,15,After Hours (Deluxe),2020-03-20
-Missed You - Bonus Track,144539,True,16,After Hours (Deluxe),2020-03-20
-Final Lullaby - Bonus Track,185688,True,17,After Hours (Deluxe),2020-03-20
-Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,191013,False,18,After Hours (Deluxe),2020-03-20
-Alone Again,250053,True,1,After Hours,2020-03-20
-Too Late,239973,True,2,After Hours,2020-03-20
-Hardest To Love,211400,True,3,After Hours,2020-03-20
-Scared To Live,191306,True,4,After Hours,2020-03-20
-Snowchild,247186,True,5,After Hours,2020-03-20
-Escape From LA,355960,True,6,After Hours,2020-03-20
-Heartless,198266,True,7,After Hours,2020-03-20
-Faith,283226,True,8,After Hours,2020-03-20
-Blinding Lights,200040,False,9,After Hours,2020-03-20
-In Your Eyes,237520,True,10,After Hours,2020-03-20
-Save Your Tears,215626,True,11,After Hours,2020-03-20
-Repeat After Me (Interlude),195813,True,12,After Hours,2020-03-20
-After Hours,361026,False,13,After Hours,2020-03-20
-Until I Bleed Out,190173,True,14,After Hours,2020-03-20
-Call Out My Name,228373,False,1,"My Dear Melancholy,",2018-03-30
-Try Me,221106,False,2,"My Dear Melancholy,",2018-03-30
-Wasted Times,220293,True,3,"My Dear Melancholy,",2018-03-30
-I Was Never There,241066,False,4,"My Dear Melancholy,",2018-03-30
-Hurt You,230026,True,5,"My Dear Melancholy,",2018-03-30
-Privilege,170573,True,6,"My Dear Melancholy,",2018-03-30
-Call Out My Name - A Cappella,224746,False,7,"My Dear Melancholy,",2018-03-30
-Starboy,230453,True,1,Starboy,2016-11-25
-Party Monster,249213,True,2,Starboy,2016-11-25
-False Alarm,220306,False,3,Starboy,2016-11-25
-Reminder,218880,True,4,Starboy,2016-11-25
-Rockin’,232880,True,5,Starboy,2016-11-25
-Secrets,265600,False,6,Starboy,2016-11-25
-True Colors,206013,False,7,Starboy,2016-11-25
-Stargirl Interlude,111640,False,8,Starboy,2016-11-25
-Sidewalks,231360,True,9,Starboy,2016-11-25
-Six Feet Under,237573,True,10,Starboy,2016-11-25
-Love To Lay,223293,False,11,Starboy,2016-11-25
-A Lonely Night,220173,False,12,Starboy,2016-11-25
-Attention,197653,True,13,Starboy,2016-11-25
-Ordinary Life,221920,False,14,Starboy,2016-11-25
-Nothing Without You,198653,False,15,Starboy,2016-11-25
-All I Know,321026,True,16,Starboy,2016-11-25
-Die For You,260252,False,17,Starboy,2016-11-25
-I Feel It Coming,269186,False,18,Starboy,2016-11-25
-Real Life,223373,True,1,Beauty Behind The Madness,2015-08-28
-Losers,281146,True,2,Beauty Behind The Madness,2015-08-28
-Tell Your Friends,334333,True,3,Beauty Behind The Madness,2015-08-28
-Often,249040,True,4,Beauty Behind The Madness,2015-08-28
-The Hills,242253,True,5,Beauty Behind The Madness,2015-08-28
-Acquainted,348853,True,6,Beauty Behind The Madness,2015-08-28
-Can't Feel My Face,213520,False,7,Beauty Behind The Madness,2015-08-28
-Shameless,253506,True,8,Beauty Behind The Madness,2015-08-28
-Earned It (Fifty Shades Of Grey),277680,True,9,Beauty Behind The Madness,2015-08-28
-In The Night,235653,True,10,Beauty Behind The Madness,2015-08-28
-As You Are,340493,True,11,Beauty Behind The Madness,2015-08-28
-Dark Times,260640,True,12,Beauty Behind The Madness,2015-08-28
-Prisoner,274960,True,13,Beauty Behind The Madness,2015-08-28
-Angel,377346,True,14,Beauty Behind The Madness,2015-08-28
+94 Hours,190693,False,1,Frail Words Collapse,2003
+Falling Upon Deaf Ears,150600,False,2,Frail Words Collapse,2003
+Forever,282533,False,3,Frail Words Collapse,2003
+Collision,191173,False,4,Frail Words Collapse,2003
+Distance is Darkness,157200,False,5,Frail Words Collapse,2003
+Behind Me Lies Another Fallen Soldier,182986,False,6,Frail Words Collapse,2003
+Undefined,135613,False,7,Frail Words Collapse,2003
+A Thousand Steps,105666,False,8,Frail Words Collapse,2003
+The Beginning,207960,False,9,Frail Words Collapse,2003
+Song 10,256000,False,10,Frail Words Collapse,2003
+The Pain of Separation,176266,False,11,Frail Words Collapse,2003
+Elegy,287426,False,12,Frail Words Collapse,2003
+Meaning in Tragedy,192626,False,1,Shadows Are Security,2005
+Confined,190106,False,2,Shadows Are Security,2005
+Losing Sight,203066,False,3,Shadows Are Security,2005
+The Darkest Nights,231826,False,4,Shadows Are Security,2005
+Empty Hearts,168906,False,5,Shadows Are Security,2005
+Reflection,191533,False,6,Shadows Are Security,2005
+Repeating Yesterday,242426,False,7,Shadows Are Security,2005
+Through Struggle,238173,False,8,Shadows Are Security,2005
+The Truth of My Perception,186226,False,9,Shadows Are Security,2005
+Control is Dead,176840,False,10,Shadows Are Security,2005
+Morning Waits,236066,False,11,Shadows Are Security,2005
+Illusions,348266,False,12,Shadows Are Security,2005
+Illusions (ReRecorded),247493,False,1,A Long March: The First Recordings,2006-05-16
+The Beginning (ReRecorded),208906,False,2,A Long March: The First Recordings,2006-05-16
+Reinvention (ReRecorded),299733,False,3,A Long March: The First Recordings,2006-05-16
+The Pain Of Separation (ReRecorded),177426,False,4,A Long March: The First Recordings,2006-05-16
+Forever (ReRecorded),284773,False,5,A Long March: The First Recordings,2006-05-16
+Beneath The Encasing Of Ashes,167933,False,6,A Long March: The First Recordings,2006-05-16
+Torn Within,105960,False,7,A Long March: The First Recordings,2006-05-16
+Forced To Die,162333,False,8,A Long March: The First Recordings,2006-05-16
+A Breath In The Eyes Of Eternity,177266,False,9,A Long March: The First Recordings,2006-05-16
+Blood Turned To Tears,96640,False,10,A Long March: The First Recordings,2006-05-16
+The Voices That Betray Me,177026,False,11,A Long March: The First Recordings,2006-05-16
+When This World Fades,150866,False,12,A Long March: The First Recordings,2006-05-16
+A Long March,115933,False,13,A Long March: The First Recordings,2006-05-16
+Surrounded,50533,False,14,A Long March: The First Recordings,2006-05-16
+Refined By Your Embrace,103973,False,15,A Long March: The First Recordings,2006-05-16
+The Innocence Spilled,216760,False,16,A Long March: The First Recordings,2006-05-16
+Behind Me Lies Another Fallen Soldier,251506,False,17,A Long March: The First Recordings,2006-05-16
+Illusions,234733,False,18,A Long March: The First Recordings,2006-05-16
+The Beginning,167360,False,19,A Long March: The First Recordings,2006-05-16
+Reinvention,295773,False,20,A Long March: The First Recordings,2006-05-16
+The Pain Of Separation,169160,False,21,A Long March: The First Recordings,2006-05-16
+Forever,250466,False,22,A Long March: The First Recordings,2006-05-16
+Separation,75920,False,1,An Ocean Between Us,2007-08-21
+Nothing Left,223653,False,2,An Ocean Between Us,2007-08-21
+An Ocean Between Us,253080,False,3,An Ocean Between Us,2007-08-21
+Within Destruction,234586,False,4,An Ocean Between Us,2007-08-21
+Forsaken,318026,False,5,An Ocean Between Us,2007-08-21
+Comfort Betrays,170266,False,6,An Ocean Between Us,2007-08-21
+I Never Wanted,284106,False,7,An Ocean Between Us,2007-08-21
+Bury Us All,143653,False,8,An Ocean Between Us,2007-08-21
+The Sound of Truth,260786,False,9,An Ocean Between Us,2007-08-21
+Departed,100586,False,10,An Ocean Between Us,2007-08-21
+Wrath Upon Ourselves,241186,False,11,An Ocean Between Us,2007-08-21
+This Is Who We Are,294893,False,12,An Ocean Between Us,2007-08-21
+Falling Upon Deaf Ears,190773,False,1,This Is Who We Are,2009-04-14
+Forever,301840,False,2,This Is Who We Are,2009-04-14
+Meaning In Tragedy,201440,False,3,This Is Who We Are,2009-04-14
+The Darkest Nights,246280,False,4,This Is Who We Are,2009-04-14
+Separation / Nothing Left,298813,False,5,This Is Who We Are,2009-04-14
+An Ocean Between Us,271600,False,6,This Is Who We Are,2009-04-14
+Within Destruction,251400,False,7,This Is Who We Are,2009-04-14
+Forsaken,317440,False,8,This Is Who We Are,2009-04-14
+Distance Is Darkness,164306,False,9,This Is Who We Are,2009-04-14
+I Never Wanted,292066,False,10,This Is Who We Are,2009-04-14
+The Sound Of Truth,265933,False,11,This Is Who We Are,2009-04-14
+94 Hours,164173,False,12,This Is Who We Are,2009-04-14
+Through Struggle,263600,False,13,This Is Who We Are,2009-04-14
+Confined,197093,False,14,This Is Who We Are,2009-04-14
+Beyond Our Suffering,169773,False,1,The Powerless Rise,2010-05-11
+Anodyne Sea,274866,False,2,The Powerless Rise,2010-05-11
+Without Conclusion,195133,False,3,The Powerless Rise,2010-05-11
+Parallels,297426,False,4,The Powerless Rise,2010-05-11
+The Plague,222413,False,5,The Powerless Rise,2010-05-11
+Anger and Apathy,265626,False,6,The Powerless Rise,2010-05-11
+Condemned,169466,False,7,The Powerless Rise,2010-05-11
+Upside Down Kingdom,240120,False,8,The Powerless Rise,2010-05-11
+Vacancy,266680,False,9,The Powerless Rise,2010-05-11
+The Only Constant is Change,247506,False,10,The Powerless Rise,2010-05-11
+The Blinding of False Light,310000,False,11,The Powerless Rise,2010-05-11
+Paralyzed,184493,False,1,Decas,2011-11-08
+From Shapeless to Breakable,164493,False,2,Decas,2011-11-08
+Moving Forward,222026,False,3,Decas,2011-11-08
+War Ensemble,290560,False,4,Decas,2011-11-08
+Hellion,44346,False,5,Decas,2011-11-08
+Electric Eye,225986,False,6,Decas,2011-11-08
+Coffee Mug,40266,False,7,Decas,2011-11-08
+Beneath the Encasing (Re-Recorded Medley),237720,False,8,Decas,2011-11-08
+The Blinding of False Light (Innerpartysystem Remix),258813,False,9,Decas,2011-11-08
+Wrath Upon Ourselves (Benjamin Weinman Remix),145826,False,10,Decas,2011-11-08
+"Confined (Kelly ""Carnage"" Cairns Remix)",231826,False,11,Decas,2011-11-08
+Elegy (Big Chocolate Remix),260560,False,12,Decas,2011-11-08
+Cauterize,217893,False,1,Awakened,2012-09-25
+A Greater Foundation,226213,False,2,Awakened,2012-09-25
+Resilience,247666,False,3,Awakened,2012-09-25
+Wasted Words,260893,False,4,Awakened,2012-09-25
+Whispering Silence,270160,False,5,Awakened,2012-09-25
+Overcome,276653,False,6,Awakened,2012-09-25
+No Lungs to Breathe,244866,False,7,Awakened,2012-09-25
+Defender,244760,False,8,Awakened,2012-09-25
+Washed Away,60893,False,9,Awakened,2012-09-25
+My Only Home,245800,False,10,Awakened,2012-09-25
+Tear Out My Eyes,277000,False,11,Awakened,2012-09-25
+Unwound (Awakened B Side Demo),238906,False,12,Awakened,2012-09-25
+A Greater Foundation (Extended Demo Version),238666,False,13,Awakened,2012-09-25
+Burn To Emerge,52173,False,1,Shaped By Fire,2019-09-20
+Blinded,202158,False,2,Shaped By Fire,2019-09-20
+Shaped By Fire,218442,False,3,Shaped By Fire,2019-09-20
+Undertow,237072,False,4,Shaped By Fire,2019-09-20
+Torn Between,241244,False,5,Shaped By Fire,2019-09-20
+Gatekeeper,204387,False,6,Shaped By Fire,2019-09-20
+The Wreckage,282857,False,7,Shaped By Fire,2019-09-20
+My Own Grave,253317,False,8,Shaped By Fire,2019-09-20
+Take What's Left,253311,False,9,Shaped By Fire,2019-09-20
+Redefined,255007,False,10,Shaped By Fire,2019-09-20
+Only After We've Fallen,208502,False,11,Shaped By Fire,2019-09-20
+The Toll It Takes,236371,False,12,Shaped By Fire,2019-09-20
+Permanence,71373,False,1,Through Storms Ahead,2024-11-15
+A Broken Reflection,234880,False,2,Through Storms Ahead,2024-11-15
+Burden,245946,False,3,Through Storms Ahead,2024-11-15
+"We Are The Dead (feat. Alex Terrible, Tom Barber)",223746,False,4,Through Storms Ahead,2024-11-15
+Whitewashed Tomb,238000,False,5,Through Storms Ahead,2024-11-15
+Through Storms Ahead,246200,False,6,Through Storms Ahead,2024-11-15
+The Void Within,204400,False,7,Through Storms Ahead,2024-11-15
+Strength to Survive,275400,False,8,Through Storms Ahead,2024-11-15
+Gears That Never Stop,227666,False,9,Through Storms Ahead,2024-11-15
+The Cave We Fear To Enter,307000,False,10,Through Storms Ahead,2024-11-15
+Taken From Nothing,262000,False,11,Through Storms Ahead,2024-11-15

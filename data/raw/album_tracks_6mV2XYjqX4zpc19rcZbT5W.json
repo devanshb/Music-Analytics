@@ -1,0 +1,511 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        },
+        "href": "https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2",
+        "id": "0SD4eZCN4Kr0wQk56hCdh2",
+        "name": "Bonnie Tyler",
+        "type": "artist",
+        "uri": "spotify:artist:0SD4eZCN4Kr0wQk56hCdh2"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 233720,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4JpscVZA23CYO7IOEXJGdb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4JpscVZA23CYO7IOEXJGdb",
+    "id": "4JpscVZA23CYO7IOEXJGdb",
+    "name": "Holding Out For A Hero",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4JpscVZA23CYO7IOEXJGdb",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 193146,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3aevNrjXgiXmRxsSnOWbvA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3aevNrjXgiXmRxsSnOWbvA",
+    "id": "3aevNrjXgiXmRxsSnOWbvA",
+    "name": "Call Me Maybe",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3aevNrjXgiXmRxsSnOWbvA",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        "href": "https://api.spotify.com/v1/artists/1l7ZsJRRS8wlW3WfJfPfNS",
+        "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+        "name": "Christina Aguilera",
+        "type": "artist",
+        "uri": "spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        "href": "https://api.spotify.com/v1/artists/5tth2a3v0sWwV1C7bApBdX",
+        "id": "5tth2a3v0sWwV1C7bApBdX",
+        "name": "Lil' Kim",
+        "type": "artist",
+        "uri": "spotify:artist:5tth2a3v0sWwV1C7bApBdX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        "href": "https://api.spotify.com/v1/artists/6lHL3ubAMgSasKjNqKb8HF",
+        "id": "6lHL3ubAMgSasKjNqKb8HF",
+        "name": "Mýa",
+        "type": "artist",
+        "uri": "spotify:artist:6lHL3ubAMgSasKjNqKb8HF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+        "id": "1KCSPY1glIKqW2TotWuXOR",
+        "name": "P!nk",
+        "type": "artist",
+        "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 264846,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2wGQvwskW6B69ISJECKriE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2wGQvwskW6B69ISJECKriE",
+    "id": "2wGQvwskW6B69ISJECKriE",
+    "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2wGQvwskW6B69ISJECKriE",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227973,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/14gr7ZLJbf16ydqosl90si"
+    },
+    "href": "https://api.spotify.com/v1/tracks/14gr7ZLJbf16ydqosl90si",
+    "id": "14gr7ZLJbf16ydqosl90si",
+    "name": "Firework",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:14gr7ZLJbf16ydqosl90si",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235766,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/17NY08BTGIfryoA0lP4NEv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/17NY08BTGIfryoA0lP4NEv",
+    "id": "17NY08BTGIfryoA0lP4NEv",
+    "name": "Love Story (Taylor’s Version)",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:17NY08BTGIfryoA0lP4NEv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6wPhSqRtPu1UhRCDX5yaDJ",
+        "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+        "name": "The Pussycat Dolls",
+        "type": "artist",
+        "uri": "spotify:artist:6wPhSqRtPu1UhRCDX5yaDJ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 245680,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0TChNMkPlPTzoxSFGlZafG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0TChNMkPlPTzoxSFGlZafG",
+    "id": "0TChNMkPlPTzoxSFGlZafG",
+    "name": "When I Grow Up",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0TChNMkPlPTzoxSFGlZafG",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+        "id": "2jw70GZXlAI8QzWeY2bgRc",
+        "name": "Nelly Furtado",
+        "type": "artist",
+        "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 243160,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2yXpGiERagFW5L490TDr4r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2yXpGiERagFW5L490TDr4r",
+    "id": "2yXpGiERagFW5L490TDr4r",
+    "name": "I'm Like A Bird",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:2yXpGiERagFW5L490TDr4r",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        },
+        "href": "https://api.spotify.com/v1/artists/4qwGe91Bz9K2T8jXTZ815W",
+        "id": "4qwGe91Bz9K2T8jXTZ815W",
+        "name": "Janet Jackson",
+        "type": "artist",
+        "uri": "spotify:artist:4qwGe91Bz9K2T8jXTZ815W"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 244160,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6MQvbimt1ubVzKneVuykL8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6MQvbimt1ubVzKneVuykL8",
+    "id": "6MQvbimt1ubVzKneVuykL8",
+    "name": "Nasty",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:6MQvbimt1ubVzKneVuykL8",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        "href": "https://api.spotify.com/v1/artists/6UE7nl9mha6s8z0wFQFIZ2",
+        "id": "6UE7nl9mha6s8z0wFQFIZ2",
+        "name": "Robyn",
+        "type": "artist",
+        "uri": "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227346,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2np3XQCaKP9JP0pjudjKjK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2np3XQCaKP9JP0pjudjKjK",
+    "id": "2np3XQCaKP9JP0pjudjKjK",
+    "name": "Call Your Girlfriend",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2np3XQCaKP9JP0pjudjKjK",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+        "id": "1yxSLGMDHlW21z4YXirZDS",
+        "name": "Black Eyed Peas",
+        "type": "artist",
+        "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 326960,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6Sh1r630KKCDh0FASYbHvj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Sh1r630KKCDh0FASYbHvj",
+    "id": "6Sh1r630KKCDh0FASYbHvj",
+    "name": "My Humps",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:6Sh1r630KKCDh0FASYbHvj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ZikppG9dPedbIgMfnfx8k",
+        "id": "1ZikppG9dPedbIgMfnfx8k",
+        "name": "Ike & Tina Turner",
+        "type": "artist",
+        "uri": "spotify:artist:1ZikppG9dPedbIgMfnfx8k"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 297613,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Abu0FqOFK4J1JdXlGDUJg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Abu0FqOFK4J1JdXlGDUJg",
+    "id": "5Abu0FqOFK4J1JdXlGDUJg",
+    "name": "Proud Mary",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:5Abu0FqOFK4J1JdXlGDUJg",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6wPhSqRtPu1UhRCDX5yaDJ",
+        "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+        "name": "The Pussycat Dolls",
+        "type": "artist",
+        "uri": "spotify:artist:6wPhSqRtPu1UhRCDX5yaDJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id": "1YfEcTuGvBQ8xSD1f53UnK",
+        "name": "Busta Rhymes",
+        "type": "artist",
+        "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 272080,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0duslgG8urSo3yqtqgtiLZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0duslgG8urSo3yqtqgtiLZ",
+    "id": "0duslgG8urSo3yqtqgtiLZ",
+    "name": "Don't Cha",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:0duslgG8urSo3yqtqgtiLZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        },
+        "href": "https://api.spotify.com/v1/artists/3sgUnR8TF35euWEV07RPyO",
+        "id": "3sgUnR8TF35euWEV07RPyO",
+        "name": "Thelma Houston",
+        "type": "artist",
+        "uri": "spotify:artist:3sgUnR8TF35euWEV07RPyO"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216720,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Xwx977J5VdcIVbJSJxxXW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Xwx977J5VdcIVbJSJxxXW",
+    "id": "4Xwx977J5VdcIVbJSJxxXW",
+    "name": "Don't Leave Me This Way - Single Version",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:4Xwx977J5VdcIVbJSJxxXW",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        "href": "https://api.spotify.com/v1/artists/6kBjAFKyd0he7LiA5GQ3Gz",
+        "id": "6kBjAFKyd0he7LiA5GQ3Gz",
+        "name": "Aqua",
+        "type": "artist",
+        "uri": "spotify:artist:6kBjAFKyd0he7LiA5GQ3Gz"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 197960,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0Yyf7uVlBrhBoqJ6XfeSrq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0Yyf7uVlBrhBoqJ6XfeSrq",
+    "id": "0Yyf7uVlBrhBoqJ6XfeSrq",
+    "name": "Barbie Girl",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:0Yyf7uVlBrhBoqJ6XfeSrq",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF",
+        "id": "3rWZHrfrsPBxVy692yAIxF",
+        "name": "WILLOW",
+        "type": "artist",
+        "uri": "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195440,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6ZdnNF8ZOW5DzHn0oftssP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6ZdnNF8ZOW5DzHn0oftssP",
+    "id": "6ZdnNF8ZOW5DzHn0oftssP",
+    "name": "Whip My Hair",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:6ZdnNF8ZOW5DzHn0oftssP",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+        "id": "2DlGxzQSjYe5N6G9nkYghR",
+        "name": "Jennifer Lopez",
+        "type": "artist",
+        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+        "id": "0TnOYISbd1XYRBk9myaseg",
+        "name": "Pitbull",
+        "type": "artist",
+        "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 284866,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4SZmPCRFMYFjhr5C6JD2xP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4SZmPCRFMYFjhr5C6JD2xP",
+    "id": "4SZmPCRFMYFjhr5C6JD2xP",
+    "name": "On The Floor",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:4SZmPCRFMYFjhr5C6JD2xP",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "type": "artist",
+        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178147,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1uhMkKD17r7Ag6ebDzYItl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1uhMkKD17r7Ag6ebDzYItl",
+    "id": "1uhMkKD17r7Ag6ebDzYItl",
+    "name": "good 4 u",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:1uhMkKD17r7Ag6ebDzYItl",
+    "is_local": false
+  }
+]

@@ -1,0 +1,1448 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0eHKdiilT8G0NwIVJtM5C0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0eHKdiilT8G0NwIVJtM5C0",
+        "id": "0eHKdiilT8G0NwIVJtM5C0",
+        "name": "Robert William Lamm",
+        "type": "artist",
+        "uri": "spotify:artist:0eHKdiilT8G0NwIVJtM5C0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 185263,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3TRq0bSDrmnLwov1wRfiUX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3TRq0bSDrmnLwov1wRfiUX",
+    "id": "3TRq0bSDrmnLwov1wRfiUX",
+    "name": "25 or 6 to 4",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3TRq0bSDrmnLwov1wRfiUX",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
+        },
+        "href": "https://api.spotify.com/v1/artists/268mhnkat7rZjlnOsJoZg8",
+        "id": "268mhnkat7rZjlnOsJoZg8",
+        "name": "Shellback",
+        "type": "artist",
+        "uri": "spotify:artist:268mhnkat7rZjlnOsJoZg8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rjeVTt9Ra1ldvN7SpeK0G",
+        "id": "1rjeVTt9Ra1ldvN7SpeK0G",
+        "name": "Max Martin",
+        "type": "artist",
+        "uri": "spotify:artist:1rjeVTt9Ra1ldvN7SpeK0G"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168019,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0bj1bAhoHpHRSl4IIyFvfU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0bj1bAhoHpHRSl4IIyFvfU",
+    "id": "0bj1bAhoHpHRSl4IIyFvfU",
+    "name": "Shake it Off",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0bj1bAhoHpHRSl4IIyFvfU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YhX2onn51M81v4dSZajlX",
+        "id": "5YhX2onn51M81v4dSZajlX",
+        "name": "Leroy Anderson",
+        "type": "artist",
+        "uri": "spotify:artist:5YhX2onn51M81v4dSZajlX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6nMytEwDERokGBOiChfVg7"
+        },
+        "href": "https://api.spotify.com/v1/artists/6nMytEwDERokGBOiChfVg7",
+        "id": "6nMytEwDERokGBOiChfVg7",
+        "name": "Inge Sunde",
+        "type": "artist",
+        "uri": "spotify:artist:6nMytEwDERokGBOiChfVg7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 148665,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Oxi4X18SSOyc76UpouAgD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Oxi4X18SSOyc76UpouAgD",
+    "id": "4Oxi4X18SSOyc76UpouAgD",
+    "name": "Syncopated Clock",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4Oxi4X18SSOyc76UpouAgD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TJOVQKoS7sbGVn8RkkvPI"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TJOVQKoS7sbGVn8RkkvPI",
+        "id": "0TJOVQKoS7sbGVn8RkkvPI",
+        "name": "Brian Johnson",
+        "type": "artist",
+        "uri": "spotify:artist:0TJOVQKoS7sbGVn8RkkvPI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6pGWDT5CTFv5uhYFPGhjmy"
+        },
+        "href": "https://api.spotify.com/v1/artists/6pGWDT5CTFv5uhYFPGhjmy",
+        "id": "6pGWDT5CTFv5uhYFPGhjmy",
+        "name": "Angus Young",
+        "type": "artist",
+        "uri": "spotify:artist:6pGWDT5CTFv5uhYFPGhjmy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/635QWlHZJK2tyDEadZc6TF"
+        },
+        "href": "https://api.spotify.com/v1/artists/635QWlHZJK2tyDEadZc6TF",
+        "id": "635QWlHZJK2tyDEadZc6TF",
+        "name": "Malcolm Young",
+        "type": "artist",
+        "uri": "spotify:artist:635QWlHZJK2tyDEadZc6TF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 215533,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/00GbuJdiGfM2Jo27Dab6Cn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/00GbuJdiGfM2Jo27Dab6Cn",
+    "id": "00GbuJdiGfM2Jo27Dab6Cn",
+    "name": "Back in Black",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:00GbuJdiGfM2Jo27Dab6Cn",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/02DwBaW4pkvPlQfTtkdk2x"
+        },
+        "href": "https://api.spotify.com/v1/artists/02DwBaW4pkvPlQfTtkdk2x",
+        "id": "02DwBaW4pkvPlQfTtkdk2x",
+        "name": "Joachim Nielsen",
+        "type": "artist",
+        "uri": "spotify:artist:02DwBaW4pkvPlQfTtkdk2x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1m0lDVaAccZo2OX7KaNG4F"
+        },
+        "href": "https://api.spotify.com/v1/artists/1m0lDVaAccZo2OX7KaNG4F",
+        "id": "1m0lDVaAccZo2OX7KaNG4F",
+        "name": "John Philip Hannevik",
+        "type": "artist",
+        "uri": "spotify:artist:1m0lDVaAccZo2OX7KaNG4F"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168692,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2lcPjP0FF6iA8uDaDLcrtC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2lcPjP0FF6iA8uDaDLcrtC",
+    "id": "2lcPjP0FF6iA8uDaDLcrtC",
+    "name": "Her kommer vinteren | Winter is coming",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:2lcPjP0FF6iA8uDaDLcrtC",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mEuFKpjKAa6qfFOtTt4ER"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mEuFKpjKAa6qfFOtTt4ER",
+        "id": "1mEuFKpjKAa6qfFOtTt4ER",
+        "name": "Kjetil Bjerkestrand",
+        "type": "artist",
+        "uri": "spotify:artist:1mEuFKpjKAa6qfFOtTt4ER"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 199180,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4lVtGl9Fp1Ci5ICJk8KSAN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4lVtGl9Fp1Ci5ICJk8KSAN",
+    "id": "4lVtGl9Fp1Ci5ICJk8KSAN",
+    "name": "På slottet (Ludvig's Hymn)",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:4lVtGl9Fp1Ci5ICJk8KSAN",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        "href": "https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG",
+        "id": "4aP1lp10BRYZO658B2NwkG",
+        "name": "Andrew Lloyd Webber",
+        "type": "artist",
+        "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1m0lDVaAccZo2OX7KaNG4F"
+        },
+        "href": "https://api.spotify.com/v1/artists/1m0lDVaAccZo2OX7KaNG4F",
+        "id": "1m0lDVaAccZo2OX7KaNG4F",
+        "name": "John Philip Hannevik",
+        "type": "artist",
+        "uri": "spotify:artist:1m0lDVaAccZo2OX7KaNG4F"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 228437,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4INohuFgfjAFPyMhkXHHj8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4INohuFgfjAFPyMhkXHHj8",
+    "id": "4INohuFgfjAFPyMhkXHHj8",
+    "name": "Pie Jesu (From Requiem)",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:4INohuFgfjAFPyMhkXHHj8",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4deM3kmaVYm3CFgY4oZGTx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4deM3kmaVYm3CFgY4oZGTx",
+        "id": "4deM3kmaVYm3CFgY4oZGTx",
+        "name": "Trygve Hoff",
+        "type": "artist",
+        "uri": "spotify:artist:4deM3kmaVYm3CFgY4oZGTx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ht39ctbwLaGwDaz2gdMxu"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ht39ctbwLaGwDaz2gdMxu",
+        "id": "4ht39ctbwLaGwDaz2gdMxu",
+        "name": "Haakon Esplo",
+        "type": "artist",
+        "uri": "spotify:artist:4ht39ctbwLaGwDaz2gdMxu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235972,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0SuqZi4gdtTrHaYU8PX2JI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0SuqZi4gdtTrHaYU8PX2JI",
+    "id": "0SuqZi4gdtTrHaYU8PX2JI",
+    "name": "Nordnorsk julesalme (North-Norwegian Christmas Psalm)",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:0SuqZi4gdtTrHaYU8PX2JI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2UZASJH38RvGhcfsISBryJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2UZASJH38RvGhcfsISBryJ",
+        "id": "2UZASJH38RvGhcfsISBryJ",
+        "name": "Henry Craemer",
+        "type": "artist",
+        "uri": "spotify:artist:2UZASJH38RvGhcfsISBryJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Wpgp3tgigTSHtXocQEqF3"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Wpgp3tgigTSHtXocQEqF3",
+        "id": "6Wpgp3tgigTSHtXocQEqF3",
+        "name": "Turner Layton",
+        "type": "artist",
+        "uri": "spotify:artist:6Wpgp3tgigTSHtXocQEqF3"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6I4G0RaEBFlujUPx3D89X0"
+        },
+        "href": "https://api.spotify.com/v1/artists/6I4G0RaEBFlujUPx3D89X0",
+        "id": "6I4G0RaEBFlujUPx3D89X0",
+        "name": "Øystein S. Heimdal",
+        "type": "artist",
+        "uri": "spotify:artist:6I4G0RaEBFlujUPx3D89X0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 173786,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4dFuSCAbjr6sXE6DhdX2QD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4dFuSCAbjr6sXE6DhdX2QD",
+    "id": "4dFuSCAbjr6sXE6DhdX2QD",
+    "name": "Way Down Yonder in New Orleans",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:4dFuSCAbjr6sXE6DhdX2QD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        "href": "https://api.spotify.com/v1/artists/4x1nvY2FN8jxqAFA0DA02H",
+        "id": "4x1nvY2FN8jxqAFA0DA02H",
+        "name": "John Lennon",
+        "type": "artist",
+        "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        "href": "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+        "id": "4STHEaNw4mPZ2tzheohgXB",
+        "name": "Paul McCartney",
+        "type": "artist",
+        "uri": "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 139517,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2xVdChLauvPlb7qK8C6VOl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2xVdChLauvPlb7qK8C6VOl",
+    "id": "2xVdChLauvPlb7qK8C6VOl",
+    "name": "Can't Buy Me Love",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:2xVdChLauvPlb7qK8C6VOl",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7xicdht6x5EjlVTELm6qt8"
+        },
+        "href": "https://api.spotify.com/v1/artists/7xicdht6x5EjlVTELm6qt8",
+        "id": "7xicdht6x5EjlVTELm6qt8",
+        "name": "Les Reed",
+        "type": "artist",
+        "uri": "spotify:artist:7xicdht6x5EjlVTELm6qt8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2WNbvtZk2aPoock1T9qOM9"
+        },
+        "href": "https://api.spotify.com/v1/artists/2WNbvtZk2aPoock1T9qOM9",
+        "id": "2WNbvtZk2aPoock1T9qOM9",
+        "name": "Gordon Mills",
+        "type": "artist",
+        "uri": "spotify:artist:2WNbvtZk2aPoock1T9qOM9"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 129197,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1dhJEq0McXAHOdLakVHtaL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1dhJEq0McXAHOdLakVHtaL",
+    "id": "1dhJEq0McXAHOdLakVHtaL",
+    "name": "It's Not Unusual",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:1dhJEq0McXAHOdLakVHtaL",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3oL5CpaC5cBSVmERMXuV7d"
+        },
+        "href": "https://api.spotify.com/v1/artists/3oL5CpaC5cBSVmERMXuV7d",
+        "id": "3oL5CpaC5cBSVmERMXuV7d",
+        "name": "Jerry Leiber",
+        "type": "artist",
+        "uri": "spotify:artist:3oL5CpaC5cBSVmERMXuV7d"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wsgQOJMWtqd2GF0sGSRUm"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wsgQOJMWtqd2GF0sGSRUm",
+        "id": "1wsgQOJMWtqd2GF0sGSRUm",
+        "name": "Mike Stoller",
+        "type": "artist",
+        "uri": "spotify:artist:1wsgQOJMWtqd2GF0sGSRUm"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6nMytEwDERokGBOiChfVg7"
+        },
+        "href": "https://api.spotify.com/v1/artists/6nMytEwDERokGBOiChfVg7",
+        "id": "6nMytEwDERokGBOiChfVg7",
+        "name": "Inge Sunde",
+        "type": "artist",
+        "uri": "spotify:artist:6nMytEwDERokGBOiChfVg7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 171374,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6MeGPBZvrl9OiJYszD7AvM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6MeGPBZvrl9OiJYszD7AvM",
+    "id": "6MeGPBZvrl9OiJYszD7AvM",
+    "name": "Lucky Lips",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:6MeGPBZvrl9OiJYszD7AvM",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7MrL6dlW8gcb7T3YhhCdOA",
+        "id": "7MrL6dlW8gcb7T3YhhCdOA",
+        "name": "Yip Harburg",
+        "type": "artist",
+        "uri": "spotify:artist:7MrL6dlW8gcb7T3YhhCdOA"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3vvSZOZ80V7KotrOORpXF7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3vvSZOZ80V7KotrOORpXF7",
+        "id": "3vvSZOZ80V7KotrOORpXF7",
+        "name": "Billy Rose",
+        "type": "artist",
+        "uri": "spotify:artist:3vvSZOZ80V7KotrOORpXF7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7MOUyX1yT017l1Zt0mExIA",
+        "id": "7MOUyX1yT017l1Zt0mExIA",
+        "name": "Harold Arlen",
+        "type": "artist",
+        "uri": "spotify:artist:7MOUyX1yT017l1Zt0mExIA"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187872,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7GovAsbzwpXrgAQEk0dK1a"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7GovAsbzwpXrgAQEk0dK1a",
+    "id": "7GovAsbzwpXrgAQEk0dK1a",
+    "name": "It's Only a Paper Moon",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:7GovAsbzwpXrgAQEk0dK1a",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0EcoCGh88iqNQYwtr4b30o"
+        },
+        "href": "https://api.spotify.com/v1/artists/0EcoCGh88iqNQYwtr4b30o",
+        "id": "0EcoCGh88iqNQYwtr4b30o",
+        "name": "Joan Javits",
+        "type": "artist",
+        "uri": "spotify:artist:0EcoCGh88iqNQYwtr4b30o"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0lgHB1AXXpT8hVY6WUDJcQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0lgHB1AXXpT8hVY6WUDJcQ",
+        "id": "0lgHB1AXXpT8hVY6WUDJcQ",
+        "name": "Philip Springer",
+        "type": "artist",
+        "uri": "spotify:artist:0lgHB1AXXpT8hVY6WUDJcQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5WjprDhRDuHOWkSCwNQZhy"
+        },
+        "href": "https://api.spotify.com/v1/artists/5WjprDhRDuHOWkSCwNQZhy",
+        "id": "5WjprDhRDuHOWkSCwNQZhy",
+        "name": "Tony Springer",
+        "type": "artist",
+        "uri": "spotify:artist:5WjprDhRDuHOWkSCwNQZhy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 170678,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/27tsclvcImSGiQN082KkSQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/27tsclvcImSGiQN082KkSQ",
+    "id": "27tsclvcImSGiQN082KkSQ",
+    "name": "Santa Baby",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:27tsclvcImSGiQN082KkSQ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gqPenZXmxCQR1hGUNvvQE"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gqPenZXmxCQR1hGUNvvQE",
+        "id": "4gqPenZXmxCQR1hGUNvvQE",
+        "name": "Trad.",
+        "type": "artist",
+        "uri": "spotify:artist:4gqPenZXmxCQR1hGUNvvQE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Ah5VowevuY5ei8K0dPBPG"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Ah5VowevuY5ei8K0dPBPG",
+        "id": "4Ah5VowevuY5ei8K0dPBPG",
+        "name": "Svein Fjermestad",
+        "type": "artist",
+        "uri": "spotify:artist:4Ah5VowevuY5ei8K0dPBPG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 144880,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1mQQdCJD5ChRI3plhkMS7c"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1mQQdCJD5ChRI3plhkMS7c",
+    "id": "1mQQdCJD5ChRI3plhkMS7c",
+    "name": "Pål sine balkanhøner (Balkan Chicks)",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:1mQQdCJD5ChRI3plhkMS7c",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4OP1rMsVhH34yYrr5lnWaU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4OP1rMsVhH34yYrr5lnWaU",
+        "id": "4OP1rMsVhH34yYrr5lnWaU",
+        "name": "Idar Lind",
+        "type": "artist",
+        "uri": "spotify:artist:4OP1rMsVhH34yYrr5lnWaU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3BoWK2gCXjFkBz2cayfiNL"
+        },
+        "href": "https://api.spotify.com/v1/artists/3BoWK2gCXjFkBz2cayfiNL",
+        "id": "3BoWK2gCXjFkBz2cayfiNL",
+        "name": "Frode Viken",
+        "type": "artist",
+        "uri": "spotify:artist:3BoWK2gCXjFkBz2cayfiNL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ht39ctbwLaGwDaz2gdMxu"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ht39ctbwLaGwDaz2gdMxu",
+        "id": "4ht39ctbwLaGwDaz2gdMxu",
+        "name": "Haakon Esplo",
+        "type": "artist",
+        "uri": "spotify:artist:4ht39ctbwLaGwDaz2gdMxu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 165360,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0lp5UHskAOp3uQi5EIIrFk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0lp5UHskAOp3uQi5EIIrFk",
+    "id": "0lp5UHskAOp3uQi5EIIrFk",
+    "name": "Rompa mi (Behind)",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:0lp5UHskAOp3uQi5EIIrFk",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3oL5CpaC5cBSVmERMXuV7d"
+        },
+        "href": "https://api.spotify.com/v1/artists/3oL5CpaC5cBSVmERMXuV7d",
+        "id": "3oL5CpaC5cBSVmERMXuV7d",
+        "name": "Jerry Leiber",
+        "type": "artist",
+        "uri": "spotify:artist:3oL5CpaC5cBSVmERMXuV7d"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        },
+        "href": "https://api.spotify.com/v1/artists/3plJVWt88EqjvtuB4ZDRV3",
+        "id": "3plJVWt88EqjvtuB4ZDRV3",
+        "name": "Ben E. King",
+        "type": "artist",
+        "uri": "spotify:artist:3plJVWt88EqjvtuB4ZDRV3"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wsgQOJMWtqd2GF0sGSRUm"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wsgQOJMWtqd2GF0sGSRUm",
+        "id": "1wsgQOJMWtqd2GF0sGSRUm",
+        "name": "Mike Stoller",
+        "type": "artist",
+        "uri": "spotify:artist:1wsgQOJMWtqd2GF0sGSRUm"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 136016,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2W14FfZxNYfHiSembbNXMt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2W14FfZxNYfHiSembbNXMt",
+    "id": "2W14FfZxNYfHiSembbNXMt",
+    "name": "Stand by Me",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:2W14FfZxNYfHiSembbNXMt",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6kD825qRQoUKwYKDar95SP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6kD825qRQoUKwYKDar95SP",
+        "id": "6kD825qRQoUKwYKDar95SP",
+        "name": "Terje Formoe",
+        "type": "artist",
+        "uri": "spotify:artist:6kD825qRQoUKwYKDar95SP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 145237,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3nKc9alNU4qTaQQMeDm8Vj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3nKc9alNU4qTaQQMeDm8Vj",
+    "id": "3nKc9alNU4qTaQQMeDm8Vj",
+    "name": "Kaptein Sabeltanns bursdagssang (Birthday Song)",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:3nKc9alNU4qTaQQMeDm8Vj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0B44mME3gqmZrjdLI2sUYT"
+        },
+        "href": "https://api.spotify.com/v1/artists/0B44mME3gqmZrjdLI2sUYT",
+        "id": "0B44mME3gqmZrjdLI2sUYT",
+        "name": "Lars Kilevold",
+        "type": "artist",
+        "uri": "spotify:artist:0B44mME3gqmZrjdLI2sUYT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 97564,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0e7siszX7CzhBCQWzyYwwC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0e7siszX7CzhBCQWzyYwwC",
+    "id": "0e7siszX7CzhBCQWzyYwwC",
+    "name": "Fly, ja fly (Fly Away)",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:0e7siszX7CzhBCQWzyYwwC",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2R2KAPIjNWXsqWkSVUp9Cp"
+        },
+        "href": "https://api.spotify.com/v1/artists/2R2KAPIjNWXsqWkSVUp9Cp",
+        "id": "2R2KAPIjNWXsqWkSVUp9Cp",
+        "name": "Øystein Dolmen",
+        "type": "artist",
+        "uri": "spotify:artist:2R2KAPIjNWXsqWkSVUp9Cp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yR3A2DxNv6XsLzI0J9pbj"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yR3A2DxNv6XsLzI0J9pbj",
+        "id": "4yR3A2DxNv6XsLzI0J9pbj",
+        "name": "Gustav Lorentzen",
+        "type": "artist",
+        "uri": "spotify:artist:4yR3A2DxNv6XsLzI0J9pbj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Vk2wHVbFh1TmmMDLDwZnl"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Vk2wHVbFh1TmmMDLDwZnl",
+        "id": "6Vk2wHVbFh1TmmMDLDwZnl",
+        "name": "Dolmen",
+        "type": "artist",
+        "uri": "spotify:artist:6Vk2wHVbFh1TmmMDLDwZnl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jqnuCdTBclH4avhW47KA4"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jqnuCdTBclH4avhW47KA4",
+        "id": "2jqnuCdTBclH4avhW47KA4",
+        "name": "Lorentzen",
+        "type": "artist",
+        "uri": "spotify:artist:2jqnuCdTBclH4avhW47KA4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6r6EghR659X49aCM0bXGTF"
+        },
+        "href": "https://api.spotify.com/v1/artists/6r6EghR659X49aCM0bXGTF",
+        "id": "6r6EghR659X49aCM0bXGTF",
+        "name": "Elisabeth Vannebo",
+        "type": "artist",
+        "uri": "spotify:artist:6r6EghR659X49aCM0bXGTF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 127663,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2CovpVqlJBbs3QATg1dPE2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2CovpVqlJBbs3QATg1dPE2",
+    "id": "2CovpVqlJBbs3QATg1dPE2",
+    "name": "Godmorgen Norge (Good Morning Norway)",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:2CovpVqlJBbs3QATg1dPE2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5EcuGrVHYDB2IdHphP4QLI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5EcuGrVHYDB2IdHphP4QLI",
+        "id": "5EcuGrVHYDB2IdHphP4QLI",
+        "name": "Simen Bakkåker",
+        "type": "artist",
+        "uri": "spotify:artist:5EcuGrVHYDB2IdHphP4QLI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eUgwZqAxbGI6VWPlLfGze"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eUgwZqAxbGI6VWPlLfGze",
+        "id": "3eUgwZqAxbGI6VWPlLfGze",
+        "name": "Audun Rørmark",
+        "type": "artist",
+        "uri": "spotify:artist:3eUgwZqAxbGI6VWPlLfGze"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0DYTk4ejr0gxtpW2y8e4F5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0DYTk4ejr0gxtpW2y8e4F5",
+        "id": "0DYTk4ejr0gxtpW2y8e4F5",
+        "name": "Eline Nesje",
+        "type": "artist",
+        "uri": "spotify:artist:0DYTk4ejr0gxtpW2y8e4F5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2d4gjzF6eeGOIcIHiN7mO4"
+        },
+        "href": "https://api.spotify.com/v1/artists/2d4gjzF6eeGOIcIHiN7mO4",
+        "id": "2d4gjzF6eeGOIcIHiN7mO4",
+        "name": "Annika Sveinsson Momrak",
+        "type": "artist",
+        "uri": "spotify:artist:2d4gjzF6eeGOIcIHiN7mO4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 162382,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7rIR7VRFbKNfh7G8MLmBvX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7rIR7VRFbKNfh7G8MLmBvX",
+    "id": "7rIR7VRFbKNfh7G8MLmBvX",
+    "name": "Så sur da | Why be so whiny",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:7rIR7VRFbKNfh7G8MLmBvX",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 66060,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3tofmEgphuAfOssJs6ZKQp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3tofmEgphuAfOssJs6ZKQp",
+    "id": "3tofmEgphuAfOssJs6ZKQp",
+    "name": "Four Episodes for Band - Mvt. 1 Moderato",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:3tofmEgphuAfOssJs6ZKQp",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 100774,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/31NKPqBdS7NxGX5H8t12P8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/31NKPqBdS7NxGX5H8t12P8",
+    "id": "31NKPqBdS7NxGX5H8t12P8",
+    "name": "Four Episodes for Band - Mvt. 2 Andante",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:31NKPqBdS7NxGX5H8t12P8",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 94551,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4hXe4zvJFgaXuABBdsGKHv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4hXe4zvJFgaXuABBdsGKHv",
+    "id": "4hXe4zvJFgaXuABBdsGKHv",
+    "name": "Four Episodes for Band - Mvt. 3 Pesante",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:4hXe4zvJFgaXuABBdsGKHv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jXO7ZKYfqB2LAHI1XaioC"
+        },
+        "href": "https://api.spotify.com/v1/artists/4jXO7ZKYfqB2LAHI1XaioC",
+        "id": "4jXO7ZKYfqB2LAHI1XaioC",
+        "name": "Idar Torskangerpoll",
+        "type": "artist",
+        "uri": "spotify:artist:4jXO7ZKYfqB2LAHI1XaioC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 74396,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7vO23aZ6gAIu36vB89YKqv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7vO23aZ6gAIu36vB89YKqv",
+    "id": "7vO23aZ6gAIu36vB89YKqv",
+    "name": "Four Episodes for Band - Mvt. 4 Allegro",
+    "track_number": 25,
+    "type": "track",
+    "uri": "spotify:track:7vO23aZ6gAIu36vB89YKqv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        },
+        "href": "https://api.spotify.com/v1/artists/293zczrfYafIItmnmM3coR",
+        "id": "293zczrfYafIItmnmM3coR",
+        "name": "Chuck Berry",
+        "type": "artist",
+        "uri": "spotify:artist:293zczrfYafIItmnmM3coR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/44kneN2t6ZkG8dEm7mfDXG"
+        },
+        "href": "https://api.spotify.com/v1/artists/44kneN2t6ZkG8dEm7mfDXG",
+        "id": "44kneN2t6ZkG8dEm7mfDXG",
+        "name": "Scott Rogers",
+        "type": "artist",
+        "uri": "spotify:artist:44kneN2t6ZkG8dEm7mfDXG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 105943,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Ipr65RYKSo4gDLBXeGvL0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Ipr65RYKSo4gDLBXeGvL0",
+    "id": "4Ipr65RYKSo4gDLBXeGvL0",
+    "name": "Johnny B. Goode",
+    "track_number": 26,
+    "type": "track",
+    "uri": "spotify:track:4Ipr65RYKSo4gDLBXeGvL0",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3iaVXonnnlGLW3BHz1BDER"
+        },
+        "href": "https://api.spotify.com/v1/artists/3iaVXonnnlGLW3BHz1BDER",
+        "id": "3iaVXonnnlGLW3BHz1BDER",
+        "name": "Karel Svoboda",
+        "type": "artist",
+        "uri": "spotify:artist:3iaVXonnnlGLW3BHz1BDER"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/44kneN2t6ZkG8dEm7mfDXG"
+        },
+        "href": "https://api.spotify.com/v1/artists/44kneN2t6ZkG8dEm7mfDXG",
+        "id": "44kneN2t6ZkG8dEm7mfDXG",
+        "name": "Scott Rogers",
+        "type": "artist",
+        "uri": "spotify:artist:44kneN2t6ZkG8dEm7mfDXG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 108297,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7BICrbcGYePY7CIrMDZcbC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BICrbcGYePY7CIrMDZcbC",
+    "id": "7BICrbcGYePY7CIrMDZcbC",
+    "name": "Tre nøtter til Askepott (Three Hazelnuts for Cinderella)",
+    "track_number": 27,
+    "type": "track",
+    "uri": "spotify:track:7BICrbcGYePY7CIrMDZcbC",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gqPenZXmxCQR1hGUNvvQE"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gqPenZXmxCQR1hGUNvvQE",
+        "id": "4gqPenZXmxCQR1hGUNvvQE",
+        "name": "Trad.",
+        "type": "artist",
+        "uri": "spotify:artist:4gqPenZXmxCQR1hGUNvvQE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04RILPmJ4Wtm7LK9Kr3oVG"
+        },
+        "href": "https://api.spotify.com/v1/artists/04RILPmJ4Wtm7LK9Kr3oVG",
+        "id": "04RILPmJ4Wtm7LK9Kr3oVG",
+        "name": "Egyptian Folksong",
+        "type": "artist",
+        "uri": "spotify:artist:04RILPmJ4Wtm7LK9Kr3oVG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/44kneN2t6ZkG8dEm7mfDXG"
+        },
+        "href": "https://api.spotify.com/v1/artists/44kneN2t6ZkG8dEm7mfDXG",
+        "id": "44kneN2t6ZkG8dEm7mfDXG",
+        "name": "Scott Rogers",
+        "type": "artist",
+        "uri": "spotify:artist:44kneN2t6ZkG8dEm7mfDXG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xGPKKf0qlDo5CTNFlZQHo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xGPKKf0qlDo5CTNFlZQHo",
+        "id": "4xGPKKf0qlDo5CTNFlZQHo",
+        "name": "Noteservice Wind Ensemble",
+        "type": "artist",
+        "uri": "spotify:artist:4xGPKKf0qlDo5CTNFlZQHo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 96734,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4g0j49fxOz7sWmLsSTsvxL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4g0j49fxOz7sWmLsSTsvxL",
+    "id": "4g0j49fxOz7sWmLsSTsvxL",
+    "name": "A Ya Zain (Oh Beautiful)",
+    "track_number": 28,
+    "type": "track",
+    "uri": "spotify:track:4g0j49fxOz7sWmLsSTsvxL",
+    "is_local": false
+  }
+]

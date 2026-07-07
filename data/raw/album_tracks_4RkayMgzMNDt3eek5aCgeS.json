@@ -1,0 +1,922 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+        "id": "2wY79sveU1sp5g7SokKOiI",
+        "name": "Sam Smith",
+        "type": "artist",
+        "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 166346,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1UVp0SIqVJft4VhWL3DW4L"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1UVp0SIqVJft4VhWL3DW4L",
+    "id": "1UVp0SIqVJft4VhWL3DW4L",
+    "name": "Like I Can",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1UVp0SIqVJft4VhWL3DW4L",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ETSs924pXMzjIeD6E9b4u",
+        "id": "4ETSs924pXMzjIeD6E9b4u",
+        "name": "Surfaces",
+        "type": "artist",
+        "uri": "spotify:artist:4ETSs924pXMzjIeD6E9b4u"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        },
+        "href": "https://api.spotify.com/v1/artists/2kCO8LXN1usaOPL3iEE28I",
+        "id": "2kCO8LXN1usaOPL3iEE28I",
+        "name": "Tai Verdes",
+        "type": "artist",
+        "uri": "spotify:artist:2kCO8LXN1usaOPL3iEE28I"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 148846,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5bdqtgYCiaF3EsXzNuDIC9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5bdqtgYCiaF3EsXzNuDIC9",
+    "id": "5bdqtgYCiaF3EsXzNuDIC9",
+    "name": "Sheesh!",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5bdqtgYCiaF3EsXzNuDIC9",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        },
+        "href": "https://api.spotify.com/v1/artists/6aX6KqXgEcARRHwvWxHcFW",
+        "id": "6aX6KqXgEcARRHwvWxHcFW",
+        "name": "Johnny Orlando",
+        "type": "artist",
+        "uri": "spotify:artist:6aX6KqXgEcARRHwvWxHcFW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175508,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6rrDjWwqHqye8de8BNQbdM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6rrDjWwqHqye8de8BNQbdM",
+    "id": "6rrDjWwqHqye8de8BNQbdM",
+    "name": "Daydream",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6rrDjWwqHqye8de8BNQbdM",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
+        },
+        "href": "https://api.spotify.com/v1/artists/64H8UqGLbJFHwKtGxiV8OP",
+        "id": "64H8UqGLbJFHwKtGxiV8OP",
+        "name": "THE ANXIETY",
+        "type": "artist",
+        "uri": "spotify:artist:64H8UqGLbJFHwKtGxiV8OP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF",
+        "id": "3rWZHrfrsPBxVy692yAIxF",
+        "name": "WILLOW",
+        "type": "artist",
+        "uri": "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xoxekeb8jUVHKJB7m6bfg",
+        "id": "1xoxekeb8jUVHKJB7m6bfg",
+        "name": "Tyler Cole",
+        "type": "artist",
+        "uri": "spotify:artist:1xoxekeb8jUVHKJB7m6bfg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 162680,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6xBhhJaQGvuvYJxKTvNIbr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6xBhhJaQGvuvYJxKTvNIbr",
+    "id": "6xBhhJaQGvuvYJxKTvNIbr",
+    "name": "Meet Me At Our Spot",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:6xBhhJaQGvuvYJxKTvNIbr",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yvcSjfu4PC0CYQyLy4wSq",
+        "id": "4yvcSjfu4PC0CYQyLy4wSq",
+        "name": "Glass Animals",
+        "type": "artist",
+        "uri": "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 238805,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1jj0YFM7LAyuPqmD8r3skL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1jj0YFM7LAyuPqmD8r3skL",
+    "id": "1jj0YFM7LAyuPqmD8r3skL",
+    "name": "Heat Waves",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1jj0YFM7LAyuPqmD8r3skL",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 151444,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6U31j1t8FfjmCcZoBxKKjP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6U31j1t8FfjmCcZoBxKKjP",
+    "id": "6U31j1t8FfjmCcZoBxKKjP",
+    "name": "Happier Than Ever - Edit",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6U31j1t8FfjmCcZoBxKKjP",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        "href": "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+        "id": "540vIaP2JwjQb9dm3aArA4",
+        "name": "DJ Snake",
+        "type": "artist",
+        "uri": "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180480,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/21Im4JEftLuXpY0P7vvQZJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/21Im4JEftLuXpY0P7vvQZJ",
+    "id": "21Im4JEftLuXpY0P7vvQZJ",
+    "name": "U Are My High",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:21Im4JEftLuXpY0P7vvQZJ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        },
+        "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc",
+        "id": "6aq8T2RcspxVOGgMrTzjWc",
+        "name": "Soft Cell",
+        "type": "artist",
+        "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160051,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/32x1Y0UDigd0GPq9CxgcQq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/32x1Y0UDigd0GPq9CxgcQq",
+    "id": "32x1Y0UDigd0GPq9CxgcQq",
+    "name": "Tainted Love",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:32x1Y0UDigd0GPq9CxgcQq",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        "href": "https://api.spotify.com/v1/artists/6YCM9JwkqdEFQSzztmh4Kb",
+        "id": "6YCM9JwkqdEFQSzztmh4Kb",
+        "name": "Navos",
+        "type": "artist",
+        "uri": "spotify:artist:6YCM9JwkqdEFQSzztmh4Kb"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188260,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0uBdlVFd0jyalawFkSm7jo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0uBdlVFd0jyalawFkSm7jo",
+    "id": "0uBdlVFd0jyalawFkSm7jo",
+    "name": "Believe Me",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0uBdlVFd0jyalawFkSm7jo",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href": "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id": "4NHQUGzhtTLFvgF5SZesLK",
+        "name": "Tove Lo",
+        "type": "artist",
+        "uri": "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 208000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0evejlxEfxq24WaO8tlOLO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0evejlxEfxq24WaO8tlOLO",
+    "id": "0evejlxEfxq24WaO8tlOLO",
+    "name": "Habits (Stay High)",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:0evejlxEfxq24WaO8tlOLO",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+        "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+        "name": "J Balvin",
+        "type": "artist",
+        "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        "href": "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+        "id": "5he5w2lnU9x7JFhnwcekXX",
+        "name": "Skrillex",
+        "type": "artist",
+        "uri": "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 130666,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2u8OOUfwrB0VGrhaOWXgvu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2u8OOUfwrB0VGrhaOWXgvu",
+    "id": "2u8OOUfwrB0VGrhaOWXgvu",
+    "name": "In Da Getto",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:2u8OOUfwrB0VGrhaOWXgvu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        },
+        "href": "https://api.spotify.com/v1/artists/7mX72Bq2iXNr8fZdu23fQL",
+        "id": "7mX72Bq2iXNr8fZdu23fQL",
+        "name": "Boslen",
+        "type": "artist",
+        "uri": "spotify:artist:7mX72Bq2iXNr8fZdu23fQL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        },
+        "href": "https://api.spotify.com/v1/artists/46fHMu9KxdQwcGV9xI1L9R",
+        "id": "46fHMu9KxdQwcGV9xI1L9R",
+        "name": "Dro Kenji",
+        "type": "artist",
+        "uri": "spotify:artist:46fHMu9KxdQwcGV9xI1L9R"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 149042,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2TPQ8TwjOB8XBk1ZXMEsbj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2TPQ8TwjOB8XBk1ZXMEsbj",
+    "id": "2TPQ8TwjOB8XBk1ZXMEsbj",
+    "name": "NIGHTFALL",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:2TPQ8TwjOB8XBk1ZXMEsbj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        "href": "https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D",
+        "id": "7iZtZyCzp3LItcw1wtPI3D",
+        "name": "Rae Sremmurd",
+        "type": "artist",
+        "uri": "spotify:artist:7iZtZyCzp3LItcw1wtPI3D"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200080,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0rrdPj7FwE1xY3EqhEgCJb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0rrdPj7FwE1xY3EqhEgCJb",
+    "id": "0rrdPj7FwE1xY3EqhEgCJb",
+    "name": "No Type",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:0rrdPj7FwE1xY3EqhEgCJb",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "type": "artist",
+        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 229226,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2SxJK926Qm1Quk7IPn43IK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2SxJK926Qm1Quk7IPn43IK",
+    "id": "2SxJK926Qm1Quk7IPn43IK",
+    "name": "traitor",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:2SxJK926Qm1Quk7IPn43IK",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 261920,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4lL3Lk1aEF197XZP3jB0VX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4lL3Lk1aEF197XZP3jB0VX",
+    "id": "4lL3Lk1aEF197XZP3jB0VX",
+    "name": "august",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:4lL3Lk1aEF197XZP3jB0VX",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "type": "artist",
+        "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 234320,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5sDINCczQHDsNrkV9x7pNB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sDINCczQHDsNrkV9x7pNB",
+    "id": "5sDINCczQHDsNrkV9x7pNB",
+    "name": "Cold",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:5sDINCczQHDsNrkV9x7pNB",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        },
+        "href": "https://api.spotify.com/v1/artists/7blXVKBSxdFZsIqlhdViKc",
+        "id": "7blXVKBSxdFZsIqlhdViKc",
+        "name": "Valley",
+        "type": "artist",
+        "uri": "spotify:artist:7blXVKBSxdFZsIqlhdViKc"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 155384,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5mY5dfEq2OpBfadAGUmxhI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5mY5dfEq2OpBfadAGUmxhI",
+    "id": "5mY5dfEq2OpBfadAGUmxhI",
+    "name": "Oh shit…are we in love?",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:5mY5dfEq2OpBfadAGUmxhI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 158463,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/62Zb5Z6hdaQQoNZqRddbDv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/62Zb5Z6hdaQQoNZqRddbDv",
+    "id": "62Zb5Z6hdaQQoNZqRddbDv",
+    "name": "I Didn't Change My Number",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:62Zb5Z6hdaQQoNZqRddbDv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        "href": "https://api.spotify.com/v1/artists/0BvkDsjIUla7X0k6CSWh1I",
+        "id": "0BvkDsjIUla7X0k6CSWh1I",
+        "name": "Luke Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:0BvkDsjIUla7X0k6CSWh1I"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190186,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2aqCLVnROD7wG8OD0qUUlQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2aqCLVnROD7wG8OD0qUUlQ",
+    "id": "2aqCLVnROD7wG8OD0qUUlQ",
+    "name": "That's My Kind Of Night",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:2aqCLVnROD7wG8OD0qUUlQ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+        "id": "4yiQZ8tQPux8cPriYMWUFP",
+        "name": "Gwen Stefani",
+        "type": "artist",
+        "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 264920,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3mPESr90OBPcHKMvnXiMhu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3mPESr90OBPcHKMvnXiMhu",
+    "id": "3mPESr90OBPcHKMvnXiMhu",
+    "name": "Luxurious - Remastered 2019",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:3mPESr90OBPcHKMvnXiMhu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+        "id": "0LcJLqbBmaGUft1e9Mm8HV",
+        "name": "ABBA",
+        "type": "artist",
+        "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 231093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2EAeOOoBzODLtsVL1ywbTk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2EAeOOoBzODLtsVL1ywbTk",
+    "id": "2EAeOOoBzODLtsVL1ywbTk",
+    "name": "Dancing Queen",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:2EAeOOoBzODLtsVL1ywbTk",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "type": "artist",
+        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 178147,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1XCChXA5KBsWtY9KgfPrcE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1XCChXA5KBsWtY9KgfPrcE",
+    "id": "1XCChXA5KBsWtY9KgfPrcE",
+    "name": "good 4 u",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:1XCChXA5KBsWtY9KgfPrcE",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+        "id": "0fA0VVWsXO9YnASrzqfmYu",
+        "name": "Kid Cudi",
+        "type": "artist",
+        "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
+        "type": "artist",
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        },
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "name": "Ratatat",
+        "type": "artist",
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 295693,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2cgbw0T9vG0nJH0Xw8qyFZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2cgbw0T9vG0nJH0Xw8qyFZ",
+    "id": "2cgbw0T9vG0nJH0Xw8qyFZ",
+    "name": "Pursuit Of Happiness (Nightmare)",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:2cgbw0T9vG0nJH0Xw8qyFZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+        "id": "53XhwfbYqKCa1cC15pYq2q",
+        "name": "Imagine Dragons",
+        "type": "artist",
+        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 244004,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1qdgz3RtEgGH7wnmIfPpS7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1qdgz3RtEgGH7wnmIfPpS7",
+    "id": "1qdgz3RtEgGH7wnmIfPpS7",
+    "name": "Wrecked",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:1qdgz3RtEgGH7wnmIfPpS7",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220226,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5tpGHQ7CbwVBOrNmZpdTqn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5tpGHQ7CbwVBOrNmZpdTqn",
+    "id": "5tpGHQ7CbwVBOrNmZpdTqn",
+    "name": "Hot N Cold",
+    "track_number": 25,
+    "type": "track",
+    "uri": "spotify:track:5tpGHQ7CbwVBOrNmZpdTqn",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 185480,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0lxLskFohFSvWMqYfIAeWP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0lxLskFohFSvWMqYfIAeWP",
+    "id": "0lxLskFohFSvWMqYfIAeWP",
+    "name": "Harleys In Hawaii",
+    "track_number": 26,
+    "type": "track",
+    "uri": "spotify:track:0lxLskFohFSvWMqYfIAeWP",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        "href": "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+        "id": "6TIYQ3jFPwQSRmorSezPxX",
+        "name": "mgk",
+        "type": "artist",
+        "uri": "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        "href": "https://api.spotify.com/v1/artists/7yntSJ6uojO3z6GFUVwhAW",
+        "id": "7yntSJ6uojO3z6GFUVwhAW",
+        "name": "CORPSE",
+        "type": "artist",
+        "uri": "spotify:artist:7yntSJ6uojO3z6GFUVwhAW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 137746,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0XAWBtaOGOVP6lOIQQWsfD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0XAWBtaOGOVP6lOIQQWsfD",
+    "id": "0XAWBtaOGOVP6lOIQQWsfD",
+    "name": "DAYWALKER!",
+    "track_number": 27,
+    "type": "track",
+    "uri": "spotify:track:0XAWBtaOGOVP6lOIQQWsfD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        "href": "https://api.spotify.com/v1/artists/49YbNTLaaAbZHLtDI2aPGL",
+        "id": "49YbNTLaaAbZHLtDI2aPGL",
+        "name": "Tesher",
+        "type": "artist",
+        "uri": "spotify:artist:49YbNTLaaAbZHLtDI2aPGL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        "href": "https://api.spotify.com/v1/artists/07YZf4WDAMNwqr4jfgOZ8y",
+        "id": "07YZf4WDAMNwqr4jfgOZ8y",
+        "name": "Jason Derulo",
+        "type": "artist",
+        "uri": "spotify:artist:07YZf4WDAMNwqr4jfgOZ8y"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169154,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5uPxDZxNLhC4pFLcoy33aU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5uPxDZxNLhC4pFLcoy33aU",
+    "id": "5uPxDZxNLhC4pFLcoy33aU",
+    "name": "Jalebi Baby",
+    "track_number": 28,
+    "type": "track",
+    "uri": "spotify:track:5uPxDZxNLhC4pFLcoy33aU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        },
+        "href": "https://api.spotify.com/v1/artists/6DdbeAeBlrYj8bNToZv4TY",
+        "id": "6DdbeAeBlrYj8bNToZv4TY",
+        "name": "JESSIA",
+        "type": "artist",
+        "uri": "spotify:artist:6DdbeAeBlrYj8bNToZv4TY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+        "id": "64M6ah0SkkRsnPGtGiRAbb",
+        "name": "Bebe Rexha",
+        "type": "artist",
+        "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 118400,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6NCxpmKLfHcHq7m1hEtQ5W"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6NCxpmKLfHcHq7m1hEtQ5W",
+    "id": "6NCxpmKLfHcHq7m1hEtQ5W",
+    "name": "I'm not Pretty - Remix",
+    "track_number": 29,
+    "type": "track",
+    "uri": "spotify:track:6NCxpmKLfHcHq7m1hEtQ5W",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        },
+        "href": "https://api.spotify.com/v1/artists/06vEAqcicwoSBw85e8biJx",
+        "id": "06vEAqcicwoSBw85e8biJx",
+        "name": "Rêve",
+        "type": "artist",
+        "uri": "spotify:artist:06vEAqcicwoSBw85e8biJx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 163945,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/146waFcjeTt7rtlBY2VQ8F"
+    },
+    "href": "https://api.spotify.com/v1/tracks/146waFcjeTt7rtlBY2VQ8F",
+    "id": "146waFcjeTt7rtlBY2VQ8F",
+    "name": "Still Dancing",
+    "track_number": 30,
+    "type": "track",
+    "uri": "spotify:track:146waFcjeTt7rtlBY2VQ8F",
+    "is_local": false
+  }
+]

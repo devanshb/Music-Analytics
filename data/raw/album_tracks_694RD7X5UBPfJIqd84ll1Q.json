@@ -1,0 +1,795 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 239560,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5VDHalOMNkFiv3sp8jZ1cj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5VDHalOMNkFiv3sp8jZ1cj",
+    "id": "5VDHalOMNkFiv3sp8jZ1cj",
+    "name": "cardigan",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5VDHalOMNkFiv3sp8jZ1cj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+        "id": "70kkdajctXSbqSMJbQO424",
+        "name": "Kacey Musgraves",
+        "type": "artist",
+        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 246133,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0MX9c4mfiiEBtLtA6sEyCD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0MX9c4mfiiEBtLtA6sEyCD",
+    "id": "0MX9c4mfiiEBtLtA6sEyCD",
+    "name": "Slow Burn",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0MX9c4mfiiEBtLtA6sEyCD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        },
+        "href": "https://api.spotify.com/v1/artists/49tQo2QULno7gxHutgccqF",
+        "id": "49tQo2QULno7gxHutgccqF",
+        "name": "LANY",
+        "type": "artist",
+        "uri": "spotify:artist:49tQo2QULno7gxHutgccqF"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 203853,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2uEIYwmKNDUZpPyF8Z1oOh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2uEIYwmKNDUZpPyF8Z1oOh",
+    "id": "2uEIYwmKNDUZpPyF8Z1oOh",
+    "name": "if this is the last time",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2uEIYwmKNDUZpPyF8Z1oOh",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200386,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0u9W5WFFOep3HzhYYnRjlN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0u9W5WFFOep3HzhYYnRjlN",
+    "id": "0u9W5WFFOep3HzhYYnRjlN",
+    "name": "ocean eyes",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0u9W5WFFOep3HzhYYnRjlN",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+        "id": "163tK9Wjr9P9DmM0AVK7lm",
+        "name": "Lorde",
+        "type": "artist",
+        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 367391,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5iaaZjH5vJPF5o1pZNSXeO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5iaaZjH5vJPF5o1pZNSXeO",
+    "id": "5iaaZjH5vJPF5o1pZNSXeO",
+    "name": "Hard Feelings/Loveless",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5iaaZjH5vJPF5o1pZNSXeO",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
+        "id": "4Uc8Dsxct0oMqx0P6i60ea",
+        "name": "Conan Gray",
+        "type": "artist",
+        "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168883,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6aDfz7FoWTFQZ2GugxZqpu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6aDfz7FoWTFQZ2GugxZqpu",
+    "id": "6aDfz7FoWTFQZ2GugxZqpu",
+    "name": "Wish You Were Sober",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6aDfz7FoWTFQZ2GugxZqpu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR",
+        "id": "2wUjUUtkb5lvLKcGKsKqsR",
+        "name": "Alessia Cara",
+        "type": "artist",
+        "uri": "spotify:artist:2wUjUUtkb5lvLKcGKsKqsR"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 181881,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0zdbmefuotj48N0Q2KGbAG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0zdbmefuotj48N0Q2KGbAG",
+    "id": "0zdbmefuotj48N0Q2KGbAG",
+    "name": "Sweet Dream",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0zdbmefuotj48N0Q2KGbAG",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "type": "artist",
+        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 215507,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2g0Z27wiXbVF8p0IGOxa79"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2g0Z27wiXbVF8p0IGOxa79",
+    "id": "2g0Z27wiXbVF8p0IGOxa79",
+    "name": "deja vu",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:2g0Z27wiXbVF8p0IGOxa79",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m",
+        "id": "0ZED1XzwlLHW4ZaG4lOT6m",
+        "name": "Julia Michaels",
+        "type": "artist",
+        "uri": "spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 192373,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3gAlPl9BIOFwaqZbf0KEPb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3gAlPl9BIOFwaqZbf0KEPb",
+    "id": "3gAlPl9BIOFwaqZbf0KEPb",
+    "name": "Into You",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:3gAlPl9BIOFwaqZbf0KEPb",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        "href": "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+        "id": "5V0MlUE1Bft0mbLlND7FJz",
+        "name": "Ella Fitzgerald",
+        "type": "artist",
+        "uri": "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 424317,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3DgVGQRRuNFWpjHsILBNsI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3DgVGQRRuNFWpjHsILBNsI",
+    "id": "3DgVGQRRuNFWpjHsILBNsI",
+    "name": "Bewitched, Bothered, And Bewildered - Stereo Version",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:3DgVGQRRuNFWpjHsILBNsI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        "href": "https://api.spotify.com/v1/artists/4EzkuveR9pLvDVFNx6foYD",
+        "id": "4EzkuveR9pLvDVFNx6foYD",
+        "name": "James Bay",
+        "type": "artist",
+        "uri": "spotify:artist:4EzkuveR9pLvDVFNx6foYD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m",
+        "id": "0ZED1XzwlLHW4ZaG4lOT6m",
+        "name": "Julia Michaels",
+        "type": "artist",
+        "uri": "spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 176826,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5wUHazdE7T7YYhG4zPIcuB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5wUHazdE7T7YYhG4zPIcuB",
+    "id": "5wUHazdE7T7YYhG4zPIcuB",
+    "name": "Peer Pressure",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:5wUHazdE7T7YYhG4zPIcuB",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Mf99N2VcDEcVuocyBLhyC",
+        "id": "2Mf99N2VcDEcVuocyBLhyC",
+        "name": "Greg Laswell",
+        "type": "artist",
+        "uri": "spotify:artist:2Mf99N2VcDEcVuocyBLhyC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 253546,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6PQUBSJeEWdmiycroZd9i5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6PQUBSJeEWdmiycroZd9i5",
+    "id": "6PQUBSJeEWdmiycroZd9i5",
+    "name": "Comes And Goes (In Waves)",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:6PQUBSJeEWdmiycroZd9i5",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+        "id": "1moxjboGR7GNWYIMWsRjgG",
+        "name": "Florence + The Machine",
+        "type": "artist",
+        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226160,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7jFMsFKyQADuhK69SfReAk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7jFMsFKyQADuhK69SfReAk",
+    "id": "7jFMsFKyQADuhK69SfReAk",
+    "name": "Sky Full Of Song",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:7jFMsFKyQADuhK69SfReAk",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        "href": "https://api.spotify.com/v1/artists/5XKFrudbV4IiuE5WuTPRmT",
+        "id": "5XKFrudbV4IiuE5WuTPRmT",
+        "name": "Stephen Sanchez",
+        "type": "artist",
+        "uri": "spotify:artist:5XKFrudbV4IiuE5WuTPRmT"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 264013,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7u0H9wCYn17uZOJoHiXipU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7u0H9wCYn17uZOJoHiXipU",
+    "id": "7u0H9wCYn17uZOJoHiXipU",
+    "name": "Hold Her While You Can",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:7u0H9wCYn17uZOJoHiXipU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TjAAwE04BeoSeOpJIakYH",
+        "id": "0TjAAwE04BeoSeOpJIakYH",
+        "name": "Little May",
+        "type": "artist",
+        "uri": "spotify:artist:0TjAAwE04BeoSeOpJIakYH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 199359,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7gfxWN9S5omRLD2ND4dG8F"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7gfxWN9S5omRLD2ND4dG8F",
+    "id": "7gfxWN9S5omRLD2ND4dG8F",
+    "name": "Boardwalks - Remastered 2015",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:7gfxWN9S5omRLD2ND4dG8F",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OpnoUqoRIHWbsFs4Nw0NQ",
+        "id": "3OpnoUqoRIHWbsFs4Nw0NQ",
+        "name": "Nat King Cole Trio",
+        "type": "artist",
+        "uri": "spotify:artist:3OpnoUqoRIHWbsFs4Nw0NQ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2ooZITfpbTB8N61XE5Yr2T"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2ooZITfpbTB8N61XE5Yr2T",
+    "id": "2ooZITfpbTB8N61XE5Yr2T",
+    "name": "'Tis Autumn - 1993 Digital Remaster",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:2ooZITfpbTB8N61XE5Yr2T",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        },
+        "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8",
+        "id": "08F3Y3SctIlsOEmKd6dnH8",
+        "name": "Yusuf / Cat Stevens",
+        "type": "artist",
+        "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200573,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6C2yVP42ssd43IuOyZE0Jh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6C2yVP42ssd43IuOyZE0Jh",
+    "id": "6C2yVP42ssd43IuOyZE0Jh",
+    "name": "Wild World",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:6C2yVP42ssd43IuOyZE0Jh",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        },
+        "href": "https://api.spotify.com/v1/artists/6p5JxpTc7USNnBnLzctyd4",
+        "id": "6p5JxpTc7USNnBnLzctyd4",
+        "name": "Phillip Phillips",
+        "type": "artist",
+        "uri": "spotify:artist:6p5JxpTc7USNnBnLzctyd4"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209693,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Zhn3ITu44FANNd3XQ5X0w"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Zhn3ITu44FANNd3XQ5X0w",
+    "id": "4Zhn3ITu44FANNd3XQ5X0w",
+    "name": "Gone, Gone, Gone",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:4Zhn3ITu44FANNd3XQ5X0w",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+        "id": "3GBPw9NK25X1Wt2OUvOwY3",
+        "name": "Jack Johnson",
+        "type": "artist",
+        "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 191840,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3UdCHkcxqNAqCoRDY62M9T"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3UdCHkcxqNAqCoRDY62M9T",
+    "id": "3UdCHkcxqNAqCoRDY62M9T",
+    "name": "Banana Pancakes",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:3UdCHkcxqNAqCoRDY62M9T",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+        "id": "2RQXRUsr4IW1f3mKyKsy4B",
+        "name": "Noah Kahan",
+        "type": "artist",
+        "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 223400,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0w7fsc2EeRrEdwXSJ3kvJF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0w7fsc2EeRrEdwXSJ3kvJF",
+    "id": "0w7fsc2EeRrEdwXSJ3kvJF",
+    "name": "False Confidence",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:0w7fsc2EeRrEdwXSJ3kvJF",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tuJ0bMpJh08umKkEXKUI5",
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "type": "artist",
+        "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 177152,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2xgqRf308R6IjVvp0hf90d"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2xgqRf308R6IjVvp0hf90d",
+    "id": "2xgqRf308R6IjVvp0hf90d",
+    "name": "Stay",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:2xgqRf308R6IjVvp0hf90d",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        },
+        "href": "https://api.spotify.com/v1/artists/3x8FbPjh2Qz55XMdE2Yalj",
+        "id": "3x8FbPjh2Qz55XMdE2Yalj",
+        "name": "Nick Mulvey",
+        "type": "artist",
+        "uri": "spotify:artist:3x8FbPjh2Qz55XMdE2Yalj"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 252960,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1znpmNv3GrkosZl14U92RX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1znpmNv3GrkosZl14U92RX",
+    "id": "1znpmNv3GrkosZl14U92RX",
+    "name": "Fever To The Form",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:1znpmNv3GrkosZl14U92RX",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        },
+        "href": "https://api.spotify.com/v1/artists/1bs7HoMkSyQwcobCpE9KpN",
+        "id": "1bs7HoMkSyQwcobCpE9KpN",
+        "name": "The Mamas & The Papas",
+        "type": "artist",
+        "uri": "spotify:artist:1bs7HoMkSyQwcobCpE9KpN"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 159200,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4z7dwE9YCKaRJBKYBZhc8S"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4z7dwE9YCKaRJBKYBZhc8S",
+    "id": "4z7dwE9YCKaRJBKYBZhc8S",
+    "name": "California Dreamin' - Single Version",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:4z7dwE9YCKaRJBKYBZhc8S",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dwdTW1Lfiq0cM8nBAqIIz",
+        "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+        "name": "Of Monsters and Men",
+        "type": "artist",
+        "uri": "spotify:artist:4dwdTW1Lfiq0cM8nBAqIIz"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 273853,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/47TsTJiFmlcYFEJb8uGpLR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/47TsTJiFmlcYFEJb8uGpLR",
+    "id": "47TsTJiFmlcYFEJb8uGpLR",
+    "name": "King And Lionheart",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:47TsTJiFmlcYFEJb8uGpLR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m",
+        "id": "0ZED1XzwlLHW4ZaG4lOT6m",
+        "name": "Julia Michaels",
+        "type": "artist",
+        "uri": "spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175280,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5RtZHCBV397mLvZRPJtG5V"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5RtZHCBV397mLvZRPJtG5V",
+    "id": "5RtZHCBV397mLvZRPJtG5V",
+    "name": "Issues - Acoustic",
+    "track_number": 25,
+    "type": "track",
+    "uri": "spotify:track:5RtZHCBV397mLvZRPJtG5V",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        },
+        "href": "https://api.spotify.com/v1/artists/0bzfPKdbXL5ezYW2z3UGQj",
+        "id": "0bzfPKdbXL5ezYW2z3UGQj",
+        "name": "Michael Kiwanuka",
+        "type": "artist",
+        "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 210299,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5xhWbmiC0Tz7zS7aBU09Vd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5xhWbmiC0Tz7zS7aBU09Vd",
+    "id": "5xhWbmiC0Tz7zS7aBU09Vd",
+    "name": "Cold Little Heart - Radio Edit",
+    "track_number": 26,
+    "type": "track",
+    "uri": "spotify:track:5xhWbmiC0Tz7zS7aBU09Vd",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+        "id": "3WGpXCj9YhhfX11TToZcXP",
+        "name": "Troye Sivan",
+        "type": "artist",
+        "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 192000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/49YB318e2q1W5oidA6lNBS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/49YB318e2q1W5oidA6lNBS",
+    "id": "49YB318e2q1W5oidA6lNBS",
+    "name": "YOUTH - Acoustic",
+    "track_number": 27,
+    "type": "track",
+    "uri": "spotify:track:49YB318e2q1W5oidA6lNBS",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        },
+        "href": "https://api.spotify.com/v1/artists/3mDo5Nv0SWpslJe9HzA2xY",
+        "id": "3mDo5Nv0SWpslJe9HzA2xY",
+        "name": "Juke Ross",
+        "type": "artist",
+        "uri": "spotify:artist:3mDo5Nv0SWpslJe9HzA2xY"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 191120,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ySxvvFPneHyz56j7ygJTf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ySxvvFPneHyz56j7ygJTf",
+    "id": "0ySxvvFPneHyz56j7ygJTf",
+    "name": "Keep You Dry",
+    "track_number": 28,
+    "type": "track",
+    "uri": "spotify:track:0ySxvvFPneHyz56j7ygJTf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        "href": "https://api.spotify.com/v1/artists/1bgyxtWjZwA5PQlDsvs9b8",
+        "id": "1bgyxtWjZwA5PQlDsvs9b8",
+        "name": "Sarah Vaughan",
+        "type": "artist",
+        "uri": "spotify:artist:1bgyxtWjZwA5PQlDsvs9b8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 214360,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ce9FqqygMBWIkf1zGCUtP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ce9FqqygMBWIkf1zGCUtP",
+    "id": "4ce9FqqygMBWIkf1zGCUtP",
+    "name": "September In The Rain - Live At Mister Kelly's, Chicago / 1957",
+    "track_number": 29,
+    "type": "track",
+    "uri": "spotify:track:4ce9FqqygMBWIkf1zGCUtP",
+    "is_local": false
+  }
+]

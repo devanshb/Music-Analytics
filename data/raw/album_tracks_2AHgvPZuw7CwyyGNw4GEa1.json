@@ -1,0 +1,930 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        },
+        "href": "https://api.spotify.com/v1/artists/6bDWAcdtVR3WHz2xtiIPUi",
+        "id": "6bDWAcdtVR3WHz2xtiIPUi",
+        "name": "Fujii Kaze",
+        "type": "artist",
+        "uri": "spotify:artist:6bDWAcdtVR3WHz2xtiIPUi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 185573,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/02bGJAj43EUajOvqWVfBvu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/02bGJAj43EUajOvqWVfBvu",
+    "id": "02bGJAj43EUajOvqWVfBvu",
+    "name": "死ぬのがいいわ",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:02bGJAj43EUajOvqWVfBvu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp"
+        },
+        "href": "https://api.spotify.com/v1/artists/4mQxvrtY2MbDuUXAhMg5pp",
+        "id": "4mQxvrtY2MbDuUXAhMg5pp",
+        "name": "Ms.OOJA",
+        "type": "artist",
+        "uri": "spotify:artist:4mQxvrtY2MbDuUXAhMg5pp"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 291560,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2SZViKdtmjyAR5W7PzCt8M"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2SZViKdtmjyAR5W7PzCt8M",
+    "id": "2SZViKdtmjyAR5W7PzCt8M",
+    "name": "プラスティック・ラブ",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2SZViKdtmjyAR5W7PzCt8M",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Av3cngSr9pfhlzSE6hQq3"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Av3cngSr9pfhlzSE6hQq3",
+        "id": "1Av3cngSr9pfhlzSE6hQq3",
+        "name": "ライ",
+        "type": "artist",
+        "uri": "spotify:artist:1Av3cngSr9pfhlzSE6hQq3"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 238666,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5VKehzEX3X1qG8nRGVbPLQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5VKehzEX3X1qG8nRGVbPLQ",
+    "id": "5VKehzEX3X1qG8nRGVbPLQ",
+    "name": "ソング・フォー・ユー",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5VKehzEX3X1qG8nRGVbPLQ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 214706,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/648gvw5zfMe2KKlbO8JZpo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/648gvw5zfMe2KKlbO8JZpo",
+    "id": "648gvw5zfMe2KKlbO8JZpo",
+    "name": "ウィロー",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:648gvw5zfMe2KKlbO8JZpo",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4NXiJRheKGsTycUmPwtwSP"
+        },
+        "href": "https://api.spotify.com/v1/artists/4NXiJRheKGsTycUmPwtwSP",
+        "id": "4NXiJRheKGsTycUmPwtwSP",
+        "name": "Chihiro Onitsuka",
+        "type": "artist",
+        "uri": "spotify:artist:4NXiJRheKGsTycUmPwtwSP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 308333,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6ScCVzLarV21wEXl8WBtlA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6ScCVzLarV21wEXl8WBtlA",
+    "id": "6ScCVzLarV21wEXl8WBtlA",
+    "name": "月光",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:6ScCVzLarV21wEXl8WBtlA",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        },
+        "href": "https://api.spotify.com/v1/artists/3x621ItlHMtX7mrJ8QnEjM",
+        "id": "3x621ItlHMtX7mrJ8QnEjM",
+        "name": "HY",
+        "type": "artist",
+        "uri": "spotify:artist:3x621ItlHMtX7mrJ8QnEjM"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 351173,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5fN4AtFF0nsCKjgLx4n8CQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5fN4AtFF0nsCKjgLx4n8CQ",
+    "id": "5fN4AtFF0nsCKjgLx4n8CQ",
+    "name": "366日 - Rerecorded 2018",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5fN4AtFF0nsCKjgLx4n8CQ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epMto31JakC8wa8MPnQSQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epMto31JakC8wa8MPnQSQ",
+        "id": "0epMto31JakC8wa8MPnQSQ",
+        "name": "ビリー・アイリッシュ",
+        "type": "artist",
+        "uri": "spotify:artist:0epMto31JakC8wa8MPnQSQ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 196730,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1lQgIkFnhXtdmNF8dcECmm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1lQgIkFnhXtdmNF8dcECmm",
+    "id": "1lQgIkFnhXtdmNF8dcECmm",
+    "name": "ビリー・ボサノヴァ",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:1lQgIkFnhXtdmNF8dcECmm",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        "href": "https://api.spotify.com/v1/artists/67IN4cLJ7798gUapyZlmac",
+        "id": "67IN4cLJ7798gUapyZlmac",
+        "name": "Zack Tabudlo",
+        "type": "artist",
+        "uri": "spotify:artist:67IN4cLJ7798gUapyZlmac"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 244800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/15GmA2itEKsX3LxvHyjaXR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/15GmA2itEKsX3LxvHyjaXR",
+    "id": "15GmA2itEKsX3LxvHyjaXR",
+    "name": "Give Me Your Forever",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:15GmA2itEKsX3LxvHyjaXR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        },
+        "href": "https://api.spotify.com/v1/artists/6bDWAcdtVR3WHz2xtiIPUi",
+        "id": "6bDWAcdtVR3WHz2xtiIPUi",
+        "name": "Fujii Kaze",
+        "type": "artist",
+        "uri": "spotify:artist:6bDWAcdtVR3WHz2xtiIPUi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 225920,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0iHr2aUJoXWHpbciddbkdu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0iHr2aUJoXWHpbciddbkdu",
+    "id": "0iHr2aUJoXWHpbciddbkdu",
+    "name": "まつり",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0iHr2aUJoXWHpbciddbkdu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Av3cngSr9pfhlzSE6hQq3"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Av3cngSr9pfhlzSE6hQq3",
+        "id": "1Av3cngSr9pfhlzSE6hQq3",
+        "name": "ライ",
+        "type": "artist",
+        "uri": "spotify:artist:1Av3cngSr9pfhlzSE6hQq3"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255718,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1ZMPWMOmWOUTi38IcnP6hg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1ZMPWMOmWOUTi38IcnP6hg",
+    "id": "1ZMPWMOmWOUTi38IcnP6hg",
+    "name": "3デイズ",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:1ZMPWMOmWOUTi38IcnP6hg",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        },
+        "href": "https://api.spotify.com/v1/artists/0jWCX6zp4RjWrmZRxJ2uri",
+        "id": "0jWCX6zp4RjWrmZRxJ2uri",
+        "name": "Novelbright",
+        "type": "artist",
+        "uri": "spotify:artist:0jWCX6zp4RjWrmZRxJ2uri"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 232453,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2g02TZPWCdos7HiLoomaev"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2g02TZPWCdos7HiLoomaev",
+    "id": "2g02TZPWCdos7HiLoomaev",
+    "name": "愛とか恋とか",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:2g02TZPWCdos7HiLoomaev",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        },
+        "href": "https://api.spotify.com/v1/artists/23Gbd21nBxC1kCtcG2Cd0C",
+        "id": "23Gbd21nBxC1kCtcG2Cd0C",
+        "name": "Phùng Khánh Linh",
+        "type": "artist",
+        "uri": "spotify:artist:23Gbd21nBxC1kCtcG2Cd0C"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200375,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3Iq3ioXCqGt9TdAwhTPvJb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3Iq3ioXCqGt9TdAwhTPvJb",
+    "id": "3Iq3ioXCqGt9TdAwhTPvJb",
+    "name": "sao anh không hiểu?",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3Iq3ioXCqGt9TdAwhTPvJb",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2MxbK1jLLoKGgWQiVksEZj"
+        },
+        "href": "https://api.spotify.com/v1/artists/2MxbK1jLLoKGgWQiVksEZj",
+        "id": "2MxbK1jLLoKGgWQiVksEZj",
+        "name": "キマグレン",
+        "type": "artist",
+        "uri": "spotify:artist:2MxbK1jLLoKGgWQiVksEZj"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 257812,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6FR23pixKbLic6MvKPrk2G"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6FR23pixKbLic6MvKPrk2G",
+    "id": "6FR23pixKbLic6MvKPrk2G",
+    "name": "LIFE",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:6FR23pixKbLic6MvKPrk2G",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gcQfJbjZ2W440kQ2wmqzk",
+        "id": "7gcQfJbjZ2W440kQ2wmqzk",
+        "name": "THE BEAT GARDEN",
+        "type": "artist",
+        "uri": "spotify:artist:7gcQfJbjZ2W440kQ2wmqzk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 201523,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3zUCo784CWGVNHxFXDAlM4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3zUCo784CWGVNHxFXDAlM4",
+    "id": "3zUCo784CWGVNHxFXDAlM4",
+    "name": "Start Over",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:3zUCo784CWGVNHxFXDAlM4",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        },
+        "href": "https://api.spotify.com/v1/artists/6bDWAcdtVR3WHz2xtiIPUi",
+        "id": "6bDWAcdtVR3WHz2xtiIPUi",
+        "name": "Fujii Kaze",
+        "type": "artist",
+        "uri": "spotify:artist:6bDWAcdtVR3WHz2xtiIPUi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 231882,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2UKLqM270fo9RCu9FdpmcB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2UKLqM270fo9RCu9FdpmcB",
+    "id": "2UKLqM270fo9RCu9FdpmcB",
+    "name": "きらり",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:2UKLqM270fo9RCu9FdpmcB",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TaSvnT5o4REFwhqfrmK27",
+        "id": "4TaSvnT5o4REFwhqfrmK27",
+        "name": "imase",
+        "type": "artist",
+        "uri": "spotify:artist:4TaSvnT5o4REFwhqfrmK27"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 210453,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/029vfE12b04hnF2dIHw7gV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/029vfE12b04hnF2dIHw7gV",
+    "id": "029vfE12b04hnF2dIHw7gV",
+    "name": "NIGHT DANCER",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:029vfE12b04hnF2dIHw7gV",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/61H9d7hbIfFNxJJQmIL9AJ",
+        "id": "61H9d7hbIfFNxJJQmIL9AJ",
+        "name": "Kinokoteikoku",
+        "type": "artist",
+        "uri": "spotify:artist:61H9d7hbIfFNxJJQmIL9AJ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 245080,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/71FIMyUY0Dry9mfMr1eNhM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/71FIMyUY0Dry9mfMr1eNhM",
+    "id": "71FIMyUY0Dry9mfMr1eNhM",
+    "name": "金木犀の夜",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:71FIMyUY0Dry9mfMr1eNhM",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e"
+        },
+        "href": "https://api.spotify.com/v1/artists/2PMtOu89yr9YBME71Y940e",
+        "id": "2PMtOu89yr9YBME71Y940e",
+        "name": "Takashi Sorimachi",
+        "type": "artist",
+        "uri": "spotify:artist:2PMtOu89yr9YBME71Y940e"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 242240,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6pZpntzd0U8YgB7cM6deEj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6pZpntzd0U8YgB7cM6deEj",
+    "id": "6pZpntzd0U8YgB7cM6deEj",
+    "name": "POISON～言いたい事も言えないこんな世の中は～",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:6pZpntzd0U8YgB7cM6deEj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        },
+        "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
+        "id": "4UK2Lzi6fBfUi9rpDt6cik",
+        "name": "ヨルシカ",
+        "type": "artist",
+        "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 290466,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3yC6LsC5ea8TPGKqtl0oTT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3yC6LsC5ea8TPGKqtl0oTT",
+    "id": "3yC6LsC5ea8TPGKqtl0oTT",
+    "name": "嘘月",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:3yC6LsC5ea8TPGKqtl0oTT",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        },
+        "href": "https://api.spotify.com/v1/artists/23Gbd21nBxC1kCtcG2Cd0C",
+        "id": "23Gbd21nBxC1kCtcG2Cd0C",
+        "name": "Phùng Khánh Linh",
+        "type": "artist",
+        "uri": "spotify:artist:23Gbd21nBxC1kCtcG2Cd0C"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        "href": "https://api.spotify.com/v1/artists/41DKMtAnhVo7aDeluAHDJg",
+        "id": "41DKMtAnhVo7aDeluAHDJg",
+        "name": "MYRNE",
+        "type": "artist",
+        "uri": "spotify:artist:41DKMtAnhVo7aDeluAHDJg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 224182,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7JTqfFWOpb9sI2LNQwooEL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7JTqfFWOpb9sI2LNQwooEL",
+    "id": "7JTqfFWOpb9sI2LNQwooEL",
+    "name": "anh đã không rõ ràng với em",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:7JTqfFWOpb9sI2LNQwooEL",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
+        },
+        "href": "https://api.spotify.com/v1/artists/0zEbGW70TQHSOf4Ip1oeVn",
+        "id": "0zEbGW70TQHSOf4Ip1oeVn",
+        "name": "ACIDMAN",
+        "type": "artist",
+        "uri": "spotify:artist:0zEbGW70TQHSOf4Ip1oeVn"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 309173,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1ndn4UeJQoXvtYvafieMas"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1ndn4UeJQoXvtYvafieMas",
+    "id": "1ndn4UeJQoXvtYvafieMas",
+    "name": "赤橙",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:1ndn4UeJQoXvtYvafieMas",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        },
+        "href": "https://api.spotify.com/v1/artists/706WzkJEacBrtkHKRpBU2q",
+        "id": "706WzkJEacBrtkHKRpBU2q",
+        "name": "Motohiro Hata",
+        "type": "artist",
+        "uri": "spotify:artist:706WzkJEacBrtkHKRpBU2q"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 325040,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1kyiJftEIaw5NM6uJKNqp3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1kyiJftEIaw5NM6uJKNqp3",
+    "id": "1kyiJftEIaw5NM6uJKNqp3",
+    "name": "鱗(うろこ)",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:1kyiJftEIaw5NM6uJKNqp3",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+        "id": "6mEQK9m2krja6X1cfsAjfl",
+        "name": "Ado",
+        "type": "artist",
+        "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 257915,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2fpE7M0KthYZ5l9DkZJH4R"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2fpE7M0KthYZ5l9DkZJH4R",
+    "id": "2fpE7M0KthYZ5l9DkZJH4R",
+    "name": "私は最強 - ウタ from ONE PIECE FILM RED",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:2fpE7M0KthYZ5l9DkZJH4R",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev"
+        },
+        "href": "https://api.spotify.com/v1/artists/76QUiw7IqXtPsy2dqmr2ev",
+        "id": "76QUiw7IqXtPsy2dqmr2ev",
+        "name": "Suzukisuzuki",
+        "type": "artist",
+        "uri": "spotify:artist:76QUiw7IqXtPsy2dqmr2ev"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 223600,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6fRy1G54i4E8g3RwEpTiLq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6fRy1G54i4E8g3RwEpTiLq",
+    "id": "6fRy1G54i4E8g3RwEpTiLq",
+    "name": "海のリビング",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:6fRy1G54i4E8g3RwEpTiLq",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+        "id": "6mEQK9m2krja6X1cfsAjfl",
+        "name": "Ado",
+        "type": "artist",
+        "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 228214,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0OkcnxcfYFmRVycr0D9Jem"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0OkcnxcfYFmRVycr0D9Jem",
+    "id": "0OkcnxcfYFmRVycr0D9Jem",
+    "name": "新時代 - ウタ from ONE PIECE FILM RED",
+    "track_number": 25,
+    "type": "track",
+    "uri": "spotify:track:0OkcnxcfYFmRVycr0D9Jem",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
+        },
+        "href": "https://api.spotify.com/v1/artists/0b2fntUmu7kE2EYjX31tZI",
+        "id": "0b2fntUmu7kE2EYjX31tZI",
+        "name": "BENI",
+        "type": "artist",
+        "uri": "spotify:artist:0b2fntUmu7kE2EYjX31tZI"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 211481,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4lsP5jWzhMKmlLGEgwRHqU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4lsP5jWzhMKmlLGEgwRHqU",
+    "id": "4lsP5jWzhMKmlLGEgwRHqU",
+    "name": "フライディ・チャイナタウン",
+    "track_number": 26,
+    "type": "track",
+    "uri": "spotify:track:4lsP5jWzhMKmlLGEgwRHqU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        },
+        "href": "https://api.spotify.com/v1/artists/28IJpwoVi5R92MtHxkj2Lk",
+        "id": "28IJpwoVi5R92MtHxkj2Lk",
+        "name": "Travis Japan",
+        "type": "artist",
+        "uri": "spotify:artist:28IJpwoVi5R92MtHxkj2Lk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 177407,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5KwCwGCYcQ7PGNl225SM4U"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5KwCwGCYcQ7PGNl225SM4U",
+    "id": "5KwCwGCYcQ7PGNl225SM4U",
+    "name": "JUST DANCE!",
+    "track_number": 27,
+    "type": "track",
+    "uri": "spotify:track:5KwCwGCYcQ7PGNl225SM4U",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Av3cngSr9pfhlzSE6hQq3"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Av3cngSr9pfhlzSE6hQq3",
+        "id": "1Av3cngSr9pfhlzSE6hQq3",
+        "name": "ライ",
+        "type": "artist",
+        "uri": "spotify:artist:1Av3cngSr9pfhlzSE6hQq3"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 206753,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1QH5K9HAoFM5iBeRsSVyFQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1QH5K9HAoFM5iBeRsSVyFQ",
+    "id": "1QH5K9HAoFM5iBeRsSVyFQ",
+    "name": "ラスト・ダンス",
+    "track_number": 28,
+    "type": "track",
+    "uri": "spotify:track:1QH5K9HAoFM5iBeRsSVyFQ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        },
+        "href": "https://api.spotify.com/v1/artists/23Gbd21nBxC1kCtcG2Cd0C",
+        "id": "23Gbd21nBxC1kCtcG2Cd0C",
+        "name": "Phùng Khánh Linh",
+        "type": "artist",
+        "uri": "spotify:artist:23Gbd21nBxC1kCtcG2Cd0C"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 217547,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/09i1O0hhxb50yreywqMgWq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/09i1O0hhxb50yreywqMgWq",
+    "id": "09i1O0hhxb50yreywqMgWq",
+    "name": "gói tình em rồi về",
+    "track_number": 29,
+    "type": "track",
+    "uri": "spotify:track:09i1O0hhxb50yreywqMgWq",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "type": "artist",
+        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6bMfCbNCsaOObzxAvYXwCM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6bMfCbNCsaOObzxAvYXwCM",
+    "id": "6bMfCbNCsaOObzxAvYXwCM",
+    "name": "happier",
+    "track_number": 30,
+    "type": "track",
+    "uri": "spotify:track:6bMfCbNCsaOObzxAvYXwCM",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 205280,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3H0AKExiPimZ5Ci24HEhff"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3H0AKExiPimZ5Ci24HEhff",
+    "id": "3H0AKExiPimZ5Ci24HEhff",
+    "name": "ミリオン・リーズンズ",
+    "track_number": 31,
+    "type": "track",
+    "uri": "spotify:track:3H0AKExiPimZ5Ci24HEhff",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2"
+        },
+        "href": "https://api.spotify.com/v1/artists/5kIOu0jisbh3SI7gT6rgq2",
+        "id": "5kIOu0jisbh3SI7gT6rgq2",
+        "name": "Crazy Ken Band",
+        "type": "artist",
+        "uri": "spotify:artist:5kIOu0jisbh3SI7gT6rgq2"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 304946,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6O1Yuu9bnrr02WqLSdjyOz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6O1Yuu9bnrr02WqLSdjyOz",
+    "id": "6O1Yuu9bnrr02WqLSdjyOz",
+    "name": "プラスティック・ラブ",
+    "track_number": 32,
+    "type": "track",
+    "uri": "spotify:track:6O1Yuu9bnrr02WqLSdjyOz",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        },
+        "href": "https://api.spotify.com/v1/artists/23Gbd21nBxC1kCtcG2Cd0C",
+        "id": "23Gbd21nBxC1kCtcG2Cd0C",
+        "name": "Phùng Khánh Linh",
+        "type": "artist",
+        "uri": "spotify:artist:23Gbd21nBxC1kCtcG2Cd0C"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 185510,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5CBtvTE3tOEMchnzYkvAHW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5CBtvTE3tOEMchnzYkvAHW",
+    "id": "5CBtvTE3tOEMchnzYkvAHW",
+    "name": "hoa tiêu dao",
+    "track_number": 33,
+    "type": "track",
+    "uri": "spotify:track:5CBtvTE3tOEMchnzYkvAHW",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Av3cngSr9pfhlzSE6hQq3"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Av3cngSr9pfhlzSE6hQq3",
+        "id": "1Av3cngSr9pfhlzSE6hQq3",
+        "name": "ライ",
+        "type": "artist",
+        "uri": "spotify:artist:1Av3cngSr9pfhlzSE6hQq3"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 211693,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/29ku7ibXSjbnNnhfsmeQoF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/29ku7ibXSjbnNnhfsmeQoF",
+    "id": "29ku7ibXSjbnNnhfsmeQoF",
+    "name": "ウェイスト",
+    "track_number": 34,
+    "type": "track",
+    "uri": "spotify:track:29ku7ibXSjbnNnhfsmeQoF",
+    "is_local": false
+  }
+]

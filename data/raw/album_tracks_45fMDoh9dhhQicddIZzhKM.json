@@ -1,0 +1,39 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1okJ4NC308qbtY9LyHn6DO",
+        "id": "1okJ4NC308qbtY9LyHn6DO",
+        "name": "BloodPop®",
+        "type": "artist",
+        "uri": "spotify:artist:1okJ4NC308qbtY9LyHn6DO"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 189508,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Ygm9KdH3wbzDekO8JgxcW",
+    "id": "1Ygm9KdH3wbzDekO8JgxcW",
+    "name": "...Ready For It? - BloodPop® Remix",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1Ygm9KdH3wbzDekO8JgxcW",
+    "is_local": false
+  }
+]

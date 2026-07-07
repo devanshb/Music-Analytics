@@ -1,0 +1,440 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 213960,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1IwN1CCDu8zBZISswaJLTo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1IwN1CCDu8zBZISswaJLTo",
+    "id": "1IwN1CCDu8zBZISswaJLTo",
+    "name": "How I'll Always Be",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1IwN1CCDu8zBZISswaJLTo",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 260026,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6KBgfRs2AUiRc6uekkpVbc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6KBgfRs2AUiRc6uekkpVbc",
+    "id": "6KBgfRs2AUiRc6uekkpVbc",
+    "name": "Humble And Kind",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:6KBgfRs2AUiRc6uekkpVbc",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 233973,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3QuOuj6ZlPjPEmqQnlJqhM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3QuOuj6ZlPjPEmqQnlJqhM",
+    "id": "3QuOuj6ZlPjPEmqQnlJqhM",
+    "name": "Top Of The World",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3QuOuj6ZlPjPEmqQnlJqhM",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3tgurcCC4NE9Vri1AzDbZV"
+        },
+        "href": "https://api.spotify.com/v1/artists/3tgurcCC4NE9Vri1AzDbZV",
+        "id": "3tgurcCC4NE9Vri1AzDbZV",
+        "name": "Catherine Dunn",
+        "type": "artist",
+        "uri": "spotify:artist:3tgurcCC4NE9Vri1AzDbZV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198373,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3TTUAUNWkddWHdMUgBpinz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3TTUAUNWkddWHdMUgBpinz",
+    "id": "3TTUAUNWkddWHdMUgBpinz",
+    "name": "Diamond Rings And Old Barstools",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3TTUAUNWkddWHdMUgBpinz",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236493,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0VbKZZsppYYsxHEv7k9jji"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0VbKZZsppYYsxHEv7k9jji",
+    "id": "0VbKZZsppYYsxHEv7k9jji",
+    "name": "Shotgun Rider",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0VbKZZsppYYsxHEv7k9jji",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 217933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/02n8eL1VMBDmZ88GSaZEmz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/02n8eL1VMBDmZ88GSaZEmz",
+    "id": "02n8eL1VMBDmZ88GSaZEmz",
+    "name": "Nashville Without You",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:02n8eL1VMBDmZ88GSaZEmz",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        },
+        "href": "https://api.spotify.com/v1/artists/25NQNriVT2YbSW80ILRWJa",
+        "id": "25NQNriVT2YbSW80ILRWJa",
+        "name": "Faith Hill",
+        "type": "artist",
+        "uri": "spotify:artist:25NQNriVT2YbSW80ILRWJa"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 229093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6dUo3CxVsy90AbP4OK0MNs"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6dUo3CxVsy90AbP4OK0MNs",
+    "id": "6dUo3CxVsy90AbP4OK0MNs",
+    "name": "Meanwhile Back At Mama's",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6dUo3CxVsy90AbP4OK0MNs",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255480,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0EiqzTHk93uzdcBBxjpZQZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0EiqzTHk93uzdcBBxjpZQZ",
+    "id": "0EiqzTHk93uzdcBBxjpZQZ",
+    "name": "Southern Girl",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:0EiqzTHk93uzdcBBxjpZQZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        "href": "https://api.spotify.com/v1/artists/0u2FHSq3ln94y5Q57xazwf",
+        "id": "0u2FHSq3ln94y5Q57xazwf",
+        "name": "Keith Urban",
+        "type": "artist",
+        "uri": "spotify:artist:0u2FHSq3ln94y5Q57xazwf"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 279066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1TSJsPnpjyUFsffwekaUUg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1TSJsPnpjyUFsffwekaUUg",
+    "id": "1TSJsPnpjyUFsffwekaUUg",
+    "name": "Highway Don't Care",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:1TSJsPnpjyUFsffwekaUUg",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236520,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2Uqk3ZDv1W41VyFzbinGj5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2Uqk3ZDv1W41VyFzbinGj5",
+    "id": "2Uqk3ZDv1W41VyFzbinGj5",
+    "name": "One Of Those Nights",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:2Uqk3ZDv1W41VyFzbinGj5",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209013,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/71o9h1Em4OsVQusUueE2wb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/71o9h1Em4OsVQusUueE2wb",
+    "id": "71o9h1Em4OsVQusUueE2wb",
+    "name": "Truck Yeah",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:71o9h1Em4OsVQusUueE2wb",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 238573,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/24jyuqPJFVTKEK15smrh7g"
+    },
+    "href": "https://api.spotify.com/v1/tracks/24jyuqPJFVTKEK15smrh7g",
+    "id": "24jyuqPJFVTKEK15smrh7g",
+    "name": "Drive",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:24jyuqPJFVTKEK15smrh7g",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226586,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/71bVLWfQwDmvr1IhkvnsgK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/71bVLWfQwDmvr1IhkvnsgK",
+    "id": "71bVLWfQwDmvr1IhkvnsgK",
+    "name": "May We All",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:71bVLWfQwDmvr1IhkvnsgK",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        },
+        "href": "https://api.spotify.com/v1/artists/1DTZRmlVZBxx2wRQBtx6yi",
+        "id": "1DTZRmlVZBxx2wRQBtx6yi",
+        "name": "Midland",
+        "type": "artist",
+        "uri": "spotify:artist:1DTZRmlVZBxx2wRQBtx6yi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 223452,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5A40eI5aP6Pd5FxZHNV0dw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5A40eI5aP6Pd5FxZHNV0dw",
+    "id": "5A40eI5aP6Pd5FxZHNV0dw",
+    "name": "Redneck Girl",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:5A40eI5aP6Pd5FxZHNV0dw",
+    "is_local": false
+  }
+]

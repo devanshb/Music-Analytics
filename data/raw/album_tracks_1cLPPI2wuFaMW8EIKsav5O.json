@@ -1,0 +1,1402 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        },
+        "href": "https://api.spotify.com/v1/artists/75FnCoo4FBxH5K1Rrx0k5A",
+        "id": "75FnCoo4FBxH5K1Rrx0k5A",
+        "name": "The Band Perry",
+        "type": "artist",
+        "uri": "spotify:artist:75FnCoo4FBxH5K1Rrx0k5A"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 224080,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1uUBaFR4JQtrVAWVtUL1zf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1uUBaFR4JQtrVAWVtUL1zf",
+    "id": "1uUBaFR4JQtrVAWVtUL1zf",
+    "name": "If I Die Young",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1uUBaFR4JQtrVAWVtUL1zf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 210573,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/32pJ4KhHGyo7QqjD2YHJkf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/32pJ4KhHGyo7QqjD2YHJkf",
+    "id": "32pJ4KhHGyo7QqjD2YHJkf",
+    "name": "Cruise",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:32pJ4KhHGyo7QqjD2YHJkf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+        "id": "6x2LnllRG5uGarZMsD4iO8",
+        "name": "Thomas Rhett",
+        "type": "artist",
+        "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 228334,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4cKl8kOYAzJTXyby6SWb6I"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4cKl8kOYAzJTXyby6SWb6I",
+    "id": "4cKl8kOYAzJTXyby6SWb6I",
+    "name": "Die A Happy Man",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4cKl8kOYAzJTXyby6SWb6I",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        "href": "https://api.spotify.com/v1/artists/30e8DmahrEamvLbFRPdWmk",
+        "id": "30e8DmahrEamvLbFRPdWmk",
+        "name": "Justin Moore",
+        "type": "artist",
+        "uri": "spotify:artist:30e8DmahrEamvLbFRPdWmk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180866,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1lAMfzGK2u0EAcFSSlYvbE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1lAMfzGK2u0EAcFSSlYvbE",
+    "id": "1lAMfzGK2u0EAcFSSlYvbE",
+    "name": "Point At You",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1lAMfzGK2u0EAcFSSlYvbE",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fiWOxhsBsQQvFDtxUQWo0",
+        "id": "0fiWOxhsBsQQvFDtxUQWo0",
+        "name": "Brett Young",
+        "type": "artist",
+        "uri": "spotify:artist:0fiWOxhsBsQQvFDtxUQWo0"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226200,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0NPbVsHMT2IHY87W2uSc0H"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0NPbVsHMT2IHY87W2uSc0H",
+    "id": "0NPbVsHMT2IHY87W2uSc0H",
+    "name": "In Case You Didn't Know",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0NPbVsHMT2IHY87W2uSc0H",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        "href": "https://api.spotify.com/v1/artists/5q8HGNo0BjLWaTAhRtbwxa",
+        "id": "5q8HGNo0BjLWaTAhRtbwxa",
+        "name": "Brantley Gilbert",
+        "type": "artist",
+        "uri": "spotify:artist:5q8HGNo0BjLWaTAhRtbwxa"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 221230,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Y3pIgonb2PtUiwQNOEZkq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Y3pIgonb2PtUiwQNOEZkq",
+    "id": "5Y3pIgonb2PtUiwQNOEZkq",
+    "name": "Bottoms Up",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5Y3pIgonb2PtUiwQNOEZkq",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 260026,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/69PACKAntBDo2C0JBJCNOM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/69PACKAntBDo2C0JBJCNOM",
+    "id": "69PACKAntBDo2C0JBJCNOM",
+    "name": "Humble And Kind",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:69PACKAntBDo2C0JBJCNOM",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        "href": "https://api.spotify.com/v1/artists/4sIl4BTo9l9KqEi0Y3RE72",
+        "id": "4sIl4BTo9l9KqEi0Y3RE72",
+        "name": "Carly Pearce",
+        "type": "artist",
+        "uri": "spotify:artist:4sIl4BTo9l9KqEi0Y3RE72"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 181053,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5BOIvLpNAnRQC0hKzThvWj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5BOIvLpNAnRQC0hKzThvWj",
+    "id": "5BOIvLpNAnRQC0hKzThvWj",
+    "name": "Every Little Thing",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:5BOIvLpNAnRQC0hKzThvWj",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eKWqnckwdIlSnjaYgIyxv",
+        "id": "6eKWqnckwdIlSnjaYgIyxv",
+        "name": "Eli Young Band",
+        "type": "artist",
+        "uri": "spotify:artist:6eKWqnckwdIlSnjaYgIyxv"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2N9UNogK8doh0NvIAdiuAn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2N9UNogK8doh0NvIAdiuAn",
+    "id": "2N9UNogK8doh0NvIAdiuAn",
+    "name": "Love Ain't",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2N9UNogK8doh0NvIAdiuAn",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        },
+        "href": "https://api.spotify.com/v1/artists/1DTZRmlVZBxx2wRQBtx6yi",
+        "id": "1DTZRmlVZBxx2wRQBtx6yi",
+        "name": "Midland",
+        "type": "artist",
+        "uri": "spotify:artist:1DTZRmlVZBxx2wRQBtx6yi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 221466,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/45BWjtVPFcjudGb3AmESuI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/45BWjtVPFcjudGb3AmESuI",
+    "id": "45BWjtVPFcjudGb3AmESuI",
+    "name": "Drinkin' Problem",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:45BWjtVPFcjudGb3AmESuI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 231680,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3sytk4nnrGU6GC00pKH8mN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3sytk4nnrGU6GC00pKH8mN",
+    "id": "3sytk4nnrGU6GC00pKH8mN",
+    "name": "Dirt",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:3sytk4nnrGU6GC00pKH8mN",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+        "id": "6x2LnllRG5uGarZMsD4iO8",
+        "name": "Thomas Rhett",
+        "type": "artist",
+        "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227681,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1WDBP6HgBbK1PIPrj6bSXW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1WDBP6HgBbK1PIPrj6bSXW",
+    "id": "1WDBP6HgBbK1PIPrj6bSXW",
+    "name": "T-Shirt",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:1WDBP6HgBbK1PIPrj6bSXW",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        "href": "https://api.spotify.com/v1/artists/0a1gHP0HAqALbEyxaD5Ngn",
+        "id": "0a1gHP0HAqALbEyxaD5Ngn",
+        "name": "Rascal Flatts",
+        "type": "artist",
+        "uri": "spotify:artist:0a1gHP0HAqALbEyxaD5Ngn"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227067,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/75UZq2qwOAPBgPtg2wLJ7L"
+    },
+    "href": "https://api.spotify.com/v1/tracks/75UZq2qwOAPBgPtg2wLJ7L",
+    "id": "75UZq2qwOAPBgPtg2wLJ7L",
+    "name": "I Won't Let Go",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:75UZq2qwOAPBgPtg2wLJ7L",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fiWOxhsBsQQvFDtxUQWo0",
+        "id": "0fiWOxhsBsQQvFDtxUQWo0",
+        "name": "Brett Young",
+        "type": "artist",
+        "uri": "spotify:artist:0fiWOxhsBsQQvFDtxUQWo0"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 208640,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1tOByLutjRTtxHgKLnjpVp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1tOByLutjRTtxHgKLnjpVp",
+    "id": "1tOByLutjRTtxHgKLnjpVp",
+    "name": "Like I Loved You",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:1tOByLutjRTtxHgKLnjpVp",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QMsj4XJ7ne2hojxt6v5eb",
+        "id": "2QMsj4XJ7ne2hojxt6v5eb",
+        "name": "Riley Green",
+        "type": "artist",
+        "uri": "spotify:artist:2QMsj4XJ7ne2hojxt6v5eb"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 248582,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/24t3X2VyZ8cGNsjkrHzIf4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/24t3X2VyZ8cGNsjkrHzIf4",
+    "id": "24t3X2VyZ8cGNsjkrHzIf4",
+    "name": "I Wish Grandpas Never Died",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:24t3X2VyZ8cGNsjkrHzIf4",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        "href": "https://api.spotify.com/v1/artists/30e8DmahrEamvLbFRPdWmk",
+        "id": "30e8DmahrEamvLbFRPdWmk",
+        "name": "Justin Moore",
+        "type": "artist",
+        "uri": "spotify:artist:30e8DmahrEamvLbFRPdWmk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 165173,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1vAuZfVB111ywwcWBXHTyo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1vAuZfVB111ywwcWBXHTyo",
+    "id": "1vAuZfVB111ywwcWBXHTyo",
+    "name": "Somebody Else Will",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:1vAuZfVB111ywwcWBXHTyo",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236493,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2YtIT6C8zkx08FHBzBttg5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2YtIT6C8zkx08FHBzBttg5",
+    "id": "2YtIT6C8zkx08FHBzBttg5",
+    "name": "Shotgun Rider",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:2YtIT6C8zkx08FHBzBttg5",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        "href": "https://api.spotify.com/v1/artists/0BvkDsjIUla7X0k6CSWh1I",
+        "id": "0BvkDsjIUla7X0k6CSWh1I",
+        "name": "Luke Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:0BvkDsjIUla7X0k6CSWh1I"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 222680,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6piYLIOh4x7xDsXuKRj8aA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6piYLIOh4x7xDsXuKRj8aA",
+    "id": "6piYLIOh4x7xDsXuKRj8aA",
+    "name": "This Is How We Roll",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:6piYLIOh4x7xDsXuKRj8aA",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        },
+        "href": "https://api.spotify.com/v1/artists/75FnCoo4FBxH5K1Rrx0k5A",
+        "id": "75FnCoo4FBxH5K1Rrx0k5A",
+        "name": "The Band Perry",
+        "type": "artist",
+        "uri": "spotify:artist:75FnCoo4FBxH5K1Rrx0k5A"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 204298,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3BezHra0gLwAgLi2PWeDpf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3BezHra0gLwAgLi2PWeDpf",
+    "id": "3BezHra0gLwAgLi2PWeDpf",
+    "name": "DONE.",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:3BezHra0gLwAgLi2PWeDpf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        "href": "https://api.spotify.com/v1/artists/0a1gHP0HAqALbEyxaD5Ngn",
+        "id": "0a1gHP0HAqALbEyxaD5Ngn",
+        "name": "Rascal Flatts",
+        "type": "artist",
+        "uri": "spotify:artist:0a1gHP0HAqALbEyxaD5Ngn"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 210000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1KtcANnHUU50YQNwT9riHe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1KtcANnHUU50YQNwT9riHe",
+    "id": "1KtcANnHUU50YQNwT9riHe",
+    "name": "I Like The Sound Of That",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:1KtcANnHUU50YQNwT9riHe",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+        "id": "6x2LnllRG5uGarZMsD4iO8",
+        "name": "Thomas Rhett",
+        "type": "artist",
+        "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 206229,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2ngLeUwBgXH9tNbKt2xxz4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2ngLeUwBgXH9tNbKt2xxz4",
+    "id": "2ngLeUwBgXH9tNbKt2xxz4",
+    "name": "Marry Me",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:2ngLeUwBgXH9tNbKt2xxz4",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eKWqnckwdIlSnjaYgIyxv",
+        "id": "6eKWqnckwdIlSnjaYgIyxv",
+        "name": "Eli Young Band",
+        "type": "artist",
+        "uri": "spotify:artist:6eKWqnckwdIlSnjaYgIyxv"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220360,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7CQ3HtRT5ZnkDV5iYWa6M7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7CQ3HtRT5ZnkDV5iYWa6M7",
+    "id": "7CQ3HtRT5ZnkDV5iYWa6M7",
+    "name": "Drunk Last Night",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:7CQ3HtRT5ZnkDV5iYWa6M7",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        },
+        "href": "https://api.spotify.com/v1/artists/7ahuvq1mbb4idwG1iJbSFG",
+        "id": "7ahuvq1mbb4idwG1iJbSFG",
+        "name": "Cassadee Pope",
+        "type": "artist",
+        "uri": "spotify:artist:7ahuvq1mbb4idwG1iJbSFG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 215382,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5qzwFbRG8WBW9qtW28HbTp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5qzwFbRG8WBW9qtW28HbTp",
+    "id": "5qzwFbRG8WBW9qtW28HbTp",
+    "name": "Wasting All These Tears",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:5qzwFbRG8WBW9qtW28HbTp",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fiWOxhsBsQQvFDtxUQWo0",
+        "id": "0fiWOxhsBsQQvFDtxUQWo0",
+        "name": "Brett Young",
+        "type": "artist",
+        "uri": "spotify:artist:0fiWOxhsBsQQvFDtxUQWo0"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188466,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2XYWOWBVnsNWi17gm2T4is"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2XYWOWBVnsNWi17gm2T4is",
+    "id": "2XYWOWBVnsNWi17gm2T4is",
+    "name": "Sleep Without You",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:2XYWOWBVnsNWi17gm2T4is",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 194760,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6YDIMlRil5iuHsW58jUVXZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6YDIMlRil5iuHsW58jUVXZ",
+    "id": "6YDIMlRil5iuHsW58jUVXZ",
+    "name": "H.O.L.Y.",
+    "track_number": 25,
+    "type": "track",
+    "uri": "spotify:track:6YDIMlRil5iuHsW58jUVXZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        "href": "https://api.spotify.com/v1/artists/30e8DmahrEamvLbFRPdWmk",
+        "id": "30e8DmahrEamvLbFRPdWmk",
+        "name": "Justin Moore",
+        "type": "artist",
+        "uri": "spotify:artist:30e8DmahrEamvLbFRPdWmk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 227093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/68EwoeGANEle9BxnAlEU4a"
+    },
+    "href": "https://api.spotify.com/v1/tracks/68EwoeGANEle9BxnAlEU4a",
+    "id": "68EwoeGANEle9BxnAlEU4a",
+    "name": "If Heaven Wasn't So Far Away",
+    "track_number": 26,
+    "type": "track",
+    "uri": "spotify:track:68EwoeGANEle9BxnAlEU4a",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        "href": "https://api.spotify.com/v1/artists/0u2FHSq3ln94y5Q57xazwf",
+        "id": "0u2FHSq3ln94y5Q57xazwf",
+        "name": "Keith Urban",
+        "type": "artist",
+        "uri": "spotify:artist:0u2FHSq3ln94y5Q57xazwf"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 279066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0mhpkrRXmANmqV7mJmp4c2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0mhpkrRXmANmqV7mJmp4c2",
+    "id": "0mhpkrRXmANmqV7mJmp4c2",
+    "name": "Highway Don't Care",
+    "track_number": 27,
+    "type": "track",
+    "uri": "spotify:track:0mhpkrRXmANmqV7mJmp4c2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+        "id": "6x2LnllRG5uGarZMsD4iO8",
+        "name": "Thomas Rhett",
+        "type": "artist",
+        "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 186796,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Xr7Exf4Ex7Xw4Aw8gCjIX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Xr7Exf4Ex7Xw4Aw8gCjIX",
+    "id": "1Xr7Exf4Ex7Xw4Aw8gCjIX",
+    "name": "It Goes Like This",
+    "track_number": 28,
+    "type": "track",
+    "uri": "spotify:track:1Xr7Exf4Ex7Xw4Aw8gCjIX",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        "href": "https://api.spotify.com/v1/artists/5q8HGNo0BjLWaTAhRtbwxa",
+        "id": "5q8HGNo0BjLWaTAhRtbwxa",
+        "name": "Brantley Gilbert",
+        "type": "artist",
+        "uri": "spotify:artist:5q8HGNo0BjLWaTAhRtbwxa"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 222626,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5pU7tw5UJKB9VBkVtDC613"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5pU7tw5UJKB9VBkVtDC613",
+    "id": "5pU7tw5UJKB9VBkVtDC613",
+    "name": "One Hell Of An Amen",
+    "track_number": 29,
+    "type": "track",
+    "uri": "spotify:track:5pU7tw5UJKB9VBkVtDC613",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QMsj4XJ7ne2hojxt6v5eb",
+        "id": "2QMsj4XJ7ne2hojxt6v5eb",
+        "name": "Riley Green",
+        "type": "artist",
+        "uri": "spotify:artist:2QMsj4XJ7ne2hojxt6v5eb"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195653,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/60PX3O8dYLIki4N3KHVcno"
+    },
+    "href": "https://api.spotify.com/v1/tracks/60PX3O8dYLIki4N3KHVcno",
+    "id": "60PX3O8dYLIki4N3KHVcno",
+    "name": "There Was This Girl",
+    "track_number": 30,
+    "type": "track",
+    "uri": "spotify:track:60PX3O8dYLIki4N3KHVcno",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5iqStkZi6QmG8sgQZQrfGN",
+        "id": "5iqStkZi6QmG8sgQZQrfGN",
+        "name": "Danielle Bradbery",
+        "type": "artist",
+        "uri": "spotify:artist:5iqStkZi6QmG8sgQZQrfGN"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 213173,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2YIyZYE67Zi4V7hSIZDCVx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2YIyZYE67Zi4V7hSIZDCVx",
+    "id": "2YIyZYE67Zi4V7hSIZDCVx",
+    "name": "Sway",
+    "track_number": 31,
+    "type": "track",
+    "uri": "spotify:track:2YIyZYE67Zi4V7hSIZDCVx",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eKWqnckwdIlSnjaYgIyxv",
+        "id": "6eKWqnckwdIlSnjaYgIyxv",
+        "name": "Eli Young Band",
+        "type": "artist",
+        "uri": "spotify:artist:6eKWqnckwdIlSnjaYgIyxv"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 201706,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4FwW1Yz434NNMsdffykWpv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4FwW1Yz434NNMsdffykWpv",
+    "id": "4FwW1Yz434NNMsdffykWpv",
+    "name": "Crazy Girl - Single Version",
+    "track_number": 32,
+    "type": "track",
+    "uri": "spotify:track:4FwW1Yz434NNMsdffykWpv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        },
+        "href": "https://api.spotify.com/v1/artists/75FnCoo4FBxH5K1Rrx0k5A",
+        "id": "75FnCoo4FBxH5K1Rrx0k5A",
+        "name": "The Band Perry",
+        "type": "artist",
+        "uri": "spotify:artist:75FnCoo4FBxH5K1Rrx0k5A"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 193831,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1clR3Np313gfMlH8VwTov4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1clR3Np313gfMlH8VwTov4",
+    "id": "1clR3Np313gfMlH8VwTov4",
+    "name": "Better Dig Two",
+    "track_number": 33,
+    "type": "track",
+    "uri": "spotify:track:1clR3Np313gfMlH8VwTov4",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226586,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7tMFifmx3LhrCMXDcJQMz4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7tMFifmx3LhrCMXDcJQMz4",
+    "id": "7tMFifmx3LhrCMXDcJQMz4",
+    "name": "May We All",
+    "track_number": 34,
+    "type": "track",
+    "uri": "spotify:track:7tMFifmx3LhrCMXDcJQMz4",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fiWOxhsBsQQvFDtxUQWo0",
+        "id": "0fiWOxhsBsQQvFDtxUQWo0",
+        "name": "Brett Young",
+        "type": "artist",
+        "uri": "spotify:artist:0fiWOxhsBsQQvFDtxUQWo0"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216533,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0SSCp7SPrcBvg9scJaDuGZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0SSCp7SPrcBvg9scJaDuGZ",
+    "id": "0SSCp7SPrcBvg9scJaDuGZ",
+    "name": "Here Tonight",
+    "track_number": 35,
+    "type": "track",
+    "uri": "spotify:track:0SSCp7SPrcBvg9scJaDuGZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+        "id": "6x2LnllRG5uGarZMsD4iO8",
+        "name": "Thomas Rhett",
+        "type": "artist",
+        "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 188094,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/68QxtXJCOyZPdGhmRgEt6z"
+    },
+    "href": "https://api.spotify.com/v1/tracks/68QxtXJCOyZPdGhmRgEt6z",
+    "id": "68QxtXJCOyZPdGhmRgEt6z",
+    "name": "Get Me Some Of That",
+    "track_number": 36,
+    "type": "track",
+    "uri": "spotify:track:68QxtXJCOyZPdGhmRgEt6z",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        "href": "https://api.spotify.com/v1/artists/0a1gHP0HAqALbEyxaD5Ngn",
+        "id": "0a1gHP0HAqALbEyxaD5Ngn",
+        "name": "Rascal Flatts",
+        "type": "artist",
+        "uri": "spotify:artist:0a1gHP0HAqALbEyxaD5Ngn"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 208733,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6z4M83U2r0xbQ6X9ON8L19"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6z4M83U2r0xbQ6X9ON8L19",
+    "id": "6z4M83U2r0xbQ6X9ON8L19",
+    "name": "Yours If You Want It",
+    "track_number": 37,
+    "type": "track",
+    "uri": "spotify:track:6z4M83U2r0xbQ6X9ON8L19",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        "href": "https://api.spotify.com/v1/artists/30e8DmahrEamvLbFRPdWmk",
+        "id": "30e8DmahrEamvLbFRPdWmk",
+        "name": "Justin Moore",
+        "type": "artist",
+        "uri": "spotify:artist:30e8DmahrEamvLbFRPdWmk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 203125,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6zefOr51aMsY42U9v3Wg90"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6zefOr51aMsY42U9v3Wg90",
+    "id": "6zefOr51aMsY42U9v3Wg90",
+    "name": "Lettin' The Night Roll",
+    "track_number": 38,
+    "type": "track",
+    "uri": "spotify:track:6zefOr51aMsY42U9v3Wg90",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        },
+        "href": "https://api.spotify.com/v1/artists/1DTZRmlVZBxx2wRQBtx6yi",
+        "id": "1DTZRmlVZBxx2wRQBtx6yi",
+        "name": "Midland",
+        "type": "artist",
+        "uri": "spotify:artist:1DTZRmlVZBxx2wRQBtx6yi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 189613,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2SQ1T4hClyIFMTrWt5O1WE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2SQ1T4hClyIFMTrWt5O1WE",
+    "id": "2SQ1T4hClyIFMTrWt5O1WE",
+    "name": "Burn Out",
+    "track_number": 39,
+    "type": "track",
+    "uri": "spotify:track:2SQ1T4hClyIFMTrWt5O1WE",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        },
+        "href": "https://api.spotify.com/v1/artists/55RI2GNCfyXr0f14uIdhwd",
+        "id": "55RI2GNCfyXr0f14uIdhwd",
+        "name": "A Thousand Horses",
+        "type": "artist",
+        "uri": "spotify:artist:55RI2GNCfyXr0f14uIdhwd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220760,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3kdHvMVJjdvqXqFuIaBcP5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3kdHvMVJjdvqXqFuIaBcP5",
+    "id": "3kdHvMVJjdvqXqFuIaBcP5",
+    "name": "Smoke",
+    "track_number": 40,
+    "type": "track",
+    "uri": "spotify:track:3kdHvMVJjdvqXqFuIaBcP5",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 185400,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0CuTd44cNIAv3wOCtlggKo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0CuTd44cNIAv3wOCtlggKo",
+    "id": "0CuTd44cNIAv3wOCtlggKo",
+    "name": "Sun Daze",
+    "track_number": 41,
+    "type": "track",
+    "uri": "spotify:track:0CuTd44cNIAv3wOCtlggKo",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+        "id": "6roFdX1y5BYSbp60OTJWMd",
+        "name": "Tim McGraw",
+        "type": "artist",
+        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255480,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2ujiq1aYwp2eZX6utVFkBk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2ujiq1aYwp2eZX6utVFkBk",
+    "id": "2ujiq1aYwp2eZX6utVFkBk",
+    "name": "Southern Girl",
+    "track_number": 42,
+    "type": "track",
+    "uri": "spotify:track:2ujiq1aYwp2eZX6utVFkBk",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eKWqnckwdIlSnjaYgIyxv",
+        "id": "6eKWqnckwdIlSnjaYgIyxv",
+        "name": "Eli Young Band",
+        "type": "artist",
+        "uri": "spotify:artist:6eKWqnckwdIlSnjaYgIyxv"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220693,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0muLDlQjvc8bHPhtn2o0sB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0muLDlQjvc8bHPhtn2o0sB",
+    "id": "0muLDlQjvc8bHPhtn2o0sB",
+    "name": "Even If It Breaks Your Heart",
+    "track_number": 43,
+    "type": "track",
+    "uri": "spotify:track:0muLDlQjvc8bHPhtn2o0sB",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        },
+        "href": "https://api.spotify.com/v1/artists/75FnCoo4FBxH5K1Rrx0k5A",
+        "id": "75FnCoo4FBxH5K1Rrx0k5A",
+        "name": "The Band Perry",
+        "type": "artist",
+        "uri": "spotify:artist:75FnCoo4FBxH5K1Rrx0k5A"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 232386,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2BvmBhyNcAqYoXHc64y4yB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2BvmBhyNcAqYoXHc64y4yB",
+    "id": "2BvmBhyNcAqYoXHc64y4yB",
+    "name": "All Your Life",
+    "track_number": 44,
+    "type": "track",
+    "uri": "spotify:track:2BvmBhyNcAqYoXHc64y4yB",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+        "id": "6x2LnllRG5uGarZMsD4iO8",
+        "name": "Thomas Rhett",
+        "type": "artist",
+        "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190732,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/26FtAPEgNlu4fjGOmiFlG7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/26FtAPEgNlu4fjGOmiFlG7",
+    "id": "26FtAPEgNlu4fjGOmiFlG7",
+    "name": "Crash and Burn",
+    "track_number": 45,
+    "type": "track",
+    "uri": "spotify:track:26FtAPEgNlu4fjGOmiFlG7",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+        "id": "64M6ah0SkkRsnPGtGiRAbb",
+        "name": "Bebe Rexha",
+        "type": "artist",
+        "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 164466,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4RAN96qAqnTq99UhvgpwjY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4RAN96qAqnTq99UhvgpwjY",
+    "id": "4RAN96qAqnTq99UhvgpwjY",
+    "name": "Meant To Be - Acoustic",
+    "track_number": 46,
+    "type": "track",
+    "uri": "spotify:track:4RAN96qAqnTq99UhvgpwjY",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        "href": "https://api.spotify.com/v1/artists/30e8DmahrEamvLbFRPdWmk",
+        "id": "30e8DmahrEamvLbFRPdWmk",
+        "name": "Justin Moore",
+        "type": "artist",
+        "uri": "spotify:artist:30e8DmahrEamvLbFRPdWmk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187480,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Qy2rpL7N9w4OjiAckoiRA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Qy2rpL7N9w4OjiAckoiRA",
+    "id": "4Qy2rpL7N9w4OjiAckoiRA",
+    "name": "You Look Like I Need A Drink",
+    "track_number": 47,
+    "type": "track",
+    "uri": "spotify:track:4Qy2rpL7N9w4OjiAckoiRA",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        "href": "https://api.spotify.com/v1/artists/0a1gHP0HAqALbEyxaD5Ngn",
+        "id": "0a1gHP0HAqALbEyxaD5Ngn",
+        "name": "Rascal Flatts",
+        "type": "artist",
+        "uri": "spotify:artist:0a1gHP0HAqALbEyxaD5Ngn"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 208809,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/32Ikc1C6eefnAQwTMt8NZT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/32Ikc1C6eefnAQwTMt8NZT",
+    "id": "32Ikc1C6eefnAQwTMt8NZT",
+    "name": "Banjo - Radio Edit 2",
+    "track_number": 48,
+    "type": "track",
+    "uri": "spotify:track:32Ikc1C6eefnAQwTMt8NZT",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        "href": "https://api.spotify.com/v1/artists/5q8HGNo0BjLWaTAhRtbwxa",
+        "id": "5q8HGNo0BjLWaTAhRtbwxa",
+        "name": "Brantley Gilbert",
+        "type": "artist",
+        "uri": "spotify:artist:5q8HGNo0BjLWaTAhRtbwxa"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 215573,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1WeycLIy6QR93cDpb8Yxvu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1WeycLIy6QR93cDpb8Yxvu",
+    "id": "1WeycLIy6QR93cDpb8Yxvu",
+    "name": "Country Must Be Country Wide",
+    "track_number": 49,
+    "type": "track",
+    "uri": "spotify:track:1WeycLIy6QR93cDpb8Yxvu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fiWOxhsBsQQvFDtxUQWo0",
+        "id": "0fiWOxhsBsQQvFDtxUQWo0",
+        "name": "Brett Young",
+        "type": "artist",
+        "uri": "spotify:artist:0fiWOxhsBsQQvFDtxUQWo0"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 217120,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6gM3JMf23BNGCa8KwYOAw2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6gM3JMf23BNGCa8KwYOAw2",
+    "id": "6gM3JMf23BNGCa8KwYOAw2",
+    "name": "Mercy",
+    "track_number": 50,
+    "type": "track",
+    "uri": "spotify:track:6gM3JMf23BNGCa8KwYOAw2",
+    "is_local": false
+  }
+]

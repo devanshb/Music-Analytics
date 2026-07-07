@@ -1,0 +1,29 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 237022,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0kAZ3H6G9Zac4PMpmobMkj",
+    "id": "0kAZ3H6G9Zac4PMpmobMkj",
+    "name": "If This Was A Movie (Taylor’s Version)",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0kAZ3H6G9Zac4PMpmobMkj",
+    "is_local": false
+  }
+]

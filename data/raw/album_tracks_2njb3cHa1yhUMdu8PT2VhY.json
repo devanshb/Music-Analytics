@@ -1,0 +1,865 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 271093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6wD1FUZgUk1f6UVhfAQuTM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6wD1FUZgUk1f6UVhfAQuTM",
+    "id": "6wD1FUZgUk1f6UVhfAQuTM",
+    "name": "Flora-Bama - Live",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6wD1FUZgUk1f6UVhfAQuTM",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 268986,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1ZEAI3d2SmZlbFxtu5YLWP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1ZEAI3d2SmZlbFxtu5YLWP",
+    "id": "1ZEAI3d2SmZlbFxtu5YLWP",
+    "name": "Summertime - Live",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1ZEAI3d2SmZlbFxtu5YLWP",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 307600,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7JKwboSAWRHJI5U1XGTqS3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7JKwboSAWRHJI5U1XGTqS3",
+    "id": "7JKwboSAWRHJI5U1XGTqS3",
+    "name": "Big Star (with Taylor Swift) - Live",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:7JKwboSAWRHJI5U1XGTqS3",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 405973,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0qzYT1K8c39pM3EqOsRWLn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0qzYT1K8c39pM3EqOsRWLn",
+    "id": "0qzYT1K8c39pM3EqOsRWLn",
+    "name": "Boston - Live",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0qzYT1K8c39pM3EqOsRWLn",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        },
+        "href": "https://api.spotify.com/v1/artists/2IvkS5MXK0vPGnwyJsrEyV",
+        "id": "2IvkS5MXK0vPGnwyJsrEyV",
+        "name": "Eric Church",
+        "type": "artist",
+        "uri": "spotify:artist:2IvkS5MXK0vPGnwyJsrEyV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 552946,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5LYPcvkDV0euORWfaRzFoJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5LYPcvkDV0euORWfaRzFoJ",
+    "id": "5LYPcvkDV0euORWfaRzFoJ",
+    "name": "When I See This Bar (with Eric Church) - Live",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5LYPcvkDV0euORWfaRzFoJ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 213120,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5t8UTyE6j6CHeCYinFa2tl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5t8UTyE6j6CHeCYinFa2tl",
+    "id": "5t8UTyE6j6CHeCYinFa2tl",
+    "name": "No Shoes, No Shirt, No Problems - Live",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5t8UTyE6j6CHeCYinFa2tl",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 363760,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7KKhDiVlL86jYC3FVLoe54"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7KKhDiVlL86jYC3FVLoe54",
+    "id": "7KKhDiVlL86jYC3FVLoe54",
+    "name": "Anything but Mine - Live",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:7KKhDiVlL86jYC3FVLoe54",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2dSu4iBQikoVlBc43gwaHY",
+        "id": "2dSu4iBQikoVlBc43gwaHY",
+        "name": "Mac McAnally",
+        "type": "artist",
+        "uri": "spotify:artist:2dSu4iBQikoVlBc43gwaHY"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190360,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ftYn6m8LU4JOgLu9GkcTe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ftYn6m8LU4JOgLu9GkcTe",
+    "id": "0ftYn6m8LU4JOgLu9GkcTe",
+    "name": "Down the Road (with Mac McAnally) - Live",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:0ftYn6m8LU4JOgLu9GkcTe",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 259853,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4DVbthLuleyZjNac9UxY7I"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4DVbthLuleyZjNac9UxY7I",
+    "id": "4DVbthLuleyZjNac9UxY7I",
+    "name": "Guitars and Tiki Bars - Live",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:4DVbthLuleyZjNac9UxY7I",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 246093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4HvTV32Xu7PIQhiEqcVFii"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4HvTV32Xu7PIQhiEqcVFii",
+    "id": "4HvTV32Xu7PIQhiEqcVFii",
+    "name": "Hemingway's Whiskey - Live",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:4HvTV32Xu7PIQhiEqcVFii",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        "href": "https://api.spotify.com/v1/artists/6yJCxee7QumYr820xdIsjo",
+        "id": "6yJCxee7QumYr820xdIsjo",
+        "name": "Zac Brown Band",
+        "type": "artist",
+        "uri": "spotify:artist:6yJCxee7QumYr820xdIsjo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 181053,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1ffsISFmdQM8WERaHQvMMk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1ffsISFmdQM8WERaHQvMMk",
+    "id": "1ffsISFmdQM8WERaHQvMMk",
+    "name": "Everybody Wants to Go to Heaven (with Zac Brown Band) - Live",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:1ffsISFmdQM8WERaHQvMMk",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 233306,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4uEWFTzAQRuCroErj4NMiS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4uEWFTzAQRuCroErj4NMiS",
+    "id": "4uEWFTzAQRuCroErj4NMiS",
+    "name": "I'm Alive - Live",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:4uEWFTzAQRuCroErj4NMiS",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        },
+        "href": "https://api.spotify.com/v1/artists/6y8XlgIV8BLlIg1tT1R10i",
+        "id": "6y8XlgIV8BLlIg1tT1R10i",
+        "name": "Old Dominion",
+        "type": "artist",
+        "uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 255933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ZMRJBNpfXaZTE5vHWAcR9",
+    "id": "3ZMRJBNpfXaZTE5vHWAcR9",
+    "name": "Save It for a Rainy Day (with Old Dominion) - Live",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:3ZMRJBNpfXaZTE5vHWAcR9",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 259560,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0T6u8fQtxqbLVTIAJYZpF2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0T6u8fQtxqbLVTIAJYZpF2",
+    "id": "0T6u8fQtxqbLVTIAJYZpF2",
+    "name": "Pirate Flag - Live",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:0T6u8fQtxqbLVTIAJYZpF2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 267746,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3u1SWj9rUNMCwxacrk8UVK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3u1SWj9rUNMCwxacrk8UVK",
+    "id": "3u1SWj9rUNMCwxacrk8UVK",
+    "name": "Somewhere with You - Live",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3u1SWj9rUNMCwxacrk8UVK",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 356146,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/30hwGPq5dbDoB87glPiqtV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/30hwGPq5dbDoB87glPiqtV",
+    "id": "30hwGPq5dbDoB87glPiqtV",
+    "name": "I Go Back - Live",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:30hwGPq5dbDoB87glPiqtV",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 389946,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/608KuWG6xHDaAST6cAXk5x"
+    },
+    "href": "https://api.spotify.com/v1/tracks/608KuWG6xHDaAST6cAXk5x",
+    "id": "608KuWG6xHDaAST6cAXk5x",
+    "name": "One Step Up - Live",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:608KuWG6xHDaAST6cAXk5x",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 330426,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/45kAQOK8mo7Z7wlqrwTHGH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/45kAQOK8mo7Z7wlqrwTHGH",
+    "id": "45kAQOK8mo7Z7wlqrwTHGH",
+    "name": "American Kids - Live",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:45kAQOK8mo7Z7wlqrwTHGH",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        },
+        "href": "https://api.spotify.com/v1/artists/1PJVVIeS5Wu0wbZDhtC0Ht",
+        "id": "1PJVVIeS5Wu0wbZDhtC0Ht",
+        "name": "Grace Potter",
+        "type": "artist",
+        "uri": "spotify:artist:1PJVVIeS5Wu0wbZDhtC0Ht"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 285733,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P"
+    },
+    "href": "https://api.spotify.com/v1/tracks/42J7EbIglcJtzqeMSHD16P",
+    "id": "42J7EbIglcJtzqeMSHD16P",
+    "name": "You and Tequila (with Grace Potter) - Live",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:42J7EbIglcJtzqeMSHD16P",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 272360,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2CxZStik5OIxp6uJ7iqOTY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2CxZStik5OIxp6uJ7iqOTY",
+    "id": "2CxZStik5OIxp6uJ7iqOTY",
+    "name": "Young - Live",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2CxZStik5OIxp6uJ7iqOTY",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 273106,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6t3Mq1tkcntOBcHRL3ar4n"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6t3Mq1tkcntOBcHRL3ar4n",
+    "id": "6t3Mq1tkcntOBcHRL3ar4n",
+    "name": "There Goes My Life - Live",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6t3Mq1tkcntOBcHRL3ar4n",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 249773,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7qUcFV6nvxlhseJhR3IjNp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7qUcFV6nvxlhseJhR3IjNp",
+    "id": "7qUcFV6nvxlhseJhR3IjNp",
+    "name": "Out Last Night - Live",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:7qUcFV6nvxlhseJhR3IjNp",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        },
+        "href": "https://api.spotify.com/v1/artists/78OAtwN3XpjMcjibnF2Kw5",
+        "id": "78OAtwN3XpjMcjibnF2Kw5",
+        "name": "David Lee Murphy",
+        "type": "artist",
+        "uri": "spotify:artist:78OAtwN3XpjMcjibnF2Kw5"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 221720,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3oKY5smJilXhPZ3ewVanYI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3oKY5smJilXhPZ3ewVanYI",
+    "id": "3oKY5smJilXhPZ3ewVanYI",
+    "name": "Dust on the Bottle (with David Lee Murphy) - Live",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:3oKY5smJilXhPZ3ewVanYI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 192160,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/72uzSIyvTEeri0hqxlzGEo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/72uzSIyvTEeri0hqxlzGEo",
+    "id": "72uzSIyvTEeri0hqxlzGEo",
+    "name": "Coastal - Live",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:72uzSIyvTEeri0hqxlzGEo",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 412453,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5sQTxHmlzeygAiW1dmc44Q"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5sQTxHmlzeygAiW1dmc44Q",
+    "id": "5sQTxHmlzeygAiW1dmc44Q",
+    "name": "The Boys of Fall - Live",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:5sQTxHmlzeygAiW1dmc44Q",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 218000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4zNS245NClh6ZpBJrJUhXh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4zNS245NClh6ZpBJrJUhXh",
+    "id": "4zNS245NClh6ZpBJrJUhXh",
+    "name": "Noise - Live",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:4zNS245NClh6ZpBJrJUhXh",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 216013,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6cFQubRCjxzUrUa8EddY4c"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6cFQubRCjxzUrUa8EddY4c",
+    "id": "6cFQubRCjxzUrUa8EddY4c",
+    "name": "Old Blue Chair - Live",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:6cFQubRCjxzUrUa8EddY4c",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        },
+        "href": "https://api.spotify.com/v1/artists/13vQloYd6mP7V1mVwKJwS2",
+        "id": "13vQloYd6mP7V1mVwKJwS2",
+        "name": "Dave Matthews",
+        "type": "artist",
+        "uri": "spotify:artist:13vQloYd6mP7V1mVwKJwS2"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 314813,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6Am0cdg7Ep8kT4VXe92WKO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Am0cdg7Ep8kT4VXe92WKO",
+    "id": "6Am0cdg7Ep8kT4VXe92WKO",
+    "name": "Medley: The Joker / Three Little Birds (with Dave Matthews) - Live",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:6Am0cdg7Ep8kT4VXe92WKO",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+        "id": "3grHWM9bx2E9vwJCdlRv9O",
+        "name": "Kenny Chesney",
+        "type": "artist",
+        "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+      }
+    ],
+    "disc_number": 2,
+    "duration_ms": 350080,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/16pzorKToMkVl9OGgPgLT3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/16pzorKToMkVl9OGgPgLT3",
+    "id": "16pzorKToMkVl9OGgPgLT3",
+    "name": "Happy on the Hey Now (A Song for Kristi) - Live",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:16pzorKToMkVl9OGgPgLT3",
+    "is_local": false
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 265306,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0Nw8hv79MLJa1yjtsEgz08"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0Nw8hv79MLJa1yjtsEgz08",
+    "id": "0Nw8hv79MLJa1yjtsEgz08",
+    "name": "Ronan",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0Nw8hv79MLJa1yjtsEgz08",
+    "is_local": false
+  }
+]

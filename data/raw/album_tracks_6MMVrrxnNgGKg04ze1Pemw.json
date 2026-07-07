@@ -1,0 +1,137 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 241591,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5dwLFuYXsOikE1BMoBDMN6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5dwLFuYXsOikE1BMoBDMN6",
+    "id": "5dwLFuYXsOikE1BMoBDMN6",
+    "name": "Fearless (Taylor’s Version)",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5dwLFuYXsOikE1BMoBDMN6",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235766,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3RG3Jhpi8yAnogztYmzzYm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3RG3Jhpi8yAnogztYmzzYm",
+    "id": "3RG3Jhpi8yAnogztYmzzYm",
+    "name": "Love Story (Taylor’s Version)",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3RG3Jhpi8yAnogztYmzzYm",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 234515,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ieGtGwqOpvIQhRngp5VvR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ieGtGwqOpvIQhRngp5VvR",
+    "id": "4ieGtGwqOpvIQhRngp5VvR",
+    "name": "White Horse (Taylor’s Version)",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4ieGtGwqOpvIQhRngp5VvR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 231124,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/06qAK0pLx43pwzRi6MWV8g"
+    },
+    "href": "https://api.spotify.com/v1/tracks/06qAK0pLx43pwzRi6MWV8g",
+    "id": "06qAK0pLx43pwzRi6MWV8g",
+    "name": "You Belong With Me (Taylor’s Version)",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:06qAK0pLx43pwzRi6MWV8g",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 237022,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0q6vsjvnCIWrtwRckCV7y0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0q6vsjvnCIWrtwRckCV7y0",
+    "id": "0q6vsjvnCIWrtwRckCV7y0",
+    "name": "If This Was A Movie (Taylor’s Version)",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0q6vsjvnCIWrtwRckCV7y0",
+    "is_local": false
+  }
+]

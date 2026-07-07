@@ -1,0 +1,757 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        "href": "https://api.spotify.com/v1/artists/46pWGuE3dSwY3bMMXGBvVS",
+        "id": "46pWGuE3dSwY3bMMXGBvVS",
+        "name": "Rema",
+        "type": "artist",
+        "uri": "spotify:artist:46pWGuE3dSwY3bMMXGBvVS"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 219813,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7m4CTIKRk4pmtCungvFk7e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7m4CTIKRk4pmtCungvFk7e",
+    "id": "7m4CTIKRk4pmtCungvFk7e",
+    "name": "Calm Down",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7m4CTIKRk4pmtCungvFk7e",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        "href": "https://api.spotify.com/v1/artists/0GgY7hjMoGDsX8ZDe2mwds",
+        "id": "0GgY7hjMoGDsX8ZDe2mwds",
+        "name": "Soolking",
+        "type": "artist",
+        "uri": "spotify:artist:0GgY7hjMoGDsX8ZDe2mwds"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        "href": "https://api.spotify.com/v1/artists/7CUFPNi1TU8RowpnFRSsZV",
+        "id": "7CUFPNi1TU8RowpnFRSsZV",
+        "name": "Niska",
+        "type": "artist",
+        "uri": "spotify:artist:7CUFPNi1TU8RowpnFRSsZV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 176120,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2ND9YsKXzFvJHZzSENjDsq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2ND9YsKXzFvJHZzSENjDsq",
+    "id": "2ND9YsKXzFvJHZzSENjDsq",
+    "name": "Balader",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2ND9YsKXzFvJHZzSENjDsq",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mmEMfYChd6MImBagU7zCs",
+        "id": "5mmEMfYChd6MImBagU7zCs",
+        "name": "Bigflo & Oli",
+        "type": "artist",
+        "uri": "spotify:artist:5mmEMfYChd6MImBagU7zCs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jStlKLflTMUN6BajxrNlj",
+        "id": "6jStlKLflTMUN6BajxrNlj",
+        "name": "Julien Doré",
+        "type": "artist",
+        "uri": "spotify:artist:6jStlKLflTMUN6BajxrNlj"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 232373,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0PHxQLAAUEEBjinCQtDYqZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0PHxQLAAUEEBjinCQtDYqZ",
+    "id": "0PHxQLAAUEEBjinCQtDYqZ",
+    "name": "Coup de vieux",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0PHxQLAAUEEBjinCQtDYqZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+        "id": "53XhwfbYqKCa1cC15pYq2q",
+        "name": "Imagine Dragons",
+        "type": "artist",
+        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190883,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3kccvMDTFRaQlT2Zm7hhFh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3kccvMDTFRaQlT2Zm7hhFh",
+    "id": "3kccvMDTFRaQlT2Zm7hhFh",
+    "name": "Sharks",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3kccvMDTFRaQlT2Zm7hhFh",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        "href": "https://api.spotify.com/v1/artists/3QVolfxko2UyCOtexhVTli",
+        "id": "3QVolfxko2UyCOtexhVTli",
+        "name": "Angèle",
+        "type": "artist",
+        "uri": "spotify:artist:3QVolfxko2UyCOtexhVTli"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198986,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1TVc6RC9ZE30i8rCxeRYit"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1TVc6RC9ZE30i8rCxeRYit",
+    "id": "1TVc6RC9ZE30i8rCxeRYit",
+    "name": "Amour, Haine & Danger",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1TVc6RC9ZE30i8rCxeRYit",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ",
+        "id": "5Pwc4xIPtQLFEnJriah9YJ",
+        "name": "OneRepublic",
+        "type": "artist",
+        "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 148485,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1OPzyiOmDDbzF5DwPxnYVx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1OPzyiOmDDbzF5DwPxnYVx",
+    "id": "1OPzyiOmDDbzF5DwPxnYVx",
+    "name": "I Ain't Worried",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:1OPzyiOmDDbzF5DwPxnYVx",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200690,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3j66d0wETRbKp3JntTuBb9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3j66d0wETRbKp3JntTuBb9",
+    "id": "3j66d0wETRbKp3JntTuBb9",
+    "name": "Anti-Hero",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:3j66d0wETRbKp3JntTuBb9",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4OV6uYSnHxSYkjDYuBVBUz",
+        "id": "4OV6uYSnHxSYkjDYuBVBUz",
+        "name": "Slimane",
+        "type": "artist",
+        "uri": "spotify:artist:4OV6uYSnHxSYkjDYuBVBUz"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/26sfQVu39ev9mQEpoSUZ4Q"
+    },
+    "href": "https://api.spotify.com/v1/tracks/26sfQVu39ev9mQEpoSUZ4Q",
+    "id": "26sfQVu39ev9mQEpoSUZ4Q",
+    "name": "Des milliers de je t'aime",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:26sfQVu39ev9mQEpoSUZ4Q",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bp2lSdh12wcA8LyB1srfJ",
+        "id": "7bp2lSdh12wcA8LyB1srfJ",
+        "name": "Sofia Carson",
+        "type": "artist",
+        "uri": "spotify:artist:7bp2lSdh12wcA8LyB1srfJ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 176859,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2HgIvG0stbbB81YOCqf8zI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2HgIvG0stbbB81YOCqf8zI",
+    "id": "2HgIvG0stbbB81YOCqf8zI",
+    "name": "Come Back Home - From \"Purple Hearts\"/Soundtrack Version",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2HgIvG0stbbB81YOCqf8zI",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        },
+        "href": "https://api.spotify.com/v1/artists/4IS4EyXNmiI2w5SRCjMtEF",
+        "id": "4IS4EyXNmiI2w5SRCjMtEF",
+        "name": "Kendji Girac",
+        "type": "artist",
+        "uri": "spotify:artist:4IS4EyXNmiI2w5SRCjMtEF"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220359,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1yApE4r5ALKjKCW3C2vexV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1yApE4r5ALKjKCW3C2vexV",
+    "id": "1yApE4r5ALKjKCW3C2vexV",
+    "name": "Eva",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:1yApE4r5ALKjKCW3C2vexV",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4uJNQGa3L2frXDxwgouTIw",
+        "id": "4uJNQGa3L2frXDxwgouTIw",
+        "name": "Franglish",
+        "type": "artist",
+        "uri": "spotify:artist:4uJNQGa3L2frXDxwgouTIw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Te49r3A6f5BiIgBRxH7FH",
+        "id": "6Te49r3A6f5BiIgBRxH7FH",
+        "name": "Ninho",
+        "type": "artist",
+        "uri": "spotify:artist:6Te49r3A6f5BiIgBRxH7FH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 198733,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5MJGsKsjCkApj0ZjttpFgq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5MJGsKsjCkApj0ZjttpFgq",
+    "id": "5MJGsKsjCkApj0ZjttpFgq",
+    "name": "Sécu",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:5MJGsKsjCkApj0ZjttpFgq",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6euPnGzBlDysAC5ecVguNZ",
+        "id": "6euPnGzBlDysAC5ecVguNZ",
+        "name": "M. Pokora",
+        "type": "artist",
+        "uri": "spotify:artist:6euPnGzBlDysAC5ecVguNZ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 194666,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1xphiI3BZdSfZDKTtSxcr6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1xphiI3BZdSfZDKTtSxcr6",
+    "id": "1xphiI3BZdSfZDKTtSxcr6",
+    "name": "Qui on est",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:1xphiI3BZdSfZDKTtSxcr6",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        "href": "https://api.spotify.com/v1/artists/2s7fZ34RK8RUJQ2ewsh6I5",
+        "id": "2s7fZ34RK8RUJQ2ewsh6I5",
+        "name": "RK",
+        "type": "artist",
+        "uri": "spotify:artist:2s7fZ34RK8RUJQ2ewsh6I5"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 146118,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0eSe0bNwHOSntq9lqUzQkU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0eSe0bNwHOSntq9lqUzQkU",
+    "id": "0eSe0bNwHOSntq9lqUzQkU",
+    "name": "Lola",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:0eSe0bNwHOSntq9lqUzQkU",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        "href": "https://api.spotify.com/v1/artists/6PIIKavZx20FlVKyIvb4Um",
+        "id": "6PIIKavZx20FlVKyIvb4Um",
+        "name": "Calema",
+        "type": "artist",
+        "uri": "spotify:artist:6PIIKavZx20FlVKyIvb4Um"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dhDLHILqhHlgn0hPn8rOZ",
+        "id": "7dhDLHILqhHlgn0hPn8rOZ",
+        "name": "Dj Youcef",
+        "type": "artist",
+        "uri": "spotify:artist:7dhDLHILqhHlgn0hPn8rOZ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 206026,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0VZ644nnoyeQOm3tUvPBuv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0VZ644nnoyeQOm3tUvPBuv",
+    "id": "0VZ644nnoyeQOm3tUvPBuv",
+    "name": "Te Amo - DJ Youcef Remix",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:0VZ644nnoyeQOm3tUvPBuv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1eTRyiHsWMoWKPD6s4Kiqt",
+        "id": "1eTRyiHsWMoWKPD6s4Kiqt",
+        "name": "Lujipeka",
+        "type": "artist",
+        "uri": "spotify:artist:1eTRyiHsWMoWKPD6s4Kiqt"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 150233,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5jWabch4tPGX2VmkjQbX3b"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5jWabch4tPGX2VmkjQbX3b",
+    "id": "5jWabch4tPGX2VmkjQbX3b",
+    "name": "Metaverse",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:5jWabch4tPGX2VmkjQbX3b",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        },
+        "href": "https://api.spotify.com/v1/artists/61CPKXT0bcKj8MKTNTMOXa",
+        "id": "61CPKXT0bcKj8MKTNTMOXa",
+        "name": "Juliette Armanet",
+        "type": "artist",
+        "uri": "spotify:artist:61CPKXT0bcKj8MKTNTMOXa"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 164986,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0dsuPibn5tzXTL5JMLgdW2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0dsuPibn5tzXTL5JMLgdW2",
+    "id": "0dsuPibn5tzXTL5JMLgdW2",
+    "name": "Flamme",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:0dsuPibn5tzXTL5JMLgdW2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        "href": "https://api.spotify.com/v1/artists/5j4HeCoUlzhfWtjAfM1acR",
+        "id": "5j4HeCoUlzhfWtjAfM1acR",
+        "name": "Stromae",
+        "type": "artist",
+        "uri": "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "type": "artist",
+        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187072,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1W8ZaWVk3AroyPluAHpCkT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1W8ZaWVk3AroyPluAHpCkT",
+    "id": "1W8ZaWVk3AroyPluAHpCkT",
+    "name": "Mon amour",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:1W8ZaWVk3AroyPluAHpCkT",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oUyBawGODm5oYtfa0scxY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oUyBawGODm5oYtfa0scxY",
+        "id": "4oUyBawGODm5oYtfa0scxY",
+        "name": "Dana",
+        "type": "artist",
+        "uri": "spotify:artist:4oUyBawGODm5oYtfa0scxY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
+        },
+        "href": "https://api.spotify.com/v1/artists/3mirzmIKVfvqcW0M5OKAzR",
+        "id": "3mirzmIKVfvqcW0M5OKAzR",
+        "name": "Yanns",
+        "type": "artist",
+        "uri": "spotify:artist:3mirzmIKVfvqcW0M5OKAzR"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 134552,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0xKjshdUM7QkkvZ1D84M9N"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0xKjshdUM7QkkvZ1D84M9N",
+    "id": "0xKjshdUM7QkkvZ1D84M9N",
+    "name": "J'ai mal",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:0xKjshdUM7QkkvZ1D84M9N",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nH2klYTzn8CNvUv1GOGQO",
+        "id": "5nH2klYTzn8CNvUv1GOGQO",
+        "name": "Eva",
+        "type": "artist",
+        "uri": "spotify:artist:5nH2klYTzn8CNvUv1GOGQO"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 159800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0wrj4rSuHSPZgcUJGr6Qru"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0wrj4rSuHSPZgcUJGr6Qru",
+    "id": "0wrj4rSuHSPZgcUJGr6Qru",
+    "name": "Amour Impur",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:0wrj4rSuHSPZgcUJGr6Qru",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        "href": "https://api.spotify.com/v1/artists/1QPdp5duV6lV4XINCzjwQ2",
+        "id": "1QPdp5duV6lV4XINCzjwQ2",
+        "name": "Dinos",
+        "type": "artist",
+        "uri": "spotify:artist:1QPdp5duV6lV4XINCzjwQ2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        "href": "https://api.spotify.com/v1/artists/5gs4Sm2WQUkcGeikMcVHbh",
+        "id": "5gs4Sm2WQUkcGeikMcVHbh",
+        "name": "Hamza",
+        "type": "artist",
+        "uri": "spotify:artist:5gs4Sm2WQUkcGeikMcVHbh"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 169320,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5wgB7a0ymah8bZo4IgEM6b"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5wgB7a0ymah8bZo4IgEM6b",
+    "id": "5wgB7a0ymah8bZo4IgEM6b",
+    "name": "Chrome Hearts",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:5wgB7a0ymah8bZo4IgEM6b",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wjeXCtRND2ZdKfMJFu6JC",
+        "id": "7wjeXCtRND2ZdKfMJFu6JC",
+        "name": "Louane",
+        "type": "artist",
+        "uri": "spotify:artist:7wjeXCtRND2ZdKfMJFu6JC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 192133,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1DYy2i93eMhIAimUE3ZqBm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1DYy2i93eMhIAimUE3ZqBm",
+    "id": "1DYy2i93eMhIAimUE3ZqBm",
+    "name": "Secret",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:1DYy2i93eMhIAimUE3ZqBm",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0u6GtibW46tFX7koQ6uNJZ",
+        "id": "0u6GtibW46tFX7koQ6uNJZ",
+        "name": "Topic",
+        "type": "artist",
+        "uri": "spotify:artist:0u6GtibW46tFX7koQ6uNJZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Wg2b4Mp42gicxEeDNawf7",
+        "id": "5Wg2b4Mp42gicxEeDNawf7",
+        "name": "A7S",
+        "type": "artist",
+        "uri": "spotify:artist:5Wg2b4Mp42gicxEeDNawf7"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 165800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/18CRM8PF1B8RuQRNGm4gfC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/18CRM8PF1B8RuQRNGm4gfC",
+    "id": "18CRM8PF1B8RuQRNGm4gfC",
+    "name": "Kernkraft 400 (A Better Day)",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:18CRM8PF1B8RuQRNGm4gfC",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        "href": "https://api.spotify.com/v1/artists/6L34dW6SKMSDaGIfYDU19j",
+        "id": "6L34dW6SKMSDaGIfYDU19j",
+        "name": "Maes",
+        "type": "artist",
+        "uri": "spotify:artist:6L34dW6SKMSDaGIfYDU19j"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 164334,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0VCLYaBprjuDbxkzUF1AnF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0VCLYaBprjuDbxkzUF1AnF",
+    "id": "0VCLYaBprjuDbxkzUF1AnF",
+    "name": "Fetty Wap",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:0VCLYaBprjuDbxkzUF1AnF",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        },
+        "href": "https://api.spotify.com/v1/artists/58wXmynHaAWI5hwlPZP3qL",
+        "id": "58wXmynHaAWI5hwlPZP3qL",
+        "name": "Booba",
+        "type": "artist",
+        "uri": "spotify:artist:58wXmynHaAWI5hwlPZP3qL"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187790,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3HIO4iXh2Q1irmvYSHHJrV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3HIO4iXh2Q1irmvYSHHJrV",
+    "id": "3HIO4iXh2Q1irmvYSHHJrV",
+    "name": "KOA",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:3HIO4iXh2Q1irmvYSHHJrV",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LKAV3zJ8a8AIGnyc5OvfB",
+        "id": "0LKAV3zJ8a8AIGnyc5OvfB",
+        "name": "SDM",
+        "type": "artist",
+        "uri": "spotify:artist:0LKAV3zJ8a8AIGnyc5OvfB"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 137520,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/47tN3GHH70OXekFG9TdQOD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/47tN3GHH70OXekFG9TdQOD",
+    "id": "47tN3GHH70OXekFG9TdQOD",
+    "name": "Ragnar",
+    "track_number": 25,
+    "type": "track",
+    "uri": "spotify:track:47tN3GHH70OXekFG9TdQOD",
+    "is_local": false
+  }
+]

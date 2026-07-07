@@ -1,0 +1,750 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+        "id": "4yiQZ8tQPux8cPriYMWUFP",
+        "name": "Gwen Stefani",
+        "type": "artist",
+        "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        "href": "https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw",
+        "id": "1UTPBmNbXNTittyMJrNkvw",
+        "name": "Blake Shelton",
+        "type": "artist",
+        "uri": "spotify:artist:1UTPBmNbXNTittyMJrNkvw"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 157800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2HiEpqV3CXGjrfdBAXTIQB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2HiEpqV3CXGjrfdBAXTIQB",
+    "id": "2HiEpqV3CXGjrfdBAXTIQB",
+    "name": "You Make It Feel Like Christmas",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2HiEpqV3CXGjrfdBAXTIQB",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+        "id": "1yxSLGMDHlW21z4YXirZDS",
+        "name": "Black Eyed Peas",
+        "type": "artist",
+        "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 251440,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2bz7jibLlmsKb8V4cW83dd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2bz7jibLlmsKb8V4cW83dd",
+    "id": "2bz7jibLlmsKb8V4cW83dd",
+    "name": "Boom Boom Pow",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2bz7jibLlmsKb8V4cW83dd",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+        "id": "53XhwfbYqKCa1cC15pYq2q",
+        "name": "Imagine Dragons",
+        "type": "artist",
+        "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        "href": "https://api.spotify.com/v1/artists/57nPqD7z62gDdq37US9XJR",
+        "id": "57nPqD7z62gDdq37US9XJR",
+        "name": "Arcane",
+        "type": "artist",
+        "uri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        "href": "https://api.spotify.com/v1/artists/47mIJdHORyRerp4os813jD",
+        "id": "47mIJdHORyRerp4os813jD",
+        "name": "League of Legends",
+        "type": "artist",
+        "uri": "spotify:artist:47mIJdHORyRerp4os813jD"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 173381,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2ZM963fKOpvwkEaLCWBBFW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2ZM963fKOpvwkEaLCWBBFW",
+    "id": "2ZM963fKOpvwkEaLCWBBFW",
+    "name": "Enemy - From the series Arcane League of Legends",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2ZM963fKOpvwkEaLCWBBFW",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+        "id": "7hJcb9fa4alzcOq3EaNPoG",
+        "name": "Snoop Dogg",
+        "type": "artist",
+        "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235081,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2TJQdiC7kdRGJjRHEtPkuw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2TJQdiC7kdRGJjRHEtPkuw",
+    "id": "2TJQdiC7kdRGJjRHEtPkuw",
+    "name": "California Gurls",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:2TJQdiC7kdRGJjRHEtPkuw",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi",
+        "id": "3ipn9JLAPI5GUEo4y4jcoi",
+        "name": "Ludacris",
+        "type": "artist",
+        "uri": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 275040,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/38zAkBGRFvUyFIkMWLpuEd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/38zAkBGRFvUyFIkMWLpuEd",
+    "id": "38zAkBGRFvUyFIkMWLpuEd",
+    "name": "Number One Spot",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:38zAkBGRFvUyFIkMWLpuEd",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+        "id": "0z4gvV4rjIZ9wHck67ucSV",
+        "name": "Akon",
+        "type": "artist",
+        "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 240133,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7sfl2mwsTpgk7qnf5I2Ena"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7sfl2mwsTpgk7qnf5I2Ena",
+    "id": "7sfl2mwsTpgk7qnf5I2Ena",
+    "name": "Bananza (Belly Dancer)",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:7sfl2mwsTpgk7qnf5I2Ena",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zlR5ttMfMNmwf2lecU9Cc",
+        "id": "6zlR5ttMfMNmwf2lecU9Cc",
+        "name": "Sam Fender",
+        "type": "artist",
+        "uri": "spotify:artist:6zlR5ttMfMNmwf2lecU9Cc"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 302360,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ODRcXM9lH2Wu7OHUuwhyY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ODRcXM9lH2Wu7OHUuwhyY",
+    "id": "3ODRcXM9lH2Wu7OHUuwhyY",
+    "name": "Seventeen Going Under",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:3ODRcXM9lH2Wu7OHUuwhyY",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        },
+        "href": "https://api.spotify.com/v1/artists/3nQ59hkeciYoR6RreQL4Rv",
+        "id": "3nQ59hkeciYoR6RreQL4Rv",
+        "name": "Darren Criss",
+        "type": "artist",
+        "uri": "spotify:artist:3nQ59hkeciYoR6RreQL4Rv"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 209507,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4CKoCtzVz0JEbrPSDIWJOm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4CKoCtzVz0JEbrPSDIWJOm",
+    "id": "4CKoCtzVz0JEbrPSDIWJOm",
+    "name": "Christmas Dance",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:4CKoCtzVz0JEbrPSDIWJOm",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        },
+        "href": "https://api.spotify.com/v1/artists/0xOeVMOz2fVg5BJY3N6akT",
+        "id": "0xOeVMOz2fVg5BJY3N6akT",
+        "name": "Jaden",
+        "type": "artist",
+        "uri": "spotify:artist:0xOeVMOz2fVg5BJY3N6akT"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220995,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2N1nzUpDg0Eosi4pKkP3Bb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2N1nzUpDg0Eosi4pKkP3Bb",
+    "id": "2N1nzUpDg0Eosi4pKkP3Bb",
+    "name": "Icon",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2N1nzUpDg0Eosi4pKkP3Bb",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Cd373x8qzC7SNUg5IToqp",
+        "id": "1Cd373x8qzC7SNUg5IToqp",
+        "name": "BoyWithUke",
+        "type": "artist",
+        "uri": "spotify:artist:1Cd373x8qzC7SNUg5IToqp"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 168066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/49UGEQH4F8AoKjSfkoHgjR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/49UGEQH4F8AoKjSfkoHgjR",
+    "id": "49UGEQH4F8AoKjSfkoHgjR",
+    "name": "Toxic",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:49UGEQH4F8AoKjSfkoHgjR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 177523,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1WsRY1Y3LwsOasW7FH6esc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1WsRY1Y3LwsOasW7FH6esc",
+    "id": "1WsRY1Y3LwsOasW7FH6esc",
+    "name": "watch",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:1WsRY1Y3LwsOasW7FH6esc",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        "href": "https://api.spotify.com/v1/artists/5H6xmHXjsq98NLbEjuE29f",
+        "id": "5H6xmHXjsq98NLbEjuE29f",
+        "name": "NEIKED",
+        "type": "artist",
+        "uri": "spotify:artist:5H6xmHXjsq98NLbEjuE29f"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1BEUkE2CSUgHTLSBMZdnFB",
+        "id": "1BEUkE2CSUgHTLSBMZdnFB",
+        "name": "Mae Muller",
+        "type": "artist",
+        "uri": "spotify:artist:1BEUkE2CSUgHTLSBMZdnFB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        "href": "https://api.spotify.com/v1/artists/6AgTAQt8XS6jRWi4sX7w49",
+        "id": "6AgTAQt8XS6jRWi4sX7w49",
+        "name": "Polo G",
+        "type": "artist",
+        "uri": "spotify:artist:6AgTAQt8XS6jRWi4sX7w49"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 160656,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/22De3UPaGp7s4MwIe2r1VZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/22De3UPaGp7s4MwIe2r1VZ",
+    "id": "22De3UPaGp7s4MwIe2r1VZ",
+    "name": "Better Days",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:22De3UPaGp7s4MwIe2r1VZ",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 228026,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2eUUSIRG6x75tUSTXHGH24"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2eUUSIRG6x75tUSTXHGH24",
+    "id": "2eUUSIRG6x75tUSTXHGH24",
+    "name": "Christmas Tree Farm",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:2eUUSIRG6x75tUSTXHGH24",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        },
+        "href": "https://api.spotify.com/v1/artists/03d2mJXSMtuPI0nIvLnhoS",
+        "id": "03d2mJXSMtuPI0nIvLnhoS",
+        "name": "Zoe Wees",
+        "type": "artist",
+        "uri": "spotify:artist:03d2mJXSMtuPI0nIvLnhoS"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 230880,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/15gRmrjTvtr5t51xltP5b0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/15gRmrjTvtr5t51xltP5b0",
+    "id": "15gRmrjTvtr5t51xltP5b0",
+    "name": "Control",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:15gRmrjTvtr5t51xltP5b0",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        "href": "https://api.spotify.com/v1/artists/4pnp4w9g30yLfVIAFnZMRd",
+        "id": "4pnp4w9g30yLfVIAFnZMRd",
+        "name": "ACRAZE",
+        "type": "artist",
+        "uri": "spotify:artist:4pnp4w9g30yLfVIAFnZMRd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        },
+        "href": "https://api.spotify.com/v1/artists/1c70yCa8sRgIiQxl3HOEFo",
+        "id": "1c70yCa8sRgIiQxl3HOEFo",
+        "name": "Cherish",
+        "type": "artist",
+        "uri": "spotify:artist:1c70yCa8sRgIiQxl3HOEFo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 158933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3tj9pnzDGW7PJJ4lusRUaq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3tj9pnzDGW7PJJ4lusRUaq",
+    "id": "3tj9pnzDGW7PJJ4lusRUaq",
+    "name": "Do It To It",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:3tj9pnzDGW7PJJ4lusRUaq",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
+        },
+        "href": "https://api.spotify.com/v1/artists/64H8UqGLbJFHwKtGxiV8OP",
+        "id": "64H8UqGLbJFHwKtGxiV8OP",
+        "name": "THE ANXIETY",
+        "type": "artist",
+        "uri": "spotify:artist:64H8UqGLbJFHwKtGxiV8OP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF",
+        "id": "3rWZHrfrsPBxVy692yAIxF",
+        "name": "WILLOW",
+        "type": "artist",
+        "uri": "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xoxekeb8jUVHKJB7m6bfg",
+        "id": "1xoxekeb8jUVHKJB7m6bfg",
+        "name": "Tyler Cole",
+        "type": "artist",
+        "uri": "spotify:artist:1xoxekeb8jUVHKJB7m6bfg"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 162680,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0hevnR6YGKRqjMA2kfbEov"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0hevnR6YGKRqjMA2kfbEov",
+    "id": "0hevnR6YGKRqjMA2kfbEov",
+    "name": "Meet Me At Our Spot",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:0hevnR6YGKRqjMA2kfbEov",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3xs0LEzcPXtgNfMNcHzLIP",
+        "id": "3xs0LEzcPXtgNfMNcHzLIP",
+        "name": "Rockwell",
+        "type": "artist",
+        "uri": "spotify:artist:3xs0LEzcPXtgNfMNcHzLIP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 298800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5OhC9r4HlisHJ39wfSXQzH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5OhC9r4HlisHJ39wfSXQzH",
+    "id": "5OhC9r4HlisHJ39wfSXQzH",
+    "name": "Somebody's Watching Me",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:5OhC9r4HlisHJ39wfSXQzH",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 180933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ag1hw2TcY30Eplc5TYZB9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ag1hw2TcY30Eplc5TYZB9",
+    "id": "3ag1hw2TcY30Eplc5TYZB9",
+    "name": "Bored",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:3ag1hw2TcY30Eplc5TYZB9",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "type": "artist",
+        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 213287,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4gqbSHlvmXGtit8UYlmPjB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4gqbSHlvmXGtit8UYlmPjB",
+    "id": "4gqbSHlvmXGtit8UYlmPjB",
+    "name": "Ready",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:4gqbSHlvmXGtit8UYlmPjB",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        },
+        "href": "https://api.spotify.com/v1/artists/4pfy05cNNTacuOQ6SiSu4v",
+        "id": "4pfy05cNNTacuOQ6SiSu4v",
+        "name": "Lyn Lapid",
+        "type": "artist",
+        "uri": "spotify:artist:4pfy05cNNTacuOQ6SiSu4v"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 162800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6XltuxWlaIYdsBNqQaj1z5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6XltuxWlaIYdsBNqQaj1z5",
+    "id": "6XltuxWlaIYdsBNqQaj1z5",
+    "name": "In My Mind",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:6XltuxWlaIYdsBNqQaj1z5",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+        "id": "4yiQZ8tQPux8cPriYMWUFP",
+        "name": "Gwen Stefani",
+        "type": "artist",
+        "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 264920,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6LEBFkjVpwdk5jYyQ22ef6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6LEBFkjVpwdk5jYyQ22ef6",
+    "id": "6LEBFkjVpwdk5jYyQ22ef6",
+    "name": "Luxurious",
+    "track_number": 21,
+    "type": "track",
+    "uri": "spotify:track:6LEBFkjVpwdk5jYyQ22ef6",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        "href": "https://api.spotify.com/v1/artists/1WaFQSHVGZQJTbf0BdxdNo",
+        "id": "1WaFQSHVGZQJTbf0BdxdNo",
+        "name": "Tommy Richman",
+        "type": "artist",
+        "uri": "spotify:artist:1WaFQSHVGZQJTbf0BdxdNo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 148800,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1E9J5UEgjdLjD0ux3byH0v"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1E9J5UEgjdLjD0ux3byH0v",
+    "id": "1E9J5UEgjdLjD0ux3byH0v",
+    "name": "Chrono Trigger",
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:1E9J5UEgjdLjD0ux3byH0v",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4C4PGWqCtqsHIwVxEpj0Lo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4C4PGWqCtqsHIwVxEpj0Lo",
+        "id": "4C4PGWqCtqsHIwVxEpj0Lo",
+        "name": "Ladi",
+        "type": "artist",
+        "uri": "spotify:artist:4C4PGWqCtqsHIwVxEpj0Lo"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 179382,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0feIYyrIZIL1aK3Og7AxUa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0feIYyrIZIL1aK3Og7AxUa",
+    "id": "0feIYyrIZIL1aK3Og7AxUa",
+    "name": "Can I Be Fr?",
+    "track_number": 23,
+    "type": "track",
+    "uri": "spotify:track:0feIYyrIZIL1aK3Og7AxUa",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 151444,
+    "explicit": true,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1sVOoKAHKwMsvPbxWz1FDZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1sVOoKAHKwMsvPbxWz1FDZ",
+    "id": "1sVOoKAHKwMsvPbxWz1FDZ",
+    "name": "Happier Than Ever - Edit",
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:1sVOoKAHKwMsvPbxWz1FDZ",
+    "is_local": false
+  }
+]

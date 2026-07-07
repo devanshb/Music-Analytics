@@ -1,0 +1,471 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 221306,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0e2yLGVjNeXU8Bv6VjK25V"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0e2yLGVjNeXU8Bv6VjK25V",
+    "id": "0e2yLGVjNeXU8Bv6VjK25V",
+    "name": "Lover",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0e2yLGVjNeXU8Bv6VjK25V",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        },
+        "href": "https://api.spotify.com/v1/artists/3RwQ26hR2tJtA8F9p2n7jG",
+        "id": "3RwQ26hR2tJtA8F9p2n7jG",
+        "name": "The Temptations",
+        "type": "artist",
+        "uri": "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 175933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1XZCmRwI3FxQ1UtOmLY5lT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1XZCmRwI3FxQ1UtOmLY5lT",
+    "id": "1XZCmRwI3FxQ1UtOmLY5lT",
+    "name": "My Girl",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1XZCmRwI3FxQ1UtOmLY5lT",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3",
+        "id": "5PokPZn11xzZXyXSfnvIM3",
+        "name": "Lifehouse",
+        "type": "artist",
+        "uri": "spotify:artist:5PokPZn11xzZXyXSfnvIM3"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195493,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0wenqmviOKEs45tVgFUKgt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0wenqmviOKEs45tVgFUKgt",
+    "id": "0wenqmviOKEs45tVgFUKgt",
+    "name": "You And Me",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0wenqmviOKEs45tVgFUKgt",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "type": "artist",
+        "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 257825,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3dpx6JNR6W0bOtu692Jdk0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3dpx6JNR6W0bOtu692Jdk0",
+    "id": "3dpx6JNR6W0bOtu692Jdk0",
+    "name": "She Will Be Loved - Radio Mix",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3dpx6JNR6W0bOtu692Jdk0",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        },
+        "href": "https://api.spotify.com/v1/artists/0iOVhN3tnSvgDbcg25JoJb",
+        "id": "0iOVhN3tnSvgDbcg25JoJb",
+        "name": "Etta James",
+        "type": "artist",
+        "uri": "spotify:artist:0iOVhN3tnSvgDbcg25JoJb"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 182533,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6dnXiQr71BrDOUFQy6Wk4N"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6dnXiQr71BrDOUFQy6Wk4N",
+    "id": "6dnXiQr71BrDOUFQy6Wk4N",
+    "name": "At Last",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:6dnXiQr71BrDOUFQy6Wk4N",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235766,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6kWvNbGzbZI7qmMomrXEPC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6kWvNbGzbZI7qmMomrXEPC",
+    "id": "6kWvNbGzbZI7qmMomrXEPC",
+    "name": "Love Story (Taylor’s Version)",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6kWvNbGzbZI7qmMomrXEPC",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name": "Frank Sinatra",
+        "type": "artist",
+        "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 202280,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6JbiU7BHOnRdE4YAh2Hvvu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6JbiU7BHOnRdE4YAh2Hvvu",
+    "id": "6JbiU7BHOnRdE4YAh2Hvvu",
+    "name": "The Way You Look Tonight - 2008 Remastered",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6JbiU7BHOnRdE4YAh2Hvvu",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+        "id": "00FQb4jTyendYWaN8pK0wa",
+        "name": "Lana Del Rey",
+        "type": "artist",
+        "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 236053,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6EjaIiqJk3e62xYhBlfkmi"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6EjaIiqJk3e62xYhBlfkmi",
+    "id": "6EjaIiqJk3e62xYhBlfkmi",
+    "name": "Young And Beautiful",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:6EjaIiqJk3e62xYhBlfkmi",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name": "Frank Sinatra",
+        "type": "artist",
+        "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jFZlvIea42ZvcCw4OeEdA",
+        "id": "2jFZlvIea42ZvcCw4OeEdA",
+        "name": "Count Basie",
+        "type": "artist",
+        "uri": "spotify:artist:2jFZlvIea42ZvcCw4OeEdA"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 147520,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/59xcJ9mLG1YaWTOMf86YEe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/59xcJ9mLG1YaWTOMf86YEe",
+    "id": "59xcJ9mLG1YaWTOMf86YEe",
+    "name": "Fly Me To The Moon - 2008 Remastered",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:59xcJ9mLG1YaWTOMf86YEe",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        "href": "https://api.spotify.com/v1/artists/5e4Dhzv426EvQe3aDb64jL",
+        "id": "5e4Dhzv426EvQe3aDb64jL",
+        "name": "Shania Twain",
+        "type": "artist",
+        "uri": "spotify:artist:5e4Dhzv426EvQe3aDb64jL"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212560,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3amJ1Y0W0fmTM6dF6M9PCw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3amJ1Y0W0fmTM6dF6M9PCw",
+    "id": "3amJ1Y0W0fmTM6dF6M9PCw",
+    "name": "You're Still The One",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:3amJ1Y0W0fmTM6dF6M9PCw",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+        "id": "3koiLjNrgRTNbOwViDipeA",
+        "name": "Marvin Gaye",
+        "type": "artist",
+        "uri": "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 291280,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2UQDsk4XXdFRQVZCLqGYFr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2UQDsk4XXdFRQVZCLqGYFr",
+    "id": "2UQDsk4XXdFRQVZCLqGYFr",
+    "name": "Let's Get It On",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:2UQDsk4XXdFRQVZCLqGYFr",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id": "7guDJrEfX3qb6FEbdPA5qi",
+        "name": "Stevie Wonder",
+        "type": "artist",
+        "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 177306,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ewx1ERdnsClHhXSD5jcnv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ewx1ERdnsClHhXSD5jcnv",
+    "id": "4ewx1ERdnsClHhXSD5jcnv",
+    "name": "You Are The Sunshine Of My Life",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:4ewx1ERdnsClHhXSD5jcnv",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        },
+        "href": "https://api.spotify.com/v1/artists/3nlHsNqwCSvT988ZfSW1Yh",
+        "id": "3nlHsNqwCSvT988ZfSW1Yh",
+        "name": "Ronan Keating",
+        "type": "artist",
+        "uri": "spotify:artist:3nlHsNqwCSvT988ZfSW1Yh"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 252840,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3JMaW3El9FcHhboxVQ3rlK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3JMaW3El9FcHhboxVQ3rlK",
+    "id": "3JMaW3El9FcHhboxVQ3rlK",
+    "name": "When You Say Nothing At All",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:3JMaW3El9FcHhboxVQ3rlK",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        },
+        "href": "https://api.spotify.com/v1/artists/05RZIdfz59ZW2FvFuwnmNK",
+        "id": "05RZIdfz59ZW2FvFuwnmNK",
+        "name": "K-Ci & JoJo",
+        "type": "artist",
+        "uri": "spotify:artist:05RZIdfz59ZW2FvFuwnmNK"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 331240,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6WYGaadxBCDGqrtNwYt6iA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6WYGaadxBCDGqrtNwYt6iA",
+    "id": "6WYGaadxBCDGqrtNwYt6iA",
+    "name": "All My Life",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:6WYGaadxBCDGqrtNwYt6iA",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+        "id": "3koiLjNrgRTNbOwViDipeA",
+        "name": "Marvin Gaye",
+        "type": "artist",
+        "uri": "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 181093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3GkZa1luMYye40m9wNqhyA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3GkZa1luMYye40m9wNqhyA",
+    "id": "3GkZa1luMYye40m9wNqhyA",
+    "name": "How Sweet It Is (To Be Loved By You)",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:3GkZa1luMYye40m9wNqhyA",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        },
+        "href": "https://api.spotify.com/v1/artists/6k0IBR0lU42s2GYpNX7kA9",
+        "id": "6k0IBR0lU42s2GYpNX7kA9",
+        "name": "Brian McKnight",
+        "type": "artist",
+        "uri": "spotify:artist:6k0IBR0lU42s2GYpNX7kA9"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 263797,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3tmY2swqsxylPsLUKfR2BN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3tmY2swqsxylPsLUKfR2BN",
+    "id": "3tmY2swqsxylPsLUKfR2BN",
+    "name": "Back At One",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:3tmY2swqsxylPsLUKfR2BN",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+        "id": "3GBPw9NK25X1Wt2OUvOwY3",
+        "name": "Jack Johnson",
+        "type": "artist",
+        "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 207680,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1iXIjTdqmyNzsBk0zqhrcH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1iXIjTdqmyNzsBk0zqhrcH",
+    "id": "1iXIjTdqmyNzsBk0zqhrcH",
+    "name": "Better Together",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:1iXIjTdqmyNzsBk0zqhrcH",
+    "is_local": false
+  }
+]

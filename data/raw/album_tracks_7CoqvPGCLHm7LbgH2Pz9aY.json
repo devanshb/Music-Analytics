@@ -1,0 +1,39 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 249760,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3an4u3iZSy63ygYcWslJ5f"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3an4u3iZSy63ygYcWslJ5f",
+    "id": "3an4u3iZSy63ygYcWslJ5f",
+    "name": "Everything Has Changed - Remix",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3an4u3iZSy63ygYcWslJ5f",
+    "is_local": false
+  }
+]

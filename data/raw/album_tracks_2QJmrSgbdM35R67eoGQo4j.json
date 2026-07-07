@@ -1,0 +1,353 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212600,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6qnM0XXPZOINWA778uNqQ9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6qnM0XXPZOINWA778uNqQ9",
+    "id": "6qnM0XXPZOINWA778uNqQ9",
+    "name": "Welcome To New York",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6qnM0XXPZOINWA778uNqQ9",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 231826,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1p80LdxRV74UKvL8gnD7ky",
+    "id": "1p80LdxRV74UKvL8gnD7ky",
+    "name": "Blank Space",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 231000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4lIxdJw6W3Fg4vUIYCB0S5",
+    "id": "4lIxdJw6W3Fg4vUIYCB0S5",
+    "name": "Style",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235800,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5OndtwLGA9O6XHFcGm2H7r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5OndtwLGA9O6XHFcGm2H7r",
+    "id": "5OndtwLGA9O6XHFcGm2H7r",
+    "name": "Out Of The Woods",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5OndtwLGA9O6XHFcGm2H7r",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 193293,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0dAb8TY433dl3ZfXYCLE19",
+    "id": "0dAb8TY433dl3ZfXYCLE19",
+    "name": "All You Had To Do Was Stay",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0dAb8TY433dl3ZfXYCLE19",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 219200,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5xTtaWoae3wi06K5WfVUUH",
+    "id": "5xTtaWoae3wi06K5WfVUUH",
+    "name": "Shake It Off",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5xTtaWoae3wi06K5WfVUUH",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 207440,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3wmN11qXGL0HyPojvEE1D9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3wmN11qXGL0HyPojvEE1D9",
+    "id": "3wmN11qXGL0HyPojvEE1D9",
+    "name": "I Wish You Would",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:3wmN11qXGL0HyPojvEE1D9",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 211933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/273dCMFseLcVsoSWx59IoE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/273dCMFseLcVsoSWx59IoE",
+    "id": "273dCMFseLcVsoSWx59IoE",
+    "name": "Bad Blood",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:273dCMFseLcVsoSWx59IoE",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 220440,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/59HjlYCeBsxdI0fcm3zglw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/59HjlYCeBsxdI0fcm3zglw",
+    "id": "59HjlYCeBsxdI0fcm3zglw",
+    "name": "Wildest Dreams",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 247533,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4dYUOfmWna6DFccnz732n8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4dYUOfmWna6DFccnz732n8",
+    "id": "4dYUOfmWna6DFccnz732n8",
+    "name": "How You Get The Girl",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:4dYUOfmWna6DFccnz732n8",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 250093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3oKMl2tJv4fdidkXUYMI5x"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3oKMl2tJv4fdidkXUYMI5x",
+    "id": "3oKMl2tJv4fdidkXUYMI5x",
+    "name": "This Love",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:3oKMl2tJv4fdidkXUYMI5x",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 195706,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3jBMHD19RZdAqG9iFQh7xc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3jBMHD19RZdAqG9iFQh7xc",
+    "id": "3jBMHD19RZdAqG9iFQh7xc",
+    "name": "I Know Places",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3jBMHD19RZdAqG9iFQh7xc",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 271000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/06WgOCf0LV2h4keYXDRnuh",
+    "id": "06WgOCf0LV2h4keYXDRnuh",
+    "name": "Clean",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:06WgOCf0LV2h4keYXDRnuh",
+    "is_local": false
+  }
+]

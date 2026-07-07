@@ -1,0 +1,552 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+        "id": "7FY5V3XMwlNBPitEjXowHQ",
+        "name": "Darius Rucker",
+        "type": "artist",
+        "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 298400,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2mz5PNUl54FPtWW3hGE5Y0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2mz5PNUl54FPtWW3hGE5Y0",
+    "id": "2mz5PNUl54FPtWW3hGE5Y0",
+    "name": "Wagon Wheel",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2mz5PNUl54FPtWW3hGE5Y0",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 110866,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/12bieYtWxBWDmWKSlEhSTD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/12bieYtWxBWDmWKSlEhSTD",
+    "id": "12bieYtWxBWDmWKSlEhSTD",
+    "name": "Old Town Road",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:12bieYtWxBWDmWKSlEhSTD",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+        "id": "3b8QkneNDz4JHKKKlLgYZg",
+        "name": "Florida Georgia Line",
+        "type": "artist",
+        "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        "href": "https://api.spotify.com/v1/artists/0BvkDsjIUla7X0k6CSWh1I",
+        "id": "0BvkDsjIUla7X0k6CSWh1I",
+        "name": "Luke Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:0BvkDsjIUla7X0k6CSWh1I"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 222680,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/54oXiD5jb7o5lKsCEnv1Ia"
+    },
+    "href": "https://api.spotify.com/v1/tracks/54oXiD5jb7o5lKsCEnv1Ia",
+    "id": "54oXiD5jb7o5lKsCEnv1Ia",
+    "name": "This Is How We Roll",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:54oXiD5jb7o5lKsCEnv1Ia",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        "href": "https://api.spotify.com/v1/artists/30e8DmahrEamvLbFRPdWmk",
+        "id": "30e8DmahrEamvLbFRPdWmk",
+        "name": "Justin Moore",
+        "type": "artist",
+        "uri": "spotify:artist:30e8DmahrEamvLbFRPdWmk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 174837,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4W5EYafnigHxiSmXIOBj9w"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4W5EYafnigHxiSmXIOBj9w",
+    "id": "4W5EYafnigHxiSmXIOBj9w",
+    "name": "We Didn't Have Much",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4W5EYafnigHxiSmXIOBj9w",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        },
+        "href": "https://api.spotify.com/v1/artists/2kucQ9jQwuD8jWdtR9Ef38",
+        "id": "2kucQ9jQwuD8jWdtR9Ef38",
+        "name": "Sam Hunt",
+        "type": "artist",
+        "uri": "spotify:artist:2kucQ9jQwuD8jWdtR9Ef38"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 190240,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1W8U5N45k5UOuUU19baXsA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1W8U5N45k5UOuUU19baXsA",
+    "id": "1W8U5N45k5UOuUU19baXsA",
+    "name": "House Party",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1W8U5N45k5UOuUU19baXsA",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 194066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/249fS0srHPyJkIMQ5TUBUE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/249fS0srHPyJkIMQ5TUBUE",
+    "id": "249fS0srHPyJkIMQ5TUBUE",
+    "name": "The Git Up",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:249fS0srHPyJkIMQ5TUBUE",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        },
+        "href": "https://api.spotify.com/v1/artists/5MW08rvyz59mdceF4urxXO",
+        "id": "5MW08rvyz59mdceF4urxXO",
+        "name": "Steven Lee Olsen",
+        "type": "artist",
+        "uri": "spotify:artist:5MW08rvyz59mdceF4urxXO"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 165838,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4boJZgwFE3KG8ipYRvSdKp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4boJZgwFE3KG8ipYRvSdKp",
+    "id": "4boJZgwFE3KG8ipYRvSdKp",
+    "name": "Nashville Or Nothing",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:4boJZgwFE3KG8ipYRvSdKp",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 235766,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5nnSWjnskzT7RW3GmM2E8h"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5nnSWjnskzT7RW3GmM2E8h",
+    "id": "5nnSWjnskzT7RW3GmM2E8h",
+    "name": "Love Story (Taylor’s Version)",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:5nnSWjnskzT7RW3GmM2E8h",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 229160,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/57avSjMRBWXE9XggngbBIm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/57avSjMRBWXE9XggngbBIm",
+    "id": "57avSjMRBWXE9XggngbBIm",
+    "name": "Better Life",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:57avSjMRBWXE9XggngbBIm",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        },
+        "href": "https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd",
+        "id": "5vngPClqofybhPERIqQMYd",
+        "name": "George Strait",
+        "type": "artist",
+        "uri": "spotify:artist:5vngPClqofybhPERIqQMYd"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 189560,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5rKXdpai4Nz7m78fHgLCLt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5rKXdpai4Nz7m78fHgLCLt",
+    "id": "5rKXdpai4Nz7m78fHgLCLt",
+    "name": "Check Yes Or No",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:5rKXdpai4Nz7m78fHgLCLt",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        "href": "https://api.spotify.com/v1/artists/0BvkDsjIUla7X0k6CSWh1I",
+        "id": "0BvkDsjIUla7X0k6CSWh1I",
+        "name": "Luke Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:0BvkDsjIUla7X0k6CSWh1I"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3gi6aC0kiH7FEmDosvFL6D"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3gi6aC0kiH7FEmDosvFL6D",
+    "id": "3gi6aC0kiH7FEmDosvFL6D",
+    "name": "Sunrise, Sunburn, Sunset",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:3gi6aC0kiH7FEmDosvFL6D",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 151920,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2g7rq14YOVPPqUzhtLTWFs"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2g7rq14YOVPPqUzhtLTWFs",
+    "id": "2g7rq14YOVPPqUzhtLTWFs",
+    "name": "Cruise",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:2g7rq14YOVPPqUzhtLTWFs",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        "href": "https://api.spotify.com/v1/artists/5e4Dhzv426EvQe3aDb64jL",
+        "id": "5e4Dhzv426EvQe3aDb64jL",
+        "name": "Shania Twain",
+        "type": "artist",
+        "uri": "spotify:artist:5e4Dhzv426EvQe3aDb64jL"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 173000,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7mYWie3Cr6E1PGM8ErP17l"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mYWie3Cr6E1PGM8ErP17l",
+    "id": "7mYWie3Cr6E1PGM8ErP17l",
+    "name": "Up! - Green Version",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:7mYWie3Cr6E1PGM8ErP17l",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        },
+        "href": "https://api.spotify.com/v1/artists/7vCtweS8UVAXTyau2j0rDT",
+        "id": "7vCtweS8UVAXTyau2j0rDT",
+        "name": "Josh Turner",
+        "type": "artist",
+        "uri": "spotify:artist:7vCtweS8UVAXTyau2j0rDT"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 221373,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3FwPiTBVA5prag6UaXRY2w"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3FwPiTBVA5prag6UaXRY2w",
+    "id": "3FwPiTBVA5prag6UaXRY2w",
+    "name": "Backwoods Boy",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:3FwPiTBVA5prag6UaXRY2w",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+        },
+        "href": "https://api.spotify.com/v1/artists/0hYxQe3AK5jBPCr5MumLHD",
+        "id": "0hYxQe3AK5jBPCr5MumLHD",
+        "name": "Sugarland",
+        "type": "artist",
+        "uri": "spotify:artist:0hYxQe3AK5jBPCr5MumLHD"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 247586,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4zp3VetmHXfzweMRztT8Oe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4zp3VetmHXfzweMRztT8Oe",
+    "id": "4zp3VetmHXfzweMRztT8Oe",
+    "name": "Stuck Like Glue",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:4zp3VetmHXfzweMRztT8Oe",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+        "id": "6x2LnllRG5uGarZMsD4iO8",
+        "name": "Thomas Rhett",
+        "type": "artist",
+        "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 191400,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/18wclTPAUGR7OP98wj7FVh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/18wclTPAUGR7OP98wj7FVh",
+    "id": "18wclTPAUGR7OP98wj7FVh",
+    "name": "Crash and Burn",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:18wclTPAUGR7OP98wj7FVh",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 187640,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0L9hPBH7Yhqp67g6IWjItH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0L9hPBH7Yhqp67g6IWjItH",
+    "id": "0L9hPBH7Yhqp67g6IWjItH",
+    "name": "Living In Fast Forward",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:0L9hPBH7Yhqp67g6IWjItH",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+        },
+        "href": "https://api.spotify.com/v1/artists/0xxJO75NeIAF5jYruLYIDT",
+        "id": "0xxJO75NeIAF5jYruLYIDT",
+        "name": "Tracy Byrd",
+        "type": "artist",
+        "uri": "spotify:artist:0xxJO75NeIAF5jYruLYIDT"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 212066,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5DgHE8OvHaxbFTa2nrWBzt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5DgHE8OvHaxbFTa2nrWBzt",
+    "id": "5DgHE8OvHaxbFTa2nrWBzt",
+    "name": "I'm From The Country - Single Version",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:5DgHE8OvHaxbFTa2nrWBzt",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        "href": "https://api.spotify.com/v1/artists/1v3tdpIdBSW14rHUfiEVOv",
+        "id": "1v3tdpIdBSW14rHUfiEVOv",
+        "name": "Lauren Alaina",
+        "type": "artist",
+        "uri": "spotify:artist:1v3tdpIdBSW14rHUfiEVOv"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 216266,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0XNlbcsge4k4qvKUCUkYSR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0XNlbcsge4k4qvKUCUkYSR",
+    "id": "0XNlbcsge4k4qvKUCUkYSR",
+    "name": "Road Less Traveled",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:0XNlbcsge4k4qvKUCUkYSR",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+        "name": "Kidz Bop Kids",
+        "type": "artist",
+        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 208760,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7Fk1ZQ4dHZYneYiMo7i7Xm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7Fk1ZQ4dHZYneYiMo7i7Xm",
+    "id": "7Fk1ZQ4dHZYneYiMo7i7Xm",
+    "name": "The World",
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:7Fk1ZQ4dHZYneYiMo7i7Xm",
+    "is_local": false
+  }
+]

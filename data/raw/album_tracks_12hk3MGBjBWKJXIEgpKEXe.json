@@ -1,0 +1,1057 @@
+[
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu"
+        },
+        "href": "https://api.spotify.com/v1/artists/5phOCTS0ZqbZGVXdpG6rLu",
+        "id": "5phOCTS0ZqbZGVXdpG6rLu",
+        "name": "Jeff Bhasker",
+        "type": "artist",
+        "uri": "spotify:artist:5phOCTS0ZqbZGVXdpG6rLu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qUjOF5fzrpoNycD36b2jZ",
+        "id": "1qUjOF5fzrpoNycD36b2jZ",
+        "name": "Nate Ruess",
+        "type": "artist",
+        "uri": "spotify:artist:1qUjOF5fzrpoNycD36b2jZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6R9htKjJx70DWp0KgeGWRA"
+        },
+        "href": "https://api.spotify.com/v1/artists/6R9htKjJx70DWp0KgeGWRA",
+        "id": "6R9htKjJx70DWp0KgeGWRA",
+        "name": "Alecia Moore",
+        "type": "artist",
+        "uri": "spotify:artist:6R9htKjJx70DWp0KgeGWRA"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 215213,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7vVaFvONShDvO8SAU7ULb2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7vVaFvONShDvO8SAU7ULb2",
+    "id": "7vVaFvONShDvO8SAU7ULb2",
+    "name": "Just Give Me a Reason - Symphony Orchestra Version",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7vVaFvONShDvO8SAU7ULb2",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hyMWrxGBsOx6sWcVj1DqP",
+        "id": "6hyMWrxGBsOx6sWcVj1DqP",
+        "name": "Sebastian Ingrosso",
+        "type": "artist",
+        "uri": "spotify:artist:6hyMWrxGBsOx6sWcVj1DqP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        "href": "https://api.spotify.com/v1/artists/4FqPRilb0Ja0TKG3RS3y4s",
+        "id": "4FqPRilb0Ja0TKG3RS3y4s",
+        "name": "Steve Angello",
+        "type": "artist",
+        "uri": "spotify:artist:4FqPRilb0Ja0TKG3RS3y4s"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7F4q4x0AgGOa5mLoUFj9gC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7F4q4x0AgGOa5mLoUFj9gC",
+        "id": "7F4q4x0AgGOa5mLoUFj9gC",
+        "name": "Axel Hedfors",
+        "type": "artist",
+        "uri": "spotify:artist:7F4q4x0AgGOa5mLoUFj9gC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oUisRzMTC1u5eIDcVTTDT"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oUisRzMTC1u5eIDcVTTDT",
+        "id": "2oUisRzMTC1u5eIDcVTTDT",
+        "name": "John Martin Lindström",
+        "type": "artist",
+        "uri": "spotify:artist:2oUisRzMTC1u5eIDcVTTDT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw"
+        },
+        "href": "https://api.spotify.com/v1/artists/0SiA0xtHw1lnSXRf1S7jjw",
+        "id": "0SiA0xtHw1lnSXRf1S7jjw",
+        "name": "Michel Zitron",
+        "type": "artist",
+        "uri": "spotify:artist:0SiA0xtHw1lnSXRf1S7jjw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 242346,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1JsIjC7Zt3ThX1TJvnFCs3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1JsIjC7Zt3ThX1TJvnFCs3",
+    "id": "1JsIjC7Zt3ThX1TJvnFCs3",
+    "name": "Don't You Worry Child - Symphony Orchestra Version",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1JsIjC7Zt3ThX1TJvnFCs3",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rjeVTt9Ra1ldvN7SpeK0G",
+        "id": "1rjeVTt9Ra1ldvN7SpeK0G",
+        "name": "Max Martin",
+        "type": "artist",
+        "uri": "spotify:artist:1rjeVTt9Ra1ldvN7SpeK0G"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1jgnpWZOS5aGozSgZTgltz"
+        },
+        "href": "https://api.spotify.com/v1/artists/1jgnpWZOS5aGozSgZTgltz",
+        "id": "1jgnpWZOS5aGozSgZTgltz",
+        "name": "Oscar Thomas Holter",
+        "type": "artist",
+        "uri": "spotify:artist:1jgnpWZOS5aGozSgZTgltz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2U3FXTSXBJOC4ESbGNSH4p"
+        },
+        "href": "https://api.spotify.com/v1/artists/2U3FXTSXBJOC4ESbGNSH4p",
+        "id": "2U3FXTSXBJOC4ESbGNSH4p",
+        "name": "Jason \"DaHeala\" Quenneville",
+        "type": "artist",
+        "uri": "spotify:artist:2U3FXTSXBJOC4ESbGNSH4p"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        "href": "https://api.spotify.com/v1/artists/0FOWNUFHPnMy0vOw1siGqi",
+        "id": "0FOWNUFHPnMy0vOw1siGqi",
+        "name": "Belly",
+        "type": "artist",
+        "uri": "spotify:artist:0FOWNUFHPnMy0vOw1siGqi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/56pImxBsOQTCASzJNLNEKN"
+        },
+        "href": "https://api.spotify.com/v1/artists/56pImxBsOQTCASzJNLNEKN",
+        "id": "56pImxBsOQTCASzJNLNEKN",
+        "name": "Abel Tesfaye",
+        "type": "artist",
+        "uri": "spotify:artist:56pImxBsOQTCASzJNLNEKN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 242266,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5M1fJsnIAFpBN6CTGYAAff"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5M1fJsnIAFpBN6CTGYAAff",
+    "id": "5M1fJsnIAFpBN6CTGYAAff",
+    "name": "Save Your Tears - Symphony Orchestra Version",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5M1fJsnIAFpBN6CTGYAAff",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6dRqmcPLOMYpsZ2ziBgOc2"
+        },
+        "href": "https://api.spotify.com/v1/artists/6dRqmcPLOMYpsZ2ziBgOc2",
+        "id": "6dRqmcPLOMYpsZ2ziBgOc2",
+        "name": "Jake Lawson",
+        "type": "artist",
+        "uri": "spotify:artist:6dRqmcPLOMYpsZ2ziBgOc2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4C33bwp3FDKF4dMfwZ6Sz0"
+        },
+        "href": "https://api.spotify.com/v1/artists/4C33bwp3FDKF4dMfwZ6Sz0",
+        "id": "4C33bwp3FDKF4dMfwZ6Sz0",
+        "name": "Zac Lawson",
+        "type": "artist",
+        "uri": "spotify:artist:4C33bwp3FDKF4dMfwZ6Sz0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 210600,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2fmenHY34fGbKD3UzPnMGV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2fmenHY34fGbKD3UzPnMGV",
+    "id": "2fmenHY34fGbKD3UzPnMGV",
+    "name": "Golden Hour - Symphony Orchestra Version",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:2fmenHY34fGbKD3UzPnMGV",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/414TS3VqZf1XPCBixdmX9n"
+        },
+        "href": "https://api.spotify.com/v1/artists/414TS3VqZf1XPCBixdmX9n",
+        "id": "414TS3VqZf1XPCBixdmX9n",
+        "name": "Jack Antonoff",
+        "type": "artist",
+        "uri": "spotify:artist:414TS3VqZf1XPCBixdmX9n"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 258093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7p4NNGYclT7WUFPL2nUZa3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7p4NNGYclT7WUFPL2nUZa3",
+    "id": "7p4NNGYclT7WUFPL2nUZa3",
+    "name": "Anti-Hero - Symphony Orchestra Version",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7p4NNGYclT7WUFPL2nUZa3",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "type": "artist",
+        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7pLWzeacJS2RgU9XERSzPl"
+        },
+        "href": "https://api.spotify.com/v1/artists/7pLWzeacJS2RgU9XERSzPl",
+        "id": "7pLWzeacJS2RgU9XERSzPl",
+        "name": "Charlton Howard",
+        "type": "artist",
+        "uri": "spotify:artist:7pLWzeacJS2RgU9XERSzPl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        "href": "https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7",
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "type": "artist",
+        "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xaAxKZLVA2X3cZxNE9nxu"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xaAxKZLVA2X3cZxNE9nxu",
+        "id": "1xaAxKZLVA2X3cZxNE9nxu",
+        "name": "Isaac De Boni",
+        "type": "artist",
+        "uri": "spotify:artist:1xaAxKZLVA2X3cZxNE9nxu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2n9NhmlPeHNQgzptJNNMPd"
+        },
+        "href": "https://api.spotify.com/v1/artists/2n9NhmlPeHNQgzptJNNMPd",
+        "id": "2n9NhmlPeHNQgzptJNNMPd",
+        "name": "Subhaan Rahmaan",
+        "type": "artist",
+        "uri": "spotify:artist:2n9NhmlPeHNQgzptJNNMPd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0bZ6okOw38nKBX6me9oD6l"
+        },
+        "href": "https://api.spotify.com/v1/artists/0bZ6okOw38nKBX6me9oD6l",
+        "id": "0bZ6okOw38nKBX6me9oD6l",
+        "name": "Blake Slatkin",
+        "type": "artist",
+        "uri": "spotify:artist:0bZ6okOw38nKBX6me9oD6l"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bSjyGxtaKaPxfyDB2Dc7v"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bSjyGxtaKaPxfyDB2Dc7v",
+        "id": "7bSjyGxtaKaPxfyDB2Dc7v",
+        "name": "Omer Fedi",
+        "type": "artist",
+        "uri": "spotify:artist:7bSjyGxtaKaPxfyDB2Dc7v"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Ss1UwtBONuz8MOpjUbWQ2"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Ss1UwtBONuz8MOpjUbWQ2",
+        "id": "2Ss1UwtBONuz8MOpjUbWQ2",
+        "name": "Magnus August Høiberg",
+        "type": "artist",
+        "uri": "spotify:artist:2Ss1UwtBONuz8MOpjUbWQ2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QfmAmB1dZER1DL41IQbW7"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QfmAmB1dZER1DL41IQbW7",
+        "id": "2QfmAmB1dZER1DL41IQbW7",
+        "name": "Michael Mule",
+        "type": "artist",
+        "uri": "spotify:artist:2QfmAmB1dZER1DL41IQbW7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 244053,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5HDpmvsbK5oDX0IGO9uDM9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5HDpmvsbK5oDX0IGO9uDM9",
+    "id": "5HDpmvsbK5oDX0IGO9uDM9",
+    "name": "Stay - Symphony Orchestra Version",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5HDpmvsbK5oDX0IGO9uDM9",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rjeVTt9Ra1ldvN7SpeK0G",
+        "id": "1rjeVTt9Ra1ldvN7SpeK0G",
+        "name": "Max Martin",
+        "type": "artist",
+        "uri": "spotify:artist:1rjeVTt9Ra1ldvN7SpeK0G"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4f5etyxuwO75x7qdL1MY1M"
+        },
+        "href": "https://api.spotify.com/v1/artists/4f5etyxuwO75x7qdL1MY1M",
+        "id": "4f5etyxuwO75x7qdL1MY1M",
+        "name": "Andreas Carlsson",
+        "type": "artist",
+        "uri": "spotify:artist:4f5etyxuwO75x7qdL1MY1M"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1O3w0XFadsTjVje8TZZZCA"
+        },
+        "href": "https://api.spotify.com/v1/artists/1O3w0XFadsTjVje8TZZZCA",
+        "id": "1O3w0XFadsTjVje8TZZZCA",
+        "name": "Johan Landqvist",
+        "type": "artist",
+        "uri": "spotify:artist:1O3w0XFadsTjVje8TZZZCA"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 251173,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3t5JE7ACuSuqqbIemm8Klg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3t5JE7ACuSuqqbIemm8Klg",
+    "id": "3t5JE7ACuSuqqbIemm8Klg",
+    "name": "I Want It That Way - Symphony Orchestra Version",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:3t5JE7ACuSuqqbIemm8Klg",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0FdM0AAFMH0vm7GyLGgYpn"
+        },
+        "href": "https://api.spotify.com/v1/artists/0FdM0AAFMH0vm7GyLGgYpn",
+        "id": "0FdM0AAFMH0vm7GyLGgYpn",
+        "name": "Dave Glass Animals",
+        "type": "artist",
+        "uri": "spotify:artist:0FdM0AAFMH0vm7GyLGgYpn"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 261640,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7nSI7IwZniydex26gpNoP8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7nSI7IwZniydex26gpNoP8",
+    "id": "7nSI7IwZniydex26gpNoP8",
+    "name": "Heat Waves - Symphony Orchestra Version",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:7nSI7IwZniydex26gpNoP8",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5baGk14NDI3ZDPbr6wJilc"
+        },
+        "href": "https://api.spotify.com/v1/artists/5baGk14NDI3ZDPbr6wJilc",
+        "id": "5baGk14NDI3ZDPbr6wJilc",
+        "name": "Tim Bergling",
+        "type": "artist",
+        "uri": "spotify:artist:5baGk14NDI3ZDPbr6wJilc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TFVzTYm18LYKHI0t5U55k"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TFVzTYm18LYKHI0t5U55k",
+        "id": "3TFVzTYm18LYKHI0t5U55k",
+        "name": "Michael Aaron Einziger",
+        "type": "artist",
+        "uri": "spotify:artist:3TFVzTYm18LYKHI0t5U55k"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1fByOasfzEGUX98Mtn0k9I"
+        },
+        "href": "https://api.spotify.com/v1/artists/1fByOasfzEGUX98Mtn0k9I",
+        "id": "1fByOasfzEGUX98Mtn0k9I",
+        "name": "Egbert Nathaniel Dawkins Iii",
+        "type": "artist",
+        "uri": "spotify:artist:1fByOasfzEGUX98Mtn0k9I"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/48L0LywKz1mnWLJhBjCsLx"
+        },
+        "href": "https://api.spotify.com/v1/artists/48L0LywKz1mnWLJhBjCsLx",
+        "id": "48L0LywKz1mnWLJhBjCsLx",
+        "name": "Rasmus Fors",
+        "type": "artist",
+        "uri": "spotify:artist:48L0LywKz1mnWLJhBjCsLx"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 210973,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2X36NQh184Q2Hu6DKk2NFf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2X36NQh184Q2Hu6DKk2NFf",
+    "id": "2X36NQh184Q2Hu6DKk2NFf",
+    "name": "Wake Me Up - Symphony Orchestra Version",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2X36NQh184Q2Hu6DKk2NFf",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+        },
+        "href": "https://api.spotify.com/v1/artists/1oKdM70mJD8VvDOTKeS8t1",
+        "id": "1oKdM70mJD8VvDOTKeS8t1",
+        "name": "Emily Warren",
+        "type": "artist",
+        "uri": "spotify:artist:1oKdM70mJD8VvDOTKeS8t1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YiEzSa2JCuy7ReSB66w5y"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YiEzSa2JCuy7ReSB66w5y",
+        "id": "5YiEzSa2JCuy7ReSB66w5y",
+        "name": "Ian Kirkpatrick",
+        "type": "artist",
+        "uri": "spotify:artist:5YiEzSa2JCuy7ReSB66w5y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0JWCunuoONu5hea71f2a2H"
+        },
+        "href": "https://api.spotify.com/v1/artists/0JWCunuoONu5hea71f2a2H",
+        "id": "0JWCunuoONu5hea71f2a2H",
+        "name": "Caroline Ailin",
+        "type": "artist",
+        "uri": "spotify:artist:0JWCunuoONu5hea71f2a2H"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1O3w0XFadsTjVje8TZZZCA"
+        },
+        "href": "https://api.spotify.com/v1/artists/1O3w0XFadsTjVje8TZZZCA",
+        "id": "1O3w0XFadsTjVje8TZZZCA",
+        "name": "Johan Landqvist",
+        "type": "artist",
+        "uri": "spotify:artist:1O3w0XFadsTjVje8TZZZCA"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 222026,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0F0jfPySIEmnf2pNl5KfmE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0F0jfPySIEmnf2pNl5KfmE",
+    "id": "0F0jfPySIEmnf2pNl5KfmE",
+    "name": "Don't Start Now - Symphony Orchestra Version",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:0F0jfPySIEmnf2pNl5KfmE",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rjeVTt9Ra1ldvN7SpeK0G",
+        "id": "1rjeVTt9Ra1ldvN7SpeK0G",
+        "name": "Max Martin",
+        "type": "artist",
+        "uri": "spotify:artist:1rjeVTt9Ra1ldvN7SpeK0G"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/56pImxBsOQTCASzJNLNEKN"
+        },
+        "href": "https://api.spotify.com/v1/artists/56pImxBsOQTCASzJNLNEKN",
+        "id": "56pImxBsOQTCASzJNLNEKN",
+        "name": "Abel Tesfaye",
+        "type": "artist",
+        "uri": "spotify:artist:56pImxBsOQTCASzJNLNEKN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1NwqDu5VcS4E47i7z1Zkqk"
+        },
+        "href": "https://api.spotify.com/v1/artists/1NwqDu5VcS4E47i7z1Zkqk",
+        "id": "1NwqDu5VcS4E47i7z1Zkqk",
+        "name": "Ahmad Balshe",
+        "type": "artist",
+        "uri": "spotify:artist:1NwqDu5VcS4E47i7z1Zkqk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Kbvpw2eQKQdAsZrrSxsSq"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Kbvpw2eQKQdAsZrrSxsSq",
+        "id": "0Kbvpw2eQKQdAsZrrSxsSq",
+        "name": "Jason Queeneville",
+        "type": "artist",
+        "uri": "spotify:artist:0Kbvpw2eQKQdAsZrrSxsSq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1jgnpWZOS5aGozSgZTgltz"
+        },
+        "href": "https://api.spotify.com/v1/artists/1jgnpWZOS5aGozSgZTgltz",
+        "id": "1jgnpWZOS5aGozSgZTgltz",
+        "name": "Oscar Thomas Holter",
+        "type": "artist",
+        "uri": "spotify:artist:1jgnpWZOS5aGozSgZTgltz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 273933,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/77N6bJ0t8AVXeQ7KCuJ4V0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/77N6bJ0t8AVXeQ7KCuJ4V0",
+    "id": "77N6bJ0t8AVXeQ7KCuJ4V0",
+    "name": "Blinding Lights - Symphony Orchestra Version",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:77N6bJ0t8AVXeQ7KCuJ4V0",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0RntPKUl6P46KQOAAM7BWJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0RntPKUl6P46KQOAAM7BWJ",
+        "id": "0RntPKUl6P46KQOAAM7BWJ",
+        "name": "Jahseh Onfroy",
+        "type": "artist",
+        "uri": "spotify:artist:0RntPKUl6P46KQOAAM7BWJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TG6TU5h0nQRmvYCElYzmQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TG6TU5h0nQRmvYCElYzmQ",
+        "id": "4TG6TU5h0nQRmvYCElYzmQ",
+        "name": "John Cunningham",
+        "type": "artist",
+        "uri": "spotify:artist:4TG6TU5h0nQRmvYCElYzmQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 183493,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0eofowBH7Ph2aygF9zB20R"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0eofowBH7Ph2aygF9zB20R",
+    "id": "0eofowBH7Ph2aygF9zB20R",
+    "name": "SAD! - Symphony Orchestra Version",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:0eofowBH7Ph2aygF9zB20R",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0KhTK3BxneP2FPtlwyp1MK"
+        },
+        "href": "https://api.spotify.com/v1/artists/0KhTK3BxneP2FPtlwyp1MK",
+        "id": "0KhTK3BxneP2FPtlwyp1MK",
+        "name": "Louis Bell",
+        "type": "artist",
+        "uri": "spotify:artist:0KhTK3BxneP2FPtlwyp1MK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22F3Kxkn8QowmigGatGEDt"
+        },
+        "href": "https://api.spotify.com/v1/artists/22F3Kxkn8QowmigGatGEDt",
+        "id": "22F3Kxkn8QowmigGatGEDt",
+        "name": "Shéyaa Bin Abraham-Joseph",
+        "type": "artist",
+        "uri": "spotify:artist:22F3Kxkn8QowmigGatGEDt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nVzVUSgihKjFRoPCjrhiG"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nVzVUSgihKjFRoPCjrhiG",
+        "id": "5nVzVUSgihKjFRoPCjrhiG",
+        "name": "Austin Post",
+        "type": "artist",
+        "uri": "spotify:artist:5nVzVUSgihKjFRoPCjrhiG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5pdnjXkfXzjUnE9lZVqNV3"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pdnjXkfXzjUnE9lZVqNV3",
+        "id": "5pdnjXkfXzjUnE9lZVqNV3",
+        "name": "Carl Austin Rosen",
+        "type": "artist",
+        "uri": "spotify:artist:5pdnjXkfXzjUnE9lZVqNV3"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2wtShewfEz0NwieEZoszsV"
+        },
+        "href": "https://api.spotify.com/v1/artists/2wtShewfEz0NwieEZoszsV",
+        "id": "2wtShewfEz0NwieEZoszsV",
+        "name": "Jo-Vaughn Virgine",
+        "type": "artist",
+        "uri": "spotify:artist:2wtShewfEz0NwieEZoszsV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Fa9yptqNineMRptJN5zkL"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Fa9yptqNineMRptJN5zkL",
+        "id": "1Fa9yptqNineMRptJN5zkL",
+        "name": "Olufunmibi Awoshiley",
+        "type": "artist",
+        "uri": "spotify:artist:1Fa9yptqNineMRptJN5zkL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 233093,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3jafM7qp4iHxNnWdSXkpPe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3jafM7qp4iHxNnWdSXkpPe",
+    "id": "3jafM7qp4iHxNnWdSXkpPe",
+    "name": "Rockstar - Symphony Orchestra Version",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:3jafM7qp4iHxNnWdSXkpPe",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6IxWaKvyIpCiOnB0pQcig8"
+        },
+        "href": "https://api.spotify.com/v1/artists/6IxWaKvyIpCiOnB0pQcig8",
+        "id": "6IxWaKvyIpCiOnB0pQcig8",
+        "name": "Benjamin Levin",
+        "type": "artist",
+        "uri": "spotify:artist:6IxWaKvyIpCiOnB0pQcig8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6bJVfTo7DceNYl03fo8M67"
+        },
+        "href": "https://api.spotify.com/v1/artists/6bJVfTo7DceNYl03fo8M67",
+        "id": "6bJVfTo7DceNYl03fo8M67",
+        "name": "Ali Tamposi",
+        "type": "artist",
+        "uri": "spotify:artist:6bJVfTo7DceNYl03fo8M67"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1qzav8y7Qzz0OINpjvPxVs"
+        },
+        "href": "https://api.spotify.com/v1/artists/1qzav8y7Qzz0OINpjvPxVs",
+        "id": "1qzav8y7Qzz0OINpjvPxVs",
+        "name": "Andrew Wotman",
+        "type": "artist",
+        "uri": "spotify:artist:1qzav8y7Qzz0OINpjvPxVs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08ljvFyx4xVAtcQyXMtzFH"
+        },
+        "href": "https://api.spotify.com/v1/artists/08ljvFyx4xVAtcQyXMtzFH",
+        "id": "08ljvFyx4xVAtcQyXMtzFH",
+        "name": "Charlotte Aitchison",
+        "type": "artist",
+        "uri": "spotify:artist:08ljvFyx4xVAtcQyXMtzFH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "type": "artist",
+        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0jUbSxIM1f9FuivIpprEHJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0jUbSxIM1f9FuivIpprEHJ",
+        "id": "0jUbSxIM1f9FuivIpprEHJ",
+        "name": "Jack Patterson",
+        "type": "artist",
+        "uri": "spotify:artist:0jUbSxIM1f9FuivIpprEHJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Ss1UwtBONuz8MOpjUbWQ2"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Ss1UwtBONuz8MOpjUbWQ2",
+        "id": "2Ss1UwtBONuz8MOpjUbWQ2",
+        "name": "Magnus August Høiberg",
+        "type": "artist",
+        "uri": "spotify:artist:2Ss1UwtBONuz8MOpjUbWQ2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href": "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "name": "Shawn Mendes",
+        "type": "artist",
+        "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 226813,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ArAl3GJFZoI0jL6aqVNQe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ArAl3GJFZoI0jL6aqVNQe",
+    "id": "3ArAl3GJFZoI0jL6aqVNQe",
+    "name": "Señorita - Symphony Orchestra Version",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:3ArAl3GJFZoI0jL6aqVNQe",
+    "is_local": false
+  },
+  {
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        "href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+        "id": "7vk5e3vY1uw9plTHJAMwjN",
+        "name": "Alan Walker",
+        "type": "artist",
+        "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fVOC234j3W7AHKWhxYiTx"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fVOC234j3W7AHKWhxYiTx",
+        "id": "0fVOC234j3W7AHKWhxYiTx",
+        "name": "Anders Frøen",
+        "type": "artist",
+        "uri": "spotify:artist:0fVOC234j3W7AHKWhxYiTx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VSzRktRd6dUE6ePSvLPOU"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VSzRktRd6dUE6ePSvLPOU",
+        "id": "0VSzRktRd6dUE6ePSvLPOU",
+        "name": "Gunnar Greve",
+        "type": "artist",
+        "uri": "spotify:artist:0VSzRktRd6dUE6ePSvLPOU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3mOjUOCunbaRMPjfmAQULk"
+        },
+        "href": "https://api.spotify.com/v1/artists/3mOjUOCunbaRMPjfmAQULk",
+        "id": "3mOjUOCunbaRMPjfmAQULk",
+        "name": "Jesper Borgen",
+        "type": "artist",
+        "uri": "spotify:artist:3mOjUOCunbaRMPjfmAQULk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3R9zN97nItXXTI1VEGoYOC",
+        "id": "3R9zN97nItXXTI1VEGoYOC",
+        "name": "Zymphonica",
+        "type": "artist",
+        "uri": "spotify:artist:3R9zN97nItXXTI1VEGoYOC"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 194813,
+    "explicit": false,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Aa5HaGxetwDohWxzCBYNn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Aa5HaGxetwDohWxzCBYNn",
+    "id": "1Aa5HaGxetwDohWxzCBYNn",
+    "name": "Faded - Symphony Orchestra Version",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:1Aa5HaGxetwDohWxzCBYNn",
+    "is_local": false
+  }
+]
