@@ -1,11 +1,21 @@
-id,album_name,album_type,total_tracks,release_date
-1atsQ3zl1LR122Y1UZajsE,Frail Words Collapse,album,12,2003
-3D8V1PlxgpX05jyHLv6e4P,Shadows Are Security,album,12,2005
-2uZxUCOF9ImZSWC3TnDIc0,A Long March: The First Recordings,album,22,2006-05-16
-2hghqPOGmfBdEfWeMsQWdN,An Ocean Between Us,album,12,2007-08-21
-7hTlURTPM9XKflsx22FupN,This Is Who We Are,album,14,2009-04-14
-4vJxMmzmQsm0lvVo8QF6Lk,The Powerless Rise,album,11,2010-05-11
-6lv3AIgAU73EkfqZgK1bSl,Decas,album,12,2011-11-08
-4rZ7e2c5r2B1SK9fpKSDAZ,Awakened,album,13,2012-09-25
-0rK6ib4lcbcfsDimSg7vyn,Shaped By Fire,album,12,2019-09-20
-3PPayB8bP8bK65ws2FWGq2,Through Storms Ahead,album,11,2024-11-15
+album_id,album_name,album_type,total_tracks,release_date,release_date_precision
+7mzrIsaAjnXihW3InKjlC3,Taylor Swift,album,15,2006-10-24,day
+1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,album,8,2008-06-28,day
+2dqn5yOQWdyGwOpOIi9O4x,Fearless,album,13,2008-11-11,day
+43OpbkiiIxJO8ktIB777Nn,Fearless Platinum Edition,album,19,2008-11-11,day
+5MfAxS5zz8MlfROjGQVXhy,Speak Now,album,14,2010-10-25,day
+6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,album,16,2010-10-25,day
+1EoDsNmgTLtmwe1BDAVxV5,Red,album,16,2012-10-22,day
+2QJmrSgbdM35R67eoGQo4j,1989,album,13,2014-10-27,day
+1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,album,46,2017-11-09,day
+6DEjYFkNZh67HP7R9PSZvv,reputation,album,15,2017-11-10,day
+1MHuZZrGT36cXLxAQ5cLP3,Taylor Swift Karaoke: reputation,album,15,2018-03-09,day
+1NAmidJlEaVgA3MpcPFYGq,Lover,album,18,2019-08-23,day
+2fenSS68JI1h4Fo296JfGr,folklore,album,16,2020-07-24,day
+0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],album,34,2020-11-25,day
+2Xoteh7uEpea4TohMxjtaq,evermore,album,15,2020-12-11,day
+151w1FgRZfnKZA9FEcg9Z3,Midnights,album,13,2022-10-21,day
+1Mo4aZ8pdj6L1jx8zSwJnt,THE TORTURED POETS DEPARTMENT,album,16,2024-04-18,day
+5H7ixXZfsNMGbIE5OBSpcb,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,31,2024-04-19,day
+4tFsJC9jQ0Qjj7HSExhAdm,The Life of a Showgirl (Track by Track Version),album,26,2025-10-02,day
+6QNMhoV8V0u7cFuhhUBOn7,The Life of a Showgirl + Acoustic Collection,album,19,2025-11-07,day

@@ -4,6 +4,7 @@ import os
 import json
 import csv
 import time
+import argparse
 
 dotenv.load_dotenv()
 
@@ -12,6 +13,11 @@ client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
 
 if not client_id or not client_secret:
     raise RuntimeError("SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET must be set in .env")
+
+# Without a timeout, requests can hang forever on a dead connection — which is
+# the opposite of failing fast, and would make the network retry below pointless
+# (a hang never becomes a catchable Timeout). One constant, used on every call.
+REQUEST_TIMEOUT = 10  # seconds
 
 # ---------- External world: auth + HTTP ----------
 
@@ -23,25 +29,36 @@ def get_access_token():
             "grant_type": "client_credentials",
             "client_id": client_id,
             "client_secret": client_secret
-        }
+        },
+        timeout=REQUEST_TIMEOUT
     )
     if not response.ok:
         raise RuntimeError(f"Failed to get access token: {response.text}")
     return response.json()["access_token"]
 
 
-# Attaches the Bearer header, makes the GET, retries once on 429 using
-# Spotify's Retry-After header, raises on any other >= 400, returns JSON.
+# Attaches the Bearer header and makes the GET. Handles two DISTINCT failure
+# categories separately, on purpose:
+#   1. transient network failure (connection dropped, timeout) -> retry once
+#   2. HTTP 429 rate limit (server answered, said slow down)   -> wait + retry
+# They mean different things, so blurring them into one catch-all would hide
+# *why* a call failed. Anything past one retry is allowed to raise.
 def spotify_get(path, access_token, params=None):
     url = f"https://api.spotify.com/v1/{path}"
     headers = {"Authorization": f"Bearer {access_token}"}
 
-    response = requests.get(url, headers=headers, params=params)
+    try:
+        response = requests.get(url, headers=headers, params=params, timeout=REQUEST_TIMEOUT)
+    except requests.exceptions.RequestException as e:
+        # Log the exception TYPE and path only — never headers (Bearer token).
+        print(f"Network error on {path} ({type(e).__name__}), retrying once")
+        time.sleep(2)
+        response = requests.get(url, headers=headers, params=params, timeout=REQUEST_TIMEOUT)
 
     if response.status_code == 429:
         wait_seconds = int(response.headers.get("Retry-After", 1))
         time.sleep(wait_seconds)
-        response = requests.get(url, headers=headers, params=params)
+        response = requests.get(url, headers=headers, params=params, timeout=REQUEST_TIMEOUT)
 
     if not response.ok:
         raise RuntimeError(f"Spotify API error: {response.text}")
@@ -49,10 +66,9 @@ def spotify_get(path, access_token, params=None):
 
 
 # Generic pagination helper — walks offset forward until a page comes back
-# empty. Does NOT trust "next" or "total" as the stop signal (Spotify has a
-# known bug where "next" keeps pointing forward past the real end), so an
-# empty items page is the only thing that ends the loop. max_pages is a
-# fail-fast backstop in case that bug (or something else) causes a runaway.
+# empty. Does NOT trust "next" or "total" (Spotify has a known bug where "next"
+# points past the real end), so an empty items page is the only stop signal.
+# max_pages is a fail-fast backstop against a runaway loop.
 def paginate(path, token, params, max_pages=50):
     all_items = []
     offset = 0
@@ -87,50 +103,62 @@ def search_artist_id(name, token):
     return response["artists"]["items"][0]["id"]
 
 
-# Returns a FLAT LIST of every raw album across all pages (pagination is
-# hidden inside paginate — callers never see offset/limit mechanics).
 def fetch_artist_albums(artist_id, token):
     return paginate(f"artists/{artist_id}/albums", token, {"include_groups": "album", "limit": 10})
 
 
-# Returns a FLAT LIST of every raw track across all pages, same reasoning.
 def fetch_album_tracks(album_id, token):
     return paginate(f"albums/{album_id}/tracks", token, {"limit": 50})
 
 
 # ---------- Normalization Layer ----------
 
+# "id" is renamed to "album_id" — this is the foreign key that track records
+# point back to, so naming it explicitly now sets up the Stage 3 DB relationship.
+# release_date_precision rides along as a guardrail: any future code that parses
+# release_date as a full date can check it first instead of crashing on a
+# year-only or month-only value.
 def normalize_album(raw_album):
     return {
-        "id": raw_album["id"],
+        "album_id": raw_album["id"],
         "album_name": raw_album["name"],
         "album_type": raw_album["album_type"],
         "total_tracks": raw_album["total_tracks"],
         "release_date": raw_album["release_date"],
+        "release_date_precision": raw_album["release_date_precision"],
     }
 
 
-# raw_track_list is now a flat list (paginate already unwrapped "items"),
-# so this iterates directly instead of indexing ["items"].
-def normalize_album_tracklist(raw_track_list, album_name, release_date):
+# Now carries the track's own id/uri, its disc_number, and its artist ids, plus
+# the album_id foreign key threaded in from the loop. A track can have multiple
+# artists (features), and a CSV cell can't hold a real list, so artist_ids is
+# joined into a ";"-delimited string — a deliberate flattening compromise that
+# Stage 3 will replace with a proper track-to-artist join table.
+def normalize_album_tracklist(raw_track_list, album_id, album_name, release_date):
     tracks = []
     for track in raw_track_list:
+        artist_ids = []
+        for artist in track["artists"]:
+            artist_ids.append(artist["id"])
+
         tracks.append({
+            "track_id": track["id"],
+            "uri": track["uri"],
             "name": track["name"],
             "duration_ms": track["duration_ms"],
             "explicit": track["explicit"],
             "track_number": track["track_number"],
+            "disc_number": track["disc_number"],
+            "album_id": album_id,
             "album_name": album_name,
             "release_date": release_date,
+            "artist_ids": ";".join(artist_ids),
         })
     return tracks
 
 
 # ---------- Deduplication ----------
 
-# Strips a trailing "(...)" or "[...]" edition marker off an album name,
-# e.g. "1989 (Deluxe)" -> "1989". Used only as a comparison key — the
-# original name is kept for display/output.
 def canonical_title(album_name):
     cut_at = len(album_name)
     for bracket in ["(", "["]:
@@ -140,12 +168,6 @@ def canonical_title(album_name):
     return album_name[:cut_at].strip().lower()
 
 
-# Groups album editions by canonical_title, then keeps exactly one
-# representative per group: the earliest release_date, and — if two
-# editions share a release date (this really happens: TTPD and TTPD:
-# THE ANTHOLOGY both list "2024-04-19") — the one with fewer total_tracks,
-# since the smaller one is the standard edition and the larger one is the
-# expanded/deluxe repackage.
 def dedup_albums(albums):
     groups = {}
     for album in albums:
@@ -212,6 +234,26 @@ def explicit_tracks_by_album(tracks):
     return counts
 
 
+# Two-counter accumulator: [explicit_count, total_count], divide at the end.
+# Same group-by skeleton as average_duration_by_album — a ratio is just a
+# divide-at-the-end like an average. Kept separate from the raw count above
+# because "how many" and "what fraction" answer different questions.
+def explicit_ratio_by_album(tracks):
+    counts = {}
+    for t in tracks:
+        name = t["album_name"]
+        if name not in counts:
+            counts[name] = [0, 0]
+        counts[name][1] += 1
+        if t["explicit"]:
+            counts[name][0] += 1
+
+    ratios = {}
+    for name, (explicit_count, total_count) in counts.items():
+        ratios[name] = explicit_count / total_count
+    return ratios
+
+
 def average_duration_by_album(tracks):
     totals = {}
     for t in tracks:
@@ -265,9 +307,6 @@ def track_length_trend(tracks):
     return dict(sorted(averages.items()))
 
 
-# Handles durations past 60 minutes (e.g. total album runtime) by adding
-# an hour place only when needed, so a 3-minute track still prints "3:45"
-# instead of "0:03:45".
 def ms_to_min_sec(ms):
     total_seconds = ms // 1000
     hours = total_seconds // 3600
@@ -282,13 +321,12 @@ def ms_to_min_sec(ms):
 
 # ---------- Orchestrator ----------
 
-def main():
+def main(artist_name):
     os.makedirs("data/raw", exist_ok=True)
     os.makedirs("data/processed", exist_ok=True)
 
     token = get_access_token()
 
-    artist_name = "As I Lay Dying"
     artist_id = search_artist_id(artist_name, token)
 
     albums_raw = fetch_artist_albums(artist_id, token)
@@ -299,10 +337,12 @@ def main():
 
     all_tracks = []
     for album in canonical_albums:
-        tracks_raw = fetch_album_tracks(album["id"], token)
-        save_json(tracks_raw, f"data/raw/album_tracks_{album['id']}.json")
+        tracks_raw = fetch_album_tracks(album["album_id"], token)
+        save_json(tracks_raw, f"data/raw/album_tracks_{album['album_id']}.json")
         all_tracks.extend(
-            normalize_album_tracklist(tracks_raw, album["album_name"], album["release_date"])
+            normalize_album_tracklist(
+                tracks_raw, album["album_id"], album["album_name"], album["release_date"]
+            )
         )
 
     write_csv(canonical_albums, "data/processed/albums.csv")
@@ -319,16 +359,22 @@ def main():
     for t in shortest_tracks(all_tracks, 5):
         print(f"  {t['name']} — {ms_to_min_sec(t['duration_ms'])} ({t['album_name']})")
 
+    # Categorical aggregates have no inherent order, so sort by value (biggest
+    # first) for legibility. The two time-series below stay chronological.
     print("\nTotal runtime by album:")
-    for name, total_ms in total_runtime_by_album(all_tracks).items():
+    for name, total_ms in sorted(total_runtime_by_album(all_tracks).items(), key=lambda kv: kv[1], reverse=True):
         print(f"  {name}: {ms_to_min_sec(total_ms)}")
 
     print("\nExplicit tracks by album:")
-    for name, count in explicit_tracks_by_album(all_tracks).items():
+    for name, count in sorted(explicit_tracks_by_album(all_tracks).items(), key=lambda kv: kv[1], reverse=True):
         print(f"  {name}: {count}")
 
+    print("\nExplicit ratio by album:")
+    for name, ratio in sorted(explicit_ratio_by_album(all_tracks).items(), key=lambda kv: kv[1], reverse=True):
+        print(f"  {name}: {ratio:.0%}")
+
     print("\nAverage track duration by album:")
-    for name, avg_ms in average_duration_by_album(all_tracks).items():
+    for name, avg_ms in sorted(average_duration_by_album(all_tracks).items(), key=lambda kv: kv[1], reverse=True):
         print(f"  {name}: {ms_to_min_sec(int(avg_ms))}")
 
     print("\nReleases per year:")
@@ -345,4 +391,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Fetch and analyze a Spotify artist's catalog")
+    parser.add_argument("artist", help="Artist name to search for (e.g. \"Radiohead\")")
+    args = parser.parse_args()
+    main(args.artist)
