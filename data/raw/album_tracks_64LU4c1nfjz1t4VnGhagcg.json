@@ -1,5 +1,5 @@
 {
-  "href": "https://api.spotify.com/v1/albums/4tFsJC9jQ0Qjj7HSExhAdm/tracks?offset=0&limit=50",
+  "href": "https://api.spotify.com/v1/albums/64LU4c1nfjz1t4VnGhagcg/tracks?offset=0&limit=50",
   "items": [
     {
       "artists": [
@@ -15,17 +15,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 4947,
+      "duration_ms": 212600,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0yZPIEgco572UWiwoQtcYF"
+        "spotify": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
       },
-      "href": "https://api.spotify.com/v1/tracks/0yZPIEgco572UWiwoQtcYF",
-      "id": "0yZPIEgco572UWiwoQtcYF",
-      "name": "The Life of a Showgirl Intro",
+      "href": "https://api.spotify.com/v1/tracks/1hR8BSuEqPCCZfv93zzzz9",
+      "id": "1hR8BSuEqPCCZfv93zzzz9",
+      "name": "Welcome To New York (Taylor's Version)",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:0yZPIEgco572UWiwoQtcYF",
+      "uri": "spotify:track:1hR8BSuEqPCCZfv93zzzz9",
       "is_local": false
     },
     {
@@ -42,17 +42,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 41648,
+      "duration_ms": 231833,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/5k9RjjuYyOMCLL81U8FaHT"
+        "spotify": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
       },
-      "href": "https://api.spotify.com/v1/tracks/5k9RjjuYyOMCLL81U8FaHT",
-      "id": "5k9RjjuYyOMCLL81U8FaHT",
-      "name": "The Fate of Ophelia - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/45wMBGri1PORPjM9PwFfrS",
+      "id": "45wMBGri1PORPjM9PwFfrS",
+      "name": "Blank Space (Taylor's Version)",
       "track_number": 2,
       "type": "track",
-      "uri": "spotify:track:5k9RjjuYyOMCLL81U8FaHT",
+      "uri": "spotify:track:45wMBGri1PORPjM9PwFfrS",
       "is_local": false
     },
     {
@@ -69,17 +69,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 226073,
+      "duration_ms": 231000,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+        "spotify": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
       },
-      "href": "https://api.spotify.com/v1/tracks/1dosSsKwYF7hoQA2kuu6wI",
-      "id": "1dosSsKwYF7hoQA2kuu6wI",
-      "name": "The Fate of Ophelia",
+      "href": "https://api.spotify.com/v1/tracks/1hjRhYpWyqDpPahmSlUTlc",
+      "id": "1hjRhYpWyqDpPahmSlUTlc",
+      "name": "Style (Taylor's Version)",
       "track_number": 3,
       "type": "track",
-      "uri": "spotify:track:1dosSsKwYF7hoQA2kuu6wI",
+      "uri": "spotify:track:1hjRhYpWyqDpPahmSlUTlc",
       "is_local": false
     },
     {
@@ -96,17 +96,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 35910,
+      "duration_ms": 235800,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3r9fAceWmaDFvbNiTnFiLr"
+        "spotify": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
       },
-      "href": "https://api.spotify.com/v1/tracks/3r9fAceWmaDFvbNiTnFiLr",
-      "id": "3r9fAceWmaDFvbNiTnFiLr",
-      "name": "Elizabeth Taylor - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/045ZeOHPIzhxxsm8bq5kyE",
+      "id": "045ZeOHPIzhxxsm8bq5kyE",
+      "name": "Out Of The Woods (Taylor's Version)",
       "track_number": 4,
       "type": "track",
-      "uri": "spotify:track:3r9fAceWmaDFvbNiTnFiLr",
+      "uri": "spotify:track:045ZeOHPIzhxxsm8bq5kyE",
       "is_local": false
     },
     {
@@ -123,17 +123,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 208291,
+      "duration_ms": 193289,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1A2vZKJZovt4828jwLgiB3"
+        "spotify": "https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5"
       },
-      "href": "https://api.spotify.com/v1/tracks/1A2vZKJZovt4828jwLgiB3",
-      "id": "1A2vZKJZovt4828jwLgiB3",
-      "name": "Elizabeth Taylor",
+      "href": "https://api.spotify.com/v1/tracks/6GXgd1BPD9bUpqw5AntGV5",
+      "id": "6GXgd1BPD9bUpqw5AntGV5",
+      "name": "All You Had To Do Was Stay (Taylor's Version)",
       "track_number": 5,
       "type": "track",
-      "uri": "spotify:track:1A2vZKJZovt4828jwLgiB3",
+      "uri": "spotify:track:6GXgd1BPD9bUpqw5AntGV5",
       "is_local": false
     },
     {
@@ -150,17 +150,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 44594,
+      "duration_ms": 219209,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/5SkuikJwvwfEvNyCepGkq3"
+        "spotify": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
       },
-      "href": "https://api.spotify.com/v1/tracks/5SkuikJwvwfEvNyCepGkq3",
-      "id": "5SkuikJwvwfEvNyCepGkq3",
-      "name": "Opalite - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/3pv7Q5v2dpdefwdWIvE7yH",
+      "id": "3pv7Q5v2dpdefwdWIvE7yH",
+      "name": "Shake It Off (Taylor's Version)",
       "track_number": 6,
       "type": "track",
-      "uri": "spotify:track:5SkuikJwvwfEvNyCepGkq3",
+      "uri": "spotify:track:3pv7Q5v2dpdefwdWIvE7yH",
       "is_local": false
     },
     {
@@ -177,17 +177,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 235356,
+      "duration_ms": 207650,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/67osB3wmJVTFzKhWqPb1Hm"
+        "spotify": "https://open.spotify.com/track/43y1WpBdnEy5TR9aZoSQL9"
       },
-      "href": "https://api.spotify.com/v1/tracks/67osB3wmJVTFzKhWqPb1Hm",
-      "id": "67osB3wmJVTFzKhWqPb1Hm",
-      "name": "Opalite",
+      "href": "https://api.spotify.com/v1/tracks/43y1WpBdnEy5TR9aZoSQL9",
+      "id": "43y1WpBdnEy5TR9aZoSQL9",
+      "name": "I Wish You Would (Taylor's Version)",
       "track_number": 7,
       "type": "track",
-      "uri": "spotify:track:67osB3wmJVTFzKhWqPb1Hm",
+      "uri": "spotify:track:43y1WpBdnEy5TR9aZoSQL9",
       "is_local": false
     },
     {
@@ -204,17 +204,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 32838,
+      "duration_ms": 211103,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2NGGvVcfb2m2NbVaXHC3gb"
+        "spotify": "https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic"
       },
-      "href": "https://api.spotify.com/v1/tracks/2NGGvVcfb2m2NbVaXHC3gb",
-      "id": "2NGGvVcfb2m2NbVaXHC3gb",
-      "name": "Father Figure - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/64FzgoLZ3oXu2SriZblHic",
+      "id": "64FzgoLZ3oXu2SriZblHic",
+      "name": "Bad Blood (Taylor's Version)",
       "track_number": 8,
       "type": "track",
-      "uri": "spotify:track:2NGGvVcfb2m2NbVaXHC3gb",
+      "uri": "spotify:track:64FzgoLZ3oXu2SriZblHic",
       "is_local": false
     },
     {
@@ -231,17 +231,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 212777,
-      "explicit": true,
+      "duration_ms": 220433,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1lD0oPIfSYid1LhPvgrz10"
+        "spotify": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"
       },
-      "href": "https://api.spotify.com/v1/tracks/1lD0oPIfSYid1LhPvgrz10",
-      "id": "1lD0oPIfSYid1LhPvgrz10",
-      "name": "Father Figure",
+      "href": "https://api.spotify.com/v1/tracks/1K39ty6o1sHwwlZwO6a7wK",
+      "id": "1K39ty6o1sHwwlZwO6a7wK",
+      "name": "Wildest Dreams (Taylor's Version)",
       "track_number": 9,
       "type": "track",
-      "uri": "spotify:track:1lD0oPIfSYid1LhPvgrz10",
+      "uri": "spotify:track:1K39ty6o1sHwwlZwO6a7wK",
       "is_local": false
     },
     {
@@ -258,17 +258,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 51818,
+      "duration_ms": 247533,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0wAvTNz81YTUhLFWuWJSAV"
+        "spotify": "https://open.spotify.com/track/75W3SngKzTuoQ94uLf3y82"
       },
-      "href": "https://api.spotify.com/v1/tracks/0wAvTNz81YTUhLFWuWJSAV",
-      "id": "0wAvTNz81YTUhLFWuWJSAV",
-      "name": "Eldest Daughter - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/75W3SngKzTuoQ94uLf3y82",
+      "id": "75W3SngKzTuoQ94uLf3y82",
+      "name": "How You Get The Girl (Taylor's Version)",
       "track_number": 10,
       "type": "track",
-      "uri": "spotify:track:0wAvTNz81YTUhLFWuWJSAV",
+      "uri": "spotify:track:75W3SngKzTuoQ94uLf3y82",
       "is_local": false
     },
     {
@@ -285,17 +285,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 246356,
-      "explicit": true,
+      "duration_ms": 250100,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6iC3L3YmAkGucvJbXKDanA"
+        "spotify": "https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg"
       },
-      "href": "https://api.spotify.com/v1/tracks/6iC3L3YmAkGucvJbXKDanA",
-      "id": "6iC3L3YmAkGucvJbXKDanA",
-      "name": "Eldest Daughter",
+      "href": "https://api.spotify.com/v1/tracks/5QVVjX0ZItqlVpEuVCM9Yg",
+      "id": "5QVVjX0ZItqlVpEuVCM9Yg",
+      "name": "This Love (Taylor’s Version)",
       "track_number": 11,
       "type": "track",
-      "uri": "spotify:track:6iC3L3YmAkGucvJbXKDanA",
+      "uri": "spotify:track:5QVVjX0ZItqlVpEuVCM9Yg",
       "is_local": false
     },
     {
@@ -312,17 +312,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 40746,
+      "duration_ms": 195700,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6NUy8xajng5zMSGJRKniAG"
+        "spotify": "https://open.spotify.com/track/2f0GI2ZLUtbGqFx8t2Gk6A"
       },
-      "href": "https://api.spotify.com/v1/tracks/6NUy8xajng5zMSGJRKniAG",
-      "id": "6NUy8xajng5zMSGJRKniAG",
-      "name": "Ruin The Friendship - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/2f0GI2ZLUtbGqFx8t2Gk6A",
+      "id": "2f0GI2ZLUtbGqFx8t2Gk6A",
+      "name": "I Know Places (Taylor's Version)",
       "track_number": 12,
       "type": "track",
-      "uri": "spotify:track:6NUy8xajng5zMSGJRKniAG",
+      "uri": "spotify:track:2f0GI2ZLUtbGqFx8t2Gk6A",
       "is_local": false
     },
     {
@@ -339,17 +339,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 220564,
+      "duration_ms": 271000,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/34xxPZWbEyg5iDKEBqdsBZ"
+        "spotify": "https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG"
       },
-      "href": "https://api.spotify.com/v1/tracks/34xxPZWbEyg5iDKEBqdsBZ",
-      "id": "34xxPZWbEyg5iDKEBqdsBZ",
-      "name": "Ruin The Friendship",
+      "href": "https://api.spotify.com/v1/tracks/2ByBBvpR9b7IynvRmnG7kG",
+      "id": "2ByBBvpR9b7IynvRmnG7kG",
+      "name": "Clean (Taylor's Version)",
       "track_number": 13,
       "type": "track",
-      "uri": "spotify:track:34xxPZWbEyg5iDKEBqdsBZ",
+      "uri": "spotify:track:2ByBBvpR9b7IynvRmnG7kG",
       "is_local": false
     },
     {
@@ -366,17 +366,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 42434,
+      "duration_ms": 245566,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6FJemhBlVTGTCgrrrLam3D"
+        "spotify": "https://open.spotify.com/track/2ve0kuaWUCt4Zx8x4bf1MR"
       },
-      "href": "https://api.spotify.com/v1/tracks/6FJemhBlVTGTCgrrrLam3D",
-      "id": "6FJemhBlVTGTCgrrrLam3D",
-      "name": "Actually Romantic - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/2ve0kuaWUCt4Zx8x4bf1MR",
+      "id": "2ve0kuaWUCt4Zx8x4bf1MR",
+      "name": "Wonderland (Taylor's Version)",
       "track_number": 14,
       "type": "track",
-      "uri": "spotify:track:6FJemhBlVTGTCgrrrLam3D",
+      "uri": "spotify:track:2ve0kuaWUCt4Zx8x4bf1MR",
       "is_local": false
     },
     {
@@ -393,17 +393,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 163699,
-      "explicit": true,
+      "duration_ms": 267389,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6ZSxG2QvGmwXbTfn7iDq7a"
+        "spotify": "https://open.spotify.com/track/4UwqOWDpdeIDVQDuKT6iza"
       },
-      "href": "https://api.spotify.com/v1/tracks/6ZSxG2QvGmwXbTfn7iDq7a",
-      "id": "6ZSxG2QvGmwXbTfn7iDq7a",
-      "name": "Actually Romantic",
+      "href": "https://api.spotify.com/v1/tracks/4UwqOWDpdeIDVQDuKT6iza",
+      "id": "4UwqOWDpdeIDVQDuKT6iza",
+      "name": "You Are In Love (Taylor's Version)",
       "track_number": 15,
       "type": "track",
-      "uri": "spotify:track:6ZSxG2QvGmwXbTfn7iDq7a",
+      "uri": "spotify:track:4UwqOWDpdeIDVQDuKT6iza",
       "is_local": false
     },
     {
@@ -420,17 +420,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 38107,
+      "duration_ms": 230177,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/5yrrh7VYFMCNjUOIMzGNp5"
+        "spotify": "https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG"
       },
-      "href": "https://api.spotify.com/v1/tracks/5yrrh7VYFMCNjUOIMzGNp5",
-      "id": "5yrrh7VYFMCNjUOIMzGNp5",
-      "name": "Wi$h Li$t - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/2vPMoMDXxu9uX1igWZmXSG",
+      "id": "2vPMoMDXxu9uX1igWZmXSG",
+      "name": "New Romantics (Taylor's Version)",
       "track_number": 16,
       "type": "track",
-      "uri": "spotify:track:5yrrh7VYFMCNjUOIMzGNp5",
+      "uri": "spotify:track:2vPMoMDXxu9uX1igWZmXSG",
       "is_local": false
     },
     {
@@ -447,17 +447,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 207349,
-      "explicit": true,
+      "duration_ms": 180381,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3Qeh4z08FfDBRfQMfDv83f"
+        "spotify": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
       },
-      "href": "https://api.spotify.com/v1/tracks/3Qeh4z08FfDBRfQMfDv83f",
-      "id": "3Qeh4z08FfDBRfQMfDv83f",
-      "name": "Wi$h Li$t",
+      "href": "https://api.spotify.com/v1/tracks/71BqAINEnezjQfxE4VuJfq",
+      "id": "71BqAINEnezjQfxE4VuJfq",
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
       "track_number": 17,
       "type": "track",
-      "uri": "spotify:track:3Qeh4z08FfDBRfQMfDv83f",
+      "uri": "spotify:track:71BqAINEnezjQfxE4VuJfq",
       "is_local": false
     },
     {
@@ -474,17 +474,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 30142,
+      "duration_ms": 279833,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/20QSU9vg05qYSDVgOTAwPp"
+        "spotify": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
       },
-      "href": "https://api.spotify.com/v1/tracks/20QSU9vg05qYSDVgOTAwPp",
-      "id": "20QSU9vg05qYSDVgOTAwPp",
-      "name": "Wood - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/4NioO5R9sHEZh4cGzMHyNt",
+      "id": "4NioO5R9sHEZh4cGzMHyNt",
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
       "track_number": 18,
       "type": "track",
-      "uri": "spotify:track:20QSU9vg05qYSDVgOTAwPp",
+      "uri": "spotify:track:4NioO5R9sHEZh4cGzMHyNt",
       "is_local": false
     },
     {
@@ -501,17 +501,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 150517,
-      "explicit": true,
+      "duration_ms": 146436,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0129EujhGkwtwTFADGem5P"
+        "spotify": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
       },
-      "href": "https://api.spotify.com/v1/tracks/0129EujhGkwtwTFADGem5P",
-      "id": "0129EujhGkwtwTFADGem5P",
-      "name": "Wood",
+      "href": "https://api.spotify.com/v1/tracks/5KD6AEm19QnMbfWpfoOHMl",
+      "id": "5KD6AEm19QnMbfWpfoOHMl",
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
       "track_number": 19,
       "type": "track",
-      "uri": "spotify:track:0129EujhGkwtwTFADGem5P",
+      "uri": "spotify:track:5KD6AEm19QnMbfWpfoOHMl",
       "is_local": false
     },
     {
@@ -528,17 +528,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 56794,
+      "duration_ms": 171818,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6JNM6pLKbXMGG2opeExCb2"
+        "spotify": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
       },
-      "href": "https://api.spotify.com/v1/tracks/6JNM6pLKbXMGG2opeExCb2",
-      "id": "6JNM6pLKbXMGG2opeExCb2",
-      "name": "CANCELLED! - Track by Track",
+      "href": "https://api.spotify.com/v1/tracks/6T0sEnqjmHISIKwFETeeiP",
+      "id": "6T0sEnqjmHISIKwFETeeiP",
+      "name": "Suburban Legends (Taylor's Version) (From The Vault)",
       "track_number": 20,
       "type": "track",
-      "uri": "spotify:track:6JNM6pLKbXMGG2opeExCb2",
+      "uri": "spotify:track:6T0sEnqjmHISIKwFETeeiP",
       "is_local": false
     },
     {
@@ -555,162 +555,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 211498,
-      "explicit": true,
+      "duration_ms": 229477,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3FzJDGVjRGNc7KrkabU5N0"
+        "spotify": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
       },
-      "href": "https://api.spotify.com/v1/tracks/3FzJDGVjRGNc7KrkabU5N0",
-      "id": "3FzJDGVjRGNc7KrkabU5N0",
-      "name": "CANCELLED!",
+      "href": "https://api.spotify.com/v1/tracks/1Iq8oo9XkmmvCQiGOfORiz",
+      "id": "1Iq8oo9XkmmvCQiGOfORiz",
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
       "track_number": 21,
       "type": "track",
-      "uri": "spotify:track:3FzJDGVjRGNc7KrkabU5N0",
-      "is_local": false
-    },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-          },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 42052,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5EwypOO9NEI7MvjPOYZtWk"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5EwypOO9NEI7MvjPOYZtWk",
-      "id": "5EwypOO9NEI7MvjPOYZtWk",
-      "name": "Honey - Track by Track",
-      "track_number": 22,
-      "type": "track",
-      "uri": "spotify:track:5EwypOO9NEI7MvjPOYZtWk",
-      "is_local": false
-    },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-          },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 181534,
-      "explicit": true,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3vGd1heFoUuFGvKvl0SdW3"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3vGd1heFoUuFGvKvl0SdW3",
-      "id": "3vGd1heFoUuFGvKvl0SdW3",
-      "name": "Honey",
-      "track_number": 23,
-      "type": "track",
-      "uri": "spotify:track:3vGd1heFoUuFGvKvl0SdW3",
-      "is_local": false
-    },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-          },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 72258,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/42TAweWJJ9YlQ47T5nesu5"
-      },
-      "href": "https://api.spotify.com/v1/tracks/42TAweWJJ9YlQ47T5nesu5",
-      "id": "42TAweWJJ9YlQ47T5nesu5",
-      "name": "The Life of a Showgirl - Track by Track",
-      "track_number": 24,
-      "type": "track",
-      "uri": "spotify:track:42TAweWJJ9YlQ47T5nesu5",
-      "is_local": false
-    },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-          },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-          },
-          "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
-          "id": "74KM79TiuVKeVCqs8QtB0B",
-          "name": "Sabrina Carpenter",
-          "type": "artist",
-          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 241766,
-      "explicit": true,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/243KxZULAjWO3KREpVHgOH"
-      },
-      "href": "https://api.spotify.com/v1/tracks/243KxZULAjWO3KREpVHgOH",
-      "id": "243KxZULAjWO3KREpVHgOH",
-      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
-      "track_number": 25,
-      "type": "track",
-      "uri": "spotify:track:243KxZULAjWO3KREpVHgOH",
-      "is_local": false
-    },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-          },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 5262,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1ohk1U9KWGSKqwfVFQbVjG"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1ohk1U9KWGSKqwfVFQbVjG",
-      "id": "1ohk1U9KWGSKqwfVFQbVjG",
-      "name": "The Life of a Showgirl Outro",
-      "track_number": 26,
-      "type": "track",
-      "uri": "spotify:track:1ohk1U9KWGSKqwfVFQbVjG",
+      "uri": "spotify:track:1Iq8oo9XkmmvCQiGOfORiz",
       "is_local": false
     }
   ],
@@ -718,5 +573,5 @@
   "next": null,
   "offset": 0,
   "previous": null,
-  "total": 26
+  "total": 21
 }

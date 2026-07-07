@@ -1,0 +1,229 @@
+{
+  "href": "https://api.spotify.com/v1/albums/1pSQROrvCQ8giBuitAzMkI/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tgxFlmtGx08MtTKWeqEuR",
+          "id": "4tgxFlmtGx08MtTKWeqEuR",
+          "name": "Amitabh Bachchan",
+          "type": "artist",
+          "uri": "spotify:artist:4tgxFlmtGx08MtTKWeqEuR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 85500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2I8POKVsvLrDi23ZpNG7R0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2I8POKVsvLrDi23ZpNG7R0",
+      "id": "2I8POKVsvLrDi23ZpNG7R0",
+      "name": "Karpurgauram",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2I8POKVsvLrDi23ZpNG7R0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+          "id": "1SJOL9HJ08YOn92lFcYf8a",
+          "name": "Shankar Mahadevan",
+          "type": "artist",
+          "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5TzZ4MsbXKop560RWb2sX2"
+          },
+          "href": "https://api.spotify.com/v1/artists/5TzZ4MsbXKop560RWb2sX2",
+          "id": "5TzZ4MsbXKop560RWb2sX2",
+          "name": "S.Mahalingum",
+          "type": "artist",
+          "uri": "spotify:artist:5TzZ4MsbXKop560RWb2sX2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 92000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0VAogJN1xsfQ5sQJMochQA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0VAogJN1xsfQ5sQJMochQA",
+      "id": "0VAogJN1xsfQ5sQJMochQA",
+      "name": "Om Namo",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0VAogJN1xsfQ5sQJMochQA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0e7Xsukwik0zDaqCcSvJTg",
+          "id": "0e7Xsukwik0zDaqCcSvJTg",
+          "name": "Prasoon Joshi",
+          "type": "artist",
+          "uri": "spotify:artist:0e7Xsukwik0zDaqCcSvJTg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273575,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/39FNMlkUtkvKq6UxtORI4K"
+      },
+      "href": "https://api.spotify.com/v1/tracks/39FNMlkUtkvKq6UxtORI4K",
+      "id": "39FNMlkUtkvKq6UxtORI4K",
+      "name": "Aadiyogi",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:39FNMlkUtkvKq6UxtORI4K",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
+          },
+          "href": "https://api.spotify.com/v1/artists/0w4e7HVbqAHFPN6VkIlvhe",
+          "id": "0w4e7HVbqAHFPN6VkIlvhe",
+          "name": "Suresh Wadkar",
+          "type": "artist",
+          "uri": "spotify:artist:0w4e7HVbqAHFPN6VkIlvhe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 145500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/05A6Ri0ueKuj4V5KCO0em7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/05A6Ri0ueKuj4V5KCO0em7",
+      "id": "05A6Ri0ueKuj4V5KCO0em7",
+      "name": "Vande Deva Uma Patim",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:05A6Ri0ueKuj4V5KCO0em7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+          "id": "0oOet2f43PA68X5RxKobEy",
+          "name": "Shreya Ghoshal",
+          "type": "artist",
+          "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5uiDSXbo95Ug4V7RrvK2TU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5uiDSXbo95Ug4V7RrvK2TU",
+      "id": "5uiDSXbo95Ug4V7RrvK2TU",
+      "name": "Somnatham Sharanam",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5uiDSXbo95Ug4V7RrvK2TU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5aZI0L48hVwYa7L2tOkTIx"
+          },
+          "href": "https://api.spotify.com/v1/artists/5aZI0L48hVwYa7L2tOkTIx",
+          "id": "5aZI0L48hVwYa7L2tOkTIx",
+          "name": "Sreekant Krishnamurthy",
+          "type": "artist",
+          "uri": "spotify:artist:5aZI0L48hVwYa7L2tOkTIx"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 259000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2OW5UGg4pj7sBPJ8kwrtyo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2OW5UGg4pj7sBPJ8kwrtyo",
+      "id": "2OW5UGg4pj7sBPJ8kwrtyo",
+      "name": "Shankara Mahadeva Deva",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2OW5UGg4pj7sBPJ8kwrtyo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228028,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sm62U7JgNq2FStQclxBxa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5sm62U7JgNq2FStQclxBxa",
+      "id": "5sm62U7JgNq2FStQclxBxa",
+      "name": "Bhole Chale",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5sm62U7JgNq2FStQclxBxa",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 7
+}

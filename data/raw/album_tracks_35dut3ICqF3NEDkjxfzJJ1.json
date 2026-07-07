@@ -1,0 +1,677 @@
+{
+  "href": "https://api.spotify.com/v1/albums/35dut3ICqF3NEDkjxfzJJ1/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230461,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/76yLBykniz0SSNv0jj17M2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/76yLBykniz0SSNv0jj17M2",
+      "id": "76yLBykniz0SSNv0jj17M2",
+      "name": "Starboy (feat. Daft Punk)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:76yLBykniz0SSNv0jj17M2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249207,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6fSvz9yrQY407xmr7cdjuA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6fSvz9yrQY407xmr7cdjuA",
+      "id": "6fSvz9yrQY407xmr7cdjuA",
+      "name": "Party Monster",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6fSvz9yrQY407xmr7cdjuA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220308,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4k47x4UkxG215nFLMFna8A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4k47x4UkxG215nFLMFna8A",
+      "id": "4k47x4UkxG215nFLMFna8A",
+      "name": "False Alarm",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4k47x4UkxG215nFLMFna8A",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218879,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4zHa39io9pjsiAE6LwM2NH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4zHa39io9pjsiAE6LwM2NH",
+      "id": "4zHa39io9pjsiAE6LwM2NH",
+      "name": "Reminder",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4zHa39io9pjsiAE6LwM2NH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232881,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3mynPhglTz2Ggh8SxA34kR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3mynPhglTz2Ggh8SxA34kR",
+      "id": "3mynPhglTz2Ggh8SxA34kR",
+      "name": "Rockin’",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3mynPhglTz2Ggh8SxA34kR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265607,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36K5mnqwfxGS0rvxz7FPyq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36K5mnqwfxGS0rvxz7FPyq",
+      "id": "36K5mnqwfxGS0rvxz7FPyq",
+      "name": "Secrets",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:36K5mnqwfxGS0rvxz7FPyq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206034,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2QRvliBEcGIEgTrjVfxmXo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2QRvliBEcGIEgTrjVfxmXo",
+      "id": "2QRvliBEcGIEgTrjVfxmXo",
+      "name": "True Colors",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2QRvliBEcGIEgTrjVfxmXo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          },
+          "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "type": "artist",
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 111611,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3CktmDvZGj21m3pNFj5Lr3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3CktmDvZGj21m3pNFj5Lr3",
+      "id": "3CktmDvZGj21m3pNFj5Lr3",
+      "name": "Stargirl Interlude (feat. Lana Del Rey)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3CktmDvZGj21m3pNFj5Lr3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231357,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3r5lHFACTti0w2REN5tcrn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3r5lHFACTti0w2REN5tcrn",
+      "id": "3r5lHFACTti0w2REN5tcrn",
+      "name": "Sidewalks (feat. Kendrick Lamar)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3r5lHFACTti0w2REN5tcrn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237576,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4QYEtbfsqusrXN5A49LG53"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4QYEtbfsqusrXN5A49LG53",
+      "id": "4QYEtbfsqusrXN5A49LG53",
+      "name": "Six Feet Under",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4QYEtbfsqusrXN5A49LG53",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223301,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ejT19NfiINj4cFmjRHwAC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ejT19NfiINj4cFmjRHwAC",
+      "id": "5ejT19NfiINj4cFmjRHwAC",
+      "name": "Love To Lay",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5ejT19NfiINj4cFmjRHwAC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220170,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5HFQB9ENLGBHTci7xPmLk6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5HFQB9ENLGBHTci7xPmLk6",
+      "id": "5HFQB9ENLGBHTci7xPmLk6",
+      "name": "A Lonely Night",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5HFQB9ENLGBHTci7xPmLk6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197649,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2DsrtZoRxeHdCSGRlQVQtj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2DsrtZoRxeHdCSGRlQVQtj",
+      "id": "2DsrtZoRxeHdCSGRlQVQtj",
+      "name": "Attention",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2DsrtZoRxeHdCSGRlQVQtj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221913,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/09mBPwUMt1TXNtneqvmZZ5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/09mBPwUMt1TXNtneqvmZZ5",
+      "id": "09mBPwUMt1TXNtneqvmZZ5",
+      "name": "Ordinary Life",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:09mBPwUMt1TXNtneqvmZZ5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198654,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3iPmwJh56xbDF7Xduimf0d"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3iPmwJh56xbDF7Xduimf0d",
+      "id": "3iPmwJh56xbDF7Xduimf0d",
+      "name": "Nothing Without You",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3iPmwJh56xbDF7Xduimf0d",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 321031,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Xz0rSC29WbaobyJQfeYsp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Xz0rSC29WbaobyJQfeYsp",
+      "id": "3Xz0rSC29WbaobyJQfeYsp",
+      "name": "All I Know (feat. Future)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3Xz0rSC29WbaobyJQfeYsp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260255,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0awWj9Wzj375IL5etqa1Dk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0awWj9Wzj375IL5etqa1Dk",
+      "id": "0awWj9Wzj375IL5etqa1Dk",
+      "name": "Die For You",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:0awWj9Wzj375IL5etqa1Dk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269176,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0yi180gAOIJhcRo7wY4Htl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0yi180gAOIJhcRo7wY4Htl",
+      "id": "0yi180gAOIJhcRo7wY4Htl",
+      "name": "I Feel It Coming (feat. Daft Punk)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:0yi180gAOIJhcRo7wY4Htl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232857,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4W4fNrZYkobj539TOWsLO2",
+      "id": "4W4fNrZYkobj539TOWsLO2",
+      "name": "Die For You (with Ariana Grande) - Remix",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:4W4fNrZYkobj539TOWsLO2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          },
+          "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+          "id": "23fqKkggKUBHNkbKtXEls4",
+          "name": "Kygo",
+          "type": "artist",
+          "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244720,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3DCc4HPrVukBeaDGe3Cosk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3DCc4HPrVukBeaDGe3Cosk",
+      "id": "3DCc4HPrVukBeaDGe3Cosk",
+      "name": "Starboy (feat. Daft Punk) - Kygo Remix",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:3DCc4HPrVukBeaDGe3Cosk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          },
+          "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist",
+          "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist",
+          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221968,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2rlEZYWZFE84YTbrwypBr0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2rlEZYWZFE84YTbrwypBr0",
+      "id": "2rlEZYWZFE84YTbrwypBr0",
+      "name": "Reminder (feat. A$AP Rocky & Young Thug) - Remix",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:2rlEZYWZFE84YTbrwypBr0",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 21
+}

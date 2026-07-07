@@ -1,0 +1,371 @@
+{
+  "href": "https://api.spotify.com/v1/albums/5EYKrEDnKhhcNxGedaRQeK/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 92400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2o1pb13quMReXZqE7jWsgq",
+      "id": "2o1pb13quMReXZqE7jWsgq",
+      "name": "intro (end of the world)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2o1pb13quMReXZqE7jWsgq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164927,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Rweq7vNjK4kZBbGrmxQsl",
+      "id": "1Rweq7vNjK4kZBbGrmxQsl",
+      "name": "bye",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1Rweq7vNjK4kZBbGrmxQsl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 174006,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0o3ua5ufFK7nfRzbDUNoGA",
+      "id": "0o3ua5ufFK7nfRzbDUNoGA",
+      "name": "don't wanna break up again",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0o3ua5ufFK7nfRzbDUNoGA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 42166,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/13jRSCLoWbCoU1XEdJRbgn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/13jRSCLoWbCoU1XEdJRbgn",
+      "id": "13jRSCLoWbCoU1XEdJRbgn",
+      "name": "Saturn Returns Interlude",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:13jRSCLoWbCoU1XEdJRbgn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3RwWW7KeVhHGayYJgUL5eZ",
+      "id": "3RwWW7KeVhHGayYJgUL5eZ",
+      "name": "eternal sunshine",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3RwWW7KeVhHGayYJgUL5eZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163381,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/142PiXzA84lmEw2RstFHFa",
+      "id": "142PiXzA84lmEw2RstFHFa",
+      "name": "supernatural",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:142PiXzA84lmEw2RstFHFa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163278,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/14kyXBpg91RVq8bNRDS1q2",
+      "id": "14kyXBpg91RVq8bNRDS1q2",
+      "name": "true story",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:14kyXBpg91RVq8bNRDS1q2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173639,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Lmbke3KNVFXtoH2mMSHCw",
+      "id": "0Lmbke3KNVFXtoH2mMSHCw",
+      "name": "the boy is mine",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0Lmbke3KNVFXtoH2mMSHCw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214994,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5D34wRmbFS29AjtTOP2QJe",
+      "id": "5D34wRmbFS29AjtTOP2QJe",
+      "name": "yes, and?",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5D34wRmbFS29AjtTOP2QJe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228639,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/51ZQ1vr10ffzbwIjDCwqm4",
+      "id": "51ZQ1vr10ffzbwIjDCwqm4",
+      "name": "we can't be friends (wait for your love)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:51ZQ1vr10ffzbwIjDCwqm4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153633,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5cQX9BexkPIEESTZijJhXg",
+      "id": "5cQX9BexkPIEESTZijJhXg",
+      "name": "i wish i hated you",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5cQX9BexkPIEESTZijJhXg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182566,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6XXKB32Om6WuXg3uEWwTob",
+      "id": "6XXKB32Om6WuXg3uEWwTob",
+      "name": "imperfect for you",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6XXKB32Om6WuXg3uEWwTob",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6maPmKkdwM4eyhz5O4lbkP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6maPmKkdwM4eyhz5O4lbkP",
+          "id": "6maPmKkdwM4eyhz5O4lbkP",
+          "name": "Nonna",
+          "type": "artist",
+          "uri": "spotify:artist:6maPmKkdwM4eyhz5O4lbkP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 168500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mHM5d2fK3n8xgymjf92w2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mHM5d2fK3n8xgymjf92w2",
+      "id": "4mHM5d2fK3n8xgymjf92w2",
+      "name": "ordinary things (feat. Nonna)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4mHM5d2fK3n8xgymjf92w2",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 13
+}

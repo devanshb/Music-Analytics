@@ -1,0 +1,307 @@
+{
+  "href": "https://api.spotify.com/v1/albums/4vJxMmzmQsm0lvVo8QF6Lk/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7HZXPJnjvbtmNvZfLxQFAG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7HZXPJnjvbtmNvZfLxQFAG",
+      "id": "7HZXPJnjvbtmNvZfLxQFAG",
+      "name": "Beyond Our Suffering",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7HZXPJnjvbtmNvZfLxQFAG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 274866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XlgvmakaU9N7IoGabsJyk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5XlgvmakaU9N7IoGabsJyk",
+      "id": "5XlgvmakaU9N7IoGabsJyk",
+      "name": "Anodyne Sea",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5XlgvmakaU9N7IoGabsJyk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/43FOfqDaNvFC7uZI2wfF3i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/43FOfqDaNvFC7uZI2wfF3i",
+      "id": "43FOfqDaNvFC7uZI2wfF3i",
+      "name": "Without Conclusion",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:43FOfqDaNvFC7uZI2wfF3i",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 297426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/50mHTNxev0bSYQhuAASe17"
+      },
+      "href": "https://api.spotify.com/v1/tracks/50mHTNxev0bSYQhuAASe17",
+      "id": "50mHTNxev0bSYQhuAASe17",
+      "name": "Parallels",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:50mHTNxev0bSYQhuAASe17",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6t8kWuCtYt1wN5qxdQznll"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6t8kWuCtYt1wN5qxdQznll",
+      "id": "6t8kWuCtYt1wN5qxdQznll",
+      "name": "The Plague",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6t8kWuCtYt1wN5qxdQznll",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2uKQ1p3Hqj3khZFpU8tKJl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2uKQ1p3Hqj3khZFpU8tKJl",
+      "id": "2uKQ1p3Hqj3khZFpU8tKJl",
+      "name": "Anger and Apathy",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2uKQ1p3Hqj3khZFpU8tKJl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Gr6fisu6QAHN49IHD6lGC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Gr6fisu6QAHN49IHD6lGC",
+      "id": "3Gr6fisu6QAHN49IHD6lGC",
+      "name": "Condemned",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3Gr6fisu6QAHN49IHD6lGC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6faKQnSrAnVWk1dhYY8dXL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6faKQnSrAnVWk1dhYY8dXL",
+      "id": "6faKQnSrAnVWk1dhYY8dXL",
+      "name": "Upside Down Kingdom",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6faKQnSrAnVWk1dhYY8dXL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4S5oPOOtbwRGjiTqdWldkZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4S5oPOOtbwRGjiTqdWldkZ",
+      "id": "4S5oPOOtbwRGjiTqdWldkZ",
+      "name": "Vacancy",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4S5oPOOtbwRGjiTqdWldkZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 247506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2aOEHaJCT1v2L0HKFlqAVp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2aOEHaJCT1v2L0HKFlqAVp",
+      "id": "2aOEHaJCT1v2L0HKFlqAVp",
+      "name": "The Only Constant is Change",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2aOEHaJCT1v2L0HKFlqAVp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 310000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jBPpMr7MeOQAhNLmHmF5h"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2jBPpMr7MeOQAhNLmHmF5h",
+      "id": "2jBPpMr7MeOQAhNLmHmF5h",
+      "name": "The Blinding of False Light",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2jBPpMr7MeOQAhNLmHmF5h",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 11
+}

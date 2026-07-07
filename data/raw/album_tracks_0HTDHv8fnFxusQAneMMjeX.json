@@ -1,0 +1,280 @@
+{
+  "href": "https://api.spotify.com/v1/albums/0HTDHv8fnFxusQAneMMjeX/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 491175,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2311T9fktXsyldfiXi3zNg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2311T9fktXsyldfiXi3zNg",
+      "id": "2311T9fktXsyldfiXi3zNg",
+      "name": "Ganesh Raja Sampoorna Aarti",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2311T9fktXsyldfiXi3zNg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 128591,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6eWFNRRdfyYF2T1WTxmgd6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6eWFNRRdfyYF2T1WTxmgd6",
+      "id": "6eWFNRRdfyYF2T1WTxmgd6",
+      "name": "Sukhkarta Dukhharta",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6eWFNRRdfyYF2T1WTxmgd6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 119801,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1tFmEJCRCO3kk6ah3nuhG1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1tFmEJCRCO3kk6ah3nuhG1",
+      "id": "1tFmEJCRCO3kk6ah3nuhG1",
+      "name": "Shendur Lal Chadhayo",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1tFmEJCRCO3kk6ah3nuhG1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 134231,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2S52N8i2hCYorptXnYLBZu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2S52N8i2hCYorptXnYLBZu",
+      "id": "2S52N8i2hCYorptXnYLBZu",
+      "name": "Jai Ganesh Deva",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2S52N8i2hCYorptXnYLBZu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 83623,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5n6uiIZoepCtyUhNSNx7bw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5n6uiIZoepCtyUhNSNx7bw",
+      "id": "5n6uiIZoepCtyUhNSNx7bw",
+      "name": "Ghalin Lotangan",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5n6uiIZoepCtyUhNSNx7bw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62te5zypy2Z85eXatRKOiz"
+          },
+          "href": "https://api.spotify.com/v1/artists/62te5zypy2Z85eXatRKOiz",
+          "id": "62te5zypy2Z85eXatRKOiz",
+          "name": "Dipesh Varma",
+          "type": "artist",
+          "uri": "spotify:artist:62te5zypy2Z85eXatRKOiz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 128591,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ro9TSb6rHjOWzaU5Ke6qb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ro9TSb6rHjOWzaU5Ke6qb",
+      "id": "0ro9TSb6rHjOWzaU5Ke6qb",
+      "name": "Sukhakarta Dukhharta",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0ro9TSb6rHjOWzaU5Ke6qb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62te5zypy2Z85eXatRKOiz"
+          },
+          "href": "https://api.spotify.com/v1/artists/62te5zypy2Z85eXatRKOiz",
+          "id": "62te5zypy2Z85eXatRKOiz",
+          "name": "Dipesh Varma",
+          "type": "artist",
+          "uri": "spotify:artist:62te5zypy2Z85eXatRKOiz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 119801,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0C5ymjQEFJySnABtFehaHb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0C5ymjQEFJySnABtFehaHb",
+      "id": "0C5ymjQEFJySnABtFehaHb",
+      "name": "Shendur Lal Chadhaayo",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0C5ymjQEFJySnABtFehaHb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62te5zypy2Z85eXatRKOiz"
+          },
+          "href": "https://api.spotify.com/v1/artists/62te5zypy2Z85eXatRKOiz",
+          "id": "62te5zypy2Z85eXatRKOiz",
+          "name": "Dipesh Varma",
+          "type": "artist",
+          "uri": "spotify:artist:62te5zypy2Z85eXatRKOiz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 134231,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3G42gNfcDD2Dp7nSlFgkdq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3G42gNfcDD2Dp7nSlFgkdq",
+      "id": "3G42gNfcDD2Dp7nSlFgkdq",
+      "name": "Jai Ganesh Devaa",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3G42gNfcDD2Dp7nSlFgkdq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62te5zypy2Z85eXatRKOiz"
+          },
+          "href": "https://api.spotify.com/v1/artists/62te5zypy2Z85eXatRKOiz",
+          "id": "62te5zypy2Z85eXatRKOiz",
+          "name": "Dipesh Varma",
+          "type": "artist",
+          "uri": "spotify:artist:62te5zypy2Z85eXatRKOiz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 83623,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0OmQRU1hLAnDPUqiVEEOiS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0OmQRU1hLAnDPUqiVEEOiS",
+      "id": "0OmQRU1hLAnDPUqiVEEOiS",
+      "name": "Ghalin Lotaangan",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0OmQRU1hLAnDPUqiVEEOiS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62te5zypy2Z85eXatRKOiz"
+          },
+          "href": "https://api.spotify.com/v1/artists/62te5zypy2Z85eXatRKOiz",
+          "id": "62te5zypy2Z85eXatRKOiz",
+          "name": "Dipesh Varma",
+          "type": "artist",
+          "uri": "spotify:artist:62te5zypy2Z85eXatRKOiz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 491175,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0aFWharc1kefK8m26YdGP5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0aFWharc1kefK8m26YdGP5",
+      "id": "0aFWharc1kefK8m26YdGP5",
+      "name": "Ganesh Raja Sampoornaa Aarti",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0aFWharc1kefK8m26YdGP5",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 10
+}

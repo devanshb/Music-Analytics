@@ -1,0 +1,667 @@
+{
+  "href": "https://api.spotify.com/v1/albums/3jHeowdBiKoyvYdH1u1ETS/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iF4oK6y60F4nkpc9ddl25"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iF4oK6y60F4nkpc9ddl25",
+          "id": "2iF4oK6y60F4nkpc9ddl25",
+          "name": "K. Shiva Datta",
+          "type": "artist",
+          "uri": "spotify:artist:2iF4oK6y60F4nkpc9ddl25"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bDQJkwkE91gTIAqJob70z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bDQJkwkE91gTIAqJob70z",
+          "id": "7bDQJkwkE91gTIAqJob70z",
+          "name": "Dr. K. Ramakrishna",
+          "type": "artist",
+          "uri": "spotify:artist:7bDQJkwkE91gTIAqJob70z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217748,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18aC32Qy2uM0Trrj5OnXhx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18aC32Qy2uM0Trrj5OnXhx",
+      "id": "18aC32Qy2uM0Trrj5OnXhx",
+      "name": "Kathaa Naayaka",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:18aC32Qy2uM0Trrj5OnXhx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2IUtwMti1OiT3lkW6RubgH",
+          "id": "2IUtwMti1OiT3lkW6RubgH",
+          "name": "K. S. Chithra",
+          "type": "artist",
+          "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80"
+          },
+          "href": "https://api.spotify.com/v1/artists/74S8YRi4XQ5yf9ToSzuY80",
+          "id": "74S8YRi4XQ5yf9ToSzuY80",
+          "name": "Sunitha",
+          "type": "artist",
+          "uri": "spotify:artist:74S8YRi4XQ5yf9ToSzuY80"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 312317,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0pKc3Nk2S1ubKDXPLtE9Vh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0pKc3Nk2S1ubKDXPLtE9Vh",
+      "id": "0pKc3Nk2S1ubKDXPLtE9Vh",
+      "name": "Ramanna Katha",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0pKc3Nk2S1ubKDXPLtE9Vh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2IUtwMti1OiT3lkW6RubgH",
+          "id": "2IUtwMti1OiT3lkW6RubgH",
+          "name": "K. S. Chithra",
+          "type": "artist",
+          "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WQP57VLN9YqWay34tiADB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3WQP57VLN9YqWay34tiADB",
+          "id": "3WQP57VLN9YqWay34tiADB",
+          "name": "Sreenidhi Tirumala",
+          "type": "artist",
+          "uri": "spotify:artist:3WQP57VLN9YqWay34tiADB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AgipdEVghvFGPxilhdrBO",
+          "id": "6AgipdEVghvFGPxilhdrBO",
+          "name": "Sirivennela Seetharama Sastry",
+          "type": "artist",
+          "uri": "spotify:artist:6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 313340,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3i17vtKptRSOT8Un3Qup0G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3i17vtKptRSOT8Un3Qup0G",
+      "id": "3i17vtKptRSOT8Un3Qup0G",
+      "name": "Bhantureethi Koluvu",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3i17vtKptRSOT8Un3Qup0G",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tejKImNVmDcORNBuZ1l14",
+          "id": "4tejKImNVmDcORNBuZ1l14",
+          "name": "Kala Bhairava",
+          "type": "artist",
+          "uri": "spotify:artist:4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ESWSdsAB8QDp2eA4ES2Er"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ESWSdsAB8QDp2eA4ES2Er",
+          "id": "0ESWSdsAB8QDp2eA4ES2Er",
+          "name": "Keerthi Sagathia",
+          "type": "artist",
+          "uri": "spotify:artist:0ESWSdsAB8QDp2eA4ES2Er"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2lPW88tqwY7ZetvtU6K5pK"
+          },
+          "href": "https://api.spotify.com/v1/artists/2lPW88tqwY7ZetvtU6K5pK",
+          "id": "2lPW88tqwY7ZetvtU6K5pK",
+          "name": "Sai Shivani",
+          "type": "artist",
+          "uri": "spotify:artist:2lPW88tqwY7ZetvtU6K5pK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AgipdEVghvFGPxilhdrBO",
+          "id": "6AgipdEVghvFGPxilhdrBO",
+          "name": "Sirivennela Seetharama Sastry",
+          "type": "artist",
+          "uri": "spotify:artist:6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 300014,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2TF4TWVrZ8O1pOW2NGD7Ip"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2TF4TWVrZ8O1pOW2NGD7Ip",
+      "id": "2TF4TWVrZ8O1pOW2NGD7Ip",
+      "name": "Chaitanya Ratham",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2TF4TWVrZ8O1pOW2NGD7Ip",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262634,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3AEXcIbLoalMHN1thKels1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3AEXcIbLoalMHN1thKels1",
+      "id": "3AEXcIbLoalMHN1thKels1",
+      "name": "Venditera Dora",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3AEXcIbLoalMHN1thKels1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Qv21cLGHUxyffRHV7vaUp",
+          "id": "4Qv21cLGHUxyffRHV7vaUp",
+          "name": "Sarath Santosh",
+          "type": "artist",
+          "uri": "spotify:artist:4Qv21cLGHUxyffRHV7vaUp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2nWYQRy7Ikh7CyWnvZZouD",
+          "id": "2nWYQRy7Ikh7CyWnvZZouD",
+          "name": "Mohana Bhogaraju",
+          "type": "artist",
+          "uri": "spotify:artist:2nWYQRy7Ikh7CyWnvZZouD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tejKImNVmDcORNBuZ1l14",
+          "id": "4tejKImNVmDcORNBuZ1l14",
+          "name": "Kala Bhairava",
+          "type": "artist",
+          "uri": "spotify:artist:4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WQP57VLN9YqWay34tiADB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3WQP57VLN9YqWay34tiADB",
+          "id": "3WQP57VLN9YqWay34tiADB",
+          "name": "Sreenidhi Tirumala",
+          "type": "artist",
+          "uri": "spotify:artist:3WQP57VLN9YqWay34tiADB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iF4oK6y60F4nkpc9ddl25"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iF4oK6y60F4nkpc9ddl25",
+          "id": "2iF4oK6y60F4nkpc9ddl25",
+          "name": "K. Shiva Datta",
+          "type": "artist",
+          "uri": "spotify:artist:2iF4oK6y60F4nkpc9ddl25"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bDQJkwkE91gTIAqJob70z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bDQJkwkE91gTIAqJob70z",
+          "id": "7bDQJkwkE91gTIAqJob70z",
+          "name": "Dr. K. Ramakrishna",
+          "type": "artist",
+          "uri": "spotify:artist:7bDQJkwkE91gTIAqJob70z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 324664,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6RkCAqmXeauyXHckX9z2DN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6RkCAqmXeauyXHckX9z2DN",
+      "id": "6RkCAqmXeauyXHckX9z2DN",
+      "name": "Rajarshi",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6RkCAqmXeauyXHckX9z2DN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WQP57VLN9YqWay34tiADB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3WQP57VLN9YqWay34tiADB",
+          "id": "3WQP57VLN9YqWay34tiADB",
+          "name": "Sreenidhi Tirumala",
+          "type": "artist",
+          "uri": "spotify:artist:3WQP57VLN9YqWay34tiADB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+          },
+          "href": "https://api.spotify.com/v1/artists/4svvMm4TQnkphZJfhLCzzv",
+          "id": "4svvMm4TQnkphZJfhLCzzv",
+          "name": "Ramya Behara",
+          "type": "artist",
+          "uri": "spotify:artist:4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2nWYQRy7Ikh7CyWnvZZouD",
+          "id": "2nWYQRy7Ikh7CyWnvZZouD",
+          "name": "Mohana Bhogaraju",
+          "type": "artist",
+          "uri": "spotify:artist:2nWYQRy7Ikh7CyWnvZZouD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iF4oK6y60F4nkpc9ddl25"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iF4oK6y60F4nkpc9ddl25",
+          "id": "2iF4oK6y60F4nkpc9ddl25",
+          "name": "K. Shiva Datta",
+          "type": "artist",
+          "uri": "spotify:artist:2iF4oK6y60F4nkpc9ddl25"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bDQJkwkE91gTIAqJob70z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bDQJkwkE91gTIAqJob70z",
+          "id": "7bDQJkwkE91gTIAqJob70z",
+          "name": "Dr. K. Ramakrishna",
+          "type": "artist",
+          "uri": "spotify:artist:7bDQJkwkE91gTIAqJob70z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215720,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4PuBiPFuglTrFowIv0X4Ic"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4PuBiPFuglTrFowIv0X4Ic",
+      "id": "4PuBiPFuglTrFowIv0X4Ic",
+      "name": "Kathaa Naayaka (Female)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4PuBiPFuglTrFowIv0X4Ic",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tejKImNVmDcORNBuZ1l14",
+          "id": "4tejKImNVmDcORNBuZ1l14",
+          "name": "Kala Bhairava",
+          "type": "artist",
+          "uri": "spotify:artist:4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xUI2yJe8cZHYGhS8rk1oR",
+          "id": "4xUI2yJe8cZHYGhS8rk1oR",
+          "name": "Prudhvi Chandra",
+          "type": "artist",
+          "uri": "spotify:artist:4xUI2yJe8cZHYGhS8rk1oR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BuW9BEbBIhDu6F13TVxpu",
+          "id": "1BuW9BEbBIhDu6F13TVxpu",
+          "name": "Bhaskarabhatla",
+          "type": "artist",
+          "uri": "spotify:artist:1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 264587,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6uW4SLIX8bD5ysIUHkaxZV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6uW4SLIX8bD5ysIUHkaxZV",
+      "id": "6uW4SLIX8bD5ysIUHkaxZV",
+      "name": "Ntr, More Than A Hero!",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6uW4SLIX8bD5ysIUHkaxZV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HwltF8ExwWx43i230aJXM",
+          "id": "7HwltF8ExwWx43i230aJXM",
+          "name": "Dinker kalvala",
+          "type": "artist",
+          "uri": "spotify:artist:7HwltF8ExwWx43i230aJXM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OrTfOi3k8VMFLuvC527bB",
+          "id": "2OrTfOi3k8VMFLuvC527bB",
+          "name": "L. V. Revanth",
+          "type": "artist",
+          "uri": "spotify:artist:2OrTfOi3k8VMFLuvC527bB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+          },
+          "href": "https://api.spotify.com/v1/artists/1H4ZvA2yyK7wCmbvEUWvPn",
+          "id": "1H4ZvA2yyK7wCmbvEUWvPn",
+          "name": "Rahul Sipligunj",
+          "type": "artist",
+          "uri": "spotify:artist:1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo"
+          },
+          "href": "https://api.spotify.com/v1/artists/47DIrvE03m9rQzgFXu9eJo",
+          "id": "47DIrvE03m9rQzgFXu9eJo",
+          "name": "Aditya Iyengar",
+          "type": "artist",
+          "uri": "spotify:artist:47DIrvE03m9rQzgFXu9eJo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
+          },
+          "href": "https://api.spotify.com/v1/artists/29umRgJCe6MeepDOqSaiRb",
+          "id": "29umRgJCe6MeepDOqSaiRb",
+          "name": "Deepu",
+          "type": "artist",
+          "uri": "spotify:artist:29umRgJCe6MeepDOqSaiRb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AgipdEVghvFGPxilhdrBO",
+          "id": "6AgipdEVghvFGPxilhdrBO",
+          "name": "Sirivennela Seetharama Sastry",
+          "type": "artist",
+          "uri": "spotify:artist:6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283397,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1U6GeRX4RI8vo7SPGLXys8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1U6GeRX4RI8vo7SPGLXys8",
+      "id": "1U6GeRX4RI8vo7SPGLXys8",
+      "name": "Naminchi",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1U6GeRX4RI8vo7SPGLXys8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4uf5oWL71y2mu9piqAupc2"
+          },
+          "href": "https://api.spotify.com/v1/artists/4uf5oWL71y2mu9piqAupc2",
+          "id": "4uf5oWL71y2mu9piqAupc2",
+          "name": "Manisha",
+          "type": "artist",
+          "uri": "spotify:artist:4uf5oWL71y2mu9piqAupc2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AgipdEVghvFGPxilhdrBO",
+          "id": "6AgipdEVghvFGPxilhdrBO",
+          "name": "Sirivennela Seetharama Sastry",
+          "type": "artist",
+          "uri": "spotify:artist:6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 171679,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0n1ue5tldODqG4sYsOnIO4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0n1ue5tldODqG4sYsOnIO4",
+      "id": "0n1ue5tldODqG4sYsOnIO4",
+      "name": "Vidrohama",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0n1ue5tldODqG4sYsOnIO4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+          },
+          "href": "https://api.spotify.com/v1/artists/26R3WRFIf6FbbNAQuMIjkN",
+          "id": "26R3WRFIf6FbbNAQuMIjkN",
+          "name": "Hemachandra Vedala",
+          "type": "artist",
+          "uri": "spotify:artist:26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          },
+          "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+          "id": "12l1SqSNsg2mI2IcXpPWjR",
+          "name": "M. M. Keeravaani",
+          "type": "artist",
+          "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ohxVMTcO5YrMclXyk3lkE"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ohxVMTcO5YrMclXyk3lkE",
+          "id": "6ohxVMTcO5YrMclXyk3lkE",
+          "name": "Anamacharya Keerthana",
+          "type": "artist",
+          "uri": "spotify:artist:6ohxVMTcO5YrMclXyk3lkE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169377,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5YLLWX8gYgxPQeqUTklfDK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5YLLWX8gYgxPQeqUTklfDK",
+      "id": "5YLLWX8gYgxPQeqUTklfDK",
+      "name": "Nanati Bathuku",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5YLLWX8gYgxPQeqUTklfDK",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 11
+}

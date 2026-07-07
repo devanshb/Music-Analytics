@@ -1,137 +1,94 @@
 {
-  "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02/albums?offset=0&limit=5&include_groups=album",
-  "limit": 5,
-  "next": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02/albums?offset=5&limit=5&include_groups=album",
+  "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ/albums?offset=0&limit=10&include_groups=album",
+  "limit": 10,
+  "next": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ/albums?offset=10&limit=10&include_groups=album",
   "offset": 0,
   "previous": null,
-  "total": 33,
+  "total": 14,
   "items": [
     {
       "album_type": "album",
-      "total_tracks": 19,
+      "total_tracks": 22,
       "external_urls": {
-        "spotify": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
+        "spotify": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
-      "href": "https://api.spotify.com/v1/albums/6QNMhoV8V0u7cFuhhUBOn7",
-      "id": "6QNMhoV8V0u7cFuhhUBOn7",
+      "href": "https://api.spotify.com/v1/albums/3OxfaVgvTxUTy7276t7SPU",
+      "id": "3OxfaVgvTxUTy7276t7SPU",
       "images": [
         {
-          "url": "https://i.scdn.co/image/ab67616d0000b273f756bdc2c11a985dc0c06d94",
+          "url": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
           "height": 640,
           "width": 640
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00001e02f756bdc2c11a985dc0c06d94",
+          "url": "https://i.scdn.co/image/ab67616d00001e02de79f330bc297af3fae736da",
           "height": 300,
           "width": 300
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00004851f756bdc2c11a985dc0c06d94",
+          "url": "https://i.scdn.co/image/ab67616d00004851de79f330bc297af3fae736da",
           "height": 64,
           "width": 64
         }
       ],
-      "name": "The Life of a Showgirl + Acoustic Collection",
-      "release_date": "2025-11-07",
+      "name": "Hurry Up Tomorrow",
+      "release_date": "2025-01-31",
       "release_date_precision": "day",
       "type": "album",
-      "uri": "spotify:album:6QNMhoV8V0u7cFuhhUBOn7",
+      "uri": "spotify:album:3OxfaVgvTxUTy7276t7SPU",
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
           },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
           "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ]
     },
     {
       "album_type": "album",
-      "total_tracks": 12,
+      "total_tracks": 21,
       "external_urls": {
-        "spotify": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "spotify": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
       },
-      "href": "https://api.spotify.com/v1/albums/4a6NzYL1YHRUgx9e3YZI6I",
-      "id": "4a6NzYL1YHRUgx9e3YZI6I",
+      "href": "https://api.spotify.com/v1/albums/35dut3ICqF3NEDkjxfzJJ1",
+      "id": "35dut3ICqF3NEDkjxfzJJ1",
       "images": [
         {
-          "url": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ad8f5243d6534e03b656c8b",
           "height": 640,
           "width": 640
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902",
+          "url": "https://i.scdn.co/image/ab67616d00001e028ad8f5243d6534e03b656c8b",
           "height": 300,
           "width": 300
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+          "url": "https://i.scdn.co/image/ab67616d000048518ad8f5243d6534e03b656c8b",
           "height": 64,
           "width": 64
         }
       ],
-      "name": "The Life of a Showgirl",
-      "release_date": "2025-10-03",
+      "name": "Starboy (Deluxe)",
+      "release_date": "2023-03-14",
       "release_date_precision": "day",
       "type": "album",
-      "uri": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I",
+      "uri": "spotify:album:35dut3ICqF3NEDkjxfzJJ1",
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
           },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
           "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        }
-      ]
-    },
-    {
-      "album_type": "album",
-      "total_tracks": 26,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm"
-      },
-      "href": "https://api.spotify.com/v1/albums/4tFsJC9jQ0Qjj7HSExhAdm",
-      "id": "4tFsJC9jQ0Qjj7HSExhAdm",
-      "images": [
-        {
-          "url": "https://i.scdn.co/image/ab67616d0000b2737e0698e1398b6473de43f901",
-          "height": 640,
-          "width": 640
-        },
-        {
-          "url": "https://i.scdn.co/image/ab67616d00001e027e0698e1398b6473de43f901",
-          "height": 300,
-          "width": 300
-        },
-        {
-          "url": "https://i.scdn.co/image/ab67616d000048517e0698e1398b6473de43f901",
-          "height": 64,
-          "width": 64
-        }
-      ],
-      "name": "The Life of a Showgirl (Track by Track Version)",
-      "release_date": "2025-10-02",
-      "release_date_precision": "day",
-      "type": "album",
-      "uri": "spotify:album:4tFsJC9jQ0Qjj7HSExhAdm",
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-          },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ]
     },
@@ -139,42 +96,85 @@
       "album_type": "album",
       "total_tracks": 31,
       "external_urls": {
-        "spotify": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "spotify": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92"
       },
-      "href": "https://api.spotify.com/v1/albums/5H7ixXZfsNMGbIE5OBSpcb",
-      "id": "5H7ixXZfsNMGbIE5OBSpcb",
+      "href": "https://api.spotify.com/v1/albums/1OARrXe5sB0gyy3MhQ8h92",
+      "id": "1OARrXe5sB0gyy3MhQ8h92",
       "images": [
         {
-          "url": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+          "url": "https://i.scdn.co/image/ab67616d0000b273308f9319a3d6f6737f43b3fc",
           "height": 640,
           "width": 640
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00001e028ecc33f195df6aa257c39eaa",
+          "url": "https://i.scdn.co/image/ab67616d00001e02308f9319a3d6f6737f43b3fc",
           "height": 300,
           "width": 300
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d000048518ecc33f195df6aa257c39eaa",
+          "url": "https://i.scdn.co/image/ab67616d00004851308f9319a3d6f6737f43b3fc",
           "height": 64,
           "width": 64
         }
       ],
-      "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-      "release_date": "2024-04-19",
+      "name": "Live At SoFi Stadium",
+      "release_date": "2023-03-03",
       "release_date_precision": "day",
       "type": "album",
-      "uri": "spotify:album:5H7ixXZfsNMGbIE5OBSpcb",
+      "uri": "spotify:album:1OARrXe5sB0gyy3MhQ8h92",
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
           },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
           "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/12INlMsFtBjyehNnawBv36"
+      },
+      "href": "https://api.spotify.com/v1/albums/12INlMsFtBjyehNnawBv36",
+      "id": "12INlMsFtBjyehNnawBv36",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ade87e5f9c3764f0a1e5df64",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ade87e5f9c3764f0a1e5df64",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ade87e5f9c3764f0a1e5df64",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Dawn FM (Alternate World)",
+      "release_date": "2022-01-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:12INlMsFtBjyehNnawBv36",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ]
     },
@@ -182,42 +182,257 @@
       "album_type": "album",
       "total_tracks": 16,
       "external_urls": {
-        "spotify": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+        "spotify": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
-      "href": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt",
-      "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+      "href": "https://api.spotify.com/v1/albums/2nLOHgzXzwFEpl62zAgCEC",
+      "id": "2nLOHgzXzwFEpl62zAgCEC",
       "images": [
         {
-          "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
           "height": 640,
           "width": 640
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33",
+          "url": "https://i.scdn.co/image/ab67616d00001e024ab2520c2c77a1d66b9ee21d",
           "height": 300,
           "width": 300
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33",
+          "url": "https://i.scdn.co/image/ab67616d000048514ab2520c2c77a1d66b9ee21d",
           "height": 64,
           "width": 64
         }
       ],
-      "name": "THE TORTURED POETS DEPARTMENT",
-      "release_date": "2024-04-18",
+      "name": "Dawn FM",
+      "release_date": "2022-01-06",
       "release_date_precision": "day",
       "type": "album",
-      "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt",
+      "uri": "spotify:album:2nLOHgzXzwFEpl62zAgCEC",
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
           },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
           "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7"
+      },
+      "href": "https://api.spotify.com/v1/albums/742eAldb4AJKLoPgJhGRE7",
+      "id": "742eAldb4AJKLoPgJhGRE7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ef017e899c0547766997d874",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ef017e899c0547766997d874",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "After Hours (Deluxe)",
+      "release_date": "2020-03-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:742eAldb4AJKLoPgJhGRE7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "href": "https://api.spotify.com/v1/albums/4yP0hdKOZPNshxUOjY0cZj",
+      "id": "4yP0hdKOZPNshxUOjY0cZj",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "After Hours",
+      "release_date": "2020-03-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+      },
+      "href": "https://api.spotify.com/v1/albums/4qZBW3f2Q8y0k1A84d4iAO",
+      "id": "4qZBW3f2Q8y0k1A84d4iAO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021f6a2a40bb692936879db730",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511f6a2a40bb692936879db730",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "My Dear Melancholy,",
+      "release_date": "2018-03-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4qZBW3f2Q8y0k1A84d4iAO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ODvWsOgouMbaA5xf0RkJe",
+      "id": "2ODvWsOgouMbaA5xf0RkJe",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514718e2b124f79258be7bc452",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Starboy",
+      "release_date": "2016-11-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2ODvWsOgouMbaA5xf0RkJe",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "href": "https://api.spotify.com/v1/albums/0P3oVJBFOv3TDXlYRhGL7s",
+      "id": "0P3oVJBFOv3TDXlYRhGL7s",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027fcead687e99583072cc217b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Beauty Behind The Madness",
+      "release_date": "2015-08-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0P3oVJBFOv3TDXlYRhGL7s",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ]
     }

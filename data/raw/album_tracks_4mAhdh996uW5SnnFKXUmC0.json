@@ -1,0 +1,744 @@
+{
+  "href": "https://api.spotify.com/v1/albums/4mAhdh996uW5SnnFKXUmC0/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 274407,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5aPrFctv3WJZyJ99Ld7leT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5aPrFctv3WJZyJ99Ld7leT",
+      "id": "5aPrFctv3WJZyJ99Ld7leT",
+      "name": "Give Life Back to Music",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5aPrFctv3WJZyJ99Ld7leT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 322147,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3wOQ7foaNccbOM5kbtqwkx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3wOQ7foaNccbOM5kbtqwkx",
+      "id": "3wOQ7foaNccbOM5kbtqwkx",
+      "name": "The Game of Love",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3wOQ7foaNccbOM5kbtqwkx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 544694,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2eXJRM1lQJ591AStNA26Yx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2eXJRM1lQJ591AStNA26Yx",
+      "id": "2eXJRM1lQJ591AStNA26Yx",
+      "name": "Giorgio by Moroder",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2eXJRM1lQJ591AStNA26Yx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228401,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3LWZv4XgPP958j9a3gTYuq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3LWZv4XgPP958j9a3gTYuq",
+      "id": "3LWZv4XgPP958j9a3gTYuq",
+      "name": "Within",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3LWZv4XgPP958j9a3gTYuq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+          },
+          "href": "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+          "id": "1rAv1GhTQ2rmG94p9lU3rB",
+          "name": "Julian Casablancas",
+          "type": "artist",
+          "uri": "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 337547,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0f8GgsD1lDtRBAS5GEDKgg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0f8GgsD1lDtRBAS5GEDKgg",
+      "id": "0f8GgsD1lDtRBAS5GEDKgg",
+      "name": "Instant Crush (feat. Julian Casablancas)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0f8GgsD1lDtRBAS5GEDKgg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 353867,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5VnKPeawtH2h8fmqAvBDqY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5VnKPeawtH2h8fmqAvBDqY",
+      "id": "5VnKPeawtH2h8fmqAvBDqY",
+      "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5VnKPeawtH2h8fmqAvBDqY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3f626JSVauIhTQgatsFcs4",
+          "id": "3f626JSVauIhTQgatsFcs4",
+          "name": "Paul Williams",
+          "type": "artist",
+          "uri": "spotify:artist:3f626JSVauIhTQgatsFcs4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 499014,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3hFObHqnsUQ2PCA2UpVFu8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3hFObHqnsUQ2PCA2UpVFu8",
+      "id": "3hFObHqnsUQ2PCA2UpVFu8",
+      "name": "Touch (feat. Paul Williams)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3hFObHqnsUQ2PCA2UpVFu8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yDIp0kaq9EFKe07X1X2rz",
+          "id": "3yDIp0kaq9EFKe07X1X2rz",
+          "name": "Nile Rodgers",
+          "type": "artist",
+          "uri": "spotify:artist:3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 369614,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2olIQt0rL0hOHau1SJ4xf2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2olIQt0rL0hOHau1SJ4xf2",
+      "id": "2olIQt0rL0hOHau1SJ4xf2",
+      "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2olIQt0rL0hOHau1SJ4xf2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 290214,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3UB3z6fgDJw1A122BKc4sP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3UB3z6fgDJw1A122BKc4sP",
+      "id": "3UB3z6fgDJw1A122BKc4sP",
+      "name": "Beyond",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3UB3z6fgDJw1A122BKc4sP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 341694,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3mEWSc9vWFXGvpgEEvxuX7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3mEWSc9vWFXGvpgEEvxuX7",
+      "id": "3mEWSc9vWFXGvpgEEvxuX7",
+      "name": "Motherboard",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3mEWSc9vWFXGvpgEEvxuX7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MFopqejpmTUUZlcRmGzgg",
+          "id": "6MFopqejpmTUUZlcRmGzgg",
+          "name": "Todd Edwards",
+          "type": "artist",
+          "uri": "spotify:artist:6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279747,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5gYw8hl2Xp4aGLndo5cXWh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5gYw8hl2Xp4aGLndo5cXWh",
+      "id": "5gYw8hl2Xp4aGLndo5cXWh",
+      "name": "Fragments of Time (feat. Todd Edwards)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5gYw8hl2Xp4aGLndo5cXWh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1R84VlXnFFULOsWWV8IrCQ",
+          "id": "1R84VlXnFFULOsWWV8IrCQ",
+          "name": "Panda Bear",
+          "type": "artist",
+          "uri": "spotify:artist:1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251317,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1OQP3Wil7orelGkRCFU1cQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1OQP3Wil7orelGkRCFU1cQ",
+      "id": "1OQP3Wil7orelGkRCFU1cQ",
+      "name": "Doin' it Right (feat. Panda Bear)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1OQP3Wil7orelGkRCFU1cQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 381521,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5pHSnKStU4XLB6y03b1c1W"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5pHSnKStU4XLB6y03b1c1W",
+      "id": "5pHSnKStU4XLB6y03b1c1W",
+      "name": "Contact",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5pHSnKStU4XLB6y03b1c1W",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 127693,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1kOPoZDgQean1ecxJT0GIT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1kOPoZDgQean1ecxJT0GIT",
+      "id": "1kOPoZDgQean1ecxJT0GIT",
+      "name": "Horizon Ouverture",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1kOPoZDgQean1ecxJT0GIT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 262560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6iZRqJjpbOVEv4mFTpqg1d"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6iZRqJjpbOVEv4mFTpqg1d",
+      "id": "6iZRqJjpbOVEv4mFTpqg1d",
+      "name": "Horizon (Japan CD)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6iZRqJjpbOVEv4mFTpqg1d",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 381666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6QxktTtoOGxB8vrD7LQjm5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6QxktTtoOGxB8vrD7LQjm5",
+      "id": "6QxktTtoOGxB8vrD7LQjm5",
+      "name": "GLBTM (Studio Outtakes)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6QxktTtoOGxB8vrD7LQjm5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+          },
+          "href": "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+          "id": "1rAv1GhTQ2rmG94p9lU3rB",
+          "name": "Julian Casablancas",
+          "type": "artist",
+          "uri": "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nUBBtLtzqZGpdiynTJbYJ",
+          "id": "4nUBBtLtzqZGpdiynTJbYJ",
+          "name": "The Voidz",
+          "type": "artist",
+          "uri": "spotify:artist:4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 239213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4r4fX4NZIqVIhGyDvERp0l",
+      "id": "4r4fX4NZIqVIhGyDvERp0l",
+      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4r4fX4NZIqVIhGyDvERp0l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yDIp0kaq9EFKe07X1X2rz",
+          "id": "3yDIp0kaq9EFKe07X1X2rz",
+          "name": "Nile Rodgers",
+          "type": "artist",
+          "uri": "spotify:artist:3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 32893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4v1pwKLYGnW6RMLzdp3x4k"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4v1pwKLYGnW6RMLzdp3x4k",
+      "id": "4v1pwKLYGnW6RMLzdp3x4k",
+      "name": "GL (Early Take) [feat. Pharrell Williams and Nile Rodgers]",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4v1pwKLYGnW6RMLzdp3x4k",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 286400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1iAsoOFV16Ax6OFKMq8sld"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1iAsoOFV16Ax6OFKMq8sld",
+      "id": "1iAsoOFV16Ax6OFKMq8sld",
+      "name": "Prime (2012 Unfinished)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1iAsoOFV16Ax6OFKMq8sld",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 128440,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3PgYTZHsdWp4C21bQ8zxvM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3PgYTZHsdWp4C21bQ8zxvM",
+      "id": "3PgYTZHsdWp4C21bQ8zxvM",
+      "name": "LYTD (Vocoder Tests) [feat. Pharrell Williams]",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3PgYTZHsdWp4C21bQ8zxvM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MFopqejpmTUUZlcRmGzgg",
+          "id": "6MFopqejpmTUUZlcRmGzgg",
+          "name": "Todd Edwards",
+          "type": "artist",
+          "uri": "spotify:artist:6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 497146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6JiQWzHFGbnW9aY3yUHO4b"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6JiQWzHFGbnW9aY3yUHO4b",
+      "id": "6JiQWzHFGbnW9aY3yUHO4b",
+      "name": "The Writing of Fragments of Time (feat. Todd Edwards)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6JiQWzHFGbnW9aY3yUHO4b",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3f626JSVauIhTQgatsFcs4",
+          "id": "3f626JSVauIhTQgatsFcs4",
+          "name": "Paul Williams",
+          "type": "artist",
+          "uri": "spotify:artist:3f626JSVauIhTQgatsFcs4"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 179960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7oMbGRDGVDIb6ZeVcq7LfW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7oMbGRDGVDIb6ZeVcq7LfW",
+      "id": "7oMbGRDGVDIb6ZeVcq7LfW",
+      "name": "Touch (2021 Epilogue) [feat. Paul Williams]",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7oMbGRDGVDIb6ZeVcq7LfW",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 22
+}

@@ -1,5 +1,5 @@
 {
-  "href": "https://api.spotify.com/v1/albums/6QNMhoV8V0u7cFuhhUBOn7/tracks?offset=0&limit=50",
+  "href": "https://api.spotify.com/v1/albums/3lS1y25WAhcqJDATJK70Mq/tracks?offset=0&limit=50",
   "items": [
     {
       "artists": [
@@ -15,17 +15,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 226073,
-      "explicit": false,
+      "duration_ms": 202395,
+      "explicit": true,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
+        "spotify": "https://open.spotify.com/track/4g2c7NoTWAOSYDy44l9nub"
       },
-      "href": "https://api.spotify.com/v1/tracks/5UQ3JrA9kEh7rfwhUS1h0z",
-      "id": "5UQ3JrA9kEh7rfwhUS1h0z",
-      "name": "The Fate of Ophelia",
+      "href": "https://api.spotify.com/v1/tracks/4g2c7NoTWAOSYDy44l9nub",
+      "id": "4g2c7NoTWAOSYDy44l9nub",
+      "name": "Lavender Haze",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:5UQ3JrA9kEh7rfwhUS1h0z",
+      "uri": "spotify:track:4g2c7NoTWAOSYDy44l9nub",
       "is_local": false
     },
     {
@@ -42,17 +42,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 208291,
-      "explicit": false,
+      "duration_ms": 218270,
+      "explicit": true,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6virCtlwc98cKYVyeZYXqq"
+        "spotify": "https://open.spotify.com/track/199E1RRrVmVTQqBXih5qRC"
       },
-      "href": "https://api.spotify.com/v1/tracks/6virCtlwc98cKYVyeZYXqq",
-      "id": "6virCtlwc98cKYVyeZYXqq",
-      "name": "Elizabeth Taylor",
+      "href": "https://api.spotify.com/v1/tracks/199E1RRrVmVTQqBXih5qRC",
+      "id": "199E1RRrVmVTQqBXih5qRC",
+      "name": "Maroon",
       "track_number": 2,
       "type": "track",
-      "uri": "spotify:track:6virCtlwc98cKYVyeZYXqq",
+      "uri": "spotify:track:199E1RRrVmVTQqBXih5qRC",
       "is_local": false
     },
     {
@@ -69,17 +69,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 235356,
+      "duration_ms": 200690,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0WUwHkIXQY55MLOrw8EM6m"
+        "spotify": "https://open.spotify.com/track/02Zkkf2zMkwRGQjZ7T4p8f"
       },
-      "href": "https://api.spotify.com/v1/tracks/0WUwHkIXQY55MLOrw8EM6m",
-      "id": "0WUwHkIXQY55MLOrw8EM6m",
-      "name": "Opalite",
+      "href": "https://api.spotify.com/v1/tracks/02Zkkf2zMkwRGQjZ7T4p8f",
+      "id": "02Zkkf2zMkwRGQjZ7T4p8f",
+      "name": "Anti-Hero",
       "track_number": 3,
       "type": "track",
-      "uri": "spotify:track:0WUwHkIXQY55MLOrw8EM6m",
+      "uri": "spotify:track:02Zkkf2zMkwRGQjZ7T4p8f",
       "is_local": false
     },
     {
@@ -93,20 +93,30 @@
           "name": "Taylor Swift",
           "type": "artist",
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          },
+          "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "type": "artist",
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 212777,
+      "duration_ms": 256124,
       "explicit": true,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6H0nEKqkTRxa30Pru1h7SD"
+        "spotify": "https://open.spotify.com/track/6ADDIJxxqzM9LMpm78yzQG"
       },
-      "href": "https://api.spotify.com/v1/tracks/6H0nEKqkTRxa30Pru1h7SD",
-      "id": "6H0nEKqkTRxa30Pru1h7SD",
-      "name": "Father Figure",
+      "href": "https://api.spotify.com/v1/tracks/6ADDIJxxqzM9LMpm78yzQG",
+      "id": "6ADDIJxxqzM9LMpm78yzQG",
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
       "track_number": 4,
       "type": "track",
-      "uri": "spotify:track:6H0nEKqkTRxa30Pru1h7SD",
+      "uri": "spotify:track:6ADDIJxxqzM9LMpm78yzQG",
       "is_local": false
     },
     {
@@ -123,17 +133,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 246356,
-      "explicit": true,
+      "duration_ms": 194206,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6nhsv9Jeluz5gXt592KN3m"
+        "spotify": "https://open.spotify.com/track/7gVWKBcfIW93YxNBi3ApIE"
       },
-      "href": "https://api.spotify.com/v1/tracks/6nhsv9Jeluz5gXt592KN3m",
-      "id": "6nhsv9Jeluz5gXt592KN3m",
-      "name": "Eldest Daughter",
+      "href": "https://api.spotify.com/v1/tracks/7gVWKBcfIW93YxNBi3ApIE",
+      "id": "7gVWKBcfIW93YxNBi3ApIE",
+      "name": "You're On Your Own, Kid",
       "track_number": 5,
       "type": "track",
-      "uri": "spotify:track:6nhsv9Jeluz5gXt592KN3m",
+      "uri": "spotify:track:7gVWKBcfIW93YxNBi3ApIE",
       "is_local": false
     },
     {
@@ -150,17 +160,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 220564,
+      "duration_ms": 174782,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/05VwM318oU6aNc1GS4MtLV"
+        "spotify": "https://open.spotify.com/track/6Nl7KyvjkFncGsjB49SxLl"
       },
-      "href": "https://api.spotify.com/v1/tracks/05VwM318oU6aNc1GS4MtLV",
-      "id": "05VwM318oU6aNc1GS4MtLV",
-      "name": "Ruin The Friendship",
+      "href": "https://api.spotify.com/v1/tracks/6Nl7KyvjkFncGsjB49SxLl",
+      "id": "6Nl7KyvjkFncGsjB49SxLl",
+      "name": "Midnight Rain",
       "track_number": 6,
       "type": "track",
-      "uri": "spotify:track:05VwM318oU6aNc1GS4MtLV",
+      "uri": "spotify:track:6Nl7KyvjkFncGsjB49SxLl",
       "is_local": false
     },
     {
@@ -177,17 +187,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 163699,
+      "duration_ms": 210556,
       "explicit": true,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6G3dUZrsaOYhe2gRyNukwA"
+        "spotify": "https://open.spotify.com/track/6C7OF1Jal7YkyjzyUG8vkK"
       },
-      "href": "https://api.spotify.com/v1/tracks/6G3dUZrsaOYhe2gRyNukwA",
-      "id": "6G3dUZrsaOYhe2gRyNukwA",
-      "name": "Actually Romantic",
+      "href": "https://api.spotify.com/v1/tracks/6C7OF1Jal7YkyjzyUG8vkK",
+      "id": "6C7OF1Jal7YkyjzyUG8vkK",
+      "name": "Question...?",
       "track_number": 7,
       "type": "track",
-      "uri": "spotify:track:6G3dUZrsaOYhe2gRyNukwA",
+      "uri": "spotify:track:6C7OF1Jal7YkyjzyUG8vkK",
       "is_local": false
     },
     {
@@ -204,17 +214,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 207349,
+      "duration_ms": 164801,
       "explicit": true,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6udRZQi3g501XNOcRnE9fo"
+        "spotify": "https://open.spotify.com/track/5yeuXkukVGuix3vmLu2BPJ"
       },
-      "href": "https://api.spotify.com/v1/tracks/6udRZQi3g501XNOcRnE9fo",
-      "id": "6udRZQi3g501XNOcRnE9fo",
-      "name": "Wi$h Li$t",
+      "href": "https://api.spotify.com/v1/tracks/5yeuXkukVGuix3vmLu2BPJ",
+      "id": "5yeuXkukVGuix3vmLu2BPJ",
+      "name": "Vigilante Shit",
       "track_number": 8,
       "type": "track",
-      "uri": "spotify:track:6udRZQi3g501XNOcRnE9fo",
+      "uri": "spotify:track:5yeuXkukVGuix3vmLu2BPJ",
       "is_local": false
     },
     {
@@ -231,17 +241,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 150517,
-      "explicit": true,
+      "duration_ms": 194165,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/4Ox858TeUXjy7WEKOcxaFI"
+        "spotify": "https://open.spotify.com/track/0jvo9CjnbR0lYUDTSNTMiu"
       },
-      "href": "https://api.spotify.com/v1/tracks/4Ox858TeUXjy7WEKOcxaFI",
-      "id": "4Ox858TeUXjy7WEKOcxaFI",
-      "name": "Wood",
+      "href": "https://api.spotify.com/v1/tracks/0jvo9CjnbR0lYUDTSNTMiu",
+      "id": "0jvo9CjnbR0lYUDTSNTMiu",
+      "name": "Bejeweled",
       "track_number": 9,
       "type": "track",
-      "uri": "spotify:track:4Ox858TeUXjy7WEKOcxaFI",
+      "uri": "spotify:track:0jvo9CjnbR0lYUDTSNTMiu",
       "is_local": false
     },
     {
@@ -258,17 +268,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 211498,
-      "explicit": true,
+      "duration_ms": 247962,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/67SmofYg9enUWfcPqUuoVm"
+        "spotify": "https://open.spotify.com/track/43q586vP8gGkYypKoSddhl"
       },
-      "href": "https://api.spotify.com/v1/tracks/67SmofYg9enUWfcPqUuoVm",
-      "id": "67SmofYg9enUWfcPqUuoVm",
-      "name": "CANCELLED!",
+      "href": "https://api.spotify.com/v1/tracks/43q586vP8gGkYypKoSddhl",
+      "id": "43q586vP8gGkYypKoSddhl",
+      "name": "Labyrinth",
       "track_number": 10,
       "type": "track",
-      "uri": "spotify:track:67SmofYg9enUWfcPqUuoVm",
+      "uri": "spotify:track:43q586vP8gGkYypKoSddhl",
       "is_local": false
     },
     {
@@ -285,17 +295,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 181534,
+      "duration_ms": 204852,
       "explicit": true,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/7jHzBmxAGVVPvLiq4Y45pD"
+        "spotify": "https://open.spotify.com/track/5oqDgw5VGBln5dSIOPWyBq"
       },
-      "href": "https://api.spotify.com/v1/tracks/7jHzBmxAGVVPvLiq4Y45pD",
-      "id": "7jHzBmxAGVVPvLiq4Y45pD",
-      "name": "Honey",
+      "href": "https://api.spotify.com/v1/tracks/5oqDgw5VGBln5dSIOPWyBq",
+      "id": "5oqDgw5VGBln5dSIOPWyBq",
+      "name": "Karma",
       "track_number": 11,
       "type": "track",
-      "uri": "spotify:track:7jHzBmxAGVVPvLiq4Y45pD",
+      "uri": "spotify:track:5oqDgw5VGBln5dSIOPWyBq",
       "is_local": false
     },
     {
@@ -309,30 +319,20 @@
           "name": "Taylor Swift",
           "type": "artist",
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-          },
-          "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
-          "id": "74KM79TiuVKeVCqs8QtB0B",
-          "name": "Sabrina Carpenter",
-          "type": "artist",
-          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 241766,
-      "explicit": true,
+      "duration_ms": 188496,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6EqHzZp61G5uQ12QEiibpT"
+        "spotify": "https://open.spotify.com/track/3zmwONxswBAzGwExPugSLN"
       },
-      "href": "https://api.spotify.com/v1/tracks/6EqHzZp61G5uQ12QEiibpT",
-      "id": "6EqHzZp61G5uQ12QEiibpT",
-      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "href": "https://api.spotify.com/v1/tracks/3zmwONxswBAzGwExPugSLN",
+      "id": "3zmwONxswBAzGwExPugSLN",
+      "name": "Sweet Nothing",
       "track_number": 12,
       "type": "track",
-      "uri": "spotify:track:6EqHzZp61G5uQ12QEiibpT",
+      "uri": "spotify:track:3zmwONxswBAzGwExPugSLN",
       "is_local": false
     },
     {
@@ -349,17 +349,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 225816,
+      "duration_ms": 191039,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3lcWDG62OH0cH5GHLdT5X4"
+        "spotify": "https://open.spotify.com/track/56hioFjQ0DXrdn04hZcFgG"
       },
-      "href": "https://api.spotify.com/v1/tracks/3lcWDG62OH0cH5GHLdT5X4",
-      "id": "3lcWDG62OH0cH5GHLdT5X4",
-      "name": "The Fate of Ophelia - Alone In My Tower Acoustic Version",
+      "href": "https://api.spotify.com/v1/tracks/56hioFjQ0DXrdn04hZcFgG",
+      "id": "56hioFjQ0DXrdn04hZcFgG",
+      "name": "Mastermind",
       "track_number": 13,
       "type": "track",
-      "uri": "spotify:track:3lcWDG62OH0cH5GHLdT5X4",
+      "uri": "spotify:track:56hioFjQ0DXrdn04hZcFgG",
       "is_local": false
     },
     {
@@ -376,17 +376,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 247268,
+      "duration_ms": 240355,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
+        "spotify": "https://open.spotify.com/track/3UMrglJeju5yWyYIW6o99b"
       },
-      "href": "https://api.spotify.com/v1/tracks/4UBWugj5D20ZveyzdGpqvD",
-      "id": "4UBWugj5D20ZveyzdGpqvD",
-      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
+      "href": "https://api.spotify.com/v1/tracks/3UMrglJeju5yWyYIW6o99b",
+      "id": "3UMrglJeju5yWyYIW6o99b",
+      "name": "The Great War",
       "track_number": 14,
       "type": "track",
-      "uri": "spotify:track:4UBWugj5D20ZveyzdGpqvD",
+      "uri": "spotify:track:3UMrglJeju5yWyYIW6o99b",
       "is_local": false
     },
     {
@@ -403,17 +403,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 242738,
+      "duration_ms": 218502,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0Ny2HkSrLtvmBVwCQywyip"
+        "spotify": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
       },
-      "href": "https://api.spotify.com/v1/tracks/0Ny2HkSrLtvmBVwCQywyip",
-      "id": "0Ny2HkSrLtvmBVwCQywyip",
-      "name": "Opalite - Life Is A Song Acoustic Version",
+      "href": "https://api.spotify.com/v1/tracks/0BiqmkasE5FdrChwKfVp8X",
+      "id": "0BiqmkasE5FdrChwKfVp8X",
+      "name": "Bigger Than The Whole Sky",
       "track_number": 15,
       "type": "track",
-      "uri": "spotify:track:0Ny2HkSrLtvmBVwCQywyip",
+      "uri": "spotify:track:0BiqmkasE5FdrChwKfVp8X",
       "is_local": false
     },
     {
@@ -430,44 +430,44 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 244363,
-      "explicit": true,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2JHzTARFUispsjZHKhrxxO"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2JHzTARFUispsjZHKhrxxO",
-      "id": "2JHzTARFUispsjZHKhrxxO",
-      "name": "Eldest Daughter - Now You’re Home Acoustic Version",
-      "track_number": 16,
-      "type": "track",
-      "uri": "spotify:track:2JHzTARFUispsjZHKhrxxO",
-      "is_local": false
-    },
-    {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-          },
-          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "type": "artist",
-          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 222087,
+      "duration_ms": 196258,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6hKfPNnVlA2cgTgKj6Vgcw"
+        "spotify": "https://open.spotify.com/track/7712gjoih4QoDbXpljEk21"
       },
-      "href": "https://api.spotify.com/v1/tracks/6hKfPNnVlA2cgTgKj6Vgcw",
-      "id": "6hKfPNnVlA2cgTgKj6Vgcw",
-      "name": "Ruin The Friendship - My Advice Version",
+      "href": "https://api.spotify.com/v1/tracks/7712gjoih4QoDbXpljEk21",
+      "id": "7712gjoih4QoDbXpljEk21",
+      "name": "Paris",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:7712gjoih4QoDbXpljEk21",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231475,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kiZGSxgqPdv6rbqL9THdd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kiZGSxgqPdv6rbqL9THdd",
+      "id": "5kiZGSxgqPdv6rbqL9THdd",
+      "name": "High Infidelity",
       "track_number": 17,
       "type": "track",
-      "uri": "spotify:track:6hKfPNnVlA2cgTgKj6Vgcw",
+      "uri": "spotify:track:5kiZGSxgqPdv6rbqL9THdd",
       "is_local": false
     },
     {
@@ -484,17 +484,17 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 210912,
-      "explicit": true,
+      "duration_ms": 148781,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1qwClaxDb5fCrLjXaAmB35"
+        "spotify": "https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW"
       },
-      "href": "https://api.spotify.com/v1/tracks/1qwClaxDb5fCrLjXaAmB35",
-      "id": "1qwClaxDb5fCrLjXaAmB35",
-      "name": "Wi$h Li$t - Settled Down Acoustic Version",
+      "href": "https://api.spotify.com/v1/tracks/6wAFvJPpTZVirBKGZ4EnMW",
+      "id": "6wAFvJPpTZVirBKGZ4EnMW",
+      "name": "Glitch",
       "track_number": 18,
       "type": "track",
-      "uri": "spotify:track:1qwClaxDb5fCrLjXaAmB35",
+      "uri": "spotify:track:6wAFvJPpTZVirBKGZ4EnMW",
       "is_local": false
     },
     {
@@ -508,30 +508,47 @@
           "name": "Taylor Swift",
           "type": "artist",
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-          },
-          "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
-          "id": "74KM79TiuVKeVCqs8QtB0B",
-          "name": "Sabrina Carpenter",
-          "type": "artist",
-          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 239790,
-      "explicit": true,
+      "duration_ms": 260361,
+      "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2DF2sUvgHFKJ5TQGjm6n3T"
+        "spotify": "https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP"
       },
-      "href": "https://api.spotify.com/v1/tracks/2DF2sUvgHFKJ5TQGjm6n3T",
-      "id": "2DF2sUvgHFKJ5TQGjm6n3T",
-      "name": "The Life of a Showgirl (feat. Sabrina Carpenter) - Dressing Room Rehearsal Version",
+      "href": "https://api.spotify.com/v1/tracks/0aV5uARAknQgYhBaK944FP",
+      "id": "0aV5uARAknQgYhBaK944FP",
+      "name": "Would've, Could've, Should've",
       "track_number": 19,
       "type": "track",
-      "uri": "spotify:track:2DF2sUvgHFKJ5TQGjm6n3T",
+      "uri": "spotify:track:0aV5uARAknQgYhBaK944FP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225194,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3QF5RsWzK1lCvf2o2cY65P"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3QF5RsWzK1lCvf2o2cY65P",
+      "id": "3QF5RsWzK1lCvf2o2cY65P",
+      "name": "Dear Reader",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:3QF5RsWzK1lCvf2o2cY65P",
       "is_local": false
     }
   ],
@@ -539,5 +556,5 @@
   "next": null,
   "offset": 0,
   "previous": null,
-  "total": 19
+  "total": 20
 }

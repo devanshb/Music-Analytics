@@ -1,0 +1,427 @@
+{
+  "href": "https://api.spotify.com/v1/albums/6pamCzTowX31m57z8dC1Sk/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eLZo1bSslvsu0zNhtmMM4",
+          "id": "3eLZo1bSslvsu0zNhtmMM4",
+          "name": "Wicked Movie Cast",
+          "type": "artist",
+          "uri": "spotify:artist:3eLZo1bSslvsu0zNhtmMM4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IaJcuBeBkVqhGAzxMciwu"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IaJcuBeBkVqhGAzxMciwu",
+          "id": "5IaJcuBeBkVqhGAzxMciwu",
+          "name": "Michelle Yeoh",
+          "type": "artist",
+          "uri": "spotify:artist:5IaJcuBeBkVqhGAzxMciwu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 288766,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6RO76UK0g0r1BJqpk3VwXJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6RO76UK0g0r1BJqpk3VwXJ",
+      "id": "6RO76UK0g0r1BJqpk3VwXJ",
+      "name": "Every Day More Wicked",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6RO76UK0g0r1BJqpk3VwXJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eLZo1bSslvsu0zNhtmMM4",
+          "id": "3eLZo1bSslvsu0zNhtmMM4",
+          "name": "Wicked Movie Cast",
+          "type": "artist",
+          "uri": "spotify:artist:3eLZo1bSslvsu0zNhtmMM4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IaJcuBeBkVqhGAzxMciwu"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IaJcuBeBkVqhGAzxMciwu",
+          "id": "5IaJcuBeBkVqhGAzxMciwu",
+          "name": "Michelle Yeoh",
+          "type": "artist",
+          "uri": "spotify:artist:5IaJcuBeBkVqhGAzxMciwu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 322866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0NF7g7bRjrPHpwWmCAMXqk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0NF7g7bRjrPHpwWmCAMXqk",
+      "id": "0NF7g7bRjrPHpwWmCAMXqk",
+      "name": "Thank Goodness / I Couldn’t Be Happier",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0NF7g7bRjrPHpwWmCAMXqk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231233,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ksMhBwCDJJEaAbuQKYXJz",
+      "id": "4ksMhBwCDJJEaAbuQKYXJz",
+      "name": "No Place Like Home",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4ksMhBwCDJJEaAbuQKYXJz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
+          },
+          "href": "https://api.spotify.com/v1/artists/6uGIoRQUqP4ncxyg6HksA1",
+          "id": "6uGIoRQUqP4ncxyg6HksA1",
+          "name": "Marissa Bode",
+          "type": "artist",
+          "uri": "spotify:artist:6uGIoRQUqP4ncxyg6HksA1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
+          },
+          "href": "https://api.spotify.com/v1/artists/0yF5IqIHlPDti2mfZtHe3K",
+          "id": "0yF5IqIHlPDti2mfZtHe3K",
+          "name": "Ethan Slater",
+          "type": "artist",
+          "uri": "spotify:artist:0yF5IqIHlPDti2mfZtHe3K"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203330,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1hSbcsqNmTaLVOUQ340Flt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1hSbcsqNmTaLVOUQ340Flt",
+      "id": "1hSbcsqNmTaLVOUQ340Flt",
+      "name": "The Wicked Witch of the East",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1hSbcsqNmTaLVOUQ340Flt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+          },
+          "href": "https://api.spotify.com/v1/artists/0O1n2TpXR4XizmHi7aY0l8",
+          "id": "0O1n2TpXR4XizmHi7aY0l8",
+          "name": "Jeff Goldblum",
+          "type": "artist",
+          "uri": "spotify:artist:0O1n2TpXR4XizmHi7aY0l8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285456,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0fn8RZiNxBfRHRLX8UJI9T"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0fn8RZiNxBfRHRLX8UJI9T",
+      "id": "0fn8RZiNxBfRHRLX8UJI9T",
+      "name": "Wonderful",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0fn8RZiNxBfRHRLX8UJI9T",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 130546,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/22MepoED2nQFwUxH2ZnUx2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/22MepoED2nQFwUxH2ZnUx2",
+      "id": "22MepoED2nQFwUxH2ZnUx2",
+      "name": "I’m Not That Girl (Reprise)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:22MepoED2nQFwUxH2ZnUx2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Je7IdIHe8UvZbLXdapQ26",
+          "id": "2Je7IdIHe8UvZbLXdapQ26",
+          "name": "Jonathan Bailey",
+          "type": "artist",
+          "uri": "spotify:artist:2Je7IdIHe8UvZbLXdapQ26"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246573,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
+      },
+      "href": "https://api.spotify.com/v1/tracks/59vtqGF0p7RgNjnzC9Zk2p",
+      "id": "59vtqGF0p7RgNjnzC9Zk2p",
+      "name": "As Long As You’re Mine",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:59vtqGF0p7RgNjnzC9Zk2p",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230250,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5o0hD6Bs6RdyZxfYBoEEc8",
+      "id": "5o0hD6Bs6RdyZxfYBoEEc8",
+      "name": "No Good Deed",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5o0hD6Bs6RdyZxfYBoEEc8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eLZo1bSslvsu0zNhtmMM4",
+          "id": "3eLZo1bSslvsu0zNhtmMM4",
+          "name": "Wicked Movie Cast",
+          "type": "artist",
+          "uri": "spotify:artist:3eLZo1bSslvsu0zNhtmMM4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
+          },
+          "href": "https://api.spotify.com/v1/artists/0yF5IqIHlPDti2mfZtHe3K",
+          "id": "0yF5IqIHlPDti2mfZtHe3K",
+          "name": "Ethan Slater",
+          "type": "artist",
+          "uri": "spotify:artist:0yF5IqIHlPDti2mfZtHe3K"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156209,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6kyPPsnaFuPX65bd36fdb8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6kyPPsnaFuPX65bd36fdb8",
+      "id": "6kyPPsnaFuPX65bd36fdb8",
+      "name": "March of the Witch Hunters",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6kyPPsnaFuPX65bd36fdb8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Wxn79EwKPQvYerlctheGx",
+      "id": "6Wxn79EwKPQvYerlctheGx",
+      "name": "The Girl in the Bubble",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6Wxn79EwKPQvYerlctheGx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 377098,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5shGj5OOnpmg4tQlFjyzZY",
+      "id": "5shGj5OOnpmg4tQlFjyzZY",
+      "name": "For Good",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5shGj5OOnpmg4tQlFjyzZY",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 11
+}

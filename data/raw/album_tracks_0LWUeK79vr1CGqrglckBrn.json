@@ -1,0 +1,465 @@
+{
+  "href": "https://api.spotify.com/v1/albums/0LWUeK79vr1CGqrglckBrn/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5cEE1pTgDhFe8QuigmqxJF",
+          "id": "5cEE1pTgDhFe8QuigmqxJF",
+          "name": "Hansraj Raghuwanshi",
+          "type": "artist",
+          "uri": "spotify:artist:5cEE1pTgDhFe8QuigmqxJF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5GRTDLTWgr3xi0Eg1sgt9U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5GRTDLTWgr3xi0Eg1sgt9U",
+      "id": "5GRTDLTWgr3xi0Eg1sgt9U",
+      "name": "Bholenath Ji",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5GRTDLTWgr3xi0Eg1sgt9U",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZYhwVkbSCFobQudgGR6Xo",
+          "id": "5ZYhwVkbSCFobQudgGR6Xo",
+          "name": "Abhilipsa Panda",
+          "type": "artist",
+          "uri": "spotify:artist:5ZYhwVkbSCFobQudgGR6Xo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2AXnlyYpTND3RFNVSJofMU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2AXnlyYpTND3RFNVSJofMU",
+      "id": "2AXnlyYpTND3RFNVSJofMU",
+      "name": "Bum Bum Bhole",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2AXnlyYpTND3RFNVSJofMU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 1352906,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YlCC9EhmVqzW91RnBXaSL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0YlCC9EhmVqzW91RnBXaSL",
+      "id": "0YlCC9EhmVqzW91RnBXaSL",
+      "name": "Shiv Shambho",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0YlCC9EhmVqzW91RnBXaSL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6UECKSYwQSyYDONQ84CiDW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6UECKSYwQSyYDONQ84CiDW",
+          "id": "6UECKSYwQSyYDONQ84CiDW",
+          "name": "Jeetu Sharma",
+          "type": "artist",
+          "uri": "spotify:artist:6UECKSYwQSyYDONQ84CiDW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3CE0f7jd0SwLheEm80H7WD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3CE0f7jd0SwLheEm80H7WD",
+          "id": "3CE0f7jd0SwLheEm80H7WD",
+          "name": "Manjula Patnaik",
+          "type": "artist",
+          "uri": "spotify:artist:3CE0f7jd0SwLheEm80H7WD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196105,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5wnRmmHV0Rssefkv4iijJA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5wnRmmHV0Rssefkv4iijJA",
+      "id": "5wnRmmHV0Rssefkv4iijJA",
+      "name": "Jai Shiv Jai Shiv",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5wnRmmHV0Rssefkv4iijJA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZYhwVkbSCFobQudgGR6Xo",
+          "id": "5ZYhwVkbSCFobQudgGR6Xo",
+          "name": "Abhilipsa Panda",
+          "type": "artist",
+          "uri": "spotify:artist:5ZYhwVkbSCFobQudgGR6Xo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200689,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zNJhTTzTWQNmm8ENkXeUj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7zNJhTTzTWQNmm8ENkXeUj",
+      "id": "7zNJhTTzTWQNmm8ENkXeUj",
+      "name": "Mera Bhola",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7zNJhTTzTWQNmm8ENkXeUj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PROvlYbKS2EMqlh1V574w"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PROvlYbKS2EMqlh1V574w",
+          "id": "2PROvlYbKS2EMqlh1V574w",
+          "name": "Deepanshu Jain",
+          "type": "artist",
+          "uri": "spotify:artist:2PROvlYbKS2EMqlh1V574w"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242696,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0bFjqOjHwZ39EMbRIzqgdC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0bFjqOjHwZ39EMbRIzqgdC",
+      "id": "0bFjqOjHwZ39EMbRIzqgdC",
+      "name": "Kailasa",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0bFjqOjHwZ39EMbRIzqgdC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HBZnqr01ZIfUDtHiBs4AT"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HBZnqr01ZIfUDtHiBs4AT",
+          "id": "6HBZnqr01ZIfUDtHiBs4AT",
+          "name": "Charanjeet Singh Sondhi",
+          "type": "artist",
+          "uri": "spotify:artist:6HBZnqr01ZIfUDtHiBs4AT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 294395,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4vAYvOh5j5szhtwWEG1fXg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4vAYvOh5j5szhtwWEG1fXg",
+      "id": "4vAYvOh5j5szhtwWEG1fXg",
+      "name": "Bhole Bhole Bam Bam",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4vAYvOh5j5szhtwWEG1fXg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MF9q9Hfxf2LsRYL4jvjWP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MF9q9Hfxf2LsRYL4jvjWP",
+          "id": "0MF9q9Hfxf2LsRYL4jvjWP",
+          "name": "Ravindra Pratap Singh",
+          "type": "artist",
+          "uri": "spotify:artist:0MF9q9Hfxf2LsRYL4jvjWP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pK09YlCOVzf9SXBddfvSt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pK09YlCOVzf9SXBddfvSt",
+          "id": "4pK09YlCOVzf9SXBddfvSt",
+          "name": "Gajendra Pratap Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4pK09YlCOVzf9SXBddfvSt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257799,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/69fz2BxAThoKYeVXA1CT4t"
+      },
+      "href": "https://api.spotify.com/v1/tracks/69fz2BxAThoKYeVXA1CT4t",
+      "id": "69fz2BxAThoKYeVXA1CT4t",
+      "name": "Bhola Bhandari",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:69fz2BxAThoKYeVXA1CT4t",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5cEE1pTgDhFe8QuigmqxJF",
+          "id": "5cEE1pTgDhFe8QuigmqxJF",
+          "name": "Hansraj Raghuwanshi",
+          "type": "artist",
+          "uri": "spotify:artist:5cEE1pTgDhFe8QuigmqxJF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 324930,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4bdjhcG4YwcjY3oAGXR1eR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4bdjhcG4YwcjY3oAGXR1eR",
+      "id": "4bdjhcG4YwcjY3oAGXR1eR",
+      "name": "Hazaaron Hai Roop",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4bdjhcG4YwcjY3oAGXR1eR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MF9q9Hfxf2LsRYL4jvjWP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MF9q9Hfxf2LsRYL4jvjWP",
+          "id": "0MF9q9Hfxf2LsRYL4jvjWP",
+          "name": "Ravindra Pratap Singh",
+          "type": "artist",
+          "uri": "spotify:artist:0MF9q9Hfxf2LsRYL4jvjWP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pK09YlCOVzf9SXBddfvSt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pK09YlCOVzf9SXBddfvSt",
+          "id": "4pK09YlCOVzf9SXBddfvSt",
+          "name": "Gajendra Pratap Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4pK09YlCOVzf9SXBddfvSt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 309765,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18HIAH6RN2xjdS5DrsvOVH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18HIAH6RN2xjdS5DrsvOVH",
+      "id": "18HIAH6RN2xjdS5DrsvOVH",
+      "name": "Shiv Shambhu Shankara Bhole",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:18HIAH6RN2xjdS5DrsvOVH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UwajbXvPlQp3fBGAvBkMF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5UwajbXvPlQp3fBGAvBkMF",
+          "id": "5UwajbXvPlQp3fBGAvBkMF",
+          "name": "Siddharth Mohan",
+          "type": "artist",
+          "uri": "spotify:artist:5UwajbXvPlQp3fBGAvBkMF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 316724,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0iQm2NMPetDQvtcgoDQJEj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0iQm2NMPetDQvtcgoDQJEj",
+      "id": "0iQm2NMPetDQvtcgoDQJEj",
+      "name": "Shiv Kailasho Ke",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0iQm2NMPetDQvtcgoDQJEj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MF9q9Hfxf2LsRYL4jvjWP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MF9q9Hfxf2LsRYL4jvjWP",
+          "id": "0MF9q9Hfxf2LsRYL4jvjWP",
+          "name": "Ravindra Pratap Singh",
+          "type": "artist",
+          "uri": "spotify:artist:0MF9q9Hfxf2LsRYL4jvjWP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pK09YlCOVzf9SXBddfvSt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pK09YlCOVzf9SXBddfvSt",
+          "id": "4pK09YlCOVzf9SXBddfvSt",
+          "name": "Gajendra Pratap Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4pK09YlCOVzf9SXBddfvSt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 271766,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/08iroPvE1ullzz5DqRKlw2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/08iroPvE1ullzz5DqRKlw2",
+      "id": "08iroPvE1ullzz5DqRKlw2",
+      "name": "Har Har Mahadev Shambhu",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:08iroPvE1ullzz5DqRKlw2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pK09YlCOVzf9SXBddfvSt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pK09YlCOVzf9SXBddfvSt",
+          "id": "4pK09YlCOVzf9SXBddfvSt",
+          "name": "Gajendra Pratap Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4pK09YlCOVzf9SXBddfvSt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QJSa6O7EDgowYYq6UQQLl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QJSa6O7EDgowYYq6UQQLl",
+          "id": "4QJSa6O7EDgowYYq6UQQLl",
+          "name": "Nikhar Juneja",
+          "type": "artist",
+          "uri": "spotify:artist:4QJSa6O7EDgowYYq6UQQLl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244235,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4i3PcmbYsGvSUjI3yeBKTo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4i3PcmbYsGvSUjI3yeBKTo",
+      "id": "4i3PcmbYsGvSUjI3yeBKTo",
+      "name": "Jai Jai Kedara",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4i3PcmbYsGvSUjI3yeBKTo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6BRfjsQwlA0kP1n5s66xIZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6BRfjsQwlA0kP1n5s66xIZ",
+          "id": "6BRfjsQwlA0kP1n5s66xIZ",
+          "name": "Shekar Jaiswal",
+          "type": "artist",
+          "uri": "spotify:artist:6BRfjsQwlA0kP1n5s66xIZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266971,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3mYxYboUFNfLn2KxdaPuXM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3mYxYboUFNfLn2KxdaPuXM",
+      "id": "3mYxYboUFNfLn2KxdaPuXM",
+      "name": "Gaura Shiv Ki Diwani",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:3mYxYboUFNfLn2KxdaPuXM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MaN8aWhx4Q2JKIZ7YSp8k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MaN8aWhx4Q2JKIZ7YSp8k",
+          "id": "7MaN8aWhx4Q2JKIZ7YSp8k",
+          "name": "Sanj V",
+          "type": "artist",
+          "uri": "spotify:artist:7MaN8aWhx4Q2JKIZ7YSp8k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 542836,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Bv2vBtWk91FHA4zfMcsb8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Bv2vBtWk91FHA4zfMcsb8",
+      "id": "0Bv2vBtWk91FHA4zfMcsb8",
+      "name": "Shiv Dhun",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:0Bv2vBtWk91FHA4zfMcsb8",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 15
+}

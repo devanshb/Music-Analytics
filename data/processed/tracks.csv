@@ -1,26 +1,186 @@
 name,duration_ms,explicit,track_number,album_name,release_date
-The Fate of Ophelia,226073,False,1,The Life of a Showgirl + Acoustic Collection,2025-11-07
-Elizabeth Taylor,208291,False,2,The Life of a Showgirl + Acoustic Collection,2025-11-07
-Opalite,235356,False,3,The Life of a Showgirl + Acoustic Collection,2025-11-07
-Father Figure,212777,True,4,The Life of a Showgirl + Acoustic Collection,2025-11-07
-Eldest Daughter,246356,True,5,The Life of a Showgirl + Acoustic Collection,2025-11-07
-The Fate of Ophelia,226073,False,1,The Life of a Showgirl,2025-10-03
-Elizabeth Taylor,208291,False,2,The Life of a Showgirl,2025-10-03
-Opalite,235355,False,3,The Life of a Showgirl,2025-10-03
-Father Figure,212777,True,4,The Life of a Showgirl,2025-10-03
-Eldest Daughter,246356,True,5,The Life of a Showgirl,2025-10-03
-The Life of a Showgirl Intro,4947,False,1,The Life of a Showgirl (Track by Track Version),2025-10-02
-The Fate of Ophelia - Track by Track,41648,False,2,The Life of a Showgirl (Track by Track Version),2025-10-02
-The Fate of Ophelia,226073,False,3,The Life of a Showgirl (Track by Track Version),2025-10-02
-Elizabeth Taylor - Track by Track,35910,False,4,The Life of a Showgirl (Track by Track Version),2025-10-02
-Elizabeth Taylor,208291,False,5,The Life of a Showgirl (Track by Track Version),2025-10-02
-Fortnight (feat. Post Malone),228965,False,1,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19
-The Tortured Poets Department,293048,True,2,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19
-My Boy Only Breaks His Favorite Toys,203801,False,3,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19
-Down Bad,261228,True,4,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19
-"So Long, London",262974,False,5,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19
-Fortnight (feat. Post Malone),228965,False,1,THE TORTURED POETS DEPARTMENT,2024-04-18
-The Tortured Poets Department,293048,True,2,THE TORTURED POETS DEPARTMENT,2024-04-18
-My Boy Only Breaks His Favorite Toys,203801,False,3,THE TORTURED POETS DEPARTMENT,2024-04-18
-Down Bad,261228,True,4,THE TORTURED POETS DEPARTMENT,2024-04-18
-"So Long, London",262974,False,5,THE TORTURED POETS DEPARTMENT,2024-04-18
+Wake Me Up (feat. Justice),308575,False,1,Hurry Up Tomorrow,2025-01-31
+Cry For Me,224136,True,2,Hurry Up Tomorrow,2025-01-31
+I Can't Fucking Sing,12288,True,3,Hurry Up Tomorrow,2025-01-31
+São Paulo (feat. Anitta),301623,True,4,Hurry Up Tomorrow,2025-01-31
+Until We're Skin & Bones,22033,False,5,Hurry Up Tomorrow,2025-01-31
+Baptized In Fear,232176,False,6,Hurry Up Tomorrow,2025-01-31
+Open Hearts,234923,False,7,Hurry Up Tomorrow,2025-01-31
+Opening Night,96024,False,8,Hurry Up Tomorrow,2025-01-31
+"Reflections Laughing (feat. Travis Scott, Florence + The Machine)",291192,True,9,Hurry Up Tomorrow,2025-01-31
+Enjoy The Show (feat. Future),301428,True,10,Hurry Up Tomorrow,2025-01-31
+Given Up On Me,354781,False,11,Hurry Up Tomorrow,2025-01-31
+I Can't Wait To Get There,188921,True,12,Hurry Up Tomorrow,2025-01-31
+Timeless (feat Playboi Carti),256000,True,13,Hurry Up Tomorrow,2025-01-31
+Niagara Falls,277274,True,14,Hurry Up Tomorrow,2025-01-31
+Take Me Back To LA,253734,False,15,Hurry Up Tomorrow,2025-01-31
+Big Sleep (feat. Giorgio Moroder),225312,False,16,Hurry Up Tomorrow,2025-01-31
+Give Me Mercy,216431,False,17,Hurry Up Tomorrow,2025-01-31
+Drive,188645,False,18,Hurry Up Tomorrow,2025-01-31
+The Abyss (feat. Lana Del Rey),282873,False,19,Hurry Up Tomorrow,2025-01-31
+Red Terror,231860,False,20,Hurry Up Tomorrow,2025-01-31
+Without a Warning,297525,False,21,Hurry Up Tomorrow,2025-01-31
+Hurry Up Tomorrow,291486,False,22,Hurry Up Tomorrow,2025-01-31
+Starboy (feat. Daft Punk),230461,True,1,Starboy (Deluxe),2023-03-14
+Party Monster,249207,True,2,Starboy (Deluxe),2023-03-14
+False Alarm,220308,False,3,Starboy (Deluxe),2023-03-14
+Reminder,218879,True,4,Starboy (Deluxe),2023-03-14
+Rockin’,232881,True,5,Starboy (Deluxe),2023-03-14
+Secrets,265607,False,6,Starboy (Deluxe),2023-03-14
+True Colors,206034,False,7,Starboy (Deluxe),2023-03-14
+Stargirl Interlude (feat. Lana Del Rey),111611,False,8,Starboy (Deluxe),2023-03-14
+Sidewalks (feat. Kendrick Lamar),231357,True,9,Starboy (Deluxe),2023-03-14
+Six Feet Under,237576,True,10,Starboy (Deluxe),2023-03-14
+Love To Lay,223301,False,11,Starboy (Deluxe),2023-03-14
+A Lonely Night,220170,False,12,Starboy (Deluxe),2023-03-14
+Attention,197649,True,13,Starboy (Deluxe),2023-03-14
+Ordinary Life,221913,False,14,Starboy (Deluxe),2023-03-14
+Nothing Without You,198654,False,15,Starboy (Deluxe),2023-03-14
+All I Know (feat. Future),321031,True,16,Starboy (Deluxe),2023-03-14
+Die For You,260255,False,17,Starboy (Deluxe),2023-03-14
+I Feel It Coming (feat. Daft Punk),269176,False,18,Starboy (Deluxe),2023-03-14
+Die For You (with Ariana Grande) - Remix,232857,False,19,Starboy (Deluxe),2023-03-14
+Starboy (feat. Daft Punk) - Kygo Remix,244720,True,20,Starboy (Deluxe),2023-03-14
+Reminder (feat. A$AP Rocky & Young Thug) - Remix,221968,True,21,Starboy (Deluxe),2023-03-14
+Intro - Live,95813,False,1,Live At SoFi Stadium,2023-03-03
+Alone Again - Live,167253,True,2,Live At SoFi Stadium,2023-03-03
+Gasoline - Live,195635,False,3,Live At SoFi Stadium,2023-03-03
+Sacrifice - Live,263240,True,4,Live At SoFi Stadium,2023-03-03
+How Do I Make You Love Me? - Live,209040,False,5,Live At SoFi Stadium,2023-03-03
+Can't Feel My Face - Live,183888,False,6,Live At SoFi Stadium,2023-03-03
+Take My Breath - Live,235966,False,7,Live At SoFi Stadium,2023-03-03
+Hurricane - Live,127527,False,8,Live At SoFi Stadium,2023-03-03
+The Hills - Live,185361,True,9,Live At SoFi Stadium,2023-03-03
+Often - Live,148878,True,10,Live At SoFi Stadium,2023-03-03
+Crew Love - Live,113460,True,11,Live At SoFi Stadium,2023-03-03
+Starboy - Live,245818,True,12,Live At SoFi Stadium,2023-03-03
+Heartless - Live,124255,True,13,Live At SoFi Stadium,2023-03-03
+Low Life - Live,107256,True,14,Live At SoFi Stadium,2023-03-03
+Or Nah - Live,101450,True,15,Live At SoFi Stadium,2023-03-03
+Kiss Land - Live,110315,True,16,Live At SoFi Stadium,2023-03-03
+Party Monster - Live,189883,True,17,Live At SoFi Stadium,2023-03-03
+Faith - Live,185016,True,18,Live At SoFi Stadium,2023-03-03
+After Hours - Live,267912,False,19,Live At SoFi Stadium,2023-03-03
+Out of Time - Live,200934,False,20,Live At SoFi Stadium,2023-03-03
+I Feel It Coming - Live,234114,False,21,Live At SoFi Stadium,2023-03-03
+Die For You - Live,193394,True,22,Live At SoFi Stadium,2023-03-03
+Is There Someone Else? - Live,237904,False,23,Live At SoFi Stadium,2023-03-03
+I Was Never There - Live,137149,False,24,Live At SoFi Stadium,2023-03-03
+Wicked Games - Live,143082,True,25,Live At SoFi Stadium,2023-03-03
+Call Out My Name - Live,242899,False,26,Live At SoFi Stadium,2023-03-03
+The Morning - Live,199802,True,27,Live At SoFi Stadium,2023-03-03
+Save Your Tears - Live,178187,True,28,Live At SoFi Stadium,2023-03-03
+Less Than Zero - Live,244479,True,29,Live At SoFi Stadium,2023-03-03
+Blinding Lights - Live,253365,True,30,Live At SoFi Stadium,2023-03-03
+Outro - Live,199781,True,31,Live At SoFi Stadium,2023-03-03
+Dawn FM,96240,False,1,Dawn FM (Alternate World),2022-01-07
+Gasoline,212165,False,2,Dawn FM (Alternate World),2022-01-07
+How Do I Make You Love Me?,214214,False,3,Dawn FM (Alternate World),2022-01-07
+Take My Breath,339023,False,4,Dawn FM (Alternate World),2022-01-07
+Sacrifice,188918,True,5,Dawn FM (Alternate World),2022-01-07
+A Tale By Quincy,96214,True,6,Dawn FM (Alternate World),2022-01-07
+Out of Time,214190,False,7,Dawn FM (Alternate World),2022-01-07
+"Here We Go… Again (feat. Tyler, the Creator)",209777,True,8,Dawn FM (Alternate World),2022-01-07
+Best Friends,163504,False,9,Dawn FM (Alternate World),2022-01-07
+Is There Someone Else?,199111,False,10,Dawn FM (Alternate World),2022-01-07
+Starry Eyes,148000,False,11,Dawn FM (Alternate World),2022-01-07
+Every Angel is Terrifying,167255,False,12,Dawn FM (Alternate World),2022-01-07
+Don’t Break My Heart,205469,False,13,Dawn FM (Alternate World),2022-01-07
+I Heard You're Married (feat. Lil Wayne),263641,True,14,Dawn FM (Alternate World),2022-01-07
+Less Than Zero,211814,False,15,Dawn FM (Alternate World),2022-01-07
+Phantom Regret by Jim,179580,False,16,Dawn FM (Alternate World),2022-01-07
+Moth To A Flame (with The Weeknd),234000,False,17,Dawn FM (Alternate World),2022-01-07
+Dawn FM - OPN Remix,183827,False,18,Dawn FM (Alternate World),2022-01-07
+How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix,217766,False,19,Dawn FM (Alternate World),2022-01-07
+Sacrifice (Remix) (feat. Swedish House Mafia),238032,True,20,Dawn FM (Alternate World),2022-01-07
+Out of Time - KAYTRANADA Remix,275555,False,21,Dawn FM (Alternate World),2022-01-07
+Best Friends - Remix,175071,False,22,Dawn FM (Alternate World),2022-01-07
+Starry Eyes - MIKE DEAN Remix,198222,False,23,Dawn FM (Alternate World),2022-01-07
+Take My Breath - Single Version,220196,False,24,Dawn FM (Alternate World),2022-01-07
+Dawn FM,96240,False,1,Dawn FM,2022-01-06
+Gasoline,212165,False,2,Dawn FM,2022-01-06
+How Do I Make You Love Me?,214214,False,3,Dawn FM,2022-01-06
+Take My Breath,339023,False,4,Dawn FM,2022-01-06
+Sacrifice,188918,True,5,Dawn FM,2022-01-06
+A Tale By Quincy,96232,True,6,Dawn FM,2022-01-06
+Out of Time,214193,False,7,Dawn FM,2022-01-06
+"Here We Go… Again (feat. Tyler, the Creator)",209777,True,8,Dawn FM,2022-01-06
+Best Friends,163504,False,9,Dawn FM,2022-01-06
+Is There Someone Else?,199111,False,10,Dawn FM,2022-01-06
+Starry Eyes,148000,False,11,Dawn FM,2022-01-06
+Every Angel is Terrifying,167255,False,12,Dawn FM,2022-01-06
+Don’t Break My Heart,205469,False,13,Dawn FM,2022-01-06
+I Heard You’re Married (feat. Lil Wayne),263641,True,14,Dawn FM,2022-01-06
+Less Than Zero,211814,False,15,Dawn FM,2022-01-06
+Phantom Regret by Jim,179580,False,16,Dawn FM,2022-01-06
+Alone Again,250057,True,1,After Hours (Deluxe),2020-03-20
+Too Late,239980,True,2,After Hours (Deluxe),2020-03-20
+Hardest To Love,211402,True,3,After Hours (Deluxe),2020-03-20
+Scared To Live,191298,True,4,After Hours (Deluxe),2020-03-20
+Snowchild,247192,True,5,After Hours (Deluxe),2020-03-20
+Escape From LA,355960,True,6,After Hours (Deluxe),2020-03-20
+Heartless,198267,True,7,After Hours (Deluxe),2020-03-20
+Faith,283216,True,8,After Hours (Deluxe),2020-03-20
+Blinding Lights,200045,False,9,After Hours (Deluxe),2020-03-20
+In Your Eyes,237522,True,10,After Hours (Deluxe),2020-03-20
+Save Your Tears,215627,True,11,After Hours (Deluxe),2020-03-20
+Repeat After Me (Interlude),195815,True,12,After Hours (Deluxe),2020-03-20
+After Hours,361024,False,13,After Hours (Deluxe),2020-03-20
+Until I Bleed Out,192363,True,14,After Hours (Deluxe),2020-03-20
+Nothing Compares - Bonus Track,222306,True,15,After Hours (Deluxe),2020-03-20
+Missed You - Bonus Track,144539,True,16,After Hours (Deluxe),2020-03-20
+Final Lullaby - Bonus Track,185688,True,17,After Hours (Deluxe),2020-03-20
+Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,191013,False,18,After Hours (Deluxe),2020-03-20
+Alone Again,250053,True,1,After Hours,2020-03-20
+Too Late,239973,True,2,After Hours,2020-03-20
+Hardest To Love,211400,True,3,After Hours,2020-03-20
+Scared To Live,191306,True,4,After Hours,2020-03-20
+Snowchild,247186,True,5,After Hours,2020-03-20
+Escape From LA,355960,True,6,After Hours,2020-03-20
+Heartless,198266,True,7,After Hours,2020-03-20
+Faith,283226,True,8,After Hours,2020-03-20
+Blinding Lights,200040,False,9,After Hours,2020-03-20
+In Your Eyes,237520,True,10,After Hours,2020-03-20
+Save Your Tears,215626,True,11,After Hours,2020-03-20
+Repeat After Me (Interlude),195813,True,12,After Hours,2020-03-20
+After Hours,361026,False,13,After Hours,2020-03-20
+Until I Bleed Out,190173,True,14,After Hours,2020-03-20
+Call Out My Name,228373,False,1,"My Dear Melancholy,",2018-03-30
+Try Me,221106,False,2,"My Dear Melancholy,",2018-03-30
+Wasted Times,220293,True,3,"My Dear Melancholy,",2018-03-30
+I Was Never There,241066,False,4,"My Dear Melancholy,",2018-03-30
+Hurt You,230026,True,5,"My Dear Melancholy,",2018-03-30
+Privilege,170573,True,6,"My Dear Melancholy,",2018-03-30
+Call Out My Name - A Cappella,224746,False,7,"My Dear Melancholy,",2018-03-30
+Starboy,230453,True,1,Starboy,2016-11-25
+Party Monster,249213,True,2,Starboy,2016-11-25
+False Alarm,220306,False,3,Starboy,2016-11-25
+Reminder,218880,True,4,Starboy,2016-11-25
+Rockin’,232880,True,5,Starboy,2016-11-25
+Secrets,265600,False,6,Starboy,2016-11-25
+True Colors,206013,False,7,Starboy,2016-11-25
+Stargirl Interlude,111640,False,8,Starboy,2016-11-25
+Sidewalks,231360,True,9,Starboy,2016-11-25
+Six Feet Under,237573,True,10,Starboy,2016-11-25
+Love To Lay,223293,False,11,Starboy,2016-11-25
+A Lonely Night,220173,False,12,Starboy,2016-11-25
+Attention,197653,True,13,Starboy,2016-11-25
+Ordinary Life,221920,False,14,Starboy,2016-11-25
+Nothing Without You,198653,False,15,Starboy,2016-11-25
+All I Know,321026,True,16,Starboy,2016-11-25
+Die For You,260252,False,17,Starboy,2016-11-25
+I Feel It Coming,269186,False,18,Starboy,2016-11-25
+Real Life,223373,True,1,Beauty Behind The Madness,2015-08-28
+Losers,281146,True,2,Beauty Behind The Madness,2015-08-28
+Tell Your Friends,334333,True,3,Beauty Behind The Madness,2015-08-28
+Often,249040,True,4,Beauty Behind The Madness,2015-08-28
+The Hills,242253,True,5,Beauty Behind The Madness,2015-08-28
+Acquainted,348853,True,6,Beauty Behind The Madness,2015-08-28
+Can't Feel My Face,213520,False,7,Beauty Behind The Madness,2015-08-28
+Shameless,253506,True,8,Beauty Behind The Madness,2015-08-28
+Earned It (Fifty Shades Of Grey),277680,True,9,Beauty Behind The Madness,2015-08-28
+In The Night,235653,True,10,Beauty Behind The Madness,2015-08-28
+As You Are,340493,True,11,Beauty Behind The Madness,2015-08-28
+Dark Times,260640,True,12,Beauty Behind The Madness,2015-08-28
+Prisoner,274960,True,13,Beauty Behind The Madness,2015-08-28
+Angel,377346,True,14,Beauty Behind The Madness,2015-08-28

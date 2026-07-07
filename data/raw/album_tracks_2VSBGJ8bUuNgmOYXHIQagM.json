@@ -1,0 +1,593 @@
+{
+  "href": "https://api.spotify.com/v1/albums/2VSBGJ8bUuNgmOYXHIQagM/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 339734,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UkqH9t76GxI48YHA0thsy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UkqH9t76GxI48YHA0thsy",
+      "id": "5UkqH9t76GxI48YHA0thsy",
+      "name": "Honeymoon Avenue",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5UkqH9t76GxI48YHA0thsy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197602,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6qT31f20CXWq0zkz4BME32"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6qT31f20CXWq0zkz4BME32",
+      "id": "6qT31f20CXWq0zkz4BME32",
+      "name": "Baby I",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6qT31f20CXWq0zkz4BME32",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 247081,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5aKqhRdBmC5Qp2c3oek9ft"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5aKqhRdBmC5Qp2c3oek9ft",
+      "id": "5aKqhRdBmC5Qp2c3oek9ft",
+      "name": "Right There (feat. Big Sean)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5aKqhRdBmC5Qp2c3oek9ft",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194707,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4HBDccZgvC769vqQ2QHjji"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4HBDccZgvC769vqQ2QHjji",
+      "id": "4HBDccZgvC769vqQ2QHjji",
+      "name": "Tattooed Heart",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4HBDccZgvC769vqQ2QHjji",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180694,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4EjLfjUNonstEf9ZED4gce"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4EjLfjUNonstEf9ZED4gce",
+      "id": "4EjLfjUNonstEf9ZED4gce",
+      "name": "Lovin' It",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4EjLfjUNonstEf9ZED4gce",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1WPjEBaYjOh65gQF7EwwOp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1WPjEBaYjOh65gQF7EwwOp",
+      "id": "1WPjEBaYjOh65gQF7EwwOp",
+      "name": "Piano",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1WPjEBaYjOh65gQF7EwwOp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211287,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tQew7pG4IhgNGplOSNIj7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2tQew7pG4IhgNGplOSNIj7",
+      "id": "2tQew7pG4IhgNGplOSNIj7",
+      "name": "Daydreamin'",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2tQew7pG4IhgNGplOSNIj7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "type": "artist",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227033,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Onx2O64wzyA7ZzOsBBqBJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Onx2O64wzyA7ZzOsBBqBJ",
+      "id": "1Onx2O64wzyA7ZzOsBBqBJ",
+      "name": "The Way (feat. Mac Miller)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1Onx2O64wzyA7ZzOsBBqBJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214280,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5HGvnxyYMsK0MWuvXCNjfG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5HGvnxyYMsK0MWuvXCNjfG",
+      "id": "5HGvnxyYMsK0MWuvXCNjfG",
+      "name": "You’ll Never Know",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5HGvnxyYMsK0MWuvXCNjfG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Rf4X6m0oayCJhaJ5K63GQ",
+          "id": "2Rf4X6m0oayCJhaJ5K63GQ",
+          "name": "Nathan Sykes",
+          "type": "artist",
+          "uri": "spotify:artist:2Rf4X6m0oayCJhaJ5K63GQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 327775,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1YGd0ZaBGQjOdApv3fpnow"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1YGd0ZaBGQjOdApv3fpnow",
+      "id": "1YGd0ZaBGQjOdApv3fpnow",
+      "name": "Almost Is Never Enough (with Nathan Sykes)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1YGd0ZaBGQjOdApv3fpnow",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200201,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4AzzUUIBICXrr5OYfs2u2C"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4AzzUUIBICXrr5OYfs2u2C",
+      "id": "4AzzUUIBICXrr5OYfs2u2C",
+      "name": "Popular Song (MIKA & Ariana Grande)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4AzzUUIBICXrr5OYfs2u2C",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212838,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7v289GXTGa7BuLL6l1Y5ZA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7v289GXTGa7BuLL6l1Y5ZA",
+      "id": "7v289GXTGa7BuLL6l1Y5ZA",
+      "name": "Better Left Unsaid",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7v289GXTGa7BuLL6l1Y5ZA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "type": "artist",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226838,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HAQ4fEd3opmo09LJIHOX2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HAQ4fEd3opmo09LJIHOX2",
+      "id": "3HAQ4fEd3opmo09LJIHOX2",
+      "name": "The Way - Spanglish Version (feat. Mac Miller)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3HAQ4fEd3opmo09LJIHOX2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295544,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ucNmUIwlCSNjla3a1qpfL",
+      "id": "1ucNmUIwlCSNjla3a1qpfL",
+      "name": "Honeymoon Avenue - Live from London",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1ucNmUIwlCSNjla3a1qpfL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210300,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63ahDGtV2EGSs6etOGrnkc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63ahDGtV2EGSs6etOGrnkc",
+      "id": "63ahDGtV2EGSs6etOGrnkc",
+      "name": "Daydreamin' - Live from London",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:63ahDGtV2EGSs6etOGrnkc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197304,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58aPrOUl9wFOoaBOgrWoBc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58aPrOUl9wFOoaBOgrWoBc",
+      "id": "58aPrOUl9wFOoaBOgrWoBc",
+      "name": "Baby I - Live from London",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:58aPrOUl9wFOoaBOgrWoBc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193998,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5JVMTPWkg7U14ga4up1rSm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5JVMTPWkg7U14ga4up1rSm",
+      "id": "5JVMTPWkg7U14ga4up1rSm",
+      "name": "Tattooed Heart - Live from London",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:5JVMTPWkg7U14ga4up1rSm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196927,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5J9jzskSfbSF7sTCWyoF93"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5J9jzskSfbSF7sTCWyoF93",
+      "id": "5J9jzskSfbSF7sTCWyoF93",
+      "name": "Right There - Live from London (feat. Big Sean)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:5J9jzskSfbSF7sTCWyoF93",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "type": "artist",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213694,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4VUp83ibStl36qC7UOxGkF",
+      "id": "4VUp83ibStl36qC7UOxGkF",
+      "name": "The Way - Live from London (feat. Mac Miller)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:4VUp83ibStl36qC7UOxGkF",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 19
+}

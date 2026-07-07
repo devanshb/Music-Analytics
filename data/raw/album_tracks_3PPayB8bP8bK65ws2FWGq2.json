@@ -1,0 +1,327 @@
+{
+  "href": "https://api.spotify.com/v1/albums/3PPayB8bP8bK65ws2FWGq2/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 71373,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Ox59bbuZnN52GRt7OWKHw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Ox59bbuZnN52GRt7OWKHw",
+      "id": "2Ox59bbuZnN52GRt7OWKHw",
+      "name": "Permanence",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2Ox59bbuZnN52GRt7OWKHw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/10B85suWQLcrp50jD81blm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/10B85suWQLcrp50jD81blm",
+      "id": "10B85suWQLcrp50jD81blm",
+      "name": "A Broken Reflection",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:10B85suWQLcrp50jD81blm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6umNmi6ddeC3raOPPil6wP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6umNmi6ddeC3raOPPil6wP",
+      "id": "6umNmi6ddeC3raOPPil6wP",
+      "name": "Burden",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6umNmi6ddeC3raOPPil6wP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
+          },
+          "href": "https://api.spotify.com/v1/artists/5imFWt9rzlx5iGqS58ArtO",
+          "id": "5imFWt9rzlx5iGqS58ArtO",
+          "name": "Alex Terrible",
+          "type": "artist",
+          "uri": "spotify:artist:5imFWt9rzlx5iGqS58ArtO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MDixv1DxDJce8r8uHOSOd",
+          "id": "0MDixv1DxDJce8r8uHOSOd",
+          "name": "Tom Barber",
+          "type": "artist",
+          "uri": "spotify:artist:0MDixv1DxDJce8r8uHOSOd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1nyMUazNvpMZmPkxe9w4X9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1nyMUazNvpMZmPkxe9w4X9",
+      "id": "1nyMUazNvpMZmPkxe9w4X9",
+      "name": "We Are The Dead (feat. Alex Terrible, Tom Barber)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1nyMUazNvpMZmPkxe9w4X9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6eGixLf4aKuD53IMqbR7dx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6eGixLf4aKuD53IMqbR7dx",
+      "id": "6eGixLf4aKuD53IMqbR7dx",
+      "name": "Whitewashed Tomb",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6eGixLf4aKuD53IMqbR7dx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4eAOvwlfcUiY9V6ikXy01j"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4eAOvwlfcUiY9V6ikXy01j",
+      "id": "4eAOvwlfcUiY9V6ikXy01j",
+      "name": "Through Storms Ahead",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4eAOvwlfcUiY9V6ikXy01j",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0e3PFJptQimRYX3TUIbRmD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0e3PFJptQimRYX3TUIbRmD",
+      "id": "0e3PFJptQimRYX3TUIbRmD",
+      "name": "The Void Within",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0e3PFJptQimRYX3TUIbRmD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 275400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3nIwcInQo0ksJGvZE3cujj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3nIwcInQo0ksJGvZE3cujj",
+      "id": "3nIwcInQo0ksJGvZE3cujj",
+      "name": "Strength to Survive",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3nIwcInQo0ksJGvZE3cujj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3p3fJgBEse8gwFkI0Lhk66"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3p3fJgBEse8gwFkI0Lhk66",
+      "id": "3p3fJgBEse8gwFkI0Lhk66",
+      "name": "Gears That Never Stop",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3p3fJgBEse8gwFkI0Lhk66",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 307000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5BZm94AfN844YjhYYNmR8B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5BZm94AfN844YjhYYNmR8B",
+      "id": "5BZm94AfN844YjhYYNmR8B",
+      "name": "The Cave We Fear To Enter",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5BZm94AfN844YjhYYNmR8B",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vd2HnNh4pdYa9gDVHFjEu",
+          "id": "2vd2HnNh4pdYa9gDVHFjEu",
+          "name": "As I Lay Dying",
+          "type": "artist",
+          "uri": "spotify:artist:2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3gyHRqXV32bvYfCALucG9q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3gyHRqXV32bvYfCALucG9q",
+      "id": "3gyHRqXV32bvYfCALucG9q",
+      "name": "Taken From Nothing",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3gyHRqXV32bvYfCALucG9q",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 11
+}

@@ -1,0 +1,226 @@
+{
+  "href": "https://api.spotify.com/v1/albums/2rG8y7CLFNdkqvHBOJn8MJ/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 271008,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1d94MuDBTEaR5b2MpnrMSz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1d94MuDBTEaR5b2MpnrMSz",
+      "id": "1d94MuDBTEaR5b2MpnrMSz",
+      "name": "Maaee",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1d94MuDBTEaR5b2MpnrMSz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 327615,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3iQ49wqPAD4ri3gCCu85ZN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3iQ49wqPAD4ri3gCCu85ZN",
+      "id": "3iQ49wqPAD4ri3gCCu85ZN",
+      "name": "Saans Ke Sargam",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3iQ49wqPAD4ri3gCCu85ZN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 399583,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4pM6STG2sVjqS1PCwA5N2f"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4pM6STG2sVjqS1PCwA5N2f",
+      "id": "4pM6STG2sVjqS1PCwA5N2f",
+      "name": "Panchhi Tohar Nahi",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4pM6STG2sVjqS1PCwA5N2f",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 345431,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0o1M8TG7UxQE0u68b6mwae"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0o1M8TG7UxQE0u68b6mwae",
+      "id": "0o1M8TG7UxQE0u68b6mwae",
+      "name": "Ishq",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0o1M8TG7UxQE0u68b6mwae",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284278,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MFuNWwmMdvwonaDogl6W9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MFuNWwmMdvwonaDogl6W9",
+      "id": "2MFuNWwmMdvwonaDogl6W9",
+      "name": "Samay Balwan",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2MFuNWwmMdvwonaDogl6W9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 426593,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/44YY9h1Ti8EgUqcBNiud81"
+      },
+      "href": "https://api.spotify.com/v1/tracks/44YY9h1Ti8EgUqcBNiud81",
+      "id": "44YY9h1Ti8EgUqcBNiud81",
+      "name": "Aadmi Khuda Ho Gaeel Ba",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:44YY9h1Ti8EgUqcBNiud81",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 333806,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3IJ0s6bjYEvoCgB3p2HzcA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3IJ0s6bjYEvoCgB3p2HzcA",
+      "id": "3IJ0s6bjYEvoCgB3p2HzcA",
+      "name": "Yeh Pyar Pyar",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3IJ0s6bjYEvoCgB3p2HzcA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 429545,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2AFCNfW7oLaVWnaLD2P42Z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2AFCNfW7oLaVWnaLD2P42Z",
+      "id": "2AFCNfW7oLaVWnaLD2P42Z",
+      "name": "Pyar Se Duniya",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2AFCNfW7oLaVWnaLD2P42Z",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 8
+}

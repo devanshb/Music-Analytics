@@ -41,7 +41,7 @@ def spotify_get(path, access_token, params=None):
         raise RuntimeError(f"Spotify API error: {response.text}")
     return response.json()
 
-# ---------- External world: provider fetchers ----------
+# ---------- External world: provider fetchers for Spotify API ----------
 
 # Searches type=artist, takes the top hit's ID, raises if zero results.
 def search_artist_id(name, token):
@@ -52,11 +52,11 @@ def search_artist_id(name, token):
 
 #raw album list - get albums from artist id
 def fetch_artist_albums(artist_id, token):
-    return spotify_get(f"artists/{artist_id}/albums", token, {"include_groups": "album", "limit": 5})  # only 5 "albums" for now
+    return spotify_get(f"artists/{artist_id}/albums", token, {"include_groups": "album", "limit": 10})  # Spotify-imposed limit of 10 albums per request
 
 # raw track list - get tracks from an album
 def fetch_album_tracks(album_id, token):
-    return spotify_get(f"albums/{album_id}/tracks", token, {"limit": 5})  # only 5 tracks for now
+    return spotify_get(f"albums/{album_id}/tracks", token, {"limit": 50})  # Spotify-imposed limit of 50 tracks per request
 
 # ---------- Normalization Layer----------
 # One album -> one flat record.
@@ -130,6 +130,68 @@ def ms_to_min_sec(ms):
     seconds = ms // 1000
     return f"{seconds // 60}:{seconds % 60:02d}"
 
+def shortest_tracks(tracks, n):
+    return sorted(tracks, key=lambda t: t["duration_ms"])[:n]
+
+
+def total_runtime_by_album(tracks):
+    totals = {}  # album_name -> total_ms
+    for t in tracks:
+        name = t["album_name"]
+        if name not in totals:
+            totals[name] = 0
+        totals[name] += t["duration_ms"]
+    return totals
+
+
+def explicit_tracks_by_album(tracks):
+    counts = {}  # album_name -> explicit_count
+    for t in tracks:
+        name = t["album_name"]
+        if name not in counts:      # init on first sight of the ALBUM,
+            counts[name] = 0        # so zero-explicit albums still appear
+        if t["explicit"]:
+            counts[name] += 1
+    return counts
+
+
+def releases_per_year(albums):
+    counts = {}  # year -> number of releases
+    for album in albums:
+        year = album["release_date"][:4]
+        if year not in counts:
+            counts[year] = 0
+        counts[year] += 1
+    return dict(sorted(counts.items()))
+
+
+def gaps_between_albums(albums):
+    ordered = sorted(albums, key=lambda a: a["release_date"])
+    gaps = []
+    for previous, current in zip(ordered, ordered[1:]):   # consecutive pairs
+        gap_years = int(current["release_date"][:4]) - int(previous["release_date"][:4])
+        gaps.append({
+            "from_album": previous["album_name"],
+            "to_album": current["album_name"],
+            "gap_years": gap_years,
+        })
+    return gaps
+
+
+def track_length_trend(tracks):
+    totals = {}  # year -> [sum_ms, count]   (same shape as average_duration_by_album)
+    for t in tracks:
+        year = t["release_date"][:4]
+        if year not in totals:
+            totals[year] = [0, 0]
+        totals[year][0] += t["duration_ms"]
+        totals[year][1] += 1
+
+    averages = {}
+    for year, (sum_ms, count) in totals.items():
+        averages[year] = sum_ms / count
+    return dict(sorted(averages.items()))
+
 
 # ---------- Orchestrator ----------
 
@@ -139,7 +201,7 @@ def main():
 
     token = get_access_token()
 
-    artist_name = "Taylor Swift"
+    artist_name = "The Weeknd"
     artist_id = search_artist_id(artist_name, token)
 
     albums_raw = fetch_artist_albums(artist_id, token)
@@ -168,24 +230,34 @@ def main():
     for name, avg_ms in average_duration_by_album(all_tracks).items():
         print(f"  {name}: {ms_to_min_sec(int(avg_ms))}")
 
+    print("\nShortest tracks:")
+    for t in shortest_tracks(all_tracks, 5):
+        print(f"  {t['name']} — {ms_to_min_sec(t['duration_ms'])} ({t['album_name']})")
+
+    print("\nTotal runtime by album:")
+    for name, total_ms in total_runtime_by_album(all_tracks).items():
+        print(f"  {name}: {ms_to_min_sec(total_ms)}")
+
+    print("\nExplicit tracks by album:")
+    for name, count in explicit_tracks_by_album(all_tracks).items():
+        print(f"  {name}: {count}")
+
+    print("\nReleases per year:")
+    for year, count in releases_per_year(albums).items():
+        print(f"  {year}: {count}")
+
+    print("\nGaps between albums:")
+    for gap in gaps_between_albums(albums):
+        print(f"  {gap['from_album']} → {gap['to_album']}: {gap['gap_years']} yr")
+
+    print("\nTrack length trend (avg per year):")
+    for year, avg_ms in track_length_trend(all_tracks).items():
+        print(f"  {year}: {ms_to_min_sec(int(avg_ms))}")
+
 if __name__ == "__main__":
     main()
 
 
-# access_token = get_access_token()
-# response_json = response.json()
-# if "error" in response_json:
-#     raise RuntimeError(f"Search API error: {response_json['error']}")
-
-# pprint.pprint(response_json)
-
-# data = response.json()
-
-#Probe the shape, one level at a time
-# print("Top-level keys:", list(data.keys()))
-# print("Number of items:", len(data["items"]))
-# print("Keys of one item:", list(data["items"][0].keys()))
-# print("Keys of item['track']:", list(data["items"][0]["track"].keys()))
 
 
 

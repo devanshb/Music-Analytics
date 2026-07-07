@@ -1,0 +1,279 @@
+{
+  "href": "https://api.spotify.com/v1/albums/757x198w6U43uBjMChLi3s/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Zyl23xCN60m7WX7l04NRI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Zyl23xCN60m7WX7l04NRI",
+          "id": "2Zyl23xCN60m7WX7l04NRI",
+          "name": "Salim Puttur",
+          "type": "artist",
+          "uri": "spotify:artist:2Zyl23xCN60m7WX7l04NRI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285064,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2DPBLdPrtWx0nR1gRpRqjl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2DPBLdPrtWx0nR1gRpRqjl",
+      "id": "2DPBLdPrtWx0nR1gRpRqjl",
+      "name": "Nodaiah Gurikaara",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2DPBLdPrtWx0nR1gRpRqjl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qJHWT6Ov9ZZvuQx1h7mNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qJHWT6Ov9ZZvuQx1h7mNn",
+          "id": "2qJHWT6Ov9ZZvuQx1h7mNn",
+          "name": "Madhu Balakrishnan",
+          "type": "artist",
+          "uri": "spotify:artist:2qJHWT6Ov9ZZvuQx1h7mNn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Zyl23xCN60m7WX7l04NRI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Zyl23xCN60m7WX7l04NRI",
+          "id": "2Zyl23xCN60m7WX7l04NRI",
+          "name": "Salim Puttur",
+          "type": "artist",
+          "uri": "spotify:artist:2Zyl23xCN60m7WX7l04NRI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 358952,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5C0KbkSNmMaiU0gC0JRlrE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5C0KbkSNmMaiU0gC0JRlrE",
+      "id": "5C0KbkSNmMaiU0gC0JRlrE",
+      "name": "Baala Belagidhavanu",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5C0KbkSNmMaiU0gC0JRlrE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PrD0GsWFhgTDAuq7LPUew"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PrD0GsWFhgTDAuq7LPUew",
+          "id": "3PrD0GsWFhgTDAuq7LPUew",
+          "name": "Ajay Bharadwaj",
+          "type": "artist",
+          "uri": "spotify:artist:3PrD0GsWFhgTDAuq7LPUew"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Zyl23xCN60m7WX7l04NRI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Zyl23xCN60m7WX7l04NRI",
+          "id": "2Zyl23xCN60m7WX7l04NRI",
+          "name": "Salim Puttur",
+          "type": "artist",
+          "uri": "spotify:artist:2Zyl23xCN60m7WX7l04NRI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262003,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3wWZLNL3qRodaOv16yNGdD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3wWZLNL3qRodaOv16yNGdD",
+      "id": "3wWZLNL3qRodaOv16yNGdD",
+      "name": "Mari Byada Sirivantha",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3wWZLNL3qRodaOv16yNGdD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6x0mWzQDr2ol6WRmQ5h0yb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6x0mWzQDr2ol6WRmQ5h0yb",
+          "id": "6x0mWzQDr2ol6WRmQ5h0yb",
+          "name": "Hiranmayi",
+          "type": "artist",
+          "uri": "spotify:artist:6x0mWzQDr2ol6WRmQ5h0yb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Zyl23xCN60m7WX7l04NRI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Zyl23xCN60m7WX7l04NRI",
+          "id": "2Zyl23xCN60m7WX7l04NRI",
+          "name": "Salim Puttur",
+          "type": "artist",
+          "uri": "spotify:artist:2Zyl23xCN60m7WX7l04NRI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236343,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4T6iCxuGIjO0ex8RrJMxNc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4T6iCxuGIjO0ex8RrJMxNc",
+      "id": "4T6iCxuGIjO0ex8RrJMxNc",
+      "name": "Kanniddu Kurudare",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4T6iCxuGIjO0ex8RrJMxNc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02i4NNYxsqQ5xADgP8YCi7"
+          },
+          "href": "https://api.spotify.com/v1/artists/02i4NNYxsqQ5xADgP8YCi7",
+          "id": "02i4NNYxsqQ5xADgP8YCi7",
+          "name": "L.N. Shastri",
+          "type": "artist",
+          "uri": "spotify:artist:02i4NNYxsqQ5xADgP8YCi7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Zyl23xCN60m7WX7l04NRI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Zyl23xCN60m7WX7l04NRI",
+          "id": "2Zyl23xCN60m7WX7l04NRI",
+          "name": "Salim Puttur",
+          "type": "artist",
+          "uri": "spotify:artist:2Zyl23xCN60m7WX7l04NRI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273867,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Szp2Qv5C8UGS1597hVk99"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Szp2Qv5C8UGS1597hVk99",
+      "id": "3Szp2Qv5C8UGS1597hVk99",
+      "name": "Nodaiah Gurikaara",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3Szp2Qv5C8UGS1597hVk99",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PrD0GsWFhgTDAuq7LPUew"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PrD0GsWFhgTDAuq7LPUew",
+          "id": "3PrD0GsWFhgTDAuq7LPUew",
+          "name": "Ajay Bharadwaj",
+          "type": "artist",
+          "uri": "spotify:artist:3PrD0GsWFhgTDAuq7LPUew"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Zyl23xCN60m7WX7l04NRI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Zyl23xCN60m7WX7l04NRI",
+          "id": "2Zyl23xCN60m7WX7l04NRI",
+          "name": "Salim Puttur",
+          "type": "artist",
+          "uri": "spotify:artist:2Zyl23xCN60m7WX7l04NRI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 358257,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1FUuamdcHnDH5lmsGW5Utm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1FUuamdcHnDH5lmsGW5Utm",
+      "id": "1FUuamdcHnDH5lmsGW5Utm",
+      "name": "Baala Belagidavanu",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1FUuamdcHnDH5lmsGW5Utm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Zyl23xCN60m7WX7l04NRI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Zyl23xCN60m7WX7l04NRI",
+          "id": "2Zyl23xCN60m7WX7l04NRI",
+          "name": "Salim Puttur",
+          "type": "artist",
+          "uri": "spotify:artist:2Zyl23xCN60m7WX7l04NRI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261643,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3t4GUV4Y8aCzD8Sphorjdr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3t4GUV4Y8aCzD8Sphorjdr",
+      "id": "3t4GUV4Y8aCzD8Sphorjdr",
+      "name": "Mari Byada Sirivantha",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3t4GUV4Y8aCzD8Sphorjdr",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 7
+}

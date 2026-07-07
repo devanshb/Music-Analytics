@@ -1,0 +1,292 @@
+{
+  "href": "https://api.spotify.com/v1/albums/1DzYor2sqKFs4Z6qcUl0V5/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PgeUFj9oHU4K4RGaITz2f",
+          "id": "3PgeUFj9oHU4K4RGaITz2f",
+          "name": "Paresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/79sho4jpEGoCCC51KHnNSJ",
+          "id": "79sho4jpEGoCCC51KHnNSJ",
+          "name": "Naresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 316986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6pf5fo5TRyimTOKSTZIP2t"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6pf5fo5TRyimTOKSTZIP2t",
+      "id": "6pf5fo5TRyimTOKSTZIP2t",
+      "name": "Bam Lahiri",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6pf5fo5TRyimTOKSTZIP2t",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PgeUFj9oHU4K4RGaITz2f",
+          "id": "3PgeUFj9oHU4K4RGaITz2f",
+          "name": "Paresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/79sho4jpEGoCCC51KHnNSJ",
+          "id": "79sho4jpEGoCCC51KHnNSJ",
+          "name": "Naresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 343906,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vR23BjIzpLMtzsyKrM6Mb",
+      "id": "2vR23BjIzpLMtzsyKrM6Mb",
+      "name": "Saiyyan",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2vR23BjIzpLMtzsyKrM6Mb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PgeUFj9oHU4K4RGaITz2f",
+          "id": "3PgeUFj9oHU4K4RGaITz2f",
+          "name": "Paresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/79sho4jpEGoCCC51KHnNSJ",
+          "id": "79sho4jpEGoCCC51KHnNSJ",
+          "name": "Naresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 294600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ItpXjV03ol0CSvlViig3r"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ItpXjV03ol0CSvlViig3r",
+      "id": "1ItpXjV03ol0CSvlViig3r",
+      "name": "Joban Chhalke",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1ItpXjV03ol0CSvlViig3r",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PgeUFj9oHU4K4RGaITz2f",
+          "id": "3PgeUFj9oHU4K4RGaITz2f",
+          "name": "Paresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/79sho4jpEGoCCC51KHnNSJ",
+          "id": "79sho4jpEGoCCC51KHnNSJ",
+          "name": "Naresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 308666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1uIA6cLwHt4lpY8YnuRlit"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1uIA6cLwHt4lpY8YnuRlit",
+      "id": "1uIA6cLwHt4lpY8YnuRlit",
+      "name": "Chhap Tilak",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1uIA6cLwHt4lpY8YnuRlit",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PgeUFj9oHU4K4RGaITz2f",
+          "id": "3PgeUFj9oHU4K4RGaITz2f",
+          "name": "Paresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/79sho4jpEGoCCC51KHnNSJ",
+          "id": "79sho4jpEGoCCC51KHnNSJ",
+          "name": "Naresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 389933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/76Hb0Dyy6kDcR3QEZwAycE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/76Hb0Dyy6kDcR3QEZwAycE",
+      "id": "76Hb0Dyy6kDcR3QEZwAycE",
+      "name": "Tere Naina",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:76Hb0Dyy6kDcR3QEZwAycE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PgeUFj9oHU4K4RGaITz2f",
+          "id": "3PgeUFj9oHU4K4RGaITz2f",
+          "name": "Paresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/79sho4jpEGoCCC51KHnNSJ",
+          "id": "79sho4jpEGoCCC51KHnNSJ",
+          "name": "Naresh Kamath",
+          "type": "artist",
+          "uri": "spotify:artist:79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 299320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1QD1DJNv76sjFXidaMZggA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1QD1DJNv76sjFXidaMZggA",
+      "id": "1QD1DJNv76sjFXidaMZggA",
+      "name": "Jhoomo Re",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1QD1DJNv76sjFXidaMZggA",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 6
+}

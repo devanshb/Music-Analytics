@@ -1,0 +1,253 @@
+{
+  "href": "https://api.spotify.com/v1/albums/1Tf6ptPRkEaiKaLW9xj1mE/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205653,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sStsAVowtyBfEVBX6FdBp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5sStsAVowtyBfEVBX6FdBp",
+      "id": "5sStsAVowtyBfEVBX6FdBp",
+      "name": "O Jogi",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5sStsAVowtyBfEVBX6FdBp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285769,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/41OVWIuyT2XLNSK2sEgRQR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/41OVWIuyT2XLNSK2sEgRQR",
+      "id": "41OVWIuyT2XLNSK2sEgRQR",
+      "name": "Vaari Vaari",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:41OVWIuyT2XLNSK2sEgRQR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 386058,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/65YfqzTlk41KV07wV9paxO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/65YfqzTlk41KV07wV9paxO",
+      "id": "65YfqzTlk41KV07wV9paxO",
+      "name": "Meharbani Teri",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:65YfqzTlk41KV07wV9paxO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4tY2WER6sW3LNdZrVXX3ov"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4tY2WER6sW3LNdZrVXX3ov",
+      "id": "4tY2WER6sW3LNdZrVXX3ov",
+      "name": "Berukhiyan",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4tY2WER6sW3LNdZrVXX3ov",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279232,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0wcYwfRtACn9Jt17BEeK4O"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0wcYwfRtACn9Jt17BEeK4O",
+      "id": "0wcYwfRtACn9Jt17BEeK4O",
+      "name": "Ishq Anokha",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0wcYwfRtACn9Jt17BEeK4O",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243214,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/60d8J8D7fKv2NZmTI4jIHE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/60d8J8D7fKv2NZmTI4jIHE",
+      "id": "60d8J8D7fKv2NZmTI4jIHE",
+      "name": "Siyah Tara",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:60d8J8D7fKv2NZmTI4jIHE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252900,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1cJc9Rtw8mXm6lbGN2Z1Yx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1cJc9Rtw8mXm6lbGN2Z1Yx",
+      "id": "1cJc9Rtw8mXm6lbGN2Z1Yx",
+      "name": "Guru Ghantaal",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1cJc9Rtw8mXm6lbGN2Z1Yx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241177,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ml7x0jJjHKkFzSQkBOQ29"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ml7x0jJjHKkFzSQkBOQ29",
+      "id": "7ml7x0jJjHKkFzSQkBOQ29",
+      "name": "Turiya Turiya",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7ml7x0jJjHKkFzSQkBOQ29",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "type": "artist",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243846,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2pp7HPv2rfNdDhCF5WPKip"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2pp7HPv2rfNdDhCF5WPKip",
+      "id": "2pp7HPv2rfNdDhCF5WPKip",
+      "name": "Vaari Vaari",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2pp7HPv2rfNdDhCF5WPKip",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 9
+}

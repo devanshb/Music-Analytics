@@ -1,0 +1,431 @@
+{
+  "href": "https://api.spotify.com/v1/albums/5AFf68gtvNgGLZarsyEEL8/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 274520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HmKTOTV4sxvQocdkDdb0u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HmKTOTV4sxvQocdkDdb0u",
+      "id": "3HmKTOTV4sxvQocdkDdb0u",
+      "name": "Give Life Back to Music (Drumless Edition)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3HmKTOTV4sxvQocdkDdb0u",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 322306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ji1dPNLh6c9mvK7XoNOjM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ji1dPNLh6c9mvK7XoNOjM",
+      "id": "5ji1dPNLh6c9mvK7XoNOjM",
+      "name": "The Game of Love (Drumless Edition)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5ji1dPNLh6c9mvK7XoNOjM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 545520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/30rdWWtFS20ROidDcitfHf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/30rdWWtFS20ROidDcitfHf",
+      "id": "30rdWWtFS20ROidDcitfHf",
+      "name": "Giorgio by Moroder (Drumless Edition)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:30rdWWtFS20ROidDcitfHf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/28ghWbRd3ZlaeYdKklfQDJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/28ghWbRd3ZlaeYdKklfQDJ",
+      "id": "28ghWbRd3ZlaeYdKklfQDJ",
+      "name": "Within (Drumless Edition)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:28ghWbRd3ZlaeYdKklfQDJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+          },
+          "href": "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+          "id": "1rAv1GhTQ2rmG94p9lU3rB",
+          "name": "Julian Casablancas",
+          "type": "artist",
+          "uri": "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 337400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jmKcUO1mjqU4uypiDvpny"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2jmKcUO1mjqU4uypiDvpny",
+      "id": "2jmKcUO1mjqU4uypiDvpny",
+      "name": "Instant Crush (Drumless Edition) (feat. Julian Casablancas)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2jmKcUO1mjqU4uypiDvpny",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 354400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0kad6OnJfgIEplpjja5jfl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0kad6OnJfgIEplpjja5jfl",
+      "id": "0kad6OnJfgIEplpjja5jfl",
+      "name": "Lose Yourself to Dance (Drumless Edition) (feat. Pharrell Williams)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0kad6OnJfgIEplpjja5jfl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3f626JSVauIhTQgatsFcs4",
+          "id": "3f626JSVauIhTQgatsFcs4",
+          "name": "Paul Williams",
+          "type": "artist",
+          "uri": "spotify:artist:3f626JSVauIhTQgatsFcs4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 499813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/64xYUSFAQhkXL9bWZfvgDV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/64xYUSFAQhkXL9bWZfvgDV",
+      "id": "64xYUSFAQhkXL9bWZfvgDV",
+      "name": "Touch (Drumless Edition) (feat. Paul Williams)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:64xYUSFAQhkXL9bWZfvgDV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yDIp0kaq9EFKe07X1X2rz",
+          "id": "3yDIp0kaq9EFKe07X1X2rz",
+          "name": "Nile Rodgers",
+          "type": "artist",
+          "uri": "spotify:artist:3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 369746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jyjdujFPnzqtCr3229yls"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2jyjdujFPnzqtCr3229yls",
+      "id": "2jyjdujFPnzqtCr3229yls",
+      "name": "Get Lucky (Drumless Edition) (ft. Pharrell Williams and Nile Rodgers)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2jyjdujFPnzqtCr3229yls",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 290333,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4MeKGdl7CImLdWxvjB9lTa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4MeKGdl7CImLdWxvjB9lTa",
+      "id": "4MeKGdl7CImLdWxvjB9lTa",
+      "name": "Beyond (Drumless Edition)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4MeKGdl7CImLdWxvjB9lTa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 341853,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/444SlMZ9mcxTHiB7J1H6IF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/444SlMZ9mcxTHiB7J1H6IF",
+      "id": "444SlMZ9mcxTHiB7J1H6IF",
+      "name": "Motherboard (Drumless Edition)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:444SlMZ9mcxTHiB7J1H6IF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MFopqejpmTUUZlcRmGzgg",
+          "id": "6MFopqejpmTUUZlcRmGzgg",
+          "name": "Todd Edwards",
+          "type": "artist",
+          "uri": "spotify:artist:6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279920,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6XRP3yOrS9tgLVwIOL5Oit"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6XRP3yOrS9tgLVwIOL5Oit",
+      "id": "6XRP3yOrS9tgLVwIOL5Oit",
+      "name": "Fragments of Time (Drumless Edition) (feat. Todd Edwards)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6XRP3yOrS9tgLVwIOL5Oit",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1R84VlXnFFULOsWWV8IrCQ",
+          "id": "1R84VlXnFFULOsWWV8IrCQ",
+          "name": "Panda Bear",
+          "type": "artist",
+          "uri": "spotify:artist:1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4wUZgNANjM4GqDJSOJkytV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4wUZgNANjM4GqDJSOJkytV",
+      "id": "4wUZgNANjM4GqDJSOJkytV",
+      "name": "Doin' it Right (Drumless Edition) (feat. Panda Bear)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4wUZgNANjM4GqDJSOJkytV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 381506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3RCYGIVLV33JCNwzMVyWMI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3RCYGIVLV33JCNwzMVyWMI",
+      "id": "3RCYGIVLV33JCNwzMVyWMI",
+      "name": "Contact (Drumless Edition)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3RCYGIVLV33JCNwzMVyWMI",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 13
+}
