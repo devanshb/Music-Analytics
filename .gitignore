@@ -1,2 +1,14 @@
 .venv
 .env
+__pycache__/
+.DS_Store
+
+# Invariant 13: secrets are never committed (tokens.json lands here on Day 1)
+secrets/*
+!secrets/.gitkeep
+
+# Personal data stays local — the GitHub remote is PUBLIC.
+# Harvester output (Day 2+) and GDPR backfill drop zone (Day 5+).
+data/raw/plays/
+data/backfill/*
+!data/backfill/.gitkeep

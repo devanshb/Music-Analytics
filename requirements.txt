@@ -1,0 +1,5 @@
+# Approved dependencies ONLY (CLAUDE.md invariant 14).
+# Adding anything here requires explicit discussion + an ADR first.
+requests
+python-dotenv
+psycopg[binary]
