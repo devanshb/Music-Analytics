@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Hourly harvester (ROADMAP D2). StartCalendarInterval (not StartInterval)
+     on purpose: runs missed while the laptop sleeps coalesce into ONE catch-up
+     run at wake - exactly what a 50-play ring buffer needs. RunAtLoad gives a
+     run at login too.
+     Install:
+       cp ops/com.devansh.music-analytics.harvester.plist ~/Library/LaunchAgents/
+       launchctl load ~/Library/LaunchAgents/com.devansh.music-analytics.harvester.plist -->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.devansh.music-analytics.harvester</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/devansh/Projects/SpotifyAPI/Music-Analytics/.venv/bin/python</string>
+        <string>-m</string>
+        <string>src.ingest.harvester</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/devansh/Projects/SpotifyAPI/Music-Analytics</string>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/Users/devansh/Projects/SpotifyAPI/Music-Analytics/logs/harvester.log</string>
+    <key>StandardErrPath</key>
+    <string>/Users/devansh/Projects/SpotifyAPI/Music-Analytics/logs/harvester.err.log</string>
+</dict>
+</plist>

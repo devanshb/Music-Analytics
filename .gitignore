@@ -12,3 +12,8 @@ secrets/*
 data/raw/plays/
 data/backfill/*
 !data/backfill/.gitkeep
+
+# Runtime artifacts
+logs/*
+!logs/.gitkeep
+data/state/

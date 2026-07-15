@@ -56,6 +56,11 @@ banned answer shape; every answer names the tradeoff. Status: ☐ drafted only /
 - ☐ Q34 Five authorized users forever — why sink months into a platform that capped you? (the cap is why the data moat matters; multi-user was never the value)
 - ☐ Q35 What would you cut if you had to ship in 3 days instead of 14? (harvester + raw + minimal loader; everything else is replayable later — the answer IS the thesis)
 
+## Harvester & capture (G1)
+- ☐ Q38 Your "kill test" was `rm watermark.json`, not a real SIGKILL mid-run. Defend the equivalence. (The crash window that matters is AFTER raw append succeeds / BEFORE watermark advance — deleting the watermark reproduces exactly that state; live rerun proved 44→88 lines, duplicates-not-loss, same watermark. The write-ordering itself is pinned by a unit test that persists-then-fails and asserts the watermark never advanced. A kill DURING the append is a different failure — Q39.)
+- ☐ Q39 A SIGKILL mid-append can tear the last JSONL line (buffered writes flush at buffer boundaries). Your loader throws on malformed lines — so a crash can halt the pipeline? (Honest: yes, and OPEN for D3. The tension: malformed-line ⇒ THROW (correctness > availability, Q08) vs invariant 1 (raw immutable — repair-by-editing-raw is banned). The refetched duplicate arrives complete on the next run, so no data is lost; the question is purely loader policy on the torn line. Resolve at D3 design, quantify the window (~one buffer flush per run), record the decision.)
+- ☐ Q40 Why launchd StartCalendarInterval + RunAtLoad, not StartInterval or cron? (StartCalendarInterval coalesces runs missed during sleep into ONE catch-up at wake; StartInterval silently skips them; macOS cron has no catch-up at all. RunAtLoad covers login. Honest limitation: nothing runs while the lid is closed — 3+ hours of phone listening against a sleeping laptop still overflows the 50-play buffer. That scenario is exactly why T0 (cloud harvester) exists.)
+
 ## Meta
 - ☐ Q36 You built this with AI executors. What did YOU do? (architecture, decisions, verification standards, every ADR; the gates exist because I distrust the executors — walk through one gate's evidence live)
 - ☐ Q37 Show me a decision the AI got wrong that you caught. (maintain a running list here — mandatory, at least 2 entries by GX: ______ )

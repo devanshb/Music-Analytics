@@ -38,9 +38,23 @@ stale — re-verify before depending on them.
 - Established gotchas (Stage 0, still true): pagination stops on EMPTY ITEMS
   (next/total unreliable); malformed IDs → 401 not 404; include_groups noise;
   release_date_precision varies ⇒ year = [:4] slice.
+- recently-played contract: GET /me/player/recently-played, scope
+  user-read-recently-played. Params: limit (default 20, max 50), after/before
+  (epoch MILLISECONDS, mutually exclusive). Response: items[] of
+  {track (full object incl. id/name/album/artists/duration_ms/explicit),
+  played_at (ISO-8601 UTC datetime), context}; cursors.{after,before}.
+  Endpoint does NOT return podcast episodes at all ⇒ the API tail is
+  music-only while the export includes podcasts — remember at D6
+  reconciliation. [2026-07-15 · reference/get-recently-played]
 
 ## GDPR Extended Streaming History (export)
 - Request at account privacy page; policy says ≤30 days, often hours–days.
+- ⚠ Filename collision between the TWO packages: the plain Account-data zip
+  contains `StreamingHistory_music_0.json` (LAST YEAR ONLY, fewer fields);
+  the Extended package contains `Streaming_History_Audio_<years>.json`
+  (lifetime). D5 must glob `Streaming_History_Audio_*.json` ONLY — the
+  similarly-named account-data file is a trap. [2026-07-15 · both zips in hand,
+  unpacked side-by-side in data/backfill/]
 - Zip of Streaming_History_*.json arrays. Two stream types documented:
   `end_song` and `end_video` ⇒ a Video file may exist alongside Audio; do NOT
   assume Audio-only. Verified against the export's own Read-Me on receipt.
